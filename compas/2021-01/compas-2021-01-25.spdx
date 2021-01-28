@@ -1,0 +1,3073 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_compas-2021-01-25.zip_1611688045.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-01-26T19:07:26Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: compas-2021-01-25.zip
+PackageFileName: compas-2021-01-25.zip
+SPDXID: SPDXRef-upload3251
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 5052560e2beb30e50ea2d4f9ebdb3aa19089fc23
+PackageChecksum: SHA1: 9f7fb053237688c61a6f51511f982e22f89e06f6
+PackageChecksum: MD5: 6df2c836d8eec62c8d3f1ee20566bbc0
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3251
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: compas-cim-mapping/src/main/java/org/lfenergy/compas/database/BaseXClient.java
+SPDXID: SPDXRef-item12706177
+FileChecksum: SHA1: 842d984f5a39c0567b22ad6dea5b0a0d67682720
+FileChecksum: MD5: 534555baa94ed88d0fdc46a944a2d0d7
+LicenseConcluded: Apache-2.0 AND LicenseRef-BSD
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> (C) BaseX Team 2005-20
+Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-architecture/blob-files/security_requirements_workshop.pdf/security_requirements_workshop
+SPDXID: SPDXRef-item12706521
+FileChecksum: SHA1: 51bd38b5239b37ce08dabcba8a5f8c77da194115
+FileChecksum: MD5: aee2ae0dc350095e7f6a252e551f29c2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> © 2019-2020 Alliander, GE, National Grid, OSIsoft, RTE, Schneider Electric, TenneT.
+© 2019-2020 Alliander, GE, National Grid, RTE, Schneider Electric, TenneT. </text>
+ 
+
+##File
+
+FileName: compas-architecture/public/css/hyde.css
+SPDXID: SPDXRef-item12706504
+FileChecksum: SHA1: c2189fa21282efd1d7dd28af74d29686d4852257
+FileChecksum: MD5: ebbc90a5b6ea2a698378bdc24bc25b17
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/public/css/poole.css
+SPDXID: SPDXRef-item12706505
+FileChecksum: SHA1: d4c8bf3844a984ce26b99e74d3750776a70782e2
+FileChecksum: MD5: 873c679adf2c9f354d10fcbfd3453cde
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/LICENSE
+SPDXID: SPDXRef-item12706498
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/LICENSES/Apache-2.0.txt
+SPDXID: SPDXRef-item12706260
+FileChecksum: SHA1: 313c0a37067265b444271406894115709e4ae632
+FileChecksum: MD5: ef3dabb8f39493f4ea410bebc1d01755
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradlew
+SPDXID: SPDXRef-item12706189
+FileChecksum: SHA1: 334a92f0e1887d2464d8f6c341eb2b28dbae8c79
+FileChecksum: MD5: fb557daa61b7cc5e522ec95dd7548122
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright 2015 the original author or authors.
+Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradlew.bat
+SPDXID: SPDXRef-item12706187
+FileChecksum: SHA1: 791457ddfd29b77ed7f1493f384d6204243accbb
+FileChecksum: MD5: ff2f4c8dca8529c0cdbeb87061484a49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: <text> Copyright 2015 the original author or authors.
+Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/docker/Dockerfile.fast-jar
+SPDXID: SPDXRef-item12706162
+FileChecksum: SHA1: 55ad50c6d9e43ab51a102e64b258b52b4bde04a1
+FileChecksum: MD5: a7beee10d0e967821d2d51dad8db991d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/test/java/org/lfenergy/compas/CompasResourceTest.java
+SPDXID: SPDXRef-item12706158
+FileChecksum: SHA1: 57c5b80defccd633f12635ee21000e50a230dde2
+FileChecksum: MD5: 99b35f9fd938bfe12fab7cfc13b0556d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/docker/Dockerfile.native
+SPDXID: SPDXRef-item12706163
+FileChecksum: SHA1: aff6fab73572e7e55c715c359d9be43db868b773
+FileChecksum: MD5: 702e37d1c702cb716a34cf1686badebf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/README.md
+SPDXID: SPDXRef-item12706151
+FileChecksum: SHA1: c5f83c97848bb5ad7505b72107736d5eec5ded46
+FileChecksum: MD5: 8a3e1610da360b5c0cb6a684436b9f06
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/resources/application.properties
+SPDXID: SPDXRef-item12706165
+FileChecksum: SHA1: 09dd0f79549cb1f00697c3c7135979cee4cb9851
+FileChecksum: MD5: fae737b7f83e3cc2234b0ead35062a83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/resources/META-INF/resources/index.html
+SPDXID: SPDXRef-item12706168
+FileChecksum: SHA1: fd3349c823ec36063e3928f0d848f8b6f74a9c27
+FileChecksum: MD5: 65d515e16d719696c187b8ecbf9cf333
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/docker/Dockerfile.jvm
+SPDXID: SPDXRef-item12706161
+FileChecksum: SHA1: 5a602e966e0d50551c27657235140ad04f76137b
+FileChecksum: MD5: f4500c25b30a9b2b92b49b2b6682b049
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/java/org/lfenergy/compas/service/DatabaseService.java
+SPDXID: SPDXRef-item12706174
+FileChecksum: SHA1: 3d760f495770921555bfe410d9246662124f1647
+FileChecksum: MD5: 7460f57ec2b564c4cbc3d76720c96f16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/java/org/lfenergy/compas/service/BaseXService.java
+SPDXID: SPDXRef-item12706175
+FileChecksum: SHA1: 82bc019d4731135410fbc3669c5a9963a5c1d111
+FileChecksum: MD5: ba6916d66fedc13d0696a7058ff6e702
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/native-test/java/org/lfenergy/compas/NativeGreetingResourceIT.java
+SPDXID: SPDXRef-item12706185
+FileChecksum: SHA1: 6bd0260f5b13e7980c13f11fdc5c1b3836c1f033
+FileChecksum: MD5: e04ee67d76568b632a8dfcda5b3a94f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/src/main/java/org/lfenergy/compas/resource/CompasResource.java
+SPDXID: SPDXRef-item12706179
+FileChecksum: SHA1: ae30c82f285a7a6a9c0ab4253618991c44c23373
+FileChecksum: MD5: e6a19a37d205801087cc83070404f07e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/settings.gradle
+SPDXID: SPDXRef-item12706188
+FileChecksum: SHA1: 602ca9716010fabd27527d00e656a2dab162c5b8
+FileChecksum: MD5: 8f6384df10e611bfb887c7ddd8bee33d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/build.gradle
+SPDXID: SPDXRef-item12706186
+FileChecksum: SHA1: bfc27ab0437e76049e66abe97d6cc4e2267aaf6d
+FileChecksum: MD5: 72b93c6eccb18bfffa6c71f09e86a20f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/.gitignore
+SPDXID: SPDXRef-item12706252
+FileChecksum: SHA1: 55f52736f2bfc9f3e404046a404e5a0badd4ecbe
+FileChecksum: MD5: e74b121d44c675c3ce8553e8b2042ef4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle.properties
+SPDXID: SPDXRef-item12706190
+FileChecksum: SHA1: 4665796ee92bcfbc9e02f9a4b386ae7fad615c1a
+FileChecksum: MD5: 867d98d10ed618d7ec998c4330bd7a58
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar.license
+SPDXID: SPDXRef-item12706251
+FileChecksum: SHA1: 6a0fc35b668eba0aeebb21f04f19be7438913c54
+FileChecksum: MD5: 3d0b2c960a34ed92ca306c7745528267
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/.github/codeql/codeql-config.yml
+SPDXID: SPDXRef-item12706255
+FileChecksum: SHA1: 1b8d16578be8ac2fe2062847ed95a5d3dde8a512
+FileChecksum: MD5: e4755142782e971a64c52c43758fca1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/.github/workflows/reuse.yml
+SPDXID: SPDXRef-item12706257
+FileChecksum: SHA1: 357b7df6fc0c68af05f427dcb1cd69bc27267a7d
+FileChecksum: MD5: aa538af23ad987b57bf590ef94238604
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/.github/workflows/compas-ci.yml
+SPDXID: SPDXRef-item12706258
+FileChecksum: SHA1: 883919cc5ab12e08c9b3ddfc1cd36b3b6df27daf
+FileChecksum: MD5: fe921ac1e63cbad91f48055475fcd6a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item12706193
+FileChecksum: SHA1: 921d1a1553a3a1b475d5622d49bfd589ceb2294a
+FileChecksum: MD5: 7a39c778a2af98689315ee5d62f5fe5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Alliander N.V. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/service/ISCDServiceTest.java
+SPDXID: SPDXRef-item12706427
+FileChecksum: SHA1: fcd21e968ed10172f2efbce5913d4c8d01e56f34
+FileChecksum: MD5: eb2e021213d10e4691ee537986743d01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/domain/ScdBomTest.java
+SPDXID: SPDXRef-item12706429
+FileChecksum: SHA1: 021e471c1fc5af992ba44b70ae2cfe70b3249867
+FileChecksum: MD5: d1c371247a0eca88cf8849b7ed433fe3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/testhelpers/DefaultSCDSQLRepository.java
+SPDXID: SPDXRef-item12706435
+FileChecksum: SHA1: 6763a110d79c9576ddb9198d066d437802f62efc
+FileChecksum: MD5: a613fb2f3f031a026f89c0065093847b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/service/ISCDServiceIntegrationTest.java
+SPDXID: SPDXRef-item12706426
+FileChecksum: SHA1: c8024f6ae360f3ce006083d97e54efd99dc40d92
+FileChecksum: MD5: 0f51ca26518ce2c04c6b704b151468a1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/testhelpers/SimpleSCDService.java
+SPDXID: SPDXRef-item12706433
+FileChecksum: SHA1: 3f8b526ebb8140ff900baf59282ac15135e3ddcc
+FileChecksum: MD5: bc866607f2ce91d2fdbc6ff23b2fb723
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/testhelpers/SimpleSCD.java
+SPDXID: SPDXRef-item12706434
+FileChecksum: SHA1: 11558ba369a8387b46b4817346f1f5dc8412ea25
+FileChecksum: MD5: 04956dee3b5f8512d737c4a044639cf0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/ApplicationTest.java
+SPDXID: SPDXRef-item12706436
+FileChecksum: SHA1: 66ee9eaf97040c1a1a936d552528a1a80e9b5c81
+FileChecksum: MD5: 27bb2c89bd1ec41e4797d294d551079c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/service/AbstractSCDService.java
+SPDXID: SPDXRef-item12706455
+FileChecksum: SHA1: 2932df38393141ac1bebc66988626884b2943e78
+FileChecksum: MD5: 8ed1842437b124c1eb19bf2d1b102a0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/commons/MarshallerWrapper.java
+SPDXID: SPDXRef-item12706459
+FileChecksum: SHA1: da4bcbc714c2866ba02cff2ad0470b4cfd3a1b3c
+FileChecksum: MD5: ebcdd8c1556ab472d660ce7d91664359
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/domain/ScdBom.java
+SPDXID: SPDXRef-item12706461
+FileChecksum: SHA1: 6fb4e40f5467882c0f0d645dfb0bf61648652d67
+FileChecksum: MD5: dda6428f93dfc288107543c00065d7ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/service/ISCDService.java
+SPDXID: SPDXRef-item12706456
+FileChecksum: SHA1: f78bf90c7894c8963131ad3ff57554cfc191306a
+FileChecksum: MD5: b937bbddb2dfb46ede8288473b55b01b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/commons/CommonConstants.java
+SPDXID: SPDXRef-item12706458
+FileChecksum: SHA1: 256eceffdc5234efe65389b94d8d5ace31526196
+FileChecksum: MD5: 3f0f73f91b14aaeed726136c77e6a975
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/domain/IScdBom.java
+SPDXID: SPDXRef-item12706463
+FileChecksum: SHA1: 595e9e7b3365a23df1ca0d0bd09bfb4dbce3c377
+FileChecksum: MD5: 3d1847a16048ffddeda9c4e625a9fe74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/domain/ScdBomPsql.java
+SPDXID: SPDXRef-item12706462
+FileChecksum: SHA1: 93f09ad1b434ec0786d5dd33ebf018b250e20185
+FileChecksum: MD5: 5d358dbbf621183561a600a866dbbd01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/repository/IScdCrudRepository.java
+SPDXID: SPDXRef-item12706470
+FileChecksum: SHA1: 867b43d1eb22bc6bbabc92d6d36a43e6b2e0a905
+FileChecksum: MD5: 2d4d81ff0336ab73e28dc5232a427420
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/config/JaxbConfiguration.java
+SPDXID: SPDXRef-item12706466
+FileChecksum: SHA1: 96242e3fb35ed03a96a20d63a24f8f29b95adfa6
+FileChecksum: MD5: 35d49a597e0a05d864212a73ffba9d7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/config/XSDFileProperties.java
+SPDXID: SPDXRef-item12706465
+FileChecksum: SHA1: 3a7a2761df488972a9461180bb69465e0a65c639
+FileChecksum: MD5: 4c6c5b1d2f12c43e4a0dcb4d179d4fc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/exception/ScdException.java
+SPDXID: SPDXRef-item12706468
+FileChecksum: SHA1: 44a00fc1b82be78eb11aab9fc833f42f52c88cce
+FileChecksum: MD5: 4f4f4c7f149784b4fe8f2cd59144b404
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/repository/PostgreSqlXmlDialect.java
+SPDXID: SPDXRef-item12706471
+FileChecksum: SHA1: b629fe2e9e967dec7924465ed85dcb939a6bafc7
+FileChecksum: MD5: 0eda5d1adf7dcffb74c801378330fd92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/repository/IScdSQLCrudRepository.java
+SPDXID: SPDXRef-item12706472
+FileChecksum: SHA1: 5d0ff29ae473fc9c0daa39ba573b2b6cb8a7ea64
+FileChecksum: MD5: a78d92c59be47c3af867149df800cfea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/repository/PostgresXMLTypeMapper.java
+SPDXID: SPDXRef-item12706473
+FileChecksum: SHA1: 3da4f81a652825eae6ae32f4e552a6be75266f40
+FileChecksum: MD5: 34e167f9159e664e0c564a1249628032
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/java/org/lfenergy/compas/repository/SqlXmlTypeMapper.java
+SPDXID: SPDXRef-item12706474
+FileChecksum: SHA1: ceb1a74b38b81417d082b04914bc9b4e9267c1be
+FileChecksum: MD5: 6e7bb9c720a44e1861227575c24bcd0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 RTE FRANCE </text>
+ 
+
+##File
+
+FileName: contributing/CoMPAS Technical Charter 7-6-2020.pdf/CoMPAS Technical Charter 7-6-2020
+SPDXID: SPDXRef-item12706268
+FileChecksum: SHA1: 0a4ef67a284bca58b1aa09ce473d462ed81a924b
+FileChecksum: MD5: cc14a27dd94ce81b5f9bba6b9dff1946
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout17.xml
+SPDXID: SPDXRef-item12706295
+FileChecksum: SHA1: 8002a59d4e883f2b81fd79ad054ec1ff00b6e32a
+FileChecksum: MD5: b1be9d9c2aa001427a9dcf050f4b20ae
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide3.xml
+SPDXID: SPDXRef-item12706336
+FileChecksum: SHA1: 620f1bc4b1973767a07fd750dea567001cc95f1e
+FileChecksum: MD5: 0b67de9de643ea36bec8909917cb94dc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide5.xml
+SPDXID: SPDXRef-item12706334
+FileChecksum: SHA1: 3ff6d058c9273376ef85af0c9fe5d6a90672590a
+FileChecksum: MD5: e05154b80c09d943fc5f2162cef79682
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide4.xml
+SPDXID: SPDXRef-item12706340
+FileChecksum: SHA1: f3095ca6678d4899234b056bb5dcf9af772c0af9
+FileChecksum: MD5: 3e8d8a6016b4efd16642e84768a68112
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide7.xml
+SPDXID: SPDXRef-item12706335
+FileChecksum: SHA1: 218c895617cbc9c1e4c5f0fdfaf3a483fe4aeb0c
+FileChecksum: MD5: 32592c57c07d6d1319f2dfc5ed43287f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide14.xml
+SPDXID: SPDXRef-item12706338
+FileChecksum: SHA1: 088ba6197be79bd9e9d749f4ad5e01769f1994c1
+FileChecksum: MD5: c6921f682d614c35771b02ebb1cc4b31
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide9.xml
+SPDXID: SPDXRef-item12706337
+FileChecksum: SHA1: a0262c75aadfcd5c964cb78c3c76da26bd3082c3
+FileChecksum: MD5: 10256f1db0352025b44f434ca6b4ed25
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide8.xml
+SPDXID: SPDXRef-item12706339
+FileChecksum: SHA1: a3bc7b108bf3bf43f5986d07f36472b9650f9f2b
+FileChecksum: MD5: 6393e5086029fa587e7f6ef596cce35c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide12.xml
+SPDXID: SPDXRef-item12706363
+FileChecksum: SHA1: b5b891ae13f3f498d419657abfbf4384b2539488
+FileChecksum: MD5: d133c76ffe8da758520097d296dcc6cf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide17.xml
+SPDXID: SPDXRef-item12706360
+FileChecksum: SHA1: 4f2a6826d6b610fcd7d45a14438fc093e77329c8
+FileChecksum: MD5: 61f5287d7568fe61e560cc0038ad7790
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide10.xml
+SPDXID: SPDXRef-item12706365
+FileChecksum: SHA1: 9b1947fa16b135cb0b5f0c07626bd30d012f51de
+FileChecksum: MD5: 2c6744d5bbe89f4633e57f30a251b1f3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide13.xml
+SPDXID: SPDXRef-item12706367
+FileChecksum: SHA1: 9ce3c42dc6f0f318ce9b93ac2e50cb884d362bb0
+FileChecksum: MD5: 2b28224e5111db46c8f2c92dfa1ba4c5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide16.xml
+SPDXID: SPDXRef-item12706368
+FileChecksum: SHA1: 0bb71f435e566bd16b4a71f64a73cd8c8ababcbc
+FileChecksum: MD5: add6050a56dd95e87df43106235ed01a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/LICENSE
+SPDXID: SPDXRef-item12706271
+FileChecksum: SHA1: ea50605ca80f45e1cac988d15acfc06ff950b0d7
+FileChecksum: MD5: 2ab724713fdaf49e4523c4503bfd068d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/CONTRIBUTING.md
+SPDXID: SPDXRef-item12706262
+FileChecksum: SHA1: cc85876225f3adbe9f4d11a213aef5707de9a2dc
+FileChecksum: MD5: a69545e1611c4dbb9584ce1c91021c28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-sct/LICENSE
+SPDXID: SPDXRef-item12706482
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/LICENSE
+SPDXID: SPDXRef-item12706477
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-parameter-names.properties
+SPDXID: SPDXRef-item12706197
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item12706201
+FileChecksum: SHA1: 9c060f1d1f3b0f50c165941fa8edd76a8d33e99f
+FileChecksum: MD5: 2db0851759c0768b579efa3b7b1571b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item12706202
+FileChecksum: SHA1: 4b5690e4b73a127789dc83bbc8e1bc3e499030a8
+FileChecksum: MD5: 834adc5447f38f639031d436f3b06289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item12706203
+FileChecksum: SHA1: 2fc9039aef600c275a3d475880ae1375c1b123cf
+FileChecksum: MD5: f181213b3a8822e4667875ded438f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item12706204
+FileChecksum: SHA1: eef7086a2a9b1b3cb706ec4a10cc99f106d7b503
+FileChecksum: MD5: 775df20b44e30b76a25d53958324e8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item12706205
+FileChecksum: SHA1: 05e55d09799cb3a6440135b1165bfd6812c2afd7
+FileChecksum: MD5: 98334bfd59e357404a5acb37ac440c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item12706206
+FileChecksum: SHA1: d8506a68a45dba9af8efc55da300a27c2c418236
+FileChecksum: MD5: 8a97f545c713dd4daac45f1e4a79118a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item12706207
+FileChecksum: SHA1: 7c161383a230cbb8c9487e5a81cafbb4deb95324
+FileChecksum: MD5: 8096c4ce0a266342893eba661c91784f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item12706208
+FileChecksum: SHA1: 1ea6a99b8c28a407394f169333e0b6cccc36088f
+FileChecksum: MD5: d747befd22991a2d8276805c83db1311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item12706209
+FileChecksum: SHA1: 2ca0219cde04346481cf07d0e2c422d2ac8bcc61
+FileChecksum: MD5: f66787a5e12f59cbee75076dd2db8f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item12706210
+FileChecksum: SHA1: 0db5902c567c07d61c0f78001e418f6a5f776929
+FileChecksum: MD5: 277fa532899a703d8b2ea74d55f00c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item12706211
+FileChecksum: SHA1: 1deec7e8fe37d85a00cc9f5f53f047574fbf1e06
+FileChecksum: MD5: 487c06f6dbf506daef9d0c44ea677396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item12706212
+FileChecksum: SHA1: d374dfd77fa05c103c35e2e3a3bb931c71c87e1c
+FileChecksum: MD5: d002054aea31ddfc9d50cef4947fd537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item12706213
+FileChecksum: SHA1: baa3ae6c352ac19e4c0c844cb7e02bdf3d205df5
+FileChecksum: MD5: a63cb16cedfb493c78aebfe7ecd6101f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item12706214
+FileChecksum: SHA1: b8d615c5283ce6868ced7f7f900e0836c3df197d
+FileChecksum: MD5: 48e7b9c3210c2b8acad1e52401c52cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item12706215
+FileChecksum: SHA1: 0bf2e049008ddbe43018dd2bac05fe49d992d538
+FileChecksum: MD5: aca5ffc46110fc6573074cd31b2d81d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item12706216
+FileChecksum: SHA1: d8ff9633b52fd5989b8b14bd76d1ac80328ed776
+FileChecksum: MD5: dec104c8dc8b5208246968f45b20d31b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item12706217
+FileChecksum: SHA1: 9d5990da93ab9814779988771d0eb7bcca5ad0ef
+FileChecksum: MD5: 4ba2bcfffc0dbefa9a95515825d9590f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item12706218
+FileChecksum: SHA1: 8dacd3aa177653f4d9510cd25cda1ef0f058b79b
+FileChecksum: MD5: e86964eddf79f3af3878f26920202708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item12706219
+FileChecksum: SHA1: 10b209cc840edb3515115724b942bf28c0f4a500
+FileChecksum: MD5: 83634fe3358cddf6241f3cc9322cdc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item12706220
+FileChecksum: SHA1: e5da8c788f9e0d04f6a8b59c83b5d681c1572530
+FileChecksum: MD5: e25f7a5df2eb640fe4487df8b182b110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item12706221
+FileChecksum: SHA1: bdaec56bc5a96e3b7b07dc907ce419135ad6038c
+FileChecksum: MD5: fd4f17a502ae81fcf379cb79e2598704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item12706222
+FileChecksum: SHA1: 8bf3c018a7df678e35da50ea502e606f013ebbfb
+FileChecksum: MD5: 18afda22fde37ed9907dab367cbc5efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item12706223
+FileChecksum: SHA1: a3483e79d06ac6cc758cd833dee965fda7ea0a89
+FileChecksum: MD5: bac2d45857b386fc92687856d0950dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item12706224
+FileChecksum: SHA1: 54d1134b153d9199aa60bde18b129ba166588c7e
+FileChecksum: MD5: 843a3cda7eda915d393397b5adc310e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item12706226
+FileChecksum: SHA1: d8b3b27086297ccd16232f345cdaa39976b67c69
+FileChecksum: MD5: 9d8e7ef338fd267ad55020655229ae12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter$1.class
+SPDXID: SPDXRef-item12706227
+FileChecksum: SHA1: 2968b54251cb8defda1b732c901b3fceebc68716
+FileChecksum: MD5: 2bd853acbe0555391a6dbe0728e450e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item12706228
+FileChecksum: SHA1: 02b3654b22e162fe6e18a1d2042b1ae8a934d65e
+FileChecksum: MD5: 154db912d9051c021c9acd4dc042ed6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item12706229
+FileChecksum: SHA1: 16d52de7c21cde5e10a3ccb56bd4bb8f31b6cccf
+FileChecksum: MD5: 3659aa20fb4d874e17680a5bfc6452dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item12706230
+FileChecksum: SHA1: 982163a7ffa7162ef52ddc95456818729d7546c0
+FileChecksum: MD5: f5083aae06c9422366d780f85331649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item12706231
+FileChecksum: SHA1: 1a80d3b81cf7d3b77385b2039a7bbac62e480d65
+FileChecksum: MD5: 83cdf02725d952d29a40d92d69dc4af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item12706232
+FileChecksum: SHA1: fd4611788dd0fccfb96c6e39d82d698baecace47
+FileChecksum: MD5: 3cb3fc270160c81c675f57f84e30b8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item12706233
+FileChecksum: SHA1: 3414639f7980269c422d73433ffe5443cd207e8f
+FileChecksum: MD5: 606c9d4d9392ce9f08a0bd9f7f82d1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item12706234
+FileChecksum: SHA1: 1376cffcdf45a6eaf25cd7a51dc4defc4ed74086
+FileChecksum: MD5: b8bed11a856a8621b62f46716dc0b9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item12706235
+FileChecksum: SHA1: 2e4ebcac23731e555d386a158e56443e581db4c8
+FileChecksum: MD5: 1780855b6d5f67130993beef58a06552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item12706236
+FileChecksum: SHA1: f2947e18cb0dcda8415c566e56195e3605c0e346
+FileChecksum: MD5: a59b56d540759e634fda141a235c84d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item12706237
+FileChecksum: SHA1: 69cfcb1953956226a0993da777f81ef208e58a25
+FileChecksum: MD5: 1f35a5ec6d325a3e1f25e13be345aadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item12706238
+FileChecksum: SHA1: 620bae39e98fa2cd69f99880d6ec649a1874a3e5
+FileChecksum: MD5: 1b01fd28fc454620df79c859bc039750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item12706239
+FileChecksum: SHA1: 5f4b6a77444fdc276bd3fc6f6bd5bb40fe4afc75
+FileChecksum: MD5: 7a345abd2c992345194cf1e500f4e06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item12706240
+FileChecksum: SHA1: 74a71a86bb418333d8dddc738fa3ee6c1cde84ca
+FileChecksum: MD5: 88eb80c462eefcb609718ffa6eaac32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$InstallCheck.class
+SPDXID: SPDXRef-item12706241
+FileChecksum: SHA1: 114840abb68bc32b263da44c10ad9493e5be85ad
+FileChecksum: MD5: eea64f576356eec33871f4e27e3fabc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$DefaultDownloadProgressListener.class
+SPDXID: SPDXRef-item12706242
+FileChecksum: SHA1: 08ebd76ee879751cd2826975afe35099bdb1cdb9
+FileChecksum: MD5: a687d6a546e2bb141edca648db44e670
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item12706243
+FileChecksum: SHA1: 399adab73d34700613b77225452f18ee6c5a34bf
+FileChecksum: MD5: 3397f9e0b07f88189c877cd321bb67fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item12706244
+FileChecksum: SHA1: 7f2696ede2536874ca3e6ab30949711feca579e2
+FileChecksum: MD5: e5c824419dadde8bd355f460f4d4ed25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item12706245
+FileChecksum: SHA1: 1c6fe39989c7ed3c749c834b05008dedd2dc0c54
+FileChecksum: MD5: 53a1ddcd7d63e0d92bc6c175552c3800
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item12706246
+FileChecksum: SHA1: 96ce60b4ff011a1607d435d3c494c64c38f15574
+FileChecksum: MD5: af4589871a681c9e2d05bf70b08052be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/gradle-cli-parameter-names.properties
+SPDXID: SPDXRef-item12706247
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item12706249
+FileChecksum: SHA1: 240e3bcf966c65534fc2d9fbf9502bb36f843f89
+FileChecksum: MD5: 0d3a8708bdea53bc771745759d5dbf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-cim-mapping/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item12706250
+FileChecksum: SHA1: 7cd25e28b1f4b5024d5026b7c572760d47ce7e10
+FileChecksum: MD5: d64d3518bd04e47f2fce0fd9e7e755fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/presentations/CoMPAS - CEATI presentation 17 November 2020 Sander Jansen.PPTX
+SPDXID: SPDXRef-item12706264
+FileChecksum: SHA1: 9a56b38282ae153f02bc973fa8ede5ba938bd2f7
+FileChecksum: MD5: 28fa0a14acc178f11dc8891bd5e55b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/README.md
+SPDXID: SPDXRef-item12706265
+FileChecksum: SHA1: d7c773f56ae85ef11d9b5e8f37462573bcba3cc3
+FileChecksum: MD5: e6f1d14b01cb8b0c108fe7e2cf7365bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS functional block diagram v1.svg
+SPDXID: SPDXRef-item12706270
+FileChecksum: SHA1: 14d646574cf082b31c8a6eba27b2c9d5e1a1ab35
+FileChecksum: MD5: c1db16d34aa71c41dc6b46ab69c412cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/_rels/.rels
+SPDXID: SPDXRef-item12706276
+FileChecksum: SHA1: 2af30b77413a1c603a5289139ca2ceab4e163906
+FileChecksum: MD5: 72b19ea7ea22c10ed566ca1a549047fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/notesSlide4.xml
+SPDXID: SPDXRef-item12706279
+FileChecksum: SHA1: d0c4c3195b51a7745c14623517d40cf9e984bdae
+FileChecksum: MD5: ec1d2fed5848d2434a5c331c489b470a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/notesSlide2.xml
+SPDXID: SPDXRef-item12706280
+FileChecksum: SHA1: 5f55663ec94897c743bc710c8b4b6aa2a5db2718
+FileChecksum: MD5: 8b9671200b195225f4680b658eb088b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/_rels/notesSlide4.xml.rels
+SPDXID: SPDXRef-item12706282
+FileChecksum: SHA1: 3d94348eab0b011ebe409b99a5ff19d7b002986b
+FileChecksum: MD5: f38421c616e67241b594b902dc02253a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/_rels/notesSlide2.xml.rels
+SPDXID: SPDXRef-item12706283
+FileChecksum: SHA1: 08ba46e7638f9e79f4b087e88c956a99e60d34d5
+FileChecksum: MD5: 9f1800bc2faa1ad5d0a9f6a37f2e55bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/_rels/notesSlide1.xml.rels
+SPDXID: SPDXRef-item12706284
+FileChecksum: SHA1: 69a62170b37a48d6000292324eff5d67617e9a59
+FileChecksum: MD5: dce6282add266bf7c881ed12a24443dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/_rels/notesSlide3.xml.rels
+SPDXID: SPDXRef-item12706285
+FileChecksum: SHA1: 72e908dd2c555f2bb0af47c6f7c9cae896be5c06
+FileChecksum: MD5: 94c0aeef1c3bcfaec42c1a43314eb3a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/notesSlide1.xml
+SPDXID: SPDXRef-item12706286
+FileChecksum: SHA1: feec1bdd827abce4c2ee11c5ad159f1e7f602321
+FileChecksum: MD5: f37ffc902ff2797ac3a95dd713c102ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesSlides/notesSlide3.xml
+SPDXID: SPDXRef-item12706287
+FileChecksum: SHA1: b18721da8c474a64cdcfb9e82cfde19461e3cb02
+FileChecksum: MD5: 746c6d2e77e1ffbdc0ce25a8f2127d9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout11.xml
+SPDXID: SPDXRef-item12706289
+FileChecksum: SHA1: 89e0d4d927e7e7777a134e09cd41f6d2eed94b29
+FileChecksum: MD5: de48372ec9dd894b000066ede7dccd97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout18.xml
+SPDXID: SPDXRef-item12706290
+FileChecksum: SHA1: 4bf4fdaea255784592f2868489d5b3343cb06eb8
+FileChecksum: MD5: c2011a4fe700a74d333f82746f1d1e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout16.xml
+SPDXID: SPDXRef-item12706291
+FileChecksum: SHA1: 418a4da370944e4e440039ce2afed12c0df16105
+FileChecksum: MD5: 56cb239e3ef948f04c634de325580263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout8.xml
+SPDXID: SPDXRef-item12706292
+FileChecksum: SHA1: 0ee44228c985bc02fe56eb70915cb3a4f8f8bbad
+FileChecksum: MD5: 071ac948dc27fd5fbb7c8ed4528ebd4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout7.xml
+SPDXID: SPDXRef-item12706293
+FileChecksum: SHA1: 77316386428a5d128c2a1bd022611c4a54dac048
+FileChecksum: MD5: 358717f0f23644718cff8121f19f8258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout9.xml
+SPDXID: SPDXRef-item12706294
+FileChecksum: SHA1: 951cc2af3f94df76b8023a3ab35d6c051c515199
+FileChecksum: MD5: 3d4b321ae42e912b2f9addcac7035d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout8.xml.rels
+SPDXID: SPDXRef-item12706297
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout15.xml.rels
+SPDXID: SPDXRef-item12706298
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout12.xml.rels
+SPDXID: SPDXRef-item12706299
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout1.xml.rels
+SPDXID: SPDXRef-item12706300
+FileChecksum: SHA1: 4a32571909eb677e096ae0f5dec69aa57f198009
+FileChecksum: MD5: 3158116a1377ae4dfb171697a8596131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout10.xml.rels
+SPDXID: SPDXRef-item12706301
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout14.xml.rels
+SPDXID: SPDXRef-item12706302
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout2.xml.rels
+SPDXID: SPDXRef-item12706303
+FileChecksum: SHA1: 4a32571909eb677e096ae0f5dec69aa57f198009
+FileChecksum: MD5: 3158116a1377ae4dfb171697a8596131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout16.xml.rels
+SPDXID: SPDXRef-item12706304
+FileChecksum: SHA1: e788513cc4769545679c2738e1cfbe261a51c2cf
+FileChecksum: MD5: c91e0ac70ac5eafee98ad1363efd2cf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout3.xml.rels
+SPDXID: SPDXRef-item12706305
+FileChecksum: SHA1: 1dbc0fcace37a72399d477d0640316eaac5bd9bd
+FileChecksum: MD5: 4323b3b197525a6c4824d2f132621240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout7.xml.rels
+SPDXID: SPDXRef-item12706306
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout6.xml.rels
+SPDXID: SPDXRef-item12706307
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout9.xml.rels
+SPDXID: SPDXRef-item12706308
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout5.xml.rels
+SPDXID: SPDXRef-item12706309
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout11.xml.rels
+SPDXID: SPDXRef-item12706310
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout4.xml.rels
+SPDXID: SPDXRef-item12706311
+FileChecksum: SHA1: bffee822aba8207fd325f202898b2a08e2a750e6
+FileChecksum: MD5: c660628aa4754f345c950f1087cea442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout18.xml.rels
+SPDXID: SPDXRef-item12706312
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout13.xml.rels
+SPDXID: SPDXRef-item12706313
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/_rels/slideLayout17.xml.rels
+SPDXID: SPDXRef-item12706314
+FileChecksum: SHA1: 11141e6d5cb8fdb8d10cb49e35a99b62fb7b297b
+FileChecksum: MD5: b8bf4b759e64cff54025d7c6a7215d5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout6.xml
+SPDXID: SPDXRef-item12706315
+FileChecksum: SHA1: 74ae7bec4457c6a6dc1b495f1741951f0ab127f1
+FileChecksum: MD5: 327fcb92c8e2fe086d047d63b386136d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout1.xml
+SPDXID: SPDXRef-item12706316
+FileChecksum: SHA1: 3c5eac12d64e715cf52e6587861cc1e7fc72b288
+FileChecksum: MD5: ac7b1d324e0f385b0fcd18a67e349604
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout3.xml
+SPDXID: SPDXRef-item12706317
+FileChecksum: SHA1: 0348dc0ec3ec86308d90e4bf31a1bf1313025405
+FileChecksum: MD5: f11498d55a3771369d4858a49bd7d56b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout14.xml
+SPDXID: SPDXRef-item12706318
+FileChecksum: SHA1: 87423bbc5ad36ac2911657900195f0d988bfece1
+FileChecksum: MD5: 514c7b852437d95cb55e4cc7700eda1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout5.xml
+SPDXID: SPDXRef-item12706319
+FileChecksum: SHA1: 78e0195566fc4ab661af63055c36ebd2073715fb
+FileChecksum: MD5: d821752bb3199cca0143185d8c34e602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout2.xml
+SPDXID: SPDXRef-item12706320
+FileChecksum: SHA1: 7e082487e768c481990a64079daa43a2d271964d
+FileChecksum: MD5: c289aa1dd86ecacbf3dca4130e95c4e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout15.xml
+SPDXID: SPDXRef-item12706321
+FileChecksum: SHA1: 6b45a1ba5c8f66957fcab673022ee6bea0683f3f
+FileChecksum: MD5: 4188bbec46d4265688fdc5d87ddf3d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout10.xml
+SPDXID: SPDXRef-item12706322
+FileChecksum: SHA1: c12c9ceda36094684f20de39834f84a6a36de75a
+FileChecksum: MD5: c74dfcb15f145fa5165170eb203de810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout4.xml
+SPDXID: SPDXRef-item12706323
+FileChecksum: SHA1: e7555023ae0e6d94e47b19ac6d2f37e2e6568d2b
+FileChecksum: MD5: feb0a00df358968db7f3263600d8d402
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout13.xml
+SPDXID: SPDXRef-item12706324
+FileChecksum: SHA1: 611800e842f467afd7bdb91cfd80a8840ed9de81
+FileChecksum: MD5: 879223567670814fbd06936c5d181a8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideLayouts/slideLayout12.xml
+SPDXID: SPDXRef-item12706325
+FileChecksum: SHA1: 87ece2e64b5595be6791c0a964d432c759b07498
+FileChecksum: MD5: 2b89d5ad3f1c14c1c56e174c3cd5f47f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideMasters/slideMaster1.xml
+SPDXID: SPDXRef-item12706327
+FileChecksum: SHA1: c468f320891856bce81a79a9c4db4ca0174d082a
+FileChecksum: MD5: e2f367d46f13dac9f336ee2c748d1a62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slideMasters/_rels/slideMaster1.xml.rels
+SPDXID: SPDXRef-item12706329
+FileChecksum: SHA1: 1e237a579031893312cfe298cce1f1d6740c8f68
+FileChecksum: MD5: 8d03c93bfbeabf429dc10ca13e301ed2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/theme/theme2.xml
+SPDXID: SPDXRef-item12706331
+FileChecksum: SHA1: 23ee08505db75f813ba30d4a2481ae2807c70b9e
+FileChecksum: MD5: f84f18f93346e3568a36f08c0702a7e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/theme/theme1.xml
+SPDXID: SPDXRef-item12706332
+FileChecksum: SHA1: c71d0ee526dbdf75b7f039a21ae84c3902250c7f
+FileChecksum: MD5: 10f366ca0a3ba6be8152f18937717f4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide6.xml
+SPDXID: SPDXRef-item12706341
+FileChecksum: SHA1: 9758886a4c69772d59c45706c697105c3b9efad3
+FileChecksum: MD5: 514fbfcee7f6d03d41bcf9a8a841ae73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide17.xml.rels
+SPDXID: SPDXRef-item12706343
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide10.xml.rels
+SPDXID: SPDXRef-item12706344
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide7.xml.rels
+SPDXID: SPDXRef-item12706345
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide15.xml.rels
+SPDXID: SPDXRef-item12706346
+FileChecksum: SHA1: ddc1936f702fe58167b924baa6c3ab3e968c7dde
+FileChecksum: MD5: fce314e6181f649eee1051ca217b94ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide14.xml.rels
+SPDXID: SPDXRef-item12706347
+FileChecksum: SHA1: 71a76348e2db8fbe0911f630a50e334c66bb70dd
+FileChecksum: MD5: 37b4e0fd6e0692289e5d1cb204272be4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide5.xml.rels
+SPDXID: SPDXRef-item12706348
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide3.xml.rels
+SPDXID: SPDXRef-item12706349
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide9.xml.rels
+SPDXID: SPDXRef-item12706350
+FileChecksum: SHA1: 13263ff221f2b64665b6f9e89203ffbe776143a7
+FileChecksum: MD5: 8ac9d9c13a871e205b994b3277338f24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide6.xml.rels
+SPDXID: SPDXRef-item12706351
+FileChecksum: SHA1: ddc1936f702fe58167b924baa6c3ab3e968c7dde
+FileChecksum: MD5: fce314e6181f649eee1051ca217b94ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide13.xml.rels
+SPDXID: SPDXRef-item12706352
+FileChecksum: SHA1: f9d1f3754c7823f3e923561553343b966083e840
+FileChecksum: MD5: d7f1ff7132505c8cca1487d99bd2a101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide4.xml.rels
+SPDXID: SPDXRef-item12706353
+FileChecksum: SHA1: 4d81fa419be513d5c9531f7a96e8ea3f0b9336df
+FileChecksum: MD5: e3ff96cc9ce5640b823430c6ab391316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide11.xml.rels
+SPDXID: SPDXRef-item12706354
+FileChecksum: SHA1: ddc1936f702fe58167b924baa6c3ab3e968c7dde
+FileChecksum: MD5: fce314e6181f649eee1051ca217b94ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide12.xml.rels
+SPDXID: SPDXRef-item12706355
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide8.xml.rels
+SPDXID: SPDXRef-item12706356
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide2.xml.rels
+SPDXID: SPDXRef-item12706357
+FileChecksum: SHA1: ddc1936f702fe58167b924baa6c3ab3e968c7dde
+FileChecksum: MD5: fce314e6181f649eee1051ca217b94ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide1.xml.rels
+SPDXID: SPDXRef-item12706358
+FileChecksum: SHA1: 479a78bc7ac512d0f0edcc6290cbd0ca0154308c
+FileChecksum: MD5: cec32c0ab6c36583fb8dbc7f05423ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/_rels/slide16.xml.rels
+SPDXID: SPDXRef-item12706359
+FileChecksum: SHA1: 76e5248c1d3dfd255079c5290988822d7d5de458
+FileChecksum: MD5: 8327c12962a6ff981d3efca015a9599f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide11.xml
+SPDXID: SPDXRef-item12706361
+FileChecksum: SHA1: 1d32d279a9ee3a08506e920b7350c4879a8a04c6
+FileChecksum: MD5: 548405bfd70129db4fdde59170e4d389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide2.xml
+SPDXID: SPDXRef-item12706362
+FileChecksum: SHA1: f0a0920370eace276810901aff59c2f760a4eb14
+FileChecksum: MD5: 5b417404510d83bfdeac76a6b509a895
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide15.xml
+SPDXID: SPDXRef-item12706364
+FileChecksum: SHA1: 95afbfa665dcba9cb1797d2939e379cf8b39cbf0
+FileChecksum: MD5: bc4f03ef7b1d2e01ed3c36fc239dbaea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/slides/slide1.xml
+SPDXID: SPDXRef-item12706366
+FileChecksum: SHA1: 7464cfe1d11a1ee2845b29bfed18c57019ae3d59
+FileChecksum: MD5: 31bae9bcbc3ecb58c9e13c6aa0699ba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/presentation.xml
+SPDXID: SPDXRef-item12706369
+FileChecksum: SHA1: 5cd985438d553811174dc05d4171d8a1e0e65094
+FileChecksum: MD5: cc61e949281b46d9c1a82e968b0d4110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/viewProps.xml
+SPDXID: SPDXRef-item12706370
+FileChecksum: SHA1: 5d13945f59ca547322255b5c2d26e8af1424c0ca
+FileChecksum: MD5: 5dd9574fbe94f4e251e01aa63103ecdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/presProps.xml
+SPDXID: SPDXRef-item12706371
+FileChecksum: SHA1: 318693e8242d951ef89d7e3f5e15eeb84cba48b5
+FileChecksum: MD5: 5e5a5aab9f55941427c522718037cb22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/_rels/presentation.xml.rels
+SPDXID: SPDXRef-item12706373
+FileChecksum: SHA1: 966eb8162fbaad0862aeeea1fdc650d5a615aa6e
+FileChecksum: MD5: 74236a44f2c9507d3a984fce64a55fdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/tableStyles.xml
+SPDXID: SPDXRef-item12706374
+FileChecksum: SHA1: b5d388b7119ec21dec2ac3f70248b33b15d25848
+FileChecksum: MD5: 38a210ae55c074fa6e4cdfe5dbfdd641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesMasters/_rels/notesMaster1.xml.rels
+SPDXID: SPDXRef-item12706377
+FileChecksum: SHA1: fc31a6459b2bbe727f95b42a80fd55fac0112ee1
+FileChecksum: MD5: deff7f985c397efa0b803ea4f954efd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/notesMasters/notesMaster1.xml
+SPDXID: SPDXRef-item12706378
+FileChecksum: SHA1: 11440d024f913b6917c47c0fc19fb55b35bd3c23
+FileChecksum: MD5: bb20c90c1a6a4c2cd8d5bcca0b4db261
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image10.png
+SPDXID: SPDXRef-item12706380
+FileChecksum: SHA1: 0a294c2296b1bb246ea0def86a31dc81f2a483ce
+FileChecksum: MD5: f1667c08046cc3edc1fe0e82f3fbf0b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image13.png
+SPDXID: SPDXRef-item12706381
+FileChecksum: SHA1: dbac1b3e9d9c331d82ca6bdca78972441604d8e3
+FileChecksum: MD5: f7717b711ebca72fd3a1e1afebaacd90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image7.png
+SPDXID: SPDXRef-item12706382
+FileChecksum: SHA1: fa5236a625d692a4b7f9c7de6146b29d7cb785b2
+FileChecksum: MD5: d182c0353fd966248081fc8e9ee2b418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image9.png
+SPDXID: SPDXRef-item12706383
+FileChecksum: SHA1: d52d516b0350a25b4b4ebaa71652a6beb623b78a
+FileChecksum: MD5: 195bde77ff9f1ef759abbb9d28a83951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image1.png
+SPDXID: SPDXRef-item12706384
+FileChecksum: SHA1: f39d81b967f0562750779c134770a61b5774df74
+FileChecksum: MD5: 6797cb665b53cb8b542299585b22e2d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image12.png
+SPDXID: SPDXRef-item12706385
+FileChecksum: SHA1: a8291b09be554ecdc10c23579031ebe337f7d9d8
+FileChecksum: MD5: 608a9ac42bbd6477d6b3e226becefe23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image8.png
+SPDXID: SPDXRef-item12706386
+FileChecksum: SHA1: bdd053079004991bad8585890c886b19e830dd63
+FileChecksum: MD5: eee1e934cc1e77194f327db50a6cbdca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image14.png
+SPDXID: SPDXRef-item12706387
+FileChecksum: SHA1: fb94cd4a177e1ec390981743b8e285c4ab615078
+FileChecksum: MD5: 87eac65bbbf11ea0214fddbe04dc066c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image6.png
+SPDXID: SPDXRef-item12706388
+FileChecksum: SHA1: 76d3480054474b068d85684ed61c9dc2f6ce7399
+FileChecksum: MD5: b68a1e2947d139070a63ca5ef94733ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image4.png
+SPDXID: SPDXRef-item12706389
+FileChecksum: SHA1: 0c97aa907e8ec0f3963426ff0cfd0de6e2722990
+FileChecksum: MD5: 1fbbf5f271da801e6f825f55b01ceada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image5.png
+SPDXID: SPDXRef-item12706390
+FileChecksum: SHA1: 47112469ec7f02d20770a30008c1ae5073a24a92
+FileChecksum: MD5: e8d0f7b2974f9fa7a2f2aa7b0ca25ea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image3.jpeg
+SPDXID: SPDXRef-item12706391
+FileChecksum: SHA1: 3885ba513e237a9e781790d8c75af10bbf303ca3
+FileChecksum: MD5: 896fd92d532e45f5f0ab2bc2b2c2a64e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image11.png
+SPDXID: SPDXRef-item12706392
+FileChecksum: SHA1: 3342f473f30f5d925d351a9d1049b8e8ccd6ec19
+FileChecksum: MD5: b9b868893768f27e9bb8ba89e11e9da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/media/image2.png
+SPDXID: SPDXRef-item12706393
+FileChecksum: SHA1: 1a06da036f5d1a844707697864d29dead5ceca69
+FileChecksum: MD5: 53374c92680285ae3365ba0322759b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/changesInfos/changesInfo1.xml
+SPDXID: SPDXRef-item12706395
+FileChecksum: SHA1: bd64b086cd6eefa874a7a519d02960e6b10d71de
+FileChecksum: MD5: 8671d61506e27ab63b59cf89be1b90fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/ppt/commentAuthors.xml
+SPDXID: SPDXRef-item12706396
+FileChecksum: SHA1: 08dd95c01d6702478334790ba9fbaba88bb9a7bc
+FileChecksum: MD5: fec256292ff8c36ae75f8944c022c113
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/docProps/thumbnail.jpeg
+SPDXID: SPDXRef-item12706398
+FileChecksum: SHA1: 04daf0248afc3e2955b3da9141d1a8fd6f3afe87
+FileChecksum: MD5: bb44dab0b35ff5806228879da5a6ddc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/docProps/app.xml
+SPDXID: SPDXRef-item12706399
+FileChecksum: SHA1: f1f6fa46d4410da3fe33fb2ab2f88b97d4d16613
+FileChecksum: MD5: 23e07fd41e04fb02439e3ffc6e2d224f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/docProps/core.xml
+SPDXID: SPDXRef-item12706400
+FileChecksum: SHA1: 28194ec20e5771dddc5745deecfa7d278d3a01ea
+FileChecksum: MD5: 40d4c5b6dd81a8e4b7f28cab5d88bdb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/docProps/custom.xml
+SPDXID: SPDXRef-item12706401
+FileChecksum: SHA1: b09352a6cdd0729e0beb758abd9f7c7da6519625
+FileChecksum: MD5: c224b80749cda8d3f6d45f3f500d42dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/[Content_Types].xml
+SPDXID: SPDXRef-item12706402
+FileChecksum: SHA1: d1504e5c6aa5ded30993f13d2bb1a5cc9dbeb89b
+FileChecksum: MD5: 81ee41c2cc69ddf643318f3579f3cbff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/itemProps3.xml
+SPDXID: SPDXRef-item12706404
+FileChecksum: SHA1: d391b0c63e1a169563c955f1a317b037508e2db0
+FileChecksum: MD5: 0c4ce88c97dc2c11808a81a99b729204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/itemProps2.xml
+SPDXID: SPDXRef-item12706405
+FileChecksum: SHA1: dccc0c35e6c240679d7c093ae67e230e442cb4de
+FileChecksum: MD5: d240dfc42090554f6f6cc97cca1ffbf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/item1.xml
+SPDXID: SPDXRef-item12706406
+FileChecksum: SHA1: 6e9948122d2f1fcd917c7e8d4acb7f359cd8f1e2
+FileChecksum: MD5: 5eca9e027b94e6cd1bc64f2a06dcee92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/itemProps1.xml
+SPDXID: SPDXRef-item12706407
+FileChecksum: SHA1: d42dfaefcc96858d07d88703e47455a513d7d378
+FileChecksum: MD5: 2d43a1876ba2ca0caac9721e18203b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/_rels/item2.xml.rels
+SPDXID: SPDXRef-item12706409
+FileChecksum: SHA1: d12cc5a3b1f42132b034889d8f91a6bde9184091
+FileChecksum: MD5: 77a12d30469c03ac92cf25679f52e03a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/_rels/item3.xml.rels
+SPDXID: SPDXRef-item12706410
+FileChecksum: SHA1: 37b6d6cab6eba478a85038e84e86e2d4e771ff37
+FileChecksum: MD5: 95c5d5b6deffa8a25ac45e220c13d556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/_rels/item1.xml.rels
+SPDXID: SPDXRef-item12706411
+FileChecksum: SHA1: b770f3a79423882bdae4240e995c0885770022ef
+FileChecksum: MD5: 7e5e23715ab49ce56f9130d4c6534a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/item3.xml
+SPDXID: SPDXRef-item12706412
+FileChecksum: SHA1: 730f2f7ddd02b5c66c378964813172cb71bd6b2c
+FileChecksum: MD5: dbfacfd9cc7dd1719137ad57f3a154c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/roadmap-docs/CoMPAS Initial Roadmap - final version.pptx/customXml/item2.xml
+SPDXID: SPDXRef-item12706413
+FileChecksum: SHA1: 44e400cf95664c9cddc3b93e31b5f77ee7ba7531
+FileChecksum: MD5: b27c5442a04ea7d1eb9044f7a535028d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: contributing/ROADMAP.md
+SPDXID: SPDXRef-item12706414
+FileChecksum: SHA1: 775a9b280d537f66493f34c7f00e1fbc1dd1bc15
+FileChecksum: MD5: ade8cc16205646c557a76c97b86b8020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/resources/application-test.yml
+SPDXID: SPDXRef-item12706420
+FileChecksum: SHA1: f2592719d1acf7b3af042f2e019a269750387531
+FileChecksum: MD5: fac86684d18dce56de329c86f6435396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/core-service/src/test/java/org/lfenergy/compas/exception/ScdExceptionTest.java
+SPDXID: SPDXRef-item12706431
+FileChecksum: SHA1: af992b0d97deaab6c7e662c66e0d997bc7b7ef63
+FileChecksum: MD5: eccffe06602659dfed3beaa259e7680a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_BaseTypes.xsd
+SPDXID: SPDXRef-item12706440
+FileChecksum: SHA1: 476d7c8f4c73ab1d9f02679340897214895189bc
+FileChecksum: MD5: 3d87936f176457d30a94a2bb883172ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_Communication.xsd
+SPDXID: SPDXRef-item12706441
+FileChecksum: SHA1: 47d1408a050c55f88ae99ffb688cfd0ac32a3aaa
+FileChecksum: MD5: 70b03323e5a24199a31e7f2aa47172a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_Enums.xsd
+SPDXID: SPDXRef-item12706442
+FileChecksum: SHA1: cfc5da48495060b95fc207443cfdedb8552aae8b
+FileChecksum: MD5: 150e3cd255621a7e15c2170c0418906c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/RTE_SCL.xsd
+SPDXID: SPDXRef-item12706443
+FileChecksum: SHA1: 2ca6af8d30de9465c4b8dd32a6c4120a4b867c79
+FileChecksum: MD5: fb13e3a2917a43cdd328a9b862c3c56a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_DataTypeTemplates.xsd
+SPDXID: SPDXRef-item12706444
+FileChecksum: SHA1: a42cf32d6e65dbe36e735423663a2e1522bdb118
+FileChecksum: MD5: 6e085cfa94a82ca4cb52c3148700c023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_Substation.xsd
+SPDXID: SPDXRef-item12706445
+FileChecksum: SHA1: 541b323c4b8691a4b8a73e86ff325892414126a6
+FileChecksum: MD5: a590c9b6b9503bb0df30c5e736138708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL.xsd
+SPDXID: SPDXRef-item12706446
+FileChecksum: SHA1: 05ba19f9747d16bb26140d06b8e90dba363c3586
+FileChecksum: MD5: 27c06ec0f66b2e6a41b99dc77177fc42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_BaseSimpleTypes.xsd
+SPDXID: SPDXRef-item12706447
+FileChecksum: SHA1: 08572554237b00ed6bb30f5be97cec1fd68fc8d5
+FileChecksum: MD5: f4fa0895e7a9c3475a6227e3f2ef9e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/schema/SCL_IED.xsd
+SPDXID: SPDXRef-item12706448
+FileChecksum: SHA1: b8f30225a9e269703670d182c96519b2f76a23be
+FileChecksum: MD5: 9296df9882a946732a8c2a4eb3af2042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT (c) IEC, 2018. </text>
+ 
+
+##File
+
+FileName: compas-core/core-service/src/main/resources/application.yml
+SPDXID: SPDXRef-item12706449
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/core-service/pom.xml
+SPDXID: SPDXRef-item12706475
+FileChecksum: SHA1: a56c2bec4d754a59e19ceecad20ce70b2ee951dd
+FileChecksum: MD5: faa51e11bf8268aa5f0c4cb11de13968
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/README.md
+SPDXID: SPDXRef-item12706476
+FileChecksum: SHA1: f3cfab6005bfe3bbd08fdfed28236277cb32a48c
+FileChecksum: MD5: 34ffe4c8d09788daf45150e197d10724
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/.gitignore
+SPDXID: SPDXRef-item12706478
+FileChecksum: SHA1: 65672c5f1a76b610c66952521697a176431cc602
+FileChecksum: MD5: fa8b91cc2022c371e1f4bf8d7ab3d558
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-core/pom.xml
+SPDXID: SPDXRef-item12706479
+FileChecksum: SHA1: 77a05274a83f9b4eda896bffca1d27d9a5094659
+FileChecksum: MD5: 23913407af855723ba31d2e5bf8ce9b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-sct/README.md
+SPDXID: SPDXRef-item12706481
+FileChecksum: SHA1: 5d5c72969e9217bce87080075e2cc18521b271c2
+FileChecksum: MD5: 297c34b0c8496997a094c0edf9294fc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/GLOSSARY.md
+SPDXID: SPDXRef-item12706484
+FileChecksum: SHA1: 83a3956ba04fecc907736f112265fa0d63d45ad7
+FileChecksum: MD5: f77a09dd23ef505121d86821b9152598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_includes/git-logo.html
+SPDXID: SPDXRef-item12706486
+FileChecksum: SHA1: 2de37cc08ed41e68d8332a6a0a71320c161bba63
+FileChecksum: MD5: c8834abba47aa0ae7f565327368fbf8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_includes/head.html
+SPDXID: SPDXRef-item12706487
+FileChecksum: SHA1: 0bb184f556b8d28280e9ef942f6fb7ed98644baa
+FileChecksum: MD5: 94d79b2a7143c4976974d3b21aff7cd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_includes/sidebar.html
+SPDXID: SPDXRef-item12706488
+FileChecksum: SHA1: d4ee6065cb36b9672ddfd1841ec22d9f4258312c
+FileChecksum: MD5: 846aeeed4c23ff1c0e275843318040f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/README.md
+SPDXID: SPDXRef-item12706489
+FileChecksum: SHA1: fab570c6f2938bede123fa1924d8c614f990768d
+FileChecksum: MD5: 43b2f9d1326882efc7f76680d851ab61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/images/CoMPAS_technical_architecture_overview.svg
+SPDXID: SPDXRef-item12706491
+FileChecksum: SHA1: 261ded82502d877912e9071cd6d3a613b1ea02dc
+FileChecksum: MD5: 3b237ece06082d0bb5f93bf2254aab77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/images/Current_Technology_Choices_Overview.svg
+SPDXID: SPDXRef-item12706492
+FileChecksum: SHA1: f12f96a4a0aef72db9dc6f8de8819a59acadd08e
+FileChecksum: MD5: 4b9540de95e8d2f1263bc129bc38a257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/TECHNOLOGY_SURVEY.md
+SPDXID: SPDXRef-item12706493
+FileChecksum: SHA1: 81fe2c8d9055e57979e9baccc0f63cd89ca07b73
+FileChecksum: MD5: acb0c9bca6a186827f507a8c34c1322c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_config.yml
+SPDXID: SPDXRef-item12706494
+FileChecksum: SHA1: bb6a453736959a4af02c3d4e3b6f190ec10a5369
+FileChecksum: MD5: 9ef16a15ddbf5e42644a08719d57aa63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_layouts/default.html
+SPDXID: SPDXRef-item12706496
+FileChecksum: SHA1: 9cd2ebb514f00437277542e432119dc0c6b67dbe
+FileChecksum: MD5: a0ac72a15c3c9604106caee635758a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_layouts/page.html
+SPDXID: SPDXRef-item12706497
+FileChecksum: SHA1: bf294721f76e75ec70b0985ca54c932f4460f94b
+FileChecksum: MD5: 1409ef6e11332b52f68e8c818f59b08d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/public/LFEnergy-slack.svg
+SPDXID: SPDXRef-item12706500
+FileChecksum: SHA1: b3c466e9f23dd08af6ea5b30d1d69c4e722ebee9
+FileChecksum: MD5: ed046eb8a5033d75f215c2d4e1c653a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/public/css/syntax.css
+SPDXID: SPDXRef-item12706502
+FileChecksum: SHA1: 102da81e21102498e275df50a416d53add236a32
+FileChecksum: MD5: 0d3adf5d678394205b2209489843b41e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/public/css/gitbutton.css
+SPDXID: SPDXRef-item12706503
+FileChecksum: SHA1: 4fdd98fd6b719104cdac496d30faef19ec682559
+FileChecksum: MD5: 24502ac578e652b9b071e23558ba3b38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/public/apple-touch-icon-144-precomposed.png
+SPDXID: SPDXRef-item12706506
+FileChecksum: SHA1: 9266969fb77c6d8daacb3ab3648f64c4fbad9df0
+FileChecksum: MD5: 62a368372094d2c7d6c28ac29ff6f2c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/public/favicon.ico
+SPDXID: SPDXRef-item12706507
+FileChecksum: SHA1: 6378b941b30024612038e7d0b1058573579b97de
+FileChecksum: MD5: 2ada4606592c9526e22f0aa23d1882e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/TECHNOLOGY_CHOICES.md
+SPDXID: SPDXRef-item12706508
+FileChecksum: SHA1: 8ed97b29e03ccae63dee2af5606819abf76d9f5f
+FileChecksum: MD5: 7916523cc810be79270596ce89320f77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/FUNCTIONAL_ARCITECTURE.md
+SPDXID: SPDXRef-item12706509
+FileChecksum: SHA1: 14959b1e1cf2e4debee7046d44099b16d95efacd
+FileChecksum: MD5: f7da6be4b70f3e151ed5dff361e5d116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/HIGH_LEVEL_REQUIREMENTS.md
+SPDXID: SPDXRef-item12706510
+FileChecksum: SHA1: 68cbf4f8383ea311ad653a807dc837c43c09f12e
+FileChecksum: MD5: 71830c0311f5d8317af1ade8b83d5836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/functional-diagrams/CoMPAS_functional_block_diagram_v1.svg
+SPDXID: SPDXRef-item12706512
+FileChecksum: SHA1: e212774e94be07bf6c4e2d236bde2cbabd044af9
+FileChecksum: MD5: 3a3188d34dfc29e12740089648a8acc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/functional-diagrams/SCT_functional_diagram_v1.svg
+SPDXID: SPDXRef-item12706513
+FileChecksum: SHA1: 0396cbb7699d20c79efe8c6353f386f88a086e53
+FileChecksum: MD5: 790c91c7022947a13240f75a725e63c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/_posts/2020-08-31-introducing-github-pages.md
+SPDXID: SPDXRef-item12706515
+FileChecksum: SHA1: 0b22bc393c405fa1dde412e4a1bce82c06adcf2f
+FileChecksum: MD5: b28c1f5c046664f519b35bc6dbf7b9fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/TECHNICAL_ARCHITECTURE.md
+SPDXID: SPDXRef-item12706516
+FileChecksum: SHA1: 9285c2b4caf2021bae4ca99d2be9a9c7e3a7c6f0
+FileChecksum: MD5: d43e3735e6c3db033eba77ed4b7f47ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/TOOLS_CHOICES.md
+SPDXID: SPDXRef-item12706517
+FileChecksum: SHA1: e7814690b0d4794abd38d3e6ba8ea98eadb42456
+FileChecksum: MD5: 50550691d86a229a10316d8ff8b56b36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/blob-files/security_requirements_workshop.pptx
+SPDXID: SPDXRef-item12706522
+FileChecksum: SHA1: 14b6468ae17e588c8ef73893ff6a21e2f336f67f
+FileChecksum: MD5: c2bfaddd7d0f4f828c14e005b6aaf4a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: compas-architecture/404.html
+SPDXID: SPDXRef-item12706523
+FileChecksum: SHA1: 1c3ad6441506446c46c0ff35ed899d87bc779d26
+FileChecksum: MD5: 214f30a8e5bdf9e334443b880839f246
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
