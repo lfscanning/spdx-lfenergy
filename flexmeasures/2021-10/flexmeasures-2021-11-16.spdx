@@ -1,0 +1,5386 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_SeitaBV-2021-11-16.zip_1637322240.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-11-19T11:44:01Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: SeitaBV-2021-11-16.zip
+PackageFileName: SeitaBV-2021-11-16.zip
+SPDXID: SPDXRef-upload199
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 9f56cfc5a084f9c308221d2e854103a46e5633d9
+PackageChecksum: SHA1: 9e8f63f4e348452d3164ceecd39494087df2ee5f
+PackageChecksum: SHA256: a93891373f57a527714021c37b9a7e6eae93b8911ab3ffbd8e5fcd6cef0dad81
+PackageChecksum: MD5: 5c66b5f5a0a8ed75abb9ed4d25a4e8cb
+PackageLicenseConcluded: Apache-2.0
+PackageLicenseDeclared: Apache-2.0
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload199
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/js/map-init.js
+SPDXID: SPDXRef-item864838
+FileChecksum: SHA1: 0e808542bdc91fcaecf70ce93d1f6e87cd8eb98e
+FileChecksum: SHA256: 6fcc81b61e88becea2e3df8ef75e1aa355a991a65e2f765bd09116a19e16d39d
+FileChecksum: MD5: a53226b4a617cd78e0734550f2502f67
+LicenseConcluded: CC-BY-SA-2.0
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/setup.py
+SPDXID: SPDXRef-item865072
+FileChecksum: SHA1: ac28b94e70288592f84663e79d8733ed445f2c62
+FileChecksum: SHA256: ac957f35bc074b3d14fbdedcb970c90162874e1cadc8b9c966657a4af5dc35cf
+FileChecksum: MD5: 452ac27621881c15d4b8cca142cda964
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/setup.py
+SPDXID: SPDXRef-item864986
+FileChecksum: SHA1: 9d1eda0667ff08d0054ee0fd81ff5e0d7cd9749a
+FileChecksum: SHA256: cdcebe4eddc05a6a1f09bc8858065124afe8e21dcd5d74aa4ff75a4525227934
+FileChecksum: MD5: 606412e67e753ac07dcf45b134e9ca9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/Readme.md
+SPDXID: SPDXRef-item864587
+FileChecksum: SHA1: 4aca76b0c6dfa97b5e727e3049bb7d0365eb17aa
+FileChecksum: SHA256: 5d018c97082e2b8c3a63426e509b7a3a56a8fe63c6c6c53aeba6496a03f67df4
+FileChecksum: MD5: b7e66afeb42a2510055c69729da41d2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/NOTICE
+SPDXID: SPDXRef-item865047
+FileChecksum: SHA1: b820e3fc7360646c6735b7e6311e4b9b10f5adaa
+FileChecksum: SHA256: d36bf9c054c3626e1b9303a51e1831c46cf24acfaf979c7e255bbc6eed47630a
+FileChecksum: MD5: 99f1be8c81e9697015cdfefc1d648f5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2021 Seita Energy Flexibility Apache 2.0 license </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/LICENSE
+SPDXID: SPDXRef-item864969
+FileChecksum: SHA1: ab493383353f91b9ccc38085a5044fbef904b58b
+FileChecksum: SHA256: cc4d4de0920b0d3912203b5d9aa76728ac4a11087f55da9ea00576db7d1e34e2
+FileChecksum: MD5: 5335066555b14d832335aa4660d6c376
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/external/weather-icons.min.css
+SPDXID: SPDXRef-item864821
+FileChecksum: SHA1: 5074c62af1eeee7856601dad03b91900c8cf5244
+FileChecksum: SHA256: 29c09c6a4a8c69a981ad315ac5bf6d92b3f68aad57f2f527b26f3a5bca517202
+FileChecksum: MD5: 556b77df941d48f44f1fb0d1fec61bc3
+LicenseConcluded: CC-BY-3.0 AND MIT AND OFL-1.1
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/changelog.rst
+SPDXID: SPDXRef-item864998
+FileChecksum: SHA1: 1349dc9f3d0ab3b2b6cfeae4004dbf8749e060ad
+FileChecksum: SHA256: 32d0e827afab0478910abafc63c49b3ad13911056cb3157434c62768982a04fd
+FileChecksum: MD5: c505911f8075a11ae0ac2c789fb27f00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item864983
+FileChecksum: SHA1: e27ab856df7a3fdac908dee881692389b72d6431
+FileChecksum: SHA256: 34a973430a5a4b7ac97b682ea69b614f98fd7f3f5370eaf8be2b83870e8c2fef
+FileChecksum: MD5: 2d6cd67f8c7b67d096c0cfbd14bc18db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/LICENSE
+SPDXID: SPDXRef-item865108
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/ci/Readme.md
+SPDXID: SPDXRef-item864582
+FileChecksum: SHA1: c57b973174a8f85e84ff1882c0b1d3a58fe36ceb
+FileChecksum: SHA256: c59fdcb80cb8b648220d30688f96c64aceb1e7d0188f18fd0939da663806cc27
+FileChecksum: MD5: 1ec0bb7a715a7d1f57633aa8cab22321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/ci/install-cbc.sh
+SPDXID: SPDXRef-item864583
+FileChecksum: SHA1: 95aa00aa23ff2e4a8305339050914bebe50ceed1
+FileChecksum: SHA256: a08fe7d49ca7b46c5c53e3913e9c138149ec7faef2c380cb50bb7f992957acf8
+FileChecksum: MD5: 3eb38b68acd9d705aa5d9deddcfd2354
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/ci/SETUP.sh
+SPDXID: SPDXRef-item864584
+FileChecksum: SHA1: 4658874ce3e26c06c031941479ac22ad7b9fb746
+FileChecksum: SHA256: bdec41b1a692e660f173aff8474fc211f85cbd400501e5902d674dbfb1d7a671
+FileChecksum: MD5: bfbf19e5638bd4f3e469021f100dfc4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/ci/DEPLOY.sh
+SPDXID: SPDXRef-item864585
+FileChecksum: SHA1: da825d3f2f1aae22651590b10228c4662187359c
+FileChecksum: SHA256: fa8d31c9fcc4c4f5db549aa5a87416d897b889e26c95d10654b677557c3b0537
+FileChecksum: MD5: 47486176a408d7339d42c441ab31800c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/ci/run_mypy.sh
+SPDXID: SPDXRef-item864586
+FileChecksum: SHA1: 1256069521007ce5d8a37e4cc4732712269d41bc
+FileChecksum: SHA256: 09f59d73e4febcf43e3e63cde0bb43150e7a021c665dbab76c33c87578fd6f16
+FileChecksum: MD5: 8a7136a61354e39ccfd4d135b7fb9cd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/db_ops.py
+SPDXID: SPDXRef-item864590
+FileChecksum: SHA1: e38d13a8d5f099289f67ee44907c3e970541502a
+FileChecksum: SHA256: 106e994c90fd52c13f77965bc77dad652f6124a6eb424674272fdfa128d00b93
+FileChecksum: MD5: 21fdc351ae373f1a3268f2f8336a007c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/Readme.md
+SPDXID: SPDXRef-item864591
+FileChecksum: SHA1: 7ec75e45e97f5ef821437a47c198b2c34ede1594
+FileChecksum: SHA256: a729f32412052a6b9a66b6a626f092c356c5abad6a32a538aaf4bcaf043b0b07
+FileChecksum: MD5: 3209211a1dd76f9d8a80b01dcd259aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/jobs.py
+SPDXID: SPDXRef-item864592
+FileChecksum: SHA1: 0a5ecfc2a939fac9b24726f1a171d349ebfe00db
+FileChecksum: SHA256: 42cf26c7d361d1c86c4c21982113ab74c5e4dfabdc290d83d73d5bc6052cf94c
+FileChecksum: MD5: 3eeb43948f3580e9e834a4ffa950af0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/data_add.py
+SPDXID: SPDXRef-item864593
+FileChecksum: SHA1: 4f4542ee926c227e9d99ddf308e878d25736e765
+FileChecksum: SHA256: 42a038018072ea6a08621a57597baa2a4a88b853ac6123ea381ceb6b86684cd7
+FileChecksum: MD5: 92b91fa7414c254bc21a71148a503413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/data_delete.py
+SPDXID: SPDXRef-item864594
+FileChecksum: SHA1: 91c79cbee86328fd4544577c01de1fac11416059
+FileChecksum: SHA256: 36cb0b4a2fce4aa0bc637abaa9cf03970ab38286013e29062561b821dfdb8bd9
+FileChecksum: MD5: 5bb00bef5d7ab87d0ebb06c386bd1d6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/monitor.py
+SPDXID: SPDXRef-item864595
+FileChecksum: SHA1: efe4e0ef38e7e3c5b925aa52bcfe818229a2ddf0
+FileChecksum: SHA256: fa4562829d9a4ffd40b980b524bf7c5ccb8f83cbff81dc565f029e1508367204
+FileChecksum: MD5: a4513f20f5e5e56cb354c3f94bbdef3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/__init__.py
+SPDXID: SPDXRef-item864596
+FileChecksum: SHA1: 3954d71dc0a73bfecff1267346f5becd726dd9b1
+FileChecksum: SHA256: 275a0041d92128934a37de698e55d368fdee9b498220df941e4d9a57e119de0e
+FileChecksum: MD5: eefa5510f1afbcd656003c66295b32ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/cli/testing.py
+SPDXID: SPDXRef-item864597
+FileChecksum: SHA1: 985599d5060be4ff7fe06d53d457fec545212469
+FileChecksum: SHA256: 8bd7367e04b0fd5c19d565c31fc8627483b25ee4bc2d534c997d3f2e22221924
+FileChecksum: MD5: d3ab6257271edefe66964052889423c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/Readme.md
+SPDXID: SPDXRef-item864598
+FileChecksum: SHA1: 924e5d3f28a71da8ab9995e014749d30ebf05081
+FileChecksum: SHA256: d28595e99f85ca48c0d43c829e2d84d2b04654d008830f94b2f2379d0ed092ed
+FileChecksum: MD5: 7a5d46886e81634647d07c1a7ea79f34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/auth/error_handling.py
+SPDXID: SPDXRef-item864600
+FileChecksum: SHA1: 8921d18682c605ac41363f79d3486dfb7f7e9d12
+FileChecksum: SHA256: 64bc063e90ec6180b29de22dd8e28bc1e6023060b5e784932ee27aa04a7f589d
+FileChecksum: MD5: 241635e18a9bc7f532f4edcef0a6a028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/auth/policy.py
+SPDXID: SPDXRef-item864601
+FileChecksum: SHA1: afc3c1d79b0b5dd82255b34816d88eb90e3c263f
+FileChecksum: SHA256: 8986e23036cd06c89d44dc20b620e79c0108b00f467f91f5324a51ab12a992da
+FileChecksum: MD5: 60dd54301f284f1f0773ebe1ded9a75a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/auth/__init__.py
+SPDXID: SPDXRef-item864602
+FileChecksum: SHA1: 4922d01f339b30106ef4247caee4739fa8dc1285
+FileChecksum: SHA256: 8067e58e080af0e9695b920465fc581d349d792d56e8b7a5905792b27dc505f2
+FileChecksum: MD5: fc1aa9d3dd573a18669636852b6a49a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/auth/decorators.py
+SPDXID: SPDXRef-item864603
+FileChecksum: SHA1: 8dc262754af27ccb7329ca741568bb5e8d0774c1
+FileChecksum: SHA256: b87767358cadfefeda72afe0e79e7993b6d6bcfcd57946a4edf5de16f9872fbf
+FileChecksum: MD5: 4b6accc051898d9d4c7ee5222b144834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_user_services.py
+SPDXID: SPDXRef-item864606
+FileChecksum: SHA1: ed8c355e692bbf18eb927bfffaeb64c312af8e94
+FileChecksum: SHA256: cac18e108a557728cd72e1c0e551cb68408503c2b6bf1ce6855da16c1df57520
+FileChecksum: MD5: 0c895bbb7753b547ed736656189ee735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_time_series_services.py
+SPDXID: SPDXRef-item864607
+FileChecksum: SHA1: 9055b3cf0faee6c3f654df2b6ae6ee8039e39396
+FileChecksum: SHA256: 25d2553eabffc6dfd81bfb985ca0388431461cf0657f548c225f3b0503c96085
+FileChecksum: MD5: 11ccb160a3a88839050cad3ac9d0007e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_queries.py
+SPDXID: SPDXRef-item864608
+FileChecksum: SHA1: 2103b75cae06466d14deaeda33e90c85e66436d9
+FileChecksum: SHA256: d76d355e7e2765ffca78971f0af3ff53b0450f7c2c2170ce8953565b58ba70c0
+FileChecksum: MD5: b879465625c975331b773e3cf62ba987
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_forecasting_jobs.py
+SPDXID: SPDXRef-item864609
+FileChecksum: SHA1: 81c74889acfc3fe14b953802419bcd9bd8891cc6
+FileChecksum: SHA256: 443ac330223c407d6a12d46b81d91f8f9c08524abc479039289711f554bdafc6
+FileChecksum: MD5: 9dd9998930e3e7597a2583434ec4e1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_forecasting_jobs_fresh_db.py
+SPDXID: SPDXRef-item864610
+FileChecksum: SHA1: c749d79c185d7a138267afca75af88e8ff9e0321
+FileChecksum: SHA256: d0890cbbbb2b9aeab5d6ca2b708d03d0ff9e56d3f2411dadeab70ac8ff7cf013
+FileChecksum: MD5: 67f0b84eca3735d20458e6d3faa034a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/conftest.py
+SPDXID: SPDXRef-item864611
+FileChecksum: SHA1: 1888aac13c0a15bae3cad3330f9fb1784f4c0aac
+FileChecksum: SHA256: dcd630445968dbe62766bce5c79e07b9b44e563faabc312b50c983be84654a5d
+FileChecksum: MD5: 8964441f3c9755ad12a7b67b9d81a789
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/__init__.py
+SPDXID: SPDXRef-item864612
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_scheduling_jobs.py
+SPDXID: SPDXRef-item864613
+FileChecksum: SHA1: dc8243b5c5e630ccfad2e540806a9a51125156b5
+FileChecksum: SHA256: a4c9c3b23ff71a5db6c2f7e1f338435fa7cbea3a0dc2cc4200252a3dc580fe2c
+FileChecksum: MD5: bd18b2179f954a975d3e7943a440b1b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/test_scheduling_jobs_fresh_db.py
+SPDXID: SPDXRef-item864614
+FileChecksum: SHA1: 0af9d29f0b04ca8c0d2fbef8fb5f857acf305dda
+FileChecksum: SHA256: 37b6b4cf76fbe79677df5acd5defceb9705c84b3b1b126cc84c7a3a1f1ac6f8e
+FileChecksum: MD5: 14afc5aaff24ffb672c961e7d8547906
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/tests/utils.py
+SPDXID: SPDXRef-item864615
+FileChecksum: SHA1: db26ec6eaf34088b9513adaed5863dd48bfb4d96
+FileChecksum: SHA256: 37d7391f1809ea33cbe89c97939d5abdab38ff9bb790448a12c8506d655b5b04
+FileChecksum: MD5: 20af7b16fefe1f56273e0684c1807b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/Readme.md
+SPDXID: SPDXRef-item864616
+FileChecksum: SHA1: eca22a21c7be95435688a503135369bc070a3b05
+FileChecksum: SHA256: 8ae8a6fa7576f76fcbc2ccc0be4b840bdb307a12f510a60cc2c224e79d9374e0
+FileChecksum: MD5: ac2678f5ae468ad0926ab5f62b902bce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/config.py
+SPDXID: SPDXRef-item864617
+FileChecksum: SHA1: a78a5a2b614fce14455750f4e1a8f4c9c038a39d
+FileChecksum: SHA256: e113517c4acd42776cbf09c845b88d1644aabe5c055b39cb33451a0bed4a8916
+FileChecksum: MD5: 9c5bd002ef724ccb3b6babf873a73321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/queries/portfolio.py
+SPDXID: SPDXRef-item864619
+FileChecksum: SHA1: 8390bc9ea01a647942114885dba5d3d011983ea3
+FileChecksum: SHA256: 79c87e8f70ad0a34958fd940b409a1c89f0b38455ab77c82c5cf851ea5832fec
+FileChecksum: MD5: 4b829a4ac2a8ea42578e42c5f07dd198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/queries/analytics.py
+SPDXID: SPDXRef-item864620
+FileChecksum: SHA1: ab1f10ef1a51a97db40eea16ff44d009f6e11f38
+FileChecksum: SHA256: fd91fd8a087ddcfdea930cea78f70e5343a5a02691c7de8c20c4a493bc04f85d
+FileChecksum: MD5: 0d47f038d77fed951a08da0c757b06a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/queries/__init__.py
+SPDXID: SPDXRef-item864621
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/queries/utils.py
+SPDXID: SPDXRef-item864622
+FileChecksum: SHA1: 76a0b07929c567f51286eccb6f9df398c0d0be7e
+FileChecksum: SHA256: 27f456c975f21ff3a12a73ea0f46b591b2381665b4561d9202225f3d9b667c7e
+FileChecksum: MD5: e06ca410579dbfb51dd71fd3c7f1a4ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/model_spec_factory.py
+SPDXID: SPDXRef-item864625
+FileChecksum: SHA1: 4b94b023fec54b04acfecbc380ad7f2a0c85ef29
+FileChecksum: SHA256: 24a5b4a5c0ad1d20a42dd35b85443fcab135059374df8c853f1a530c1087d7e3
+FileChecksum: MD5: dc07d5a0ef0ae6c92109c751a12ae165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/model_specs/linear_regression.py
+SPDXID: SPDXRef-item864627
+FileChecksum: SHA1: 4189df50561027f60f35c6f73037f96bb678b604
+FileChecksum: SHA256: 17c32246f475d93b2ca25d84e2ae9207a02289513c6edaf087f0b74fe033f911
+FileChecksum: MD5: 63acbd54eebfe4ef5a3c942fa6fcc8d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/model_specs/__init__.py
+SPDXID: SPDXRef-item864628
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/model_specs/naive.py
+SPDXID: SPDXRef-item864629
+FileChecksum: SHA1: 69aa8d46cde0a11d5ca967dbe54a053b3f07ab49
+FileChecksum: SHA256: f5ce3aa0e2685d0f92138fee09a1ff79b9d1e742ab0f8003b9a7ad608040e812
+FileChecksum: MD5: bf317a04d534a9b429ab4c942b421b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/__init__.py
+SPDXID: SPDXRef-item864630
+FileChecksum: SHA1: 3b493f778349e8d4f7704e84a466f266454f1a71
+FileChecksum: SHA256: b287db5772222929ee423e318f5f026a8afaa1f09c5592632961ddf5acc9b453
+FileChecksum: MD5: dbe027157b77e21c4b8256f6f1a05758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/exceptions.py
+SPDXID: SPDXRef-item864631
+FileChecksum: SHA1: bc6ced53a524d0222f0417158d9a40837f5caea2
+FileChecksum: SHA256: 9e4d72519e7b93a74604fae8e13eaeca63ecbc8df5f7ef20294c3d9697f623be
+FileChecksum: MD5: fbdb143e5afb20cbe7a9fe7c1a1c9d32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/forecasting/utils.py
+SPDXID: SPDXRef-item864632
+FileChecksum: SHA1: fb0fc1dfd4149f82d793bbfd5d1c0b8cc05817dd
+FileChecksum: SHA256: 91f1f5ef3932ede0440f1b732f1f86c7fb85c9d75237620f13ee53ef680cf251
+FileChecksum: MD5: 899875072abc4ad8e80202f003231ed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/tests/conftest.py
+SPDXID: SPDXRef-item864635
+FileChecksum: SHA1: 87d29a9166388f80a8019ae8cfd6ae2dab5ff694
+FileChecksum: SHA256: 86636e44fe45f318ea65c220cb27fb5c62b7683cadda3bd704bb4052038720a5
+FileChecksum: MD5: 32501fbed0f6096b08e54ce647b1348f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/tests/__init__.py
+SPDXID: SPDXRef-item864636
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/tests/test_solver.py
+SPDXID: SPDXRef-item864637
+FileChecksum: SHA1: 39ce6ad4e1c60c75e465420e6fbc4988432be996
+FileChecksum: SHA256: 75385aaef5f394597508e891c2881720619d592c9d32c23ecc223961159545b0
+FileChecksum: MD5: 91dd7b13de1178be620ebc4b3f185e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/solver.py
+SPDXID: SPDXRef-item864638
+FileChecksum: SHA1: 6dedbbd7e961136e2c2e9001297310e763c705af
+FileChecksum: SHA256: 670656dfb3be7ddcd47e4966c87a34b23aeee49d06e0bd70df27e3ab326eea57
+FileChecksum: MD5: 6d5e0831542e429b01d892d16726ce1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/charging_station.py
+SPDXID: SPDXRef-item864639
+FileChecksum: SHA1: cc9b2df2feec7a6859aaa268875c90a2cb639273
+FileChecksum: SHA256: 325c0302d96a46c475cb94246722d28822011d9bfb4e5aaf964eb306375fd651
+FileChecksum: MD5: 013ed9614dfedf19b1f58fea3e448644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/__init__.py
+SPDXID: SPDXRef-item864640
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/battery.py
+SPDXID: SPDXRef-item864641
+FileChecksum: SHA1: 948940c4e2c7b88e5ed88b896a442b71761b8319
+FileChecksum: SHA256: c396c64107f90841af1c90f1eea9f0831fa0a07005c4d9c21c23ce033f821ff9
+FileChecksum: MD5: e21d6bbe80e92188c9eec80e983ac78c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/exceptions.py
+SPDXID: SPDXRef-item864642
+FileChecksum: SHA1: 7ed4e624db32b337fe87d61722940bd8a9220551
+FileChecksum: SHA256: d49ded8fb0f1e73e81922b412a11d126ba119e6aed2c2ee9e248e6028851ae3b
+FileChecksum: MD5: bbfd147fe6463341c3c0a5d23a87db90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/planning/utils.py
+SPDXID: SPDXRef-item864643
+FileChecksum: SHA1: 5c070a72149b9b5f1e1cee18a47a052d38995ea4
+FileChecksum: SHA256: 5f422efd4e28ec1cd0aafe93d1eb1df2f39079a6e64ca4bcc312a44740fa8a52
+FileChecksum: MD5: 6d61bbb9e1c753e2940e4b9d9bfcfc20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/data_sources.py
+SPDXID: SPDXRef-item864644
+FileChecksum: SHA1: 20f6463e259bf42443e9d8fb85be9fe43458cc91
+FileChecksum: SHA256: 5d9b7cfc74774e979bd95b21d68d9f0007511eb5584778a35eb8d6d68715b6dc
+FileChecksum: MD5: 15e67d9a0ce1b868a4e5f7ba87dce938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/time_series.py
+SPDXID: SPDXRef-item864645
+FileChecksum: SHA1: 13875eacd6c72ebf2edc0ef9d0a2f66cf3e33e7a
+FileChecksum: SHA256: e4bc8359142dd7c938379143b747a367a37cf4b86bbfdbf654ff50ef8e923915
+FileChecksum: MD5: 7278b73996dcd5d8306b3a7390bcad3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/weather.py
+SPDXID: SPDXRef-item864646
+FileChecksum: SHA1: a7a422812679f4e5c67215d06a1eb8f4538e870c
+FileChecksum: SHA256: 40e35da1887f4271084adb721594832deddac2bba637e01af4dead98d9904319
+FileChecksum: MD5: 585aac649e8156d09cf4dd294de3399f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/assets.py
+SPDXID: SPDXRef-item864647
+FileChecksum: SHA1: 97d5ca92ba08e718ef28c8fd7eaab25d7a34b243
+FileChecksum: SHA256: c50717391248e750096f4e6e298a6fdc24f06a8f23e326fa40eac33d823490f7
+FileChecksum: MD5: 1433a77a72c8254701fb69c5c100504d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/__init__.py
+SPDXID: SPDXRef-item864648
+FileChecksum: SHA1: 6140e8c37cc95fddac6138e90209813231b00590
+FileChecksum: SHA256: a2dbe5514648b09fa046e1df9889ed2d89a46df690130d2e37fe978c4fbaa522
+FileChecksum: MD5: deef99f64ca31d7d2a5438ed1446cffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/markets.py
+SPDXID: SPDXRef-item864649
+FileChecksum: SHA1: 755ad7750b59b884875ca9c55c171f4b0551382e
+FileChecksum: SHA256: 1551b5013f02b0e170c761f95de17dac23921003159033291c5dada0b58d4bee
+FileChecksum: MD5: 4b155e5bebc55c52e6e25fcf13b4084d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/user.py
+SPDXID: SPDXRef-item864650
+FileChecksum: SHA1: aaab3095d8cbf3b81f8a24975a48d2daf4ed6b8a
+FileChecksum: SHA256: 26bdf2e6cef88107bbeed4c4a6c7b6714449475e96cc7158742bfc6f3a5f0cf5
+FileChecksum: MD5: 4462200dff4d4cb1629875eca9a125bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/charts/test_chart_defaults.py
+SPDXID: SPDXRef-item864652
+FileChecksum: SHA1: 0a3a6a83a5c546c2a0c894c89b5502c2a0e8e28a
+FileChecksum: SHA256: 295128746325f30e2cbe3c9d2d797ba18ce83692f4358908b847bdee83eaec8a
+FileChecksum: MD5: 4e7047311f54223dbd8409c0c1060306
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/charts/readme.md
+SPDXID: SPDXRef-item864653
+FileChecksum: SHA1: 8e8d95d900816595351d18adf415fb87fbef564e
+FileChecksum: SHA256: 5134fad583acdd6f31b0e67678624c9c01e6df5c8b2815f5cdc30095515f2d36
+FileChecksum: MD5: a89a5c3f0411559b3a30c77f38ac912f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/charts/defaults.py
+SPDXID: SPDXRef-item864654
+FileChecksum: SHA1: 9928246daadcdeb69b386729de9837d407358489
+FileChecksum: SHA256: b31aafa5e3ab8c89137dd48830784002dec5b0881a2b2e060dd76f753dbc808c
+FileChecksum: MD5: f605b798a36357b586cc28c2797ab8b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/charts/__init__.py
+SPDXID: SPDXRef-item864655
+FileChecksum: SHA1: 1725b0de5b4ac1a03beef17221130e5ca43daa0a
+FileChecksum: SHA256: 130ceecb0228a3a105b16914f4e92bfef56326f5f2edb3b3c3a1d27c2fc371cd
+FileChecksum: MD5: d4d902a42f570a515844d0e7dbbee5e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/charts/belief_charts.py
+SPDXID: SPDXRef-item864656
+FileChecksum: SHA1: 28f1f05a2ce5d51fa2ad3f065ee559d19c9dcd54
+FileChecksum: SHA256: de102f5d988a531d2656694eb2a0df56554cc71f36347aad39a0e0dcb2446ff9
+FileChecksum: MD5: c8cfeb0de050a19e65e87064c3c268a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/task_runs.py
+SPDXID: SPDXRef-item864657
+FileChecksum: SHA1: 1c9f8275bdee69c24c71d40eaa67cff18646e0b4
+FileChecksum: SHA256: 766f5fbd3e4a18aab5c7631227bb93d3aed1ec7efa9af58c7cf6344e80324d3d
+FileChecksum: MD5: 456e731b9fba228359020719b4ab378e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/utils.py
+SPDXID: SPDXRef-item864658
+FileChecksum: SHA1: 8e307e95e8ae59952b909eb539a207bca0d79ca4
+FileChecksum: SHA256: 722a6c28dd6d3573d05c6f126969e54476daca9636148ba30bbe5bd1cad6e108
+FileChecksum: MD5: c87d824482624adeabe4d3cf12b6a765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/models/generic_assets.py
+SPDXID: SPDXRef-item864659
+FileChecksum: SHA1: ef06167abcdeb9d4e45fa831cead9d18d6d15fae
+FileChecksum: SHA256: fcce8a133e80823574ee936943f15fe1b314ab9b02d8abe2f8c8d57b9e7fb2c4
+FileChecksum: MD5: a1ababe013edb5d9c7be2a01824c9bd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright. </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/services/resources.py
+SPDXID: SPDXRef-item864661
+FileChecksum: SHA1: 30a22174b3cea34f8324563b82ffbf56bdf7717f
+FileChecksum: SHA256: 5b0911fcdae468c0ed7d5540f0e7b041cc1f77f2b55a8687d71f92c58c55d5e2
+FileChecksum: MD5: 5738cabb1c65f3e9a3c55881fabf62da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/services/forecasting.py
+SPDXID: SPDXRef-item864662
+FileChecksum: SHA1: 9215f13d5803c71f642f092c2d30252c036d3bdb
+FileChecksum: SHA256: 18cb0e6c68440a4e838837c2a25470b69b5f1352bc23c077826c9d93b8558f45
+FileChecksum: MD5: 99e06fe35d08f1cc72be48a8ed28f552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/services/time_series.py
+SPDXID: SPDXRef-item864663
+FileChecksum: SHA1: e221e583c2ad430234d11b0fb99c69be5f2318fb
+FileChecksum: SHA256: 55aac01e8f2d0b3b21b5d05df6b8bad8442e6d1d4f8a9abc4e6a5dc7b58fdac0
+FileChecksum: MD5: 09c3a7cfaf07384cee854160dc99e687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/services/__init__.py
+SPDXID: SPDXRef-item864664
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/services/users.py
+SPDXID: SPDXRef-item864665
+FileChecksum: SHA1: f293e0b868fa17da773331cbfdc96a6c0be2ea6b
+FileChecksum: SHA256: 568122d90495b8755095e0b0932b67447c49e6e5b1c715cd7ab5bc311610d5ef
+FileChecksum: MD5: 8783f5324533edc797fa27f8e1c9b191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/services/scheduling.py
+SPDXID: SPDXRef-item864666
+FileChecksum: SHA1: c23491397fd3e3e4767fd974758419211b0406ab
+FileChecksum: SHA256: 812c8dc5b477b28c2c0daff66dd82fc9a363a96a90cd257da14fd1fc7f0f5ffa
+FileChecksum: MD5: 0ab68bf0cdeeef2355f613f0884736f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/tests/__init__.py
+SPDXID: SPDXRef-item864669
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/tests/test_times.py
+SPDXID: SPDXRef-item864670
+FileChecksum: SHA1: 76992c65a85e8841797226b9dc58e4f3311ba6dd
+FileChecksum: SHA256: 5bac82888dac214ffff676de1cc37e1f55c45bddb5da30dd9ae6177d99e39a1d
+FileChecksum: MD5: 67aeb01675ac3e5995adc5b1ad3b91fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/sensors.py
+SPDXID: SPDXRef-item864671
+FileChecksum: SHA1: 812b735482eb9d34ab89cab76933c6115b030127
+FileChecksum: SHA256: 041ade814710b4f41df998de3e4163a00e3e5e0b3e0ea92782ba3033f8f47264
+FileChecksum: MD5: e44741577e3b88a7d9146eef461cada4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/weather.py
+SPDXID: SPDXRef-item864672
+FileChecksum: SHA1: c0ce7d193a9408f96378afda83b79ef2f9310fac
+FileChecksum: SHA256: 633de063623576a3759ac22dc2c989ece494a0c73f366411f158135f37b65355
+FileChecksum: MD5: 5e7587edcdc8c7f7c89a7d9e4d65c214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/assets.py
+SPDXID: SPDXRef-item864673
+FileChecksum: SHA1: 6b715cd0ab1409f1e1a752f20b38d926ffce1d54
+FileChecksum: SHA256: ca3d4b79bab36dda2c1b924aeff0a8c2d0eba7cab1c71280964c58a8a84cf478
+FileChecksum: MD5: 353683d7cb0109b98cb263e78e824669
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/__init__.py
+SPDXID: SPDXRef-item864674
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/users.py
+SPDXID: SPDXRef-item864675
+FileChecksum: SHA1: 94d15596f2acfc0047d8f91f095bc391b6eb1b73
+FileChecksum: SHA256: b9e58eab20a718ed3af37eeab5fa963e9eea6c9854f22f90911fc836f5dc84d0
+FileChecksum: MD5: 25ab3b26076b8df46243338ab5343e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/times.py
+SPDXID: SPDXRef-item864676
+FileChecksum: SHA1: c2d55feb0b8ec25c86b5023d296ddcb7b2312f2d
+FileChecksum: SHA256: 674de1e09a6d7380d8f99fb5f380b1dc1e8106a6e8af1dbbf91c6298002bbba5
+FileChecksum: MD5: 7b9dcd3371f3895c81ded52c2f0bf602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/utils.py
+SPDXID: SPDXRef-item864677
+FileChecksum: SHA1: fc494beafa3a731c8feba61c862c6ef1bbe5627a
+FileChecksum: SHA256: b2160b6c64a4ca8df1d110904652613307f9885161f8ac5c392dc0355e011b63
+FileChecksum: MD5: adaa7fb34a851ac07be622b5f05fa52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/schemas/generic_assets.py
+SPDXID: SPDXRef-item864678
+FileChecksum: SHA1: 5c26752da4efdc48bba87123157372d2b9d9a69d
+FileChecksum: SHA256: 602b7427f77874de80460db155cf6ad14fd4246f772aedceb64d497fa341bac9
+FileChecksum: MD5: 3e21f6bc1876f5540c09106478e5ed48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/env.py
+SPDXID: SPDXRef-item864680
+FileChecksum: SHA1: 42a8d337d4d3b2f0d46211d94d08d2b86d68ba8a
+FileChecksum: SHA256: edd1ad2267bc9b2b0d2e1a41df298f77cf4f31a8a06dbbce2238072984a3d1ed
+FileChecksum: MD5: 681d2da0a87fcf262712615f4c34c1f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/README
+SPDXID: SPDXRef-item864681
+FileChecksum: SHA1: 5cfaa42ee567367c1eeb81aa9f59a58c54151db7
+FileChecksum: SHA256: 31595cf53626af9ed16e15c44fa43183209cc163fbc3ebcb904b22ac436a8884
+FileChecksum: MD5: 0d64fccd082782288b1dce1b4743bc9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/ac2613fffc74_add_market_id_column_to_asset_table.py
+SPDXID: SPDXRef-item864683
+FileChecksum: SHA1: 9e233c2a4e1cf8c9c2884721b314c08363769ea5
+FileChecksum: SHA256: bc6e43b6b0c50a950818b9dac2b489ae77d5ce27ecbf98909bdd890efa2a2716
+FileChecksum: MD5: 7b81676bc0211a5a26332e08c4f9fa05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/8abe32ffa204_add_owner_id_column_in_asset_table.py
+SPDXID: SPDXRef-item864684
+FileChecksum: SHA1: 4c6e4cfab87ca1428381c62b49abb8aeb89a6d5f
+FileChecksum: SHA256: 0a0c5a5c6e125f289966c317b60334a2640ffd69cbfb4d4f1a6fa1ad55de7442
+FileChecksum: MD5: b28a3b4034f21fab95427a9f0ed629d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/45d937300b0f_create_measurement_table.py
+SPDXID: SPDXRef-item864685
+FileChecksum: SHA1: a97ac8c5c9a6a0cfc52e612de60f1c7a0ef9e633
+FileChecksum: SHA256: 103b4ff947cb0307b51a23cfcf18948df679894f35ec3abf994ea8cad29a47cd
+FileChecksum: MD5: b5b4ec8f1f9183da48b02d5c8991f324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/04f0e2d2924a_add_source_id_as_primary_key_for_timed_beliefs.py
+SPDXID: SPDXRef-item864686
+FileChecksum: SHA1: 44bd1002f6cbb8d2a39a68b332cc86bb7329862f
+FileChecksum: SHA256: d111a6c778affd4b869dd3162348779622cec8486c43a435f2ed064fe9fbe689
+FileChecksum: MD5: 53a109c15794baf031235ef921b9299f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/02ddbbff29a7_naming_conventions.py
+SPDXID: SPDXRef-item864687
+FileChecksum: SHA1: 439f9d1cc4fa2e37a0c4ee10074da37192c0205c
+FileChecksum: SHA256: b78028a428d617ab2d6dc69a539565330868033467faf95a1edee93b8f8d4906
+FileChecksum: MD5: 47a3451f3994d0c254d0f63da3ab0133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/91a938bfa5a8_add_horizon_columns_to_power_price_and_weather_tables.py
+SPDXID: SPDXRef-item864688
+FileChecksum: SHA1: 95bc4b008c7880436f2d3759a89656e622219510
+FileChecksum: SHA256: 8ae129f8cba84abbda57ba1f2237d22dfbf658b51f71ae27620028b20aa368cd
+FileChecksum: MD5: 58f0a2c5cb9fa07f674e83fb73ec6614
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/a528c3c81506_unique_generic_sensor_ids.py
+SPDXID: SPDXRef-item864689
+FileChecksum: SHA1: 45d76638d5c0367edaa6a014362d456fedfe9283
+FileChecksum: SHA256: 525897b241be189c9d67b07351d224e6d445ffd525f18c7a969718a9950e5d96
+FileChecksum: MD5: 4b58f2e1287b0b68161184d8d0685dad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/b2b43f0eec40_weathersensors_unique_type_location.py
+SPDXID: SPDXRef-item864690
+FileChecksum: SHA1: 47c7ab124e032e1a5e3559393e1b1f914273ee08
+FileChecksum: SHA256: e40aecd377a678f26e114259ccf1ccf3cf64767d6e3e9b73f25f99308be9af22
+FileChecksum: MD5: ff1250395c8234aca111c346cc46ca72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/50cf294e007d_complete_adding_units_to_all_generic_asset_tables_and_display_names_to_all_generic_asset_tables_and_generic_asset_type_tables.py
+SPDXID: SPDXRef-item864691
+FileChecksum: SHA1: abf419e8b966486e9d41697abc5412de4149785f
+FileChecksum: SHA256: e782d2f48da0f756889c7b7ff134385c157a2a30a21a49e8f1347500c902a7f1
+FileChecksum: MD5: 06cb0267b76be2700a18ed9cdd29761d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/d3440de27ab9_create_bvp_roles_and_bvp_users_and_bvp_roles_users_tables.py
+SPDXID: SPDXRef-item864692
+FileChecksum: SHA1: 13c39606bef0d1dc9a80f537a6bea5de02fc64fb
+FileChecksum: SHA256: b7ce49af4d3b5f66e9b169f389b16ad955692c5b74ca344068bde501fcab7d04
+FileChecksum: MD5: 77099bde18815a561a93d9b9761b36c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/30fe2267e7d5_add_optional_DataSource_columns_for_model_and_version.py
+SPDXID: SPDXRef-item864693
+FileChecksum: SHA1: 535ff3018f9c03ec92e4ccab57656ac271aa3673
+FileChecksum: SHA256: 278869235f37f00f1b6c38dc9eeb2a1b09257a9bad688882aa3ca7f6f863e7f9
+FileChecksum: MD5: 07052747155ab2d9593b4677e2821fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/9254559dcac2_create_market_type_and_market_tables.py
+SPDXID: SPDXRef-item864694
+FileChecksum: SHA1: 7b740db1e19a33df5d0d0e50e6b95e9be7c11dfb
+FileChecksum: SHA256: 062010995c07cfdcd022eeb2d52c8dbf3ce681f9623fd750f831d2993e962e69
+FileChecksum: MD5: cade769ea34779a9c8162a0de1eea01c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/22ce09690d23_mix_in_timely_beliefs_sensor_with_asset_market_and_weather_sensor.py
+SPDXID: SPDXRef-item864695
+FileChecksum: SHA1: 380271a0bdc28ccf35b9f7fb4ecf2afcd95ba59f
+FileChecksum: SHA256: bd15f6be703bedfdddf944de4e4f3f874bc4133b2550edf4e240fb0a5cd543e3
+FileChecksum: MD5: 05a2032285cd4c6c426346d0820ad2bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/26373d8266db_owner_deletion_deletes_assets_and_power.py
+SPDXID: SPDXRef-item864696
+FileChecksum: SHA1: 269c52b43de480d968d12e16e129a857f6f50686
+FileChecksum: SHA256: 2c6c81fb0753eb1e5fe70f5d410c11b628fddbeb529f982ed86a81b37c7db43e
+FileChecksum: MD5: cb8d049635e68ff11ee5c6a18fff73ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/7113b0f00678_drop_forecasting_jobs_table_and_make_display_names_nullable.py
+SPDXID: SPDXRef-item864697
+FileChecksum: SHA1: ee3210b80272f932fbe78fbadedf2d9dc156e92e
+FileChecksum: SHA256: 03328fd07181955c28a724dee9d9052dfe0cc675f4fa80dda1a3b632514dba8d
+FileChecksum: MD5: 497bdfa0e329a5157df2b0381873ecdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/3e43d3274d16_Asset_soc_udi_event_id.py
+SPDXID: SPDXRef-item864698
+FileChecksum: SHA1: 349bd465abd26fcd8eebefad4fe214b99a002c1b
+FileChecksum: SHA256: 0072b53a407fcbbfad88e4f93687457bc760ebf35d9416c0e0df62d5c1aa6ede
+FileChecksum: MD5: 463657518d8ea4a9cbc95833f6a485f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/4b6cebbdf473_create_weather_sensor_type_and_weather_sensor_and_weather_tables.py
+SPDXID: SPDXRef-item864699
+FileChecksum: SHA1: 20b4b3538d203d1ba8f28d07e295e25ed6bb8d47
+FileChecksum: SHA256: 449bdafa4b4a6778f76f12da32cc9b860089676a31c2b8d671f90cd037645371
+FileChecksum: MD5: f12cadae573718fa144e0b11d2776eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/01fe99da5716_initial.py
+SPDXID: SPDXRef-item864700
+FileChecksum: SHA1: 99999df173553bae0abf4710ba7c5cb886241d0f
+FileChecksum: SHA256: 73f757a6459ff5908bf7b843443305eb57cd3eb76d23a1b9139233dbf28c569e
+FileChecksum: MD5: 7749dd37e3e5c3872c75eafce1019ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/1a4f0e5c4b86_unique_userids_in_ds.py
+SPDXID: SPDXRef-item864701
+FileChecksum: SHA1: 1bc45e2aa02e9a80c75b3d95e91dfd42b8508ae4
+FileChecksum: SHA256: 34c0509e1c697d0c4d4e28cf1b8b4d709667b53ca72e8cb347c79876234c4add
+FileChecksum: MD5: 4d52892cc1d68325abd8ac688cce601f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/1e8d27922f56_create_price_table.py
+SPDXID: SPDXRef-item864702
+FileChecksum: SHA1: 6a7d2abed96090d9459d30a02bfe5e4ddc5c60c5
+FileChecksum: SHA256: aa6c665586cb0d16616eb0eac1468ae40eaa9199a5fa03fec0f58fb89ef73d04
+FileChecksum: MD5: dab1da0aa4647cc6f78607d2a24317b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/a5b970eadb3b_time_series_indexes.py
+SPDXID: SPDXRef-item864703
+FileChecksum: SHA1: b9e7772023b506c6c03802441f87c264c248a290
+FileChecksum: SHA256: f09b10c393935e1de9cf9e1e3a4627d7166e5233706c5f93e3d65f1a508bcbfb
+FileChecksum: MD5: 6904694bf89bc7bcaa92939802890e41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/e4c9cf837311_sensor_generic_asset_id_should_not_be_.py
+SPDXID: SPDXRef-item864704
+FileChecksum: SHA1: e8f98867c602b226f91a9c938f9301a17daa2410
+FileChecksum: SHA256: a7ef32e8f48afc98fae7b6025563238f120247f00637c1008fb7d43efa252b6a
+FileChecksum: MD5: ad3cd6a33ce82b2132b41e8bb4520fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/919dc9f1dc1f_merge.py
+SPDXID: SPDXRef-item864705
+FileChecksum: SHA1: b474ca6cb55972d861424bd0bb016544c8b2154e
+FileChecksum: SHA256: 6a1eda06f32f3d20a7bca1ec7a26089ba622ee689c3a04668a025229c55e6eb6
+FileChecksum: MD5: 5d30498799a4ee12452fd513a2ac5b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/3d56402cde15_drop_login_columns_in_bvp_users_table.py
+SPDXID: SPDXRef-item864706
+FileChecksum: SHA1: 24031fc6298ff11dca5bdcdb84e6497039ad9db4
+FileChecksum: SHA256: 92997f928d7fc00f0640fd94296f7db1b471a97c01ac5cf9daa21792e7dddae4
+FileChecksum: MD5: 0cd010d2bdf3b42b24c49c53cd3841e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/b087ce8b529f_create_latest_task_run_table.py
+SPDXID: SPDXRef-item864707
+FileChecksum: SHA1: 72a364b30c3509f33c97b815455b9e51c5ee3375
+FileChecksum: SHA256: e80d4accdd2092c2cab328dc542825b7f4088cf057f2f6bbe395dc03c7c1d38c
+FileChecksum: MD5: e9ff8db407e32aba0e495d6aa326317f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/db1f67336324_add_price_unit_and_display_name_columns_to_market_table.py
+SPDXID: SPDXRef-item864708
+FileChecksum: SHA1: 6fbf11bd276df04b1407f17224e3595f4b2f8cfd
+FileChecksum: SHA256: ef608f180a88f2e6882c6cecaec491b3d3d1bd34249c32e84b1efcc4ec1024ba
+FileChecksum: MD5: 865bf74cc19985e480fc935abfac4aa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/994170c26bc6_add_account_table.py
+SPDXID: SPDXRef-item864709
+FileChecksum: SHA1: 3ed5378c4e65e7394d14b66839580f0d588e320d
+FileChecksum: SHA256: 5e4730e55311acfd73da36e2a5a2126fbe0e7603da391b5668c22601a6e96326
+FileChecksum: MD5: 0809a080b66919bbd6871a1142ce1177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/1b64acf01809_forecasting_job_table.py
+SPDXID: SPDXRef-item864710
+FileChecksum: SHA1: 45a52ae218e6dac964daef57bedcd245ef3614ac
+FileChecksum: SHA256: 7b5be60d205fc11ec25d87212ae6e8840316fe903373302e21d53ce38a084288
+FileChecksum: MD5: 0c9dbf476c1b52ca07d185956c3e66de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/bddc5e9f72a3_add_event_resolution_field_to_asset_.py
+SPDXID: SPDXRef-item864711
+FileChecksum: SHA1: 570cf0b0312fda1bd296b8be47a44f9312230654
+FileChecksum: SHA256: b34f6fcffeb7780a2b71115724f6e0f0dc70dea3d230019b5331251e3fa1771c
+FileChecksum: MD5: ea5f7106308405733acf56b7c66054bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/565e092a6c5e_introduce_the_GenericAssetType_table.py
+SPDXID: SPDXRef-item864712
+FileChecksum: SHA1: 68323fcf9d41e619fafcf2aff434db1d47132a26
+FileChecksum: SHA256: 36556700ed17b5e5771c206f11be31d686a33f3a699a212ec6f3e7d717fa1d1c
+FileChecksum: MD5: 6c209f80c4a5c4a68de4b2d06d8ed48b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/b6d49ed7cceb_introduce_the_GenericAsset_table.py
+SPDXID: SPDXRef-item864713
+FileChecksum: SHA1: d7a231928e35e9ff87f6d8416d0deb7beb5e419c
+FileChecksum: SHA256: b3fa071158e5cb5749a24413d72d5902bfee6a806bad6bfde04cf9f317538c9a
+FileChecksum: MD5: 6bb6412e26b89f7e145a7c0aaba7ee2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/7987667dbd43_add_asset_type_hover_label.py
+SPDXID: SPDXRef-item864714
+FileChecksum: SHA1: cdd472e12fef4a44899a79a8a5a62fff2cebdeb9
+FileChecksum: SHA256: b29e19602a4aa8756c3c56be13287e94130f7e571dc1b0b65732f8e11c8881bd
+FileChecksum: MD5: 273cfded2389ce3943caceb1bfea2fdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/564e8df4e3a9_stop_using_bvp_in_table_names.py
+SPDXID: SPDXRef-item864715
+FileChecksum: SHA1: 6a43b71c46094c443a120834047f5874304eb379
+FileChecksum: SHA256: d7e3df8edd27ca537da4ec5040fe60ecc242463e44b29ea1f880f7fcae395333
+FileChecksum: MD5: 861f5a72b14bbbb7fafe257791315871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/2c9a32614784_rename_data_source_columns_in_power_price_and_weather_tables.py
+SPDXID: SPDXRef-item864716
+FileChecksum: SHA1: 9f9868808819fcf662d983a0ee5c0c82cf9a7144
+FileChecksum: SHA256: 235701791eb4fb9f74dad3bf31fa3229a6ef306f0e01544c0a536f07d62abcf0
+FileChecksum: MD5: eaa34b9cb90f00869ea32eba2a36e5b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/96f2db5bed30_add_account_roles.py
+SPDXID: SPDXRef-item864717
+FileChecksum: SHA1: cb70be58dbd0318f4f58c5898442238bd33ff015
+FileChecksum: SHA256: 8eed76154217f3ff8b54ea06c94ea6f1510e29ba54c642736eba1ad4d42ae1b1
+FileChecksum: MD5: 07714ed17e701c7c233f54717b970863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/e0c2f9aff251_rename_source_id_column_in_data_sources_table.py
+SPDXID: SPDXRef-item864718
+FileChecksum: SHA1: cdf5fae658bc70963209be8297aa23c0e91196eb
+FileChecksum: SHA256: 7124af9702cc805d6d949fa44c1a178cc6ed98fe5ef73589e2d187f033e1cb89
+FileChecksum: MD5: b3cd1e6b09d8630da44c3c51f7a8d2f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/31f251554682_merge.py
+SPDXID: SPDXRef-item864719
+FileChecksum: SHA1: caaa917a488078c40a36dce491ba05956870126e
+FileChecksum: SHA256: a8c2c5d9cc00aa3d3707bc5a54d439dc3134bb833615ff1571d92c6f40f55b76
+FileChecksum: MD5: ebaad31c21df12573524f3604e99154a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/a328412b4623_add_timezone_column_in_bvp_users_table.py
+SPDXID: SPDXRef-item864720
+FileChecksum: SHA1: d25e25bf24c72bd212859ac2c7a0cb86adcd8e16
+FileChecksum: SHA256: 096a921f352cac01f52b5ea5a09a5932aec4113c87122d124f419e1e2b78f78c
+FileChecksum: MD5: bbf56a836c1f6d242df7748ddee4d2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/1bcccdf0c3e1_unique_usernames.py
+SPDXID: SPDXRef-item864721
+FileChecksum: SHA1: bd9f4fffc522602444012aa24748f2a48b6d93b0
+FileChecksum: SHA256: 5067a9a68098a0d90a9a3597c533fb0655a6d15ac2a071e2c924e7cf9a0151d6
+FileChecksum: MD5: cfcdf18a4d2857d4fddeeb8e5a6df233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/1ae32ffc8c3f_rename_data_source_unique_constraint.py
+SPDXID: SPDXRef-item864722
+FileChecksum: SHA1: 3cea16111dd3185a8994e47636cc802bcd2914a9
+FileChecksum: SHA256: 2230f93dace1759b8c20b81e6f30772621798908ee6f82e3f44bc3dd411d2dd7
+FileChecksum: MD5: 00da6d3e9297e4ae9cdc33934deb6191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/3db3e71d101d_make_datasource_a_subclass_of_timely_beliefs_beliefsource.py
+SPDXID: SPDXRef-item864723
+FileChecksum: SHA1: a4ca5e41315faceec3f49c2c61bb3a686426ad49
+FileChecksum: SHA256: 046f777debc642b48e17cbc93feeba43acec603d87cd5df68f01ca23b5e16905
+FileChecksum: MD5: 7b5e0956f217c552c54822bce8094169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/e62ac5f519d7_create_table_for_timed_beliefs.py
+SPDXID: SPDXRef-item864724
+FileChecksum: SHA1: 27dd690d35697b1600514e5c3fac227515771f25
+FileChecksum: SHA256: 5c64bb3c9344f68c1bc5c18d28af4828da815d204c584057c4b72d07bcfa31f8
+FileChecksum: MD5: d8a1657d1dc560802197220810e92296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/b797328ac32d_add_user_fs_uniquifier_for_faster_auth_.py
+SPDXID: SPDXRef-item864725
+FileChecksum: SHA1: c7af0aed9ff9178c94d4d87bc199900e9bf05234
+FileChecksum: SHA256: fd65eebcde46c79f758b709493a3a4eff12ed1ddfbee8c81fc1f3ba896daf9e5
+FileChecksum: MD5: e9970eb730dd9543a2010a8513b9c2cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/db00b66be82c_add_horizon_columns_as_primary_keys.py
+SPDXID: SPDXRef-item864726
+FileChecksum: SHA1: 72e3ceaee3c7d727e62adb4eda9ddadbed805eff
+FileChecksum: SHA256: 6d141766e8f4fd139301c83901d2dcb7444bba8430f183a130f2103bde804ebb
+FileChecksum: MD5: bae19ab2012f13c42df5374dcfe081f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/61bfc6e45c4d_add_soc_columns_in_asset_table.py
+SPDXID: SPDXRef-item864727
+FileChecksum: SHA1: af99cf8cfc98d7489bbe8427874b4535c2ede990
+FileChecksum: SHA256: 564b2d128d625a4b1678f7960d59afe30dec1a7427d8a9454f943b85911c9a01
+FileChecksum: MD5: c5b4c21556f3c03c031391b387bbc0f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/5d39829d91af_create_data_sources_table.py
+SPDXID: SPDXRef-item864728
+FileChecksum: SHA1: 9203a030df32d02f5bbf348b90a3497f9ed60755
+FileChecksum: SHA256: b5182f2f5ca2249e866e94e55f698a1f9f5ecf4eed67561e736e6e1884231245
+FileChecksum: MD5: 217ed157d3f8bef74e58b2d446133096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/8fcc5fec67bc_make_data_source_id_columns_primary_keys.py
+SPDXID: SPDXRef-item864729
+FileChecksum: SHA1: ea950e8f2289189027d34c0f6b381e1db6c91c23
+FileChecksum: SHA256: 6c08b1fd0ca503dcbef896a9069f9899e96994fee6de709132b93901d8f1b004
+FileChecksum: MD5: 2cab4a0ceea90fad3c3e93f775d91ac8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/9c7fc8e46f1e_add_location_columns_to_weather_sensor_table.py
+SPDXID: SPDXRef-item864730
+FileChecksum: SHA1: 1e3d667624348282290eb93339db015dbfe99a17
+FileChecksum: SHA256: 91a66b4a4ee40933af426b05dab2bd0a8d82686e6c216874bb0ba3b58eede8cd
+FileChecksum: MD5: cfc05673ba3e71f5790b1725e2d7aa50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/11b735abebe7_create_power_table_and_drop_measurement_table.py
+SPDXID: SPDXRef-item864731
+FileChecksum: SHA1: 2cbdfda9d0134da4d3395b707817a1e443f2ab11
+FileChecksum: SHA256: ef74b51e26678f57df95c624e0a2003c4620bfca7f6dc6e4471d1170eb168bb1
+FileChecksum: MD5: 8eaeecef91011d25b269733e47420dc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/versions/550a9020f1bf_default_resolution_for_existing_sensors.py
+SPDXID: SPDXRef-item864732
+FileChecksum: SHA1: cd8f4782f95e77234720a005908419be5f183fb4
+FileChecksum: SHA256: c8d465e7233a72eab48f0cc7670ce5f036c0c7cb7855f49bf9d2d75a2e481bfd
+FileChecksum: MD5: 3cf072db2e27510fa004f16cdafa8374
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/alembic.ini
+SPDXID: SPDXRef-item864733
+FileChecksum: SHA1: 4a0772bae8d3e7299c33dd2150a3099a4b8f864f
+FileChecksum: SHA256: cd0539df1f8541701bb6e3b1a77fe182db0464af0cd149e4c3d17fb8c4811037
+FileChecksum: MD5: e270df4bbbfc24b31a66301095240677
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/migrations/script.py.mako
+SPDXID: SPDXRef-item864734
+FileChecksum: SHA1: 3f1ab42b543015ecce3d36ecf9c9a20a69890dfb
+FileChecksum: SHA256: f3fc6003e826fce85e8673bb0a22228d68279b4d1996ccc41ed207ac0605265d
+FileChecksum: MD5: 80eaa42e4910a9484b7b02509743a59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/__init__.py
+SPDXID: SPDXRef-item864735
+FileChecksum: SHA1: f59df566a95af0168f2095b4ec07bf6606c6aac6
+FileChecksum: SHA256: 2288ad7eb30d9e4331a7f6051c196f50a8e91465b81c4d7589c80b07d1a56735
+FileChecksum: MD5: 385039af5f00d8b71895befabd7b0197
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/_test_simulation.py
+SPDXID: SPDXRef-item864737
+FileChecksum: SHA1: e49749d93d5d27934e5286ac8bb5145527f4446a
+FileChecksum: SHA256: ecf7fbede1767e065a9f182c7795f13164afb7054ba36313ea990dffc65313d9
+FileChecksum: MD5: f277c5e44f6e162dbe48b0f501e435ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/solartest.py
+SPDXID: SPDXRef-item864738
+FileChecksum: SHA1: b16a6348bf095babe9a7a09a34b15bf4dbbe9022
+FileChecksum: SHA256: ac48bc7a693e1321dfe593b28dee926d47e3c41be685cdbcc9c45e351fb890aa
+FileChecksum: MD5: 27d4157d7e2333a0a856e5e485f87047
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/data_gen.py
+SPDXID: SPDXRef-item864739
+FileChecksum: SHA1: e63fa6a9d4334fe5fa986111dda84c6ced874c3d
+FileChecksum: SHA256: 45f86ba1831e76d4248e43b1d6b320f7a7601d534f168b30dcc9882dd75362c0
+FileChecksum: MD5: 150d277bdb8b73690f36f2e03a6fe794
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/simulation_utils.py
+SPDXID: SPDXRef-item864740
+FileChecksum: SHA1: 1a6052cd14da02a8f4956383beaee7acd0a6da83
+FileChecksum: SHA256: bf4334c51c3d84b0e7305d1a13a7abf25528dfbc8e34d90b0d9e6417b62d14d5
+FileChecksum: MD5: adfe14243f96db16a92e4d27a8d6da03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/visualize_data_model.py
+SPDXID: SPDXRef-item864741
+FileChecksum: SHA1: b01951edefe9860438ed1837c92ead2ac392e876
+FileChecksum: SHA256: 32654c2ead9f162458ccd990800254b348afb7c22b79172bed6720f6f6dfd0ab
+FileChecksum: MD5: 05326fe91ef79ff6eac01ca5bca11ee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/grid_weather.py
+SPDXID: SPDXRef-item864742
+FileChecksum: SHA1: 64316e8bd86bcbe471813a53171e7fe5a5aef05d
+FileChecksum: SHA256: 893a4a3d43ebe49c67866711558782fba8b1c2ced6b558b8e03287a4548ef5fe
+FileChecksum: MD5: 42954b0b6271c9382f1b1331669989f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/scripts/__init__.py
+SPDXID: SPDXRef-item864743
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/transactional.py
+SPDXID: SPDXRef-item864744
+FileChecksum: SHA1: f095e6a613b367c1c081e3146da59c3e3692afec
+FileChecksum: SHA256: 4c5f8e5df86fdd3b7b6f8ed7818e813b921706cad2583a0cd3434b639df93398
+FileChecksum: MD5: 69e4a8957bc36f20d5cf4bab68c49e75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/data/utils.py
+SPDXID: SPDXRef-item864745
+FileChecksum: SHA1: a2d61d8c15d200a3b139725f540668f9817ffe5d
+FileChecksum: SHA256: fb9c3d3cadc9ec7f5412ac1a51ee6a6e7dd4c5e5f7cde29856e9dd35ca6d32d5
+FileChecksum: MD5: bda540648800312d225b4f055c620a3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/geo_utils.py
+SPDXID: SPDXRef-item864747
+FileChecksum: SHA1: 6b8105fe94d8f4e6213379629f8feeaee20a5f3d
+FileChecksum: SHA256: 781af4ac7fb4cec80226ed52d27ff22b53756c243f50f01464bccb25e88f036f
+FileChecksum: MD5: e5db90c6f7ae1ef9b1b8c8fb6edcd109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/tests/test_entity_address_utils.py
+SPDXID: SPDXRef-item864749
+FileChecksum: SHA1: 7ce2aa5968d53e17113834b054c3ce5fc2a0b4a3
+FileChecksum: SHA256: f5e03acc8e33f7b7cd241b19d779da85d42225c166086bb3579526955b490f63
+FileChecksum: MD5: 13421209cdc5f93df06620334521b5d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/tests/test_time_utils.py
+SPDXID: SPDXRef-item864750
+FileChecksum: SHA1: f3d646e1b71d25312e017c09e4cb5be7a53edb4e
+FileChecksum: SHA256: 411d5bbe8ce1a9706c77396ac7bd19b5bf1e778545d6ca2218a4f43dbbb239aa
+FileChecksum: MD5: 4d145b5397f47385c52900594f19cd67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/tests/__init__.py
+SPDXID: SPDXRef-item864751
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/entity_address_utils.py
+SPDXID: SPDXRef-item864752
+FileChecksum: SHA1: 7f0906414d016e2a8cc84f303a317e02972748d8
+FileChecksum: SHA256: 09e472223061707a61601c7b39af1abac1434106b5a3fbe993921ca7d90b7ba2
+FileChecksum: MD5: 3619569a5dd29bf3f272955dee81c0a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/error_utils.py
+SPDXID: SPDXRef-item864753
+FileChecksum: SHA1: 779976293ceb4b179dca86e2dd962b41e35fd011
+FileChecksum: SHA256: f475de5f853c75bd675b528e1506e1305893d130bf0de7f93710e34a32764145
+FileChecksum: MD5: 430f1e0840693e6b3947e27177563c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/app_utils.py
+SPDXID: SPDXRef-item864754
+FileChecksum: SHA1: a986f66834c2caed689418a311f2b2f01e01df49
+FileChecksum: SHA256: 5c52794e474937b3c60571db14ad8d236e1d2f74bae89d39e0cb0abb9f89e16d
+FileChecksum: MD5: 288f3cdf051dc2d937dcd9f78f65db6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/config_utils.py
+SPDXID: SPDXRef-item864755
+FileChecksum: SHA1: e9c1fb6f521afb3f4d1c2de0dbc1ff278f54ddbc
+FileChecksum: SHA256: b357a9c19657302d430895c7e366c5b335ed1968c77a7045d0b25f8ed9fe1331
+FileChecksum: MD5: b1049dd77da5ee616127003b09cf0d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/time_utils.py
+SPDXID: SPDXRef-item864756
+FileChecksum: SHA1: 5b784c7ecc52e098f65eed4b8106995d138ee0ed
+FileChecksum: SHA256: e80a2edd60d2cb5184a061e49c4a6b424e3741790afb8f96a132668410c0f62e
+FileChecksum: MD5: 34f5d8e0636cbdd7e315df420c2496cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/unit_utils.py
+SPDXID: SPDXRef-item864757
+FileChecksum: SHA1: a3e4bbbe89355f5e9a1d4369fdc7f1c4c14b35c8
+FileChecksum: SHA256: dcf4bc330528f7eb9b32ff3ca8371205c4de585856aee80bda6beed0b05b2962
+FileChecksum: MD5: 172dcc0b0c7147848074dc15c0d7483f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/flexmeasures_inflection.py
+SPDXID: SPDXRef-item864758
+FileChecksum: SHA1: b6f33904a0d66ff76bd6a0485ccfb5dcdcfcba87
+FileChecksum: SHA256: 8fa1e241d252f6b4867f2dfe3e7652dee3c71a5d5381e4c2d42950b1a6905db4
+FileChecksum: MD5: 5b60ca60bb81ac6cd11672db916bf2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/coding_utils.py
+SPDXID: SPDXRef-item864759
+FileChecksum: SHA1: 559e59df85d379d895a68876eda12c4e6b3461ef
+FileChecksum: SHA256: 736e27e15c0327875cb36757c6606afdcd6ea3385d7c3f4cc879b9596858c3f2
+FileChecksum: MD5: b29b1e7cfafe8569ec32903b1c35bc79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/__init__.py
+SPDXID: SPDXRef-item864760
+FileChecksum: SHA1: 174a29add1c796f4252c2ee308adf047464965fb
+FileChecksum: SHA256: 13498e3ea089fb35ac0622d74f6a77fb36e7d50c838dbeede7e38fa49395c4cc
+FileChecksum: MD5: 68325fe04eff813ef7729e04f8aa28dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/calculations.py
+SPDXID: SPDXRef-item864761
+FileChecksum: SHA1: 3023c24e6940c4cc5f98b0477ae4ffb4d43810c3
+FileChecksum: SHA256: 46b11368a8565ca87cc3289c40cc333aca1d0001b15399368cdbff278441246e
+FileChecksum: MD5: d7296ea996ef16ab0ee762d48f9ce983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/config_defaults.py
+SPDXID: SPDXRef-item864762
+FileChecksum: SHA1: 17a956964b392dd9b0ff0c7cc02e101eea92fc3d
+FileChecksum: SHA256: 5e6439490ffe64f7b066363dd15e45c6b48f222ce8cc29e091a11c89d1a763fc
+FileChecksum: MD5: 5482cee1098a1c69280f7599b3e8827b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/utils/plugin_utils.py
+SPDXID: SPDXRef-item864763
+FileChecksum: SHA1: c05b04798ac12251f1e5ee891507c00cce8904cf
+FileChecksum: SHA256: b0bba4594a0f71bf38abf43cdf5a09c9f801cdd833b961ddd5fdd44333a4467b
+FileChecksum: MD5: a6f67c94f5641fac7097ac925a17564a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/app.py
+SPDXID: SPDXRef-item864764
+FileChecksum: SHA1: ad9e5634b3195332696a1dafd412f120b3e9ce8c
+FileChecksum: SHA256: 91b9139c50e9e3a63d4136e9fd8aec42c3637835cfa108e1fa35cd78f764c41e
+FileChecksum: MD5: 2a6f503f9ce617915526ffe15b4c72c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/conftest.py
+SPDXID: SPDXRef-item864765
+FileChecksum: SHA1: 7077fbc7715c2908a93634cb5096fc1869415ee0
+FileChecksum: SHA256: cefb82b553531c72f02b6983e58a3125899bd36d2450e287a0c71aee27a83de5
+FileChecksum: MD5: 3a62b2392de49c884c6a84a1d78c26c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/__init__.py
+SPDXID: SPDXRef-item864766
+FileChecksum: SHA1: 14da602fea197b21ef5b01948da2070bbd343d65
+FileChecksum: SHA256: 7967575c60aaebdc9759316a1b6534c003e706c45191f490143c28d215925a1c
+FileChecksum: MD5: 79cf446125ea174bad660a589a041a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/test_user_crud.py
+SPDXID: SPDXRef-item864769
+FileChecksum: SHA1: 7c59de424cf653477aca552ef6892bc5fe9beb17
+FileChecksum: SHA256: 3eeb32cdd15c2a0d6db80d08ec316ac28cec85499b885b5aeb15f400238c5cbe
+FileChecksum: MD5: 7ad4e751f07d2c7b44def8af961f0a80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/test_views.py
+SPDXID: SPDXRef-item864770
+FileChecksum: SHA1: ac9d3c8e3822bff1262b941be3540a21eafa37c3
+FileChecksum: SHA256: d50255f536a0414aef016d9e66f8c5578670e9c448a03626ada611e3efc55222
+FileChecksum: MD5: 748cd7a238c4eddcfa54c804c83c22f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/test_asset_crud.py
+SPDXID: SPDXRef-item864771
+FileChecksum: SHA1: 54e5a4f15673e49996564bb2cb6fc8abe59222f7
+FileChecksum: SHA256: bbe4ffdbb06745049d9d95637e2fc4add9515e43462e7747d13ce40f14345589
+FileChecksum: MD5: 45c5a7e31a20a0a85594b615bbc7520a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/conftest.py
+SPDXID: SPDXRef-item864772
+FileChecksum: SHA1: b434c44ce1d51fe4dafae5edc189953380333207
+FileChecksum: SHA256: b64862bbfd9e18f122d7d45e70d4a5b8b50ae3c7b0c88f4390ae61b49798792a
+FileChecksum: MD5: 14d1d0bffd42bebff8aa60a137bea365
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/__init__.py
+SPDXID: SPDXRef-item864773
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/test_error_handling.py
+SPDXID: SPDXRef-item864774
+FileChecksum: SHA1: 62bef903cb59d51c56fd15262939ca31c443c466
+FileChecksum: SHA256: 0e11b31ec6653a54b51eb9e84dd6c7673ef809ed73617c36cf339afb01c26740
+FileChecksum: MD5: f862d94229d63868f24a00206309ae5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/tests/utils.py
+SPDXID: SPDXRef-item864775
+FileChecksum: SHA1: 3482668bc0191d4cac37734bc48057e496a1cc6a
+FileChecksum: SHA256: a3de0b7bee0c8d29f47a999567876bc95da93efccd792eb155cc0238846dc162
+FileChecksum: MD5: 427f5c39238e33743cd8a7d43a6a7f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/utils/view_utils.py
+SPDXID: SPDXRef-item864777
+FileChecksum: SHA1: 0b6c3bc6dacef43308470feac916eb6178e8f630
+FileChecksum: SHA256: 2228949f9e6d06e0235a93d350b577cb453bbf47ca5b5a096a1b92745c312060
+FileChecksum: MD5: 2689da9f7781992c24ee35688963c0ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/utils/plotting_utils.py
+SPDXID: SPDXRef-item864778
+FileChecksum: SHA1: 87cacaa21c57a4c55bab383a10c68e93759e79ee
+FileChecksum: SHA256: ca6181a8ba9297b52d5fb86a1195c523d68ce2dfb308b875daacc57635470907
+FileChecksum: MD5: 32aada679ae651238840441025d4c6e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/utils/__init__.py
+SPDXID: SPDXRef-item864779
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/utils/chart_defaults.py
+SPDXID: SPDXRef-item864780
+FileChecksum: SHA1: 617bb16de95fdd2d97012abcbb4ca82dba731af0
+FileChecksum: SHA256: 8b72a6d12c299929f9876fae55a2b6fee6d8c857f0200e4d65fb134f0816fc59
+FileChecksum: MD5: 90a8456f54ee074b104f282c1598b652
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/error_handlers.py
+SPDXID: SPDXRef-item864781
+FileChecksum: SHA1: ea47993e5551a2590a5e280d3fbf33dddfcea90f
+FileChecksum: SHA256: 9a91904edde690e31b84ac8787921cf6db9f558830bc52cc58dfbbf75ca35acd
+FileChecksum: MD5: 786b440c97f52218ad43a3350049a1da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/__init__.py
+SPDXID: SPDXRef-item864782
+FileChecksum: SHA1: 62b397426b7f9e3a803da8f64031dba27985cef0
+FileChecksum: SHA256: f9675d546f167f7dd7d30f0f6b7d31257a7a7676f5afd6a2431f9de97db6dc3d
+FileChecksum: MD5: c7fcffdc16c51bc5f2447187235e7394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/control.py
+SPDXID: SPDXRef-item864784
+FileChecksum: SHA1: 32f71fef7c89a7b1c1f0e88caa6fecdb406fb1bc
+FileChecksum: SHA256: 88dad867783e8aa020aaedbbef56fddd8078315e0adcce3bb37b218248193d41
+FileChecksum: MD5: 2c13220ecb06d73756959e91a15712b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/portfolio.py
+SPDXID: SPDXRef-item864785
+FileChecksum: SHA1: 35c6680d890ed2d135baa4ad265941e4e63c2411
+FileChecksum: SHA256: baf581370be08cd56bcca8a904a952d43b0519a5d9c7b085f09530003c718412
+FileChecksum: MD5: befbe4bc6ea3a1f7c0beff915c366c89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/analytics.py
+SPDXID: SPDXRef-item864786
+FileChecksum: SHA1: d74a7533b086949479c98e16a5ddffffedd4a8c3
+FileChecksum: SHA256: f5d2358c8aba06ecf4438cd6a5f9ceeab529fe3fdd5a7541b9c042854a2c6a72
+FileChecksum: MD5: 0b93d17f21a5c20b1b0b9efa559d4a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/dashboard.py
+SPDXID: SPDXRef-item864787
+FileChecksum: SHA1: 75c77af8ab611c938cb0960b97d997f323b2c71a
+FileChecksum: SHA256: 5bbb4c3701f13da9070edc18a6ec380b41880696954f22582e1e5a94e8ed469a
+FileChecksum: MD5: ba67db93b27f3f87d2b88e0b8cfd8baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/sensors.py
+SPDXID: SPDXRef-item864788
+FileChecksum: SHA1: 9f0f8187460cc5e6a368aa97a0d96a1ae781364d
+FileChecksum: SHA256: a523e2b9ab28fa984fb7df39d3c1d72179d61982014990a6d899dc933bec2045
+FileChecksum: MD5: ff097a5db8d632a0f468e20c1cfc62b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/charts.py
+SPDXID: SPDXRef-item864789
+FileChecksum: SHA1: cc257cbb441727043985669af0784f080333584c
+FileChecksum: SHA256: d2ce85298de26d5f05b1b393c372b27450a82fe3f1e671a59ab9ddd5053eda73
+FileChecksum: MD5: 794bc74b9aaaafa19f3c49537108d6bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/logged_in_user.py
+SPDXID: SPDXRef-item864790
+FileChecksum: SHA1: 01f28feea8b3919d6f56b0e506a74149ba893e36
+FileChecksum: SHA256: 07a7a5ca5782741211a069a5436087a23083a6e36a303a026f6d2ca1daf8a8f7
+FileChecksum: MD5: 0aec8ae893d292c23bcb0c84e6632a4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/__init__.py
+SPDXID: SPDXRef-item864791
+FileChecksum: SHA1: af08a3b95ac24924dfd66fb26adf6f2f287653cf
+FileChecksum: SHA256: d18944a552446032618342201600db5677b81488524ea9022aac1844358d109a
+FileChecksum: MD5: 5274e1d6b5dd570dfc487cfd07308482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/views/state.py
+SPDXID: SPDXRef-item864792
+FileChecksum: SHA1: c9e743c77927fd6926c66eaf6c5f98196345253b
+FileChecksum: SHA256: 02d918ec83530c76332e4188cb37a0f10c001199a0fb671e3098d2e68a8c8b67
+FileChecksum: MD5: 40f23c324d60655ab4f05d40c2d388f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/glyphicons-halflings-white.png
+SPDXID: SPDXRef-item864796
+FileChecksum: SHA1: 718dabe32f2509bdcfc8bf9946560657ce76ae68
+FileChecksum: SHA256: b344591ff9dcab854eb54c9dce7fcf5f92e80c7c28297f622423725c56b98e57
+FileChecksum: MD5: 11118ae8db796d41dd11482067c89d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/fontawesome-webfont.ttf
+SPDXID: SPDXRef-item864797
+FileChecksum: SHA1: 13b1eab65a983c7a73bc7997c479d66943f7c6cb
+FileChecksum: SHA256: aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8
+FileChecksum: MD5: b06871f281fee6b241d60582ae9369b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Dave Gandy 2016. All rights reserved.FontAwesomeFontAwesomeRegularRegularFONTLAB:OTFEXPORTFONTLAB:OTFEXPORTFontAwesomeFontAwesomeVersion 4.7.0 2016Version 4.7.0 2016FontAwesomeFontAwesomePlease refer to the Copyright section for the font trademark attribution notices.Please refer to the Copyright section for the font trademark attribution notices.Fort AwesomeFort AwesomeDave GandyDave Gandyhttp://fontawesome.iohttp://fontawesome.iohttp://fontawesome.io/license/http://fontawesome.io/license/ Ã  </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/fontawesome-webfont.woff
+SPDXID: SPDXRef-item864798
+FileChecksum: SHA1: 28b782240b3e76db824e12c02754a9731a167527
+FileChecksum: SHA256: ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07
+FileChecksum: MD5: fee66e712a8a08eef5805a46892932ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/glyphicons-halflings.png
+SPDXID: SPDXRef-item864799
+FileChecksum: SHA1: 5b31a9a18265413e32b572a9e3adee91c11354e6
+FileChecksum: SHA256: 76ef47b0703014bc012071e1c1c9f63bf42e2d06984922b56b869f59d7f4eeed
+FileChecksum: MD5: 531d4b607365ac65b09a181216f0664d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/glyphicons-halflings-regular.ttf
+SPDXID: SPDXRef-item864800
+FileChecksum: SHA1: 44bc1850f570972267b169ae18f1cb06b611ffa2
+FileChecksum: SHA256: e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456
+FileChecksum: MD5: e18bbf611f2a2e43afc071aa2f4e1512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/glyphicons-halflings-regular.svg
+SPDXID: SPDXRef-item864801
+FileChecksum: SHA1: de51a8494180a6db074af2dee2383f0a363c5b08
+FileChecksum: SHA256: 42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5
+FileChecksum: MD5: 89889688147bd7575d6327160d64e760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/glyphicons-halflings-regular.woff2
+SPDXID: SPDXRef-item864802
+FileChecksum: SHA1: ca35b697d99cae4d1b60f2d60fcd37771987eb07
+FileChecksum: SHA256: fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c
+FileChecksum: MD5: 448c34a56d699c29117adc64c43affeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/fontawesome-webfont.svg
+SPDXID: SPDXRef-item864803
+FileChecksum: SHA1: 98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed
+FileChecksum: SHA256: ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4
+FileChecksum: MD5: 912ec66d7572ff821749319396470bde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Dave Gandy 2016. All rights reserved. metadata> defs> font id="FontAwesome" horiz-adv-x="1536" > font-face font-family="FontAwesome" font-weight="400" font-stretch="normal" units-per-em="1792" panose-1="0 0 0 0 0 0 0 0 0 0" ascent="1536" descent="-256" bbox="-1.02083 -256.962 2304.6 1537.02" underline-thickness="0" underline-position="0" unicode-range="U+0020-F500"
+copyright" unicode="&#xa9;" horiz-adv-x="1792" </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/glyphicons-halflings-regular.woff
+SPDXID: SPDXRef-item864808
+FileChecksum: SHA1: 278e49a86e634da6f2a02f3b47dd9d2a8f26210f
+FileChecksum: SHA256: a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742
+FileChecksum: MD5: fa2772327f55d8198301fdb8bcfc8158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/fonts/fontawesome-webfont.woff2
+SPDXID: SPDXRef-item864811
+FileChecksum: SHA1: d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c
+FileChecksum: SHA256: 2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe
+FileChecksum: MD5: af7ae505a9eed503f8b8e6982036873e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/font/weathericons-regular-webfont.ttf
+SPDXID: SPDXRef-item864815
+FileChecksum: SHA1: 9916e3dbc3990e3073cf5a2cb4c2e958273b7532
+FileChecksum: SHA256: 176bda6661f213dde47c2114d76e476ec8ca9aae07dd54f9550d2d28fe02b4fd
+FileChecksum: MD5: 4618f0de2a818e7ad3fe880e0b74d04a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/font/weathericons-regular-webfont.svg
+SPDXID: SPDXRef-item864816
+FileChecksum: SHA1: c3b440c8a72eb2816bc6c52fb3d6bbf878b6fe23
+FileChecksum: SHA256: e1bd62a72dc31598b1f10cbafe01a9892716902d738fda2a947bce41aa93c1a5
+FileChecksum: MD5: ecaf8b481729b18f6a8494d9f691cdae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/font/weathericons-regular-webfont.woff2
+SPDXID: SPDXRef-item864817
+FileChecksum: SHA1: 718dd740e8340888352129e592fed085409e891e
+FileChecksum: SHA256: 9327647771c09df82095dba3591c77cca41a9cedca948ae01e7fb70c690dcbd5
+FileChecksum: MD5: 1cd48d78f06d33973d9d761d426e69bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/font/weathericons-regular-webfont.woff
+SPDXID: SPDXRef-item864818
+FileChecksum: SHA1: 5b909f99b700b5289e9af6f750405152b06e32f2
+FileChecksum: SHA256: d4e90136fa6f4b26d5613c85b84f823af1d7b34fc3d2e3549740b3aea510caad
+FileChecksum: MD5: 8cac70ebda3f23ce472110d9f21e8593
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/flexmeasures.css
+SPDXID: SPDXRef-item864819
+FileChecksum: SHA1: ffd3bbf1c8e85dbc212c9bf3b2ed3b4b7fe165cd
+FileChecksum: SHA256: 0323db0faf07a55367f54e813d9fcc36c7b01c7328ac0f37a909db686ec67fb6
+FileChecksum: MD5: 6de8895974de6603fb89e3670e8f634d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/css/external/rq-dashboard-bootstrap.min.css
+SPDXID: SPDXRef-item864822
+FileChecksum: SHA1: ca2b21c1a7034ad2ffd124518684809365d03d1a
+FileChecksum: SHA256: 6fc6f00c2130b9bae5e88f6fb0d5e36b06b2640c82cea5febd47a9989c2718cf
+FileChecksum: MD5: 73378998b85a7fffadd5505ffa5ca946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/images/chase-lewis-506404-unsplash.jpg
+SPDXID: SPDXRef-item864824
+FileChecksum: SHA1: ac3c6e5be375bd78bf920036fe708f07347b5cbe
+FileChecksum: SHA256: dfbcc85b76c809d48d84ca98e2f60e30a2481e12c6004d0c66314b5bfdf2c133
+FileChecksum: MD5: 7ac5331570c4fa57b709cbd36609cbf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/images/tj-k-349056-unsplash.jpg
+SPDXID: SPDXRef-item864825
+FileChecksum: SHA1: 82ee4d84a00639af94f76ff936798e847976577d
+FileChecksum: SHA256: e2e32c60a737f8760901a0d30a093201d1fed2f54dc6a7a070437ed9f507fad6
+FileChecksum: MD5: df2780b940d472c2717903b13e405a51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/images/flexmeasures-preview.jpg
+SPDXID: SPDXRef-item864826
+FileChecksum: SHA1: 005dae8d18396932e90ca21ffe487cf08b8eca22
+FileChecksum: SHA256: 52bd67490662c2bb73ec8c71692288b8d2f66c5646ed6e82f3ba0a85f3978d4b
+FileChecksum: MD5: 96525a43e29be4abc432b63a4f1af2d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/font/seita-webfont.woff
+SPDXID: SPDXRef-item864828
+FileChecksum: SHA1: 25e1a624a2bc83fc25564df78e89219af254bdb6
+FileChecksum: SHA256: 06c9d7a18d33c5208abb792a719ea7c87649a70541e500da21e35545271009a4
+FileChecksum: MD5: 89ecf2be0c9cf532c5f0fc08ef10b553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/font/seita-webfont.svg
+SPDXID: SPDXRef-item864829
+FileChecksum: SHA1: e1d50b76d53cf0ec4bee0d99f5b89ffdbc8afccd
+FileChecksum: SHA256: 4dd75a2f5134923d3f9b3d3eeb11df43b6d1fa1837301b754fe702ef30e99f07
+FileChecksum: MD5: 55c8ae6d865db957937de21b1c333658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2021 by original authors @ fontello.com</metadata> defs> font id="seita-webfont" horiz-adv-x="1000" > font-face font-family="seita-webfont" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" /> missing-glyph horiz-adv-x="1000" /> glyph glyph-name="wind" unicode="&#xe800;" d="M306-78l147 0-55 485c20 10 28 35 18 55-10 21-35 29-55 19-20-11-28-36-18-56 4-8 10-14 18-18z m0 0m-9-73l164 0-5 45-154 0z m0 0m119 546c48-34 197-127 335-115l0 1c-85 110-253 156-311 169 0-2 0-4 0-6 0-20-9-38-24-49z m0 0m-75 1c-17 13-25 35-22 56-58-11-229-50-318-156l0-1c138-17 290 70 340 101z m0 0m38 109c11 0 21-3 30-8 11 58 37 231-29 353l-2 0c-66-122-40-295-29-353 9 5 20 8 30 8z m0 0" horiz-adv-x="1000" /> </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/font/seita-webfont.woff2
+SPDXID: SPDXRef-item864832
+FileChecksum: SHA1: 27fdf10197c4d1b69005aaf4e69e6e711e0e3226
+FileChecksum: SHA256: c60ff3bca1293e16bdf35386aadc9b556d85a7a92f57f197d16cbc5f314762a7
+FileChecksum: MD5: 3db71046fb6f7a3b2ff627856a545dc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/font/seita-webfont.ttf
+SPDXID: SPDXRef-item864833
+FileChecksum: SHA1: b686861b3d45e7e8705ca1d801543b402751a7ee
+FileChecksum: SHA256: 2b2d651d748181835afd62f5d7b0e83309d4a0cdb42c51ef4f48c0eb5d9afdda
+FileChecksum: MD5: 818fc703328403f758f874769ea787c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2021 by original authors @ fontello.comseita-webfontRegularseita-webfontseita-webfontVersion 1.0seita-webfontGenerated by svg2ttf from Fontello project.http://fontello.comCopyright (C) 2021 by original authors @ fontello.comseita-webfontRegularseita-webfontseita-webfontVersion 1.0seita-webfontGenerated by svg2ttf from Fontello project.http://fontello.com? </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/favicon.ico
+SPDXID: SPDXRef-item864834
+FileChecksum: SHA1: ca9ff44e26a5e6727cd5d2b4c0c6281f5a06c7e5
+FileChecksum: SHA256: c22665fb38aae779f263153d71d15445ac99efbb9f0f5801add27f5d02c4e648
+FileChecksum: MD5: ad9f23a9601ec2cef49667e65b6b409c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/js/daterangepicker-init.js
+SPDXID: SPDXRef-item864836
+FileChecksum: SHA1: ee13b9f3314870d61d316c47c4731813224800f2
+FileChecksum: SHA256: 201a7eb3bd7de4d3e7f352df5bd8ea86176b14916c2c94660d1cd954096aef3e
+FileChecksum: MD5: 85fd118cfcd3f06d3042684b93d9b77b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/js/daterange-utils.js
+SPDXID: SPDXRef-item864837
+FileChecksum: SHA1: c34eed9f474e976dc6d90831d73ce65cdd9f07ec
+FileChecksum: SHA256: a403b364a25aeff0b681cce86ba96e9ec719abcfaa90b56f5c04c947d7048248
+FileChecksum: MD5: fcd00ca472865d1b330ad370dcc08d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/static/js/flexmeasures.js
+SPDXID: SPDXRef-item864839
+FileChecksum: SHA1: 7c2c94e7435b2f6acef467d8cdc684b8d986f6a9
+FileChecksum: SHA256: 89db05dd9952e9ac865e8f054b0ea9dd42e86021d49b76086a04fdeec79f54d1
+FileChecksum: MD5: bb45706714ab75587811c59b2d0cd98d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/crud/assets.py
+SPDXID: SPDXRef-item864841
+FileChecksum: SHA1: 3b763015641a4d84822059426622fe893c445513
+FileChecksum: SHA256: e088765284de3c5a9933fb197a1a73fdd2796526b4b185988ad42c79c3d722e0
+FileChecksum: MD5: a61eb9943702089fcf9621bf618c636e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/crud/__init__.py
+SPDXID: SPDXRef-item864842
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/crud/api_wrapper.py
+SPDXID: SPDXRef-item864843
+FileChecksum: SHA1: fe5511e1a7f9302a13c4c38fbbf580f44e844c62
+FileChecksum: SHA256: c0f51fb80bb35814e3f2734dead9a19af2f36a1b81d579054c0803d6772fe86c
+FileChecksum: MD5: aa94c617266a439917ebe6153264b1d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/crud/users.py
+SPDXID: SPDXRef-item864844
+FileChecksum: SHA1: 34c3b3843f168b177ecff1fe4a68786c3e9ab9c7
+FileChecksum: SHA256: cda1d3f4d6ecc3266aa203ddaf67cd703778652a14b9a7ff393f51a672244b2e
+FileChecksum: MD5: 749b3dc456759b809c9d8e7ffd2caac4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/error.html
+SPDXID: SPDXRef-item864846
+FileChecksum: SHA1: 1f764a2d3f6a80dd5104627cfaa4df47974c81bf
+FileChecksum: SHA256: 8af784e5aa03c06a1f6216002f412d5493466fbb6aec45582dac77f86ceaecf2
+FileChecksum: MD5: 80dc7be45c308eb59a00def3fa991324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/base.html
+SPDXID: SPDXRef-item864847
+FileChecksum: SHA1: 9998a2c16480207902fee500d84156632e16b338
+FileChecksum: SHA256: b1ba57c5dc391b499c626c25d8026ad058cf63c5e866de267de77507d3ddfeb4
+FileChecksum: MD5: 85ab313d847d5b39256d24c8d71600de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright_notice %} FlexMeasures technology is created by <a href="https://seita.nl/">Seita Energy Flexibility</a>, in cooperation with <a href="https://aoneeng.com/">A1 Engineering</a> copy script>var CurrentYear = new Date().getFullYear(); document.write(CurrentYear)</script>. endblock copyright_notice %} </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/rq_dashboard/base.html
+SPDXID: SPDXRef-item864849
+FileChecksum: SHA1: b4f75b68ea87989ebe818de66f54e561a5674ea9
+FileChecksum: SHA256: ce1039dbb2a863d675c5865a123d4d9f9b97d3a919994faa599a27727f0bab24
+FileChecksum: MD5: fb72ed1c7b4e27e2178b5a7f4335547f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/rq_dashboard/dashboard.html
+SPDXID: SPDXRef-item864850
+FileChecksum: SHA1: 2b00430d0e8bcf6bec176cfac7843c1ab5b5bafd
+FileChecksum: SHA256: eff153a7bb4eee4e8d04e42c9e582a064b9d63841208a3e5e93b399c5f103b94
+FileChecksum: MD5: 2580f8838b6ce28734abfbdcc7e8e4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/views/portfolio.html
+SPDXID: SPDXRef-item864852
+FileChecksum: SHA1: 33c8ae2c2d0ab255c77e1bfe013969eb6e7abdd1
+FileChecksum: SHA256: 57b292b30d8bf4271c156c1ccee093461f3df2e1f79ebd6ebe038119bb64a639
+FileChecksum: MD5: ea7b651b3b90989c2ceffd31cb585825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/views/analytics.html
+SPDXID: SPDXRef-item864853
+FileChecksum: SHA1: 27afec63ed1a8b6a40b5db0ac37e4d5107a889bf
+FileChecksum: SHA256: 0deb6e2ada9adb8870723388d3bd357629ac941913e64737118cf26ccbb5b738
+FileChecksum: MD5: 489767a6036799da8b626a886760c10e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/views/sensors.html
+SPDXID: SPDXRef-item864854
+FileChecksum: SHA1: f723e24cc7ee3f2e4c0499c0bb602b6eed9d1bfe
+FileChecksum: SHA256: f202075015ebf0aa15852fef0f7c1f19475e3704d8996236c99af5bc4407cd64
+FileChecksum: MD5: 2677bb7d69eae23bad671e48b155481e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/views/control.html
+SPDXID: SPDXRef-item864855
+FileChecksum: SHA1: a61d7e8a3cb7c133db53525caac4cd774003dade
+FileChecksum: SHA256: 65efee813c0c2fe6ac26aec153d10a9bf3b19331b4b204ccd2348426e7055eb9
+FileChecksum: MD5: e5e12e0f4b1d57d21c0fb668c168371c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/views/dashboard.html
+SPDXID: SPDXRef-item864856
+FileChecksum: SHA1: 09031e159e3294cc72f94cd1e80097f317603df1
+FileChecksum: SHA256: 275092892e86a75385184b9cce20f27767609b590bf52cdbcde11130c50926b9
+FileChecksum: MD5: 8a37773f08bc7a2c718460356238311a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/crud/user.html
+SPDXID: SPDXRef-item864858
+FileChecksum: SHA1: e1b901a01e44c7222b76b05a356f3c9caa2eb4d0
+FileChecksum: SHA256: 71038a5dc5ac8b71dc1b0875f9239b4d1dabf7094a220749538f06e3c893c977
+FileChecksum: MD5: d45d837240e2be53a0721c7d892c64fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/crud/asset_new.html
+SPDXID: SPDXRef-item864859
+FileChecksum: SHA1: ea2471066e0df778114f4aed435a115b2f31c95f
+FileChecksum: SHA256: 64a7e4802b9eee76cf8c0d9c9dc7767617797cc43d665d7f4ba3ec3082aef374
+FileChecksum: MD5: 57868f45f9ad42f4dcb056cd34a7d06d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/crud/users.html
+SPDXID: SPDXRef-item864860
+FileChecksum: SHA1: f8abff2de1bb248b7d2362856c87d2eae4d059c7
+FileChecksum: SHA256: c8496be523dcc47e9bf925ebf6ea86def8fa30dfc8d24c797ca66469ece8b607
+FileChecksum: MD5: 1d381063751efd79c76099f0ff585943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/crud/assets.html
+SPDXID: SPDXRef-item864861
+FileChecksum: SHA1: 73bb857521e9cf89c0bdc5b78b6105387b90cabe
+FileChecksum: SHA256: c2532af3df15a26628d8686beadc147fe121bfba0205ff4db35e42f8bbf11bf4
+FileChecksum: MD5: 1828b3b09a5d16477e78c2a0386161af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/crud/asset.html
+SPDXID: SPDXRef-item864862
+FileChecksum: SHA1: 49fbc3d2d95fbf14e18a4f031fd0a38c87f587aa
+FileChecksum: SHA256: 73123596ddf3e306cf74b2bcfd74b7dc75d19e42b446e57baae8d4f1c1c2e928
+FileChecksum: MD5: d11948e88a3f5a00d1da16ac8193870a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/defaults.jinja
+SPDXID: SPDXRef-item864863
+FileChecksum: SHA1: afbf789c63ea79bf8fa881f3280d95f17a4d82a8
+FileChecksum: SHA256: db284c94240f2404cee1ca085e48efd4de4f27e42e5403764488dfdf99b51451
+FileChecksum: MD5: 5380a5fd0ecba3080e5255a0a9cfa7c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/admin/login_user.html
+SPDXID: SPDXRef-item864865
+FileChecksum: SHA1: 81f94cc6e23c551b2c9fe3445a6ca6f46f59e429
+FileChecksum: SHA256: 8c92e6f6f0dd1ae29e414ed6d7a8efcfe860b45bc314286446abbc102303905f
+FileChecksum: MD5: 57644777f01e155c67ae3561c776f916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/admin/forgot_password.html
+SPDXID: SPDXRef-item864866
+FileChecksum: SHA1: 6eafb0fc59ba5a2229fef75316332c4b986214d5
+FileChecksum: SHA256: 6b913a1046653d1835c983cab51844b1ba5aec35c3b2e88b912b8191d90f53ff
+FileChecksum: MD5: 6dc4f86d50255d56fcd137aa99882655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/admin/reset_password.html
+SPDXID: SPDXRef-item864867
+FileChecksum: SHA1: f570354eb6359a28a85b6d3262366af5fb092b06
+FileChecksum: SHA256: 616e78a89cf742337d16acb67233ac8208470ceab16eb65830be84ed210eba41
+FileChecksum: MD5: b264af9fada9022d6ffee0a55f45a2bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/admin/upload.html
+SPDXID: SPDXRef-item864868
+FileChecksum: SHA1: 2ec24a3eb047ff8d33624c50b4a58ab5968c66dc
+FileChecksum: SHA256: 43cf4ae98a14ab319fd6ac326d2fca03e876922dbf61c45f0c4231d5150eaa5e
+FileChecksum: MD5: 1d5b49340510d778ba5c8a9063efa049
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/ui/templates/admin/logged_in_user.html
+SPDXID: SPDXRef-item864869
+FileChecksum: SHA1: 55bdbf40aab97a10a5e8fff432aafb5e638a3138
+FileChecksum: SHA256: 460a9d9287fae2400c08b2d7abccf45947354c0556b3c36e07d949740f88af4b
+FileChecksum: MD5: b8a10f6a4542a116ba0e88f0f205fd15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/tests/conftest.py
+SPDXID: SPDXRef-item864872
+FileChecksum: SHA1: 2cca06ac24c6984c416315d579ce0dff83e6f9c2
+FileChecksum: SHA256: b7b0b627c85ee238c740ac7497ded18d1a68b57c3c07619937bddf626cfa7451
+FileChecksum: MD5: 328f7f3a15f67d57ea65f37f02221a80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/tests/test_ping.py
+SPDXID: SPDXRef-item864873
+FileChecksum: SHA1: b0bb1b414d20b9687ad85de0b5f8d3c9cfa17c17
+FileChecksum: SHA256: 5f2e8197e23dff2a4a96fa0478a1f0fd341f6bcda34fc8f41bf860750437dd17
+FileChecksum: MD5: 4f2c5d2d4011cfd7d20ff7c5b2110fdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/tests/test_task_runs.py
+SPDXID: SPDXRef-item864874
+FileChecksum: SHA1: 31c6add6780d8be22bc2658ff9ebb59d0040a5f3
+FileChecksum: SHA256: 869fb654b111514fe7e8685278d7db1fc169cc9d9cbd00b8fc63873ea7becf27
+FileChecksum: MD5: 869e2f661c14ad405dc18fb1ce4e31eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/tests/utils.py
+SPDXID: SPDXRef-item864875
+FileChecksum: SHA1: f98b22661a8e22c692da7f30c2dcb91884cf057b
+FileChecksum: SHA256: 9957571be3ad9f228897e2f189e7b451ab960d1ca26908d73ebeb965f76c3118
+FileChecksum: MD5: 74a4325a5af92cc22746c4c4b121c487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/Readme.md
+SPDXID: SPDXRef-item864876
+FileChecksum: SHA1: 1cb7206cd5379bcc24d953a86c8e36254ab0c038
+FileChecksum: SHA256: 2cc8940cf269699e622f18c837d2622d848a07518207410f69b1d7fdc36a6848
+FileChecksum: MD5: 62596c9adf34282d1da5e6edac80d766
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/play/routes.py
+SPDXID: SPDXRef-item864878
+FileChecksum: SHA1: 022a7936f0785b901af8c92d737219fedb90d473
+FileChecksum: SHA256: 9c69af7f380b72470301ec0707810448cc9d0fb4150a3b401423f8fa4cde0454
+FileChecksum: MD5: f1e1874300163ad145dec0801d36cf77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/play/__init__.py
+SPDXID: SPDXRef-item864879
+FileChecksum: SHA1: 4210f29031b5143aea8f870f44125e7fa5350552
+FileChecksum: SHA256: 72789440f14677f0de883a9bc57eced97262a9322ede99e127b6e23f6ee83060
+FileChecksum: MD5: 7283aef6f1b959c07871b9fdcf5e57c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/play/implementations.py
+SPDXID: SPDXRef-item864880
+FileChecksum: SHA1: ae949a5a81ec2a852ff1a853bf6d4fafe4285362
+FileChecksum: SHA256: e69385235016722046ecc0d4e14ca737fd7eb1612d6512edaaeac9ed5fd633f6
+FileChecksum: MD5: f785f78924aa66d7caa1cfb94c885f7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/test_api_v2_0_sensors_fresh_db.py
+SPDXID: SPDXRef-item864883
+FileChecksum: SHA1: ebb4e4343415c3e5f4226fead18f7f442ede59d7
+FileChecksum: SHA256: 4e2ced883032b1254822460fb334f1cb3e7fd6e05cc193ba207d88dd1a480570
+FileChecksum: MD5: 26d4e04318253917bac43f93be47bbd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/test_api_v2_0_users_fresh_db.py
+SPDXID: SPDXRef-item864884
+FileChecksum: SHA1: 260be2b25d7d47dd3dab50becba5bb4adcbe2804
+FileChecksum: SHA256: 42aff40cf51665219a7120ff103fc4c2216ba7d4082037dfcc400ef659f0db61
+FileChecksum: MD5: 54d263db1354b39f93003ae20d974c9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/test_api_v2_0_sensors.py
+SPDXID: SPDXRef-item864885
+FileChecksum: SHA1: eb1f285d928b3b5e2cc2169520a09a9ab3ebe023
+FileChecksum: SHA256: 258f30f22e1fb59708b8665e9a0025f913196d7f22b7643f2416922b2fadc8c6
+FileChecksum: MD5: 8e826e35fce731b725e12950187d7321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/test_api_v2_0_assets.py
+SPDXID: SPDXRef-item864886
+FileChecksum: SHA1: b9db9ecb1aa8efe68d975d9b7a8c98a14a3b6c66
+FileChecksum: SHA256: 2185a26e181f6b62ab43751b000e525a7d665c207c1ec14ec72a35ee655e6727
+FileChecksum: MD5: b41c76e5e50566a43a85ff662977d5c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/conftest.py
+SPDXID: SPDXRef-item864887
+FileChecksum: SHA1: d4267805f3d6063c8e976f3baf5307c8fe2603ef
+FileChecksum: SHA256: 773e9d020db2b5b9bde67f2a240038b7b617aaa7c5e566f70112d97b33b63330
+FileChecksum: MD5: 0215e433beeae347dc248ba0fadb5ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/test_api_v2_0_users.py
+SPDXID: SPDXRef-item864888
+FileChecksum: SHA1: 416d0634784b0194a59cc5a972d6ae57d7135aa2
+FileChecksum: SHA256: 8c9a82cfaff50ceee32acffa78c438cc3bd8ceb8f2048f3bd5451c17886d4d6f
+FileChecksum: MD5: b5b76b4e8dd2436bffebfc896d90aaef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/tests/utils.py
+SPDXID: SPDXRef-item864889
+FileChecksum: SHA1: 2596ce54bb6b3b689f07355dbde207ca13e6c446
+FileChecksum: SHA256: c53fcd5ba388c71e0a8203897700ea4168f8a847518981c738f7cd067f370b26
+FileChecksum: MD5: 7e020c1af729fe8014b4069b6ab4fddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/routes.py
+SPDXID: SPDXRef-item864890
+FileChecksum: SHA1: 6070b850efbb7b59fc5aebdfdcc1ed2629487d5f
+FileChecksum: SHA256: f80d89165f10e2893395b33f9a07830cdd5da82702bb825e66d171aec0bdc52f
+FileChecksum: MD5: 54f186ddebdf2a3d93d5ee2c835f3784
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/implementations/sensors.py
+SPDXID: SPDXRef-item864892
+FileChecksum: SHA1: c77849692d9a1a28faeff9f1909f99c60406071c
+FileChecksum: SHA256: a14b4e434824e322e553d9278e58b371a8cbb973309e3af4c45da3519ac9df55
+FileChecksum: MD5: 57d120421b58e783f27d8417df962e76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/implementations/assets.py
+SPDXID: SPDXRef-item864893
+FileChecksum: SHA1: 29c96ae1b22823c3602be10c9a71850c4a972862
+FileChecksum: SHA256: 2d5bd427e5948659310d4696fab4cd3cfd9871000900746f3dadc1378366ba65
+FileChecksum: MD5: 3a1996011250aca1601db310dc89fab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/implementations/__init__.py
+SPDXID: SPDXRef-item864894
+FileChecksum: SHA1: e88020ea71a5a01049467cac1b59bd6ea3e81e9f
+FileChecksum: SHA256: 8d2be492d65fbbc1fedcb9317f9490300309100bffe788c7914eeb4cba477ccc
+FileChecksum: MD5: 10550c3100a4290d56daddc7e9312cf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/implementations/users.py
+SPDXID: SPDXRef-item864895
+FileChecksum: SHA1: 220dab3e7f01c390458897764ebf51f9e7978258
+FileChecksum: SHA256: 4cdeca6d36d8340f3337fd4d917ea76797436da27a9694bbd5dae96eccd5201f
+FileChecksum: MD5: 84f9c9c5bd4789597f86c18a583aa496
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v2_0/__init__.py
+SPDXID: SPDXRef-item864896
+FileChecksum: SHA1: a161940e779994463422c4de1f856638b5636dc9
+FileChecksum: SHA256: 1a091152fd1dc2f414de49c73f8ab848d1119a2742c6564b494538ab70bd25a7
+FileChecksum: MD5: 0d15e871d911e89450be50663ab29970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/routes.py
+SPDXID: SPDXRef-item864898
+FileChecksum: SHA1: 04fb1f9ab3f557e4d1e07c0c441abd90d4f139aa
+FileChecksum: SHA256: 32ee20c425c41de15c84cff4d8c80680cd13df4f7b5d3704c6c776e979031e89
+FileChecksum: MD5: 709dd282f8f1e0b2c8dfe5d39a7028ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/utils/api_utils.py
+SPDXID: SPDXRef-item864900
+FileChecksum: SHA1: 7befebb70188aae87df14bdab54057cafc45cd14
+FileChecksum: SHA256: 86e26320575069ded7ca22933b0996c2f81e6125160b8260dedcc63532a81c2f
+FileChecksum: MD5: 0afe8102056578ad5c0fc824b139864c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) for c in connection] except TypeError: connections = [None] return connections </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/utils/__init__.py
+SPDXID: SPDXRef-item864901
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/utils/decorators.py
+SPDXID: SPDXRef-item864902
+FileChecksum: SHA1: ecb3e56b1644e5a638fd28fcf601c65caaf80033
+FileChecksum: SHA256: d0b6c3a0b356a36e53f4c02b978f6a4c19b9d419d612040345411c7cab659838
+FileChecksum: MD5: fa10e90f41d403158a50ad4b8e7edc30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/utils/validators.py
+SPDXID: SPDXRef-item864903
+FileChecksum: SHA1: 588bc824aa1ce46d570ff5a73aec46ee265ab155
+FileChecksum: SHA256: ea71bb5020e4a7fabeeba6fcc0f2b2ab87f04782b6c610a4757a9af3d9d0a77e
+FileChecksum: MD5: ef5fb1f9454d32a4af8f244aa60d3116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/utils/args_parsing.py
+SPDXID: SPDXRef-item864904
+FileChecksum: SHA1: 6059d6b4b55fd0126b0b1f7a4489bfa753705e81
+FileChecksum: SHA256: 15b0943a69b7d89b262c9c8cab58cb191e53e9406a399456201fb0b7b05862d2
+FileChecksum: MD5: aa8898a31907480837547ef6f2436350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/responses.py
+SPDXID: SPDXRef-item864905
+FileChecksum: SHA1: 87a6424393e6c3e6cb059a1bf3caf5c08fdfcffa
+FileChecksum: SHA256: 085f03b3cfff20a01610789ac26e4c8bf3154e7aad512a24aa955327c8d0026d
+FileChecksum: MD5: b2321472ef644d269da2ef893483fcb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/schemas/tests/test_sensors.py
+SPDXID: SPDXRef-item864908
+FileChecksum: SHA1: 53659845408629c8812ed9a0afbb1c78fe872a83
+FileChecksum: SHA256: 03f078bb51dba97f9adae5dd3b6518eb28f9d95db3ed6e4b345f30e049da3284
+FileChecksum: MD5: a4b7d9e65d85c6cf4afbf46a552a4ec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/schemas/tests/test_sensor_data_schema.py
+SPDXID: SPDXRef-item864909
+FileChecksum: SHA1: d886f891feab48371e282743f90e6a794d991d64
+FileChecksum: SHA256: 85d9c794a88b0f55e0a34749eeba057211d34b212cea57e93bbe79f5acda9b77
+FileChecksum: MD5: 307a0b308dcb1fb2049d465e93e44e31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/schemas/sensors.py
+SPDXID: SPDXRef-item864910
+FileChecksum: SHA1: 10b29fb1f787a1391ebe8dce71c1c1825dcc8042
+FileChecksum: SHA256: ea06499ed0a785b8dd26b743eed657aadfd5ca0e7193f0b282ca44ef45c9a9d2
+FileChecksum: MD5: 1543c0862f33c73b615f4ddf534ba834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/schemas/sensor_data.py
+SPDXID: SPDXRef-item864911
+FileChecksum: SHA1: 2895126ca452ed566346b3650635325827f0ee25
+FileChecksum: SHA256: dde7039aa681915c3d1d8e85d03b17d39ee9d8948abc262fb27fc595739b865c
+FileChecksum: MD5: e1ab9dd9323b42d0638d0ecb8c6adf02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/__init__.py
+SPDXID: SPDXRef-item864912
+FileChecksum: SHA1: ea924aadc78c948dcf28962e7fdfc81dd877f448
+FileChecksum: SHA256: 1e6404e398fed8e96c1efd1d7a6037c0f1904c885f3b6105a0765fefdcd64743
+FileChecksum: MD5: 271b6c3b411a0a2236000dd9c8febf93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/common/implementations.py
+SPDXID: SPDXRef-item864913
+FileChecksum: SHA1: 1f7229c5c1633d35b739af62e231cad84c50aa57
+FileChecksum: SHA256: 2c9f4ffa223bf4ef60ac7726f6a46c27f3f948685a37df4cc89eb8d737112943
+FileChecksum: MD5: 6536ddab8585e1532c988ce4c10d9ae7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/tests/conftest.py
+SPDXID: SPDXRef-item864916
+FileChecksum: SHA1: abb214b79595f72de01f31416ec4b7799346d61e
+FileChecksum: SHA256: 9167221d29fd1163cbb77d2dee8957882f55b1f136792d64a51144164f77f539
+FileChecksum: MD5: 7733bd7bd707b8f294e59a4f640fe656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/tests/test_api_v1_3_fresh_db.py
+SPDXID: SPDXRef-item864917
+FileChecksum: SHA1: 2cc535b5e39de5ba68abd10af1c412923a53078c
+FileChecksum: SHA256: 2c804d2f830a7d595d321cec5d25d8c5f14fd453aa4d2f5fa694b8c158ab9090
+FileChecksum: MD5: 097ce1621a3cf4728ce7dc953dc2467e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/tests/test_api_v1_3.py
+SPDXID: SPDXRef-item864918
+FileChecksum: SHA1: a4537ad2b80f5bcf10a8219d4ce5fc62df197240
+FileChecksum: SHA256: 6b57d4b498e1c3b0d6080c91a02a2ea16f1e3e95694ea16d65fa568a3c1f9075
+FileChecksum: MD5: 90cf83be678dbfb26d83c38a03548854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/tests/utils.py
+SPDXID: SPDXRef-item864919
+FileChecksum: SHA1: d2293ba443b0259d0e8405ccd18a8f313fcf8fbf
+FileChecksum: SHA256: 03e6536daa0e72ca4fa8823847a686ed51baa60179db52ac3a50657da32c97a5
+FileChecksum: MD5: d24073f5b2e89eb2d51a44488d9ab830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/routes.py
+SPDXID: SPDXRef-item864920
+FileChecksum: SHA1: ac0ae427112e55e363893f3d8a2782bc0a75f3a0
+FileChecksum: SHA256: 49eac092dfc63309c0e71c5dbe26a0a1f00480e17c0fa762b7491c1a618d118f
+FileChecksum: MD5: 831855b6f9079854c7b76912343a399c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/__init__.py
+SPDXID: SPDXRef-item864921
+FileChecksum: SHA1: 8b37137b356c9e065c79b79308b7ac999e7f00d6
+FileChecksum: SHA256: 01c7038efeceb9c1f2950c2beb38f993240792d19b1af45d89c0042f0d409e28
+FileChecksum: MD5: b1cb0bae5501f5e94735048227a4f78d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_3/implementations.py
+SPDXID: SPDXRef-item864922
+FileChecksum: SHA1: 6e8054a2e5e47fd25e6f2935dcffaf1faa71e45b
+FileChecksum: SHA256: fa258a8bae34a2950361aec81ecbbf53fa2cdef5ccc2b82cc3e24fb31b4606c9
+FileChecksum: MD5: 6ead26cf291f0e4b67220d50c6d4d0ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_2/tests/conftest.py
+SPDXID: SPDXRef-item864925
+FileChecksum: SHA1: b5641b0e12034579b821306c8b3a1d9d07bd4199
+FileChecksum: SHA256: 421ac098d1fc140a87d45bf435db9e728821d5c59b49c8a20ce4a7257fd2a47e
+FileChecksum: MD5: 86641c107b77342efcb4ecc1428ac0cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_2/tests/test_api_v1_2.py
+SPDXID: SPDXRef-item864926
+FileChecksum: SHA1: 0eaf17fd7f42d2da32bffacbc231d601112860d6
+FileChecksum: SHA256: b6db1169d2cf44043179729ad911aeedac29c3fd427ed5946a658a9da8fecbf3
+FileChecksum: MD5: 1b45143bb820011febafc16627c984b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_2/tests/utils.py
+SPDXID: SPDXRef-item864927
+FileChecksum: SHA1: 2e9861fb7fa26f5983e867e195c94baaa3d29fd0
+FileChecksum: SHA256: 50b977771eec13996352587848ea3b5807905e1e93017c2c0c4689f9a3bfc33f
+FileChecksum: MD5: 277d1913cbf19fb5c001df4ed49bfd1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_2/routes.py
+SPDXID: SPDXRef-item864928
+FileChecksum: SHA1: 191052b480de0318b35dc3b72c7bbd8e7a03ffb8
+FileChecksum: SHA256: 7cda3a3898cc0cb7f50afddf2bfa8f390ffa30160a16337284649f2e8ec0e67e
+FileChecksum: MD5: 81f3dd4daaee723a2b0b389f788532e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_2/__init__.py
+SPDXID: SPDXRef-item864929
+FileChecksum: SHA1: 2bf61dbbbc8ca2b1a19a1a13995261bef2fa710b
+FileChecksum: SHA256: 7c46b38e135f06e629f7b2ce4fd6d865045cc6ec746ae0e0ad56d98d7932286b
+FileChecksum: MD5: 80889bc9bb572e8c7b90add0177c6cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_2/implementations.py
+SPDXID: SPDXRef-item864930
+FileChecksum: SHA1: 69a749b9c3cb386180137afa8991e5ab9bdc5d40
+FileChecksum: SHA256: cb8936370a8f7b378be3a400930230bf24c106f846b7c1036d08a8d58538efbe
+FileChecksum: MD5: 0316319b9dc19a6043c4921a2de14d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/__init__.py
+SPDXID: SPDXRef-item864931
+FileChecksum: SHA1: eaeffddbc0919a7a4722e5583799280e1b2706d7
+FileChecksum: SHA256: 01255135216d81b4d9913c183ed2b40351d53d226187d9bc07827a912f0421bd
+FileChecksum: MD5: 6b76d93db35539d540cda2919e22637e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/tests/conftest.py
+SPDXID: SPDXRef-item864934
+FileChecksum: SHA1: 57c99403c504cade8324ce31d3913d206ca4905e
+FileChecksum: SHA256: af2cb3dcd86f82a5346ed5c83d76b93c90663ae48eaa644c1d48ff7c7a55f519
+FileChecksum: MD5: ded752434a86d2b05b7bb63d592ce425
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/tests/test_api_v1.py
+SPDXID: SPDXRef-item864935
+FileChecksum: SHA1: f248d14d816be6a8c5bc0d67cfd8ba2167a45547
+FileChecksum: SHA256: fbf146f1e529f7fa721db11b8d6f0c403e649eec8a9632057006f354f234df20
+FileChecksum: MD5: 6f1b7c4f7be854e4d00a0871475be827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/tests/__init__.py
+SPDXID: SPDXRef-item864936
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/tests/test_api_v1_fresh_db.py
+SPDXID: SPDXRef-item864937
+FileChecksum: SHA1: ec256e9ce9308f265708465ef00d08541add3bbd
+FileChecksum: SHA256: 50efc6eb9b9d3f96df67478941677d8dcb06d07331347c773e5d33b0db276c25
+FileChecksum: MD5: 2a513e291c05be088ce3b7af6bed0861
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/tests/utils.py
+SPDXID: SPDXRef-item864938
+FileChecksum: SHA1: 1c1eaea3e860a50d053b1785ec61b54fb49398c7
+FileChecksum: SHA256: d17d9e5c5ccb39aae96237669919991b1d6daea666acb75c1c30dd98f4c60d3c
+FileChecksum: MD5: 2d9d2be299379ac76bf23aa32d15a4b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/routes.py
+SPDXID: SPDXRef-item864939
+FileChecksum: SHA1: 058c3fcf301c47fef33b9d5c9e30ca898bb5945d
+FileChecksum: SHA256: 8edfc954ac56445fc25359ca41e8582240a461f53fe2d86af3f34f75314d592c
+FileChecksum: MD5: 5ddcbb126bcea542fc5dc425b128a2a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/__init__.py
+SPDXID: SPDXRef-item864940
+FileChecksum: SHA1: 950c4b4e9b2bf3801af6d92521cd2d5eac8d87ea
+FileChecksum: SHA256: 634c65b61a05e806da29d329805976acc7c85b93bc1ce30296fc3604fa02b888
+FileChecksum: MD5: 359674f125ab712a011e16d81364d82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1/implementations.py
+SPDXID: SPDXRef-item864941
+FileChecksum: SHA1: 60bbc049e4313aa5318805889eb74e02d553d9d8
+FileChecksum: SHA256: 3e7bbbd38602d8cd5f59f09fd80a6c1d8bd7f8aaf47f89fd0aa18e72354ab983
+FileChecksum: MD5: 2a6d72e344d50addb7b69b4186203630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/tests/test_api_v1_1.py
+SPDXID: SPDXRef-item864944
+FileChecksum: SHA1: d7e3704b0575f94e18a773b9a54cdb5b2f7e7c76
+FileChecksum: SHA256: 7281304c3eaa6603da74d64456d2e35bccfb716143e40295d34fe14be25c75e7
+FileChecksum: MD5: ad05ebf8c510ea39200057a126b929c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/tests/conftest.py
+SPDXID: SPDXRef-item864945
+FileChecksum: SHA1: 2659d31b444eb4ccc4ecfd754900b9eae6445e65
+FileChecksum: SHA256: 32ba155192a9b1a3e0d7ad64ba730aed333d8b064369e2e70715513e0d1a7aef
+FileChecksum: MD5: 75d9a312ce1c565e1f5cd1ad8f43ae72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/tests/__init__.py
+SPDXID: SPDXRef-item864946
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/tests/test_api_v1_1_fresh_db.py
+SPDXID: SPDXRef-item864947
+FileChecksum: SHA1: 36a91b193c1d368d2df1a1919cbe6bc8ba8c3bea
+FileChecksum: SHA256: 7e52399cfe05a19b8afec45d2314478ac84941dc7f84282e31c365c48bd57c3e
+FileChecksum: MD5: dedb1614c3537b6459895deed7807f96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/tests/utils.py
+SPDXID: SPDXRef-item864948
+FileChecksum: SHA1: 7c3fac90bd47b4b101bb9486865a54c84ee2711b
+FileChecksum: SHA256: 3f04674a5aec426744dcb1e0eff3605f0333ee1aa170f98e8e9f55a95ae2be10
+FileChecksum: MD5: c1037a8e7e153f89aa6c8226e4252e43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/routes.py
+SPDXID: SPDXRef-item864949
+FileChecksum: SHA1: 0b8cb0d6c61411a1e1e3e18e107451710038864c
+FileChecksum: SHA256: 29b87a05a3c05ade0f391435915711f19df7e6fe8adcf6ba34d895bafb3dfbee
+FileChecksum: MD5: 25e0ac118576c0972fa8709d0292b613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/__init__.py
+SPDXID: SPDXRef-item864950
+FileChecksum: SHA1: 1b79661982424046c3cda9f522c718ffc9f10575
+FileChecksum: SHA256: 547061858ee22d64af29fca10b1d94efe434bcf1a0ef56cd15a4eb0262db931f
+FileChecksum: MD5: 6097effb527a568178f7d8ce207dad8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/v1_1/implementations.py
+SPDXID: SPDXRef-item864951
+FileChecksum: SHA1: 9a2da8444d370481b6b10cc740e91325e913abb3
+FileChecksum: SHA256: 46dbd224b2ee3d8dce534a8c931b35232f463ce1bab47ca442b65c3762989c3c
+FileChecksum: MD5: daac0093bd151a3b7494522c15689a66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/tests/test_sensor_data.py
+SPDXID: SPDXRef-item864954
+FileChecksum: SHA1: f71935a19403ee5e7cfa9fefba13a7e89d1edd38
+FileChecksum: SHA256: b1016a9b31d11ec847a34db6b4646e75c48eadfb47d84f8add33b53c8eee41e7
+FileChecksum: MD5: d45979a0c605df1475f4f67f1b3a695a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/tests/test_sensor_data_fresh_db.py
+SPDXID: SPDXRef-item864955
+FileChecksum: SHA1: fd12e9a1fec9b2d30cee97ff1919d5b453309b24
+FileChecksum: SHA256: de30c0ead94961f42f725558a18f8826b5cb23a636f870fd9ccac84585395150
+FileChecksum: MD5: eb42ab55573be1872e644052fbd26484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/tests/conftest.py
+SPDXID: SPDXRef-item864956
+FileChecksum: SHA1: 0922900b94a811951ad60aff93d9e2d78f2a7e71
+FileChecksum: SHA256: a1e8c3c128e90f48921a251efbbb08ead178e5f162e082f297a2ad50a6a96476
+FileChecksum: MD5: b60151c2ce29761d40d5707398ff5465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/tests/utils.py
+SPDXID: SPDXRef-item864957
+FileChecksum: SHA1: aebeb4bfaf49bcbba280e7d1653df1870889894b
+FileChecksum: SHA256: 9dab8a2edc261657529cd1bdda158872e44fdfd66beb0d90182f14a6db9b6e5c
+FileChecksum: MD5: ae8d6bd80d60a6c632945f7615726729
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/sensors.py
+SPDXID: SPDXRef-item864958
+FileChecksum: SHA1: f142c0130d94894b167bb6bfcab82c4d2b82976c
+FileChecksum: SHA256: 1c80a33832dfbd4f46b64932c1723104e07c4d28be180994a7e0cdecdcc984e9
+FileChecksum: MD5: 69100be4fc80f4daa67dd5b6155dcb54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/sensor_data.py
+SPDXID: SPDXRef-item864959
+FileChecksum: SHA1: 4f08bcac89ce3296f9ce7a5018c759a0964e33c4
+FileChecksum: SHA256: 772e014b508a55077b9fca6572efcaffe46cb8e990a8a6a0200acd6c9595e4ca
+FileChecksum: MD5: 6e967604fad1e94550b8f7919266b220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/api/dev/__init__.py
+SPDXID: SPDXRef-item864960
+FileChecksum: SHA1: 34cd9436e9c2a2f7ea2c74f449f102e40cac3129
+FileChecksum: SHA256: 8fa3db42f132198cf9a9a2c140f7e74a3224de1e6722117ccf4e7e10ca26ab81
+FileChecksum: MD5: df68c19536304a973038b1aa38ddcc27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/templates/security/email/reset_notice.txt
+SPDXID: SPDXRef-item864964
+FileChecksum: SHA1: fdf0644ed4a71d64926f389166931584e3a5e9e7
+FileChecksum: SHA256: 2db5ef1c9d7cd6c43c94a509ccac43fa03ed94d3e78d8ce6c336974a19a53a54
+FileChecksum: MD5: 9a837d7775e5074cf1c7af77e901718d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/templates/security/email/reset_instructions.txt
+SPDXID: SPDXRef-item864965
+FileChecksum: SHA1: a0b4955ce980aa3b9a6b6e19862a47ff5022d667
+FileChecksum: SHA256: 87662df06cc1fdb0519257307ad79f4f1111df0858bddb8ac8476bba3a6f5550
+FileChecksum: MD5: 9a1693a934810a8b0163566e61782e42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/templates/security/email/reset_notice.html
+SPDXID: SPDXRef-item864966
+FileChecksum: SHA1: 75486d1ecd847c6d2b47833d7cb5e489a56c2c48
+FileChecksum: SHA256: 4c5319cdf396ba3af2facbfda1cfa11134c4cb161e2db9f52d7cfaf2625c9ce1
+FileChecksum: MD5: 9ba1bdb7e57ce85f0ceead61ea2eb0f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/flexmeasures/templates/security/email/reset_instructions.html
+SPDXID: SPDXRef-item864967
+FileChecksum: SHA1: c6d0f9974884f292ee5d3cc91286c349e2a32404
+FileChecksum: SHA256: b8070529d7bdf7266ac716a70cb972c8996f515688d16ee93d4cca5141a4a45d
+FileChecksum: MD5: 642dade501eed38c9f841647c3cdc61b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/Makefile
+SPDXID: SPDXRef-item864968
+FileChecksum: SHA1: 9ad2ce659580be2270ae534cedc6451733947f8e
+FileChecksum: SHA256: aadb49ce9afa66bb615e39afad6b2d4782f8cb8a4447df2b301907bb47feed55
+FileChecksum: MD5: fb1c694c2e6b3b58ab9e049095e7099a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/Readme.md
+SPDXID: SPDXRef-item864971
+FileChecksum: SHA1: 34537cef5fca8df61462677071724198fad58cbf
+FileChecksum: SHA256: a5c08bb2cc052df79952b27332512be081b6371f5c7165798f3241bd0557cee6
+FileChecksum: MD5: e108d698d86e33cbaf477d72021348ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/app.txt
+SPDXID: SPDXRef-item864972
+FileChecksum: SHA1: 3f5779e8216f5228a1f0cc97cbd3ed3f78ebdd0d
+FileChecksum: SHA256: e6a02769812f44042d22311b33d87381520b8bca4946758171db1b299563fc7e
+FileChecksum: MD5: 1f474131a550e82f1b00969d7b10eb25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/test.txt
+SPDXID: SPDXRef-item864973
+FileChecksum: SHA1: 3acc43319274023869241b8b26241b46a51f9946
+FileChecksum: SHA256: a71304a649264563227c63fa046c9a1ce3d51a9eefe0075ef8fc36c98ec6d836
+FileChecksum: MD5: df5dc2e84115d316d5fb05c708a3f239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/app.in
+SPDXID: SPDXRef-item864974
+FileChecksum: SHA1: cef8a2ef62a65975daf9526e80dd8b7523ce91b0
+FileChecksum: SHA256: f65c283a87642d8575290b64769a2bc63741df4ec8f1088a167448b90723a34f
+FileChecksum: MD5: 74894930cfb62f818d7b455f03add78b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/dev.txt
+SPDXID: SPDXRef-item864975
+FileChecksum: SHA1: e5fda292aae5aac0b60d1f5ce8e7b777dc5f4b2a
+FileChecksum: SHA256: 8ae9f8482a2f56216392ee7fdcaf3ca610a1803e4b2d2e3666bae2363de47083
+FileChecksum: MD5: 4efbcea741c2462972d04475b7bb027e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/test.in
+SPDXID: SPDXRef-item864976
+FileChecksum: SHA1: 02d171dc5a30a4d1f1330a043f2fab13fd19fe17
+FileChecksum: SHA256: 8462141e9c78315621ef761b8c2fd3a2a9dca6b2d78432152bd328fbb7fc95a7
+FileChecksum: MD5: ce5b9af6018810e8e54ec92d0e34c797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/requirements/dev.in
+SPDXID: SPDXRef-item864977
+FileChecksum: SHA1: d52037d093b5664f0afc75d4b07c6018d4140cd1
+FileChecksum: SHA256: fbc47600a1e0a8f323f137701baec2180002ee8aa944863550d04a1761bbe93a
+FileChecksum: MD5: 79c20d5df33fba59a8a059f9f4cfb71a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.github/issue-branch.yml
+SPDXID: SPDXRef-item864979
+FileChecksum: SHA1: 4e4a6193a3c1515335a29f94450a44eee00f4aeb
+FileChecksum: SHA256: bbf61045f7e99d5371b51f42f127135341c7343cca77b7e16470db6b99e11938
+FileChecksum: MD5: 7715a153f8ba3a266bad5389e02649b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.github/workflows/deploy.yml
+SPDXID: SPDXRef-item864981
+FileChecksum: SHA1: d2e1cd15c59d23cd1a8190b8d28c830c8f5cce60
+FileChecksum: SHA256: 6e454799288cae2db0a284ddb558696424ea7c467b94127ded95420699a9ef10
+FileChecksum: MD5: 9e69cd2017e7255efdb709c846a7b27f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.github/workflows/lint-and-test.yml
+SPDXID: SPDXRef-item864982
+FileChecksum: SHA1: 112ae1c117b575cf66d24132b4f83ffea3951db5
+FileChecksum: SHA256: 22fd8d05c15911125a479e04140d998bf2ec80f42c025c27e032425f86260409
+FileChecksum: MD5: 01a25604f5c700a7153453e80fc8ef70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/setup.cfg
+SPDXID: SPDXRef-item864984
+FileChecksum: SHA1: 3f5307a44a8cb0b8c3c5453a169bf195fd8005f8
+FileChecksum: SHA256: 08bb58242ff3e6223c3ea6da8e92cb28699488a978ed2bf6db9263b81f6da92a
+FileChecksum: MD5: fc2c6d8a41de57ec5c49e52179a11fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.flaskenv
+SPDXID: SPDXRef-item864985
+FileChecksum: SHA1: 5bb541d81f815e1ea14126c50f74477a092f7a82
+FileChecksum: SHA256: baeb4aff8ae53a1b79cac10f3021cef06d8ba892d69e9a8911eef79f1e1b7682
+FileChecksum: MD5: 613ffba0d4c882e46cacf7df29eb458c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.gitignore
+SPDXID: SPDXRef-item864987
+FileChecksum: SHA1: c812ba0150696b6d2a82b90d41efede1480e838a
+FileChecksum: SHA256: 0f50daf7efa10f1e6490aedd827a4eae593934d2e4c0d502404de31de2365311
+FileChecksum: MD5: 96ac2df6ab58804cd2966bb79e53e80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/to_pypi.sh
+SPDXID: SPDXRef-item864988
+FileChecksum: SHA1: 74b265ba44cc8e49ab3491b9ef7096763ffbd57e
+FileChecksum: SHA256: e340afefa38306257300420cfce64845085fe0dd1f672b027a4e68120a3ce03d
+FileChecksum: MD5: 438eef1de2568da8197d599dc2eeeb71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/cli/commands.rst
+SPDXID: SPDXRef-item864991
+FileChecksum: SHA1: 4d8b95133c3677bfe44111b558db7c091d1cf56d
+FileChecksum: SHA256: f5f4bc1c74b9815c3ace3b4bf17f6fda606ae5a09fcda558ad53656c1c3c1951
+FileChecksum: MD5: 4a64d969bdff59db5f1c38bf6fe28b9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/cli/change_log.rst
+SPDXID: SPDXRef-item864992
+FileChecksum: SHA1: 83e14b956b964d43648a79f297f25d23c3552a58
+FileChecksum: SHA256: 737487e612d056f8f77ba09a5352721dad13def0a4e8cd225b61d03595aae436
+FileChecksum: MD5: 838adf21ce44bc32291e80914e407f58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/Makefile
+SPDXID: SPDXRef-item864993
+FileChecksum: SHA1: 07491f30f1caa2634222c74515a15d534d98a816
+FileChecksum: SHA256: ab2cbba4c0026d697063fd6280533f362b96c6d88ecb0e276ae6a58d61530d6a
+FileChecksum: MD5: 5ae640bd1aadf7f32093ad39f08da983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/index.rst
+SPDXID: SPDXRef-item864994
+FileChecksum: SHA1: e9d78375b9f660d7861aef42f3f5343d5aef2188
+FileChecksum: SHA256: 315091b3355a33449df310ab45fb29d809aef33282f2e5e956af742991f2a118
+FileChecksum: MD5: fd6951dbf784f224b4eb4b03afbc30b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/make.bat
+SPDXID: SPDXRef-item864995
+FileChecksum: SHA1: 9eb90fb0fa31ce32aad0a42b16fd1ad309edafac
+FileChecksum: SHA256: ed3b598327a6e640444146a19cdca4c772d810f9a137ec7383df5653b728b4f7
+FileChecksum: MD5: abb4710594cf9241289a55d7b49ba000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/getting-started.rst
+SPDXID: SPDXRef-item864996
+FileChecksum: SHA1: ae67f606da4b5581c2c01cae2f250be63d77ec3e
+FileChecksum: SHA256: 4e784f3a8102d6f364a65901cef45e17cc8250d562fbee7c450575ff9188856d
+FileChecksum: MD5: e797ac96518a38c8116a039ccb21c917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/requirements.txt
+SPDXID: SPDXRef-item864997
+FileChecksum: SHA1: 10b5b3d0c56ac0b3b3f79c9960669373b8340e1b
+FileChecksum: SHA256: 5a47b9873e826b1ca2871f61fd248e404bba12f76d274e0fabae1e7257718f29
+FileChecksum: MD5: 7010ab8ad2f0d9cab2c70f1c5412b2a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/source.rst
+SPDXID: SPDXRef-item864999
+FileChecksum: SHA1: df9f21f2ac03b8550fcc4b645a2f71a35243d905
+FileChecksum: SHA256: 81580795751598682a709f90022410356534512252196646a0766abab65cc29c
+FileChecksum: MD5: 8e3924cec32c5a4e0ffa43fcebd2bf9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/tut/posting_data.rst
+SPDXID: SPDXRef-item865001
+FileChecksum: SHA1: 02fb6d234630cb5816c9a627146d287d2a1c0a51
+FileChecksum: SHA256: 0cd25e3a385f46a3a432cd48b17cbed2cf35301587890f068f22a1f2c0ce7b69
+FileChecksum: MD5: 4d450ffed39623ce2fc9293fc2842190
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/tut/building_uis.rst
+SPDXID: SPDXRef-item865002
+FileChecksum: SHA1: 7f2afdd85f45355bacd21070a0ee419f367aaf77
+FileChecksum: SHA256: cde002db5c8256c8c47fd739d145be48bdb3ec0ecf9f5b77445ebb937e436485
+FileChecksum: MD5: 2862045f45d6988b2701cd2071a439da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/tut/forecasting_scheduling.rst
+SPDXID: SPDXRef-item865003
+FileChecksum: SHA1: 8bd04cb763653bd9e7dded550b5dc2a1fff8d55a
+FileChecksum: SHA256: dccbc992f25ff18423085ce04d145b3f0f69901c91bcaa87dd69962772e1773c
+FileChecksum: MD5: b2b7b9acb683362d0b4070d862f6f53c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/views/admin.rst
+SPDXID: SPDXRef-item865005
+FileChecksum: SHA1: 8dddddc3f31ec298c467eb0a8db1ac4f46d69143
+FileChecksum: SHA256: b1a5a5a883428f60efcf6bb7f9aacb172282abe0da4f7181558bea8104c2767f
+FileChecksum: MD5: 666a18cc2bb6e0875cec69d47c923b00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/views/dashboard.rst
+SPDXID: SPDXRef-item865006
+FileChecksum: SHA1: 3ea3162ce993e2405ad1e4b5a5ebd7b4f32c4bf2
+FileChecksum: SHA256: 366b421d05bd0204462f154ff5ed0a2c12bb079820e8b171e86484193c74c76d
+FileChecksum: MD5: 7d10048efcc6de7d4ba34e94ee995929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/views/control.rst
+SPDXID: SPDXRef-item865007
+FileChecksum: SHA1: 084f746c6d578124071243627db758cce587362e
+FileChecksum: SHA256: 6e19ca0c661ede96fb4741b9d9488759dd55c4af129d30fbfa0efb1332378c1a
+FileChecksum: MD5: c16ff3f2ae68348534dca29b81a60867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/views/portfolio.rst
+SPDXID: SPDXRef-item865008
+FileChecksum: SHA1: ac4d8b3f9fe22a6b175a403cd141b84e4d8862a7
+FileChecksum: SHA256: 622f5e9c01f0c37c8bb9b0560490da8cd921191a625070533e1c48b668828c4c
+FileChecksum: MD5: 09d89404cd21373fe5dd6c2b34b10301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/views/analytics.rst
+SPDXID: SPDXRef-item865009
+FileChecksum: SHA1: cc1b16ab56eeb65775c5aca672277ad2dd331eaf
+FileChecksum: SHA256: c9daae45b38f0c0b977d473679e8a65f109565f561de36e1c9c7e6104647894f
+FileChecksum: MD5: 302bd0c60829c96b11c6db06061ebb50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/v1_1.rst
+SPDXID: SPDXRef-item865011
+FileChecksum: SHA1: fbb48b33b5a2b2c07198dc845ac12af87390f099
+FileChecksum: SHA256: 2e87952d11aa6efc19c7928b8aedd847743d69bcf9f789a900cede834474e413
+FileChecksum: MD5: 55e46c5082b6f2a47410a6ea3601dea5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/introduction.rst
+SPDXID: SPDXRef-item865012
+FileChecksum: SHA1: c2465edea357661b49471d7285fa2c4f8b7f5141
+FileChecksum: SHA256: 45131595e3352797fbb8e1830f306680feaf824fae9e00bcfb16a4af2de5b380
+FileChecksum: MD5: 1e41e6e44fc4035c83d4d4fb6c623646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/v1.rst
+SPDXID: SPDXRef-item865013
+FileChecksum: SHA1: 5ef5fb558841b5bfc6fd8d4aaeeb782f80c2526a
+FileChecksum: SHA256: 0b89defebef3d30f351ce46978dd83c90fd4f0e7ba3ae15f3326fe1050ff8ee7
+FileChecksum: MD5: 08249dd2589dc0758d8be95e3c7cd1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/mdc.rst
+SPDXID: SPDXRef-item865014
+FileChecksum: SHA1: 823561c46e1cba59890fb0870bf8b1a196b90c2a
+FileChecksum: SHA256: 6637077bb4fdff96931e1160c791f614456a5cd473ae8c2a87b664f6de6765d5
+FileChecksum: MD5: 22e2eb28563598f39f891f97ed15e562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/prosumer.rst
+SPDXID: SPDXRef-item865015
+FileChecksum: SHA1: 0b60b9d678abbe72f67ecbe943e08528fc381051
+FileChecksum: SHA256: 22f4a01fb41ab67eafa0a630a2cf5c07e13661be5383686dfbb7b61f6e5be80b
+FileChecksum: MD5: 9ecd0c61a1bf652022fad341fb6bfd20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/aggregator.rst
+SPDXID: SPDXRef-item865016
+FileChecksum: SHA1: 830dea717374e62b885381abdc3489b26f6e86db
+FileChecksum: SHA256: 5f25de372a9cc9b83b126628fa293cd648833dea6ee84ca4bd47f1c27ea56120
+FileChecksum: MD5: af8ae9ae896ac8a2dec28ee94f320932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/v2_0.rst
+SPDXID: SPDXRef-item865017
+FileChecksum: SHA1: ba23544b08541fa305ff599e50b2281c74720a1b
+FileChecksum: SHA256: d93628823264682816f6b26d10d0823612ba746cc82a348d4a4c1a04670a06bb
+FileChecksum: MD5: f0a251268d746c4966b120f785c145ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/supplier.rst
+SPDXID: SPDXRef-item865018
+FileChecksum: SHA1: 8e7a7ab23ef50dbc5f539dfdcaec9b8401f89d0b
+FileChecksum: SHA256: 66cd8e4bc63379c38b48eb306feab5ffccb587977e0b0eb2f931c3c4afc229aa
+FileChecksum: MD5: e7b17c5cdb2d2b73bfc1fdd51b3a8725
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/v1_3.rst
+SPDXID: SPDXRef-item865019
+FileChecksum: SHA1: b584e4877359d0f9cfbfb083f6df84466660f860
+FileChecksum: SHA256: 316dbf3d366efb5b1a6143c16c306541be0eeff5a79d1ba2ca4065eff7385c84
+FileChecksum: MD5: 52cb0e93628536b873693a3ee8fe11eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/v1_2.rst
+SPDXID: SPDXRef-item865020
+FileChecksum: SHA1: 1230ef639f3f47bc2870b89e730f3799f2179177
+FileChecksum: SHA256: 3f7a4b45d0a3f1ac181dd2dd1da015cbd32cebfa331605980f32078b6f494064
+FileChecksum: MD5: 8da46ff3d17c2eae97263e7de4c9567d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/api/change_log.rst
+SPDXID: SPDXRef-item865021
+FileChecksum: SHA1: 81bfdac5e18cd87c6efe6dc314b22437d0a9a8a5
+FileChecksum: SHA256: 5d027cabe791d7e71a27689bb3167c59e2bdf2a7a21489b7a476dbdf7c4f55fa
+FileChecksum: MD5: 4e35366ab460afb07f446da913b4fff9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/_static/css/custom.css
+SPDXID: SPDXRef-item865024
+FileChecksum: SHA1: 0844e582880eb8743e5129b8ccc449c2fbbd10cc
+FileChecksum: SHA256: 447f7b0e0a023a3dbefd2043cc71cf8462a1e7650bd794207a6dd05b36c98a47
+FileChecksum: MD5: a73e1658a712d903f6f53b0e87283750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/modes.rst
+SPDXID: SPDXRef-item865026
+FileChecksum: SHA1: 98f2dd36a9e17d0fd108001f23603f57be46920d
+FileChecksum: SHA256: 29649ca90734e5188ff964098e1f48c1627972ddf211f7e88ac1c282686861f2
+FileChecksum: MD5: 3cfb9ee5935711305f80c46382ff129e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/plugins.rst
+SPDXID: SPDXRef-item865027
+FileChecksum: SHA1: 6c202f5a0c10a849af380bd06536cdf62f181d29
+FileChecksum: SHA256: 24e3c1d3fc00bb6ac56da9b079ac1f5a3c73e219dfa5f77f1f694f8eb481900b
+FileChecksum: MD5: 1720d747de921db609f6f11d1c5833f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright_notice %}
+copyright_notice %} </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/ci.rst
+SPDXID: SPDXRef-item865028
+FileChecksum: SHA1: aecbab061337655ea26260de86cf7dda492c2c16
+FileChecksum: SHA256: 0e6e6290c58d3f645ea041fa1af82ca2b32d4b9b38e2eec571dbaf005cdc50ab
+FileChecksum: MD5: 82841123ff42f730fce42d96021d85aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/introduction.rst
+SPDXID: SPDXRef-item865029
+FileChecksum: SHA1: 18b901e53aa05427600bcd4213be3789b21c9ee2
+FileChecksum: SHA256: 50bf1410adf2292f743e5be322e1e2460af93fc275dad733d7ababa4b169fb27
+FileChecksum: MD5: 3a10b1c6a74fbb93d73f81c3de709eb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/auth.rst
+SPDXID: SPDXRef-item865030
+FileChecksum: SHA1: f01681b5673d5fd6e8f4a63080f7ae458433b4e5
+FileChecksum: SHA256: 3a85dcbf298d77c5729608287d988f500422de6f8ced3b7ad1d9191017a2f272
+FileChecksum: MD5: 35017ec8c14274c05e59fa70e70873c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/data.rst
+SPDXID: SPDXRef-item865031
+FileChecksum: SHA1: d308eb575678e9785b355af4d86a03cf19711ca1
+FileChecksum: SHA256: 937b6c65ee13e3b7dbde6e5c1f7b290553e96be9ee1d64acada9e50e5654a071
+FileChecksum: MD5: 0a86b6ae0cb524bccbf1267f69555d95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/note-on-datamodel-transition.rst
+SPDXID: SPDXRef-item865032
+FileChecksum: SHA1: efca5c5ee9c081ed4ca0be6fc96bad99401947a0
+FileChecksum: SHA256: af73d69157214367c1afa410a0e82e203f9034da0d8bc64672a9212693b559f1
+FileChecksum: MD5: 8eb1825f2333908a147603aae07b0fac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/api.rst
+SPDXID: SPDXRef-item865033
+FileChecksum: SHA1: 9e835228c06de1cdd2d3e76878a081876fe035a5
+FileChecksum: SHA256: 863e706f7896b02eecb0023a1e10be043c3335d350f25617b32dabdca0613154
+FileChecksum: MD5: d3c5c001d17904c0c0663c545723eb14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/dev/error-monitoring.rst
+SPDXID: SPDXRef-item865034
+FileChecksum: SHA1: 980c5f5989b2e4282dd05018f3d688f743c714b7
+FileChecksum: SHA256: ef7ef180329e0e9ceba9dcde17184a6af1e2bd817212f8d20dbf8c3172b12d4d
+FileChecksum: MD5: 05cad6fcdbd80ab6230a9ce1fa0d84d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/conf.py
+SPDXID: SPDXRef-item865035
+FileChecksum: SHA1: 365dac0018dfcd7986247d9f8bc5fcbfa9b33fd6
+FileChecksum: SHA256: 7c6a73a7386b11404831c49f786be2455a435687b8bc9b98df3aedebddabf9e8
+FileChecksum: MD5: 02859490b33258e839d73c75db8d3932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright = f"{datetime.now().year}, Seita Energy Flexibility, developed in partnership with A1 Engineering, South Korea" author = "Seita B.V." </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/configuration.rst
+SPDXID: SPDXRef-item865036
+FileChecksum: SHA1: f563ec3a23c05c644606ee0cdae3860cde3fe2c2
+FileChecksum: SHA256: c1e179dcd42a08fad337a50cde54e1bb0ce87db341a6dabb5208048d5c859eda
+FileChecksum: MD5: e2932cae5b4a0ac22c9365c7e9119fe6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/algorithms.rst
+SPDXID: SPDXRef-item865038
+FileChecksum: SHA1: 099acb4e65264ada70ebb71ef9d1e269e4aad535
+FileChecksum: SHA256: c2c6f4726b9c488df58018fa027a8225f79671cb3d9820fa03f44c9aac3aa8aa
+FileChecksum: MD5: 8d2187c931303504cedd74becabb9f43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/benefits_of_flex.rst
+SPDXID: SPDXRef-item865039
+FileChecksum: SHA1: a9fcf54ff658e2927f8ba8dea84211c1aa518239
+FileChecksum: SHA256: f03d5b024506ed103e284f7866aa8bb74c5c9016a1fd17d8d5f920c982441d80
+FileChecksum: MD5: 74fb9a77d12cdb9e2c1376baf0e1d765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/security_auth.rst
+SPDXID: SPDXRef-item865040
+FileChecksum: SHA1: 8c7efe0981deae849b553312cb0d0bbe78324846
+FileChecksum: SHA256: f94464aa13ac70da856529e3fbf978a6436670c24b38ee17e567e0effe23f62a
+FileChecksum: MD5: bd0632e088e8dfcc5dc601be9d959208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/users.rst
+SPDXID: SPDXRef-item865041
+FileChecksum: SHA1: 0a442a32afe1312eda9ccaaec98cf1aa0aad4ae2
+FileChecksum: SHA256: c22ada7fb0e9ec3985f7b936016fcc3cf9cbde872f91f83a21e06e9103b5b9ad
+FileChecksum: MD5: 2d9ad71db69da61c561e7c61ca993203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/benefits.rst
+SPDXID: SPDXRef-item865042
+FileChecksum: SHA1: dba9c27dda78dd58a99395ab76abb178c8fec5ea
+FileChecksum: SHA256: 23703f0c7dcc8320022ece59fa41b8a57de4131a1d66a8218e59341dcd4d25c0
+FileChecksum: MD5: 04bc67bd9bffb4406fb33257eff846be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/inbuilt-smart-functionality.rst
+SPDXID: SPDXRef-item865043
+FileChecksum: SHA1: 144c612583800625c7ad3b460233cb8689a9b920
+FileChecksum: SHA256: 8e60fb83065116220ad8b553a1df6db4b48416cae110d32f6ecb84a21c900b69
+FileChecksum: MD5: c41055edb570fa3ae09e2bc58df3e83d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/markets.rst
+SPDXID: SPDXRef-item865044
+FileChecksum: SHA1: 828a353ef590344f9df59012f3a7aac99ae6cf80
+FileChecksum: SHA256: a45daf7c0123456fea9be690be2abed46bf5491717a42daba9566f92d0794500
+FileChecksum: MD5: f1b47fdf289a4bfea684d4e3bbf82c09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/documentation/concepts/assets.rst
+SPDXID: SPDXRef-item865045
+FileChecksum: SHA1: aebe94c60bea819d0adceae8d6e832c2f9140c5d
+FileChecksum: SHA256: 9da0719a20eefda5af9271b45022fc306c1740cd9ba54247645062ac1d2ccdaf
+FileChecksum: MD5: 466aca7b0e5f2e856a79299dde3eb6b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.coveragerc
+SPDXID: SPDXRef-item865046
+FileChecksum: SHA1: 198d4e13bdd964537ad35baf1002aebd7727fd4e
+FileChecksum: SHA256: b99c305396e3d18d9e770f8d40da1dcdd7291b8d343561f122aa4d773c92c3a8
+FileChecksum: MD5: ad841a90f0f55646450e4b09ece6501f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.readthedocs.yaml
+SPDXID: SPDXRef-item865048
+FileChecksum: SHA1: f7ff25d8ea1378334735ca9acd8cc6790876d9eb
+FileChecksum: SHA256: ee0a299997afe46c839933256acbf4573d9aa0d538f644b6f165f96721e97b4b
+FileChecksum: MD5: f062bee4c47d5d76e1749e1bdba8ea97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/run-local.py
+SPDXID: SPDXRef-item865049
+FileChecksum: SHA1: 54ce7707084aacf1e41fe6b12ec0823d2b859002
+FileChecksum: SHA256: 6a057a1126b005b6b77e10ca32ca4306e8b3e3b3faee8467c686f112b6eae026
+FileChecksum: MD5: 80d540f43f4b54ee09a2292d6823f350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures/.pre-commit-config.yaml
+SPDXID: SPDXRef-item865050
+FileChecksum: SHA1: 616765d321364b4132c1cc1b276138b301c13be2
+FileChecksum: SHA256: b7f78b2e580a7cbfe83a776716f698e383824985e8d847e69ea7555721afdc5e
+FileChecksum: MD5: d9608089bb237d2c0a8efe409bf9d926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/hooks/post_gen_project.py
+SPDXID: SPDXRef-item865053
+FileChecksum: SHA1: a5271d84c6f5dc445abbad0350d338c90949effc
+FileChecksum: SHA256: ba9d082cee6933554e77bbe2bbf05dc868b18cf014f796001200c8783be8276d
+FileChecksum: MD5: 03f02613397eb9a7f7cdc05991f1a492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/hooks/pre_gen_project.py
+SPDXID: SPDXRef-item865054
+FileChecksum: SHA1: f76a072c05f65094486f3d9de920461554e5026f
+FileChecksum: SHA256: e51f7c105bb8627de6e32accfcaac3127601754cde125f55ae1ccddbe2dbd70c
+FileChecksum: MD5: b9f718601f7a6358ce5732b3e89084b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/Readme.md
+SPDXID: SPDXRef-item865055
+FileChecksum: SHA1: 740a383668ed97711497b35e90e9c4c5b11c28b3
+FileChecksum: SHA256: c310935a32e8a17cc9b8bdda5298152bd7a8b284b93c7659a74766233ffcabb2
+FileChecksum: MD5: e43c973c655d08239b16a9243cca33f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/Makefile
+SPDXID: SPDXRef-item865057
+FileChecksum: SHA1: fda379bae53e06c0b551c4bfcab5b41c35303f2b
+FileChecksum: SHA256: a6138b44854245f0df5f53be36cfa320f459d200736dd3bed8c144059f723846
+FileChecksum: MD5: 4e8cc65945a278db10963506ae05a456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/Readme.md
+SPDXID: SPDXRef-item865059
+FileChecksum: SHA1: 68079996153c204db4f007fd579b7d8d4bfac262
+FileChecksum: SHA256: f0d652658a9e7402e3f7cedb3bdc167882a05ecb2e79153c476c9660afdc7f3c
+FileChecksum: MD5: b2d7bab1762ed634fc6f9caea9c6d3de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/app.txt
+SPDXID: SPDXRef-item865060
+FileChecksum: SHA1: 4950185ac1396ee07c91092a5aa949120b0dd115
+FileChecksum: SHA256: 2fa34414da6de20ca4c8e09e63813c17cf0ad7a92dafcbd97ee1175507e83373
+FileChecksum: MD5: f1faeddd122e0978d8f8975928ec9907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/test.txt
+SPDXID: SPDXRef-item865061
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/app.in
+SPDXID: SPDXRef-item865062
+FileChecksum: SHA1: 756383f28af2d544e159efbf5bdfea1edf600528
+FileChecksum: SHA256: 820c15d24c57c4e73598314a76d7a913bf8b98a01280f1c29e32a6f6afa6c43e
+FileChecksum: MD5: 19dc9cc8479c2bdef45e01ed57750b58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/dev.txt
+SPDXID: SPDXRef-item865063
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/test.in
+SPDXID: SPDXRef-item865064
+FileChecksum: SHA1: af35f5c6b0f1300a62020adb898a1171ca3cdf46
+FileChecksum: SHA256: d05d2a4c2c4a543a1e3cd70b2b3de749ced8008b657bb367bc376d3ec620e615
+FileChecksum: MD5: 6812c2db057a66eb4995261513cde836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/requirements/dev.in
+SPDXID: SPDXRef-item865065
+FileChecksum: SHA1: d52037d093b5664f0afc75d4b07c6018d4140cd1
+FileChecksum: SHA256: fbc47600a1e0a8f323f137701baec2180002ee8aa944863550d04a1761bbe93a
+FileChecksum: MD5: 79c20d5df33fba59a8a059f9f4cfb71a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/.github/issue-branch.yml
+SPDXID: SPDXRef-item865067
+FileChecksum: SHA1: 4e4a6193a3c1515335a29f94450a44eee00f4aeb
+FileChecksum: SHA256: bbf61045f7e99d5371b51f42f127135341c7343cca77b7e16470db6b99e11938
+FileChecksum: MD5: 7715a153f8ba3a266bad5389e02649b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/.github/workflows/lint-and-test.yml
+SPDXID: SPDXRef-item865069
+FileChecksum: SHA1: a044cf8b08a8e3ba2ffd7c5d46734d9577012bf3
+FileChecksum: SHA256: e27979f4c7c6fb0d0d67811f6c074ecae5e26ef6145f50a3169d4301fa068bdd
+FileChecksum: MD5: d4ba91a95d9911313a1fe4e5309a0503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/setup.cfg
+SPDXID: SPDXRef-item865070
+FileChecksum: SHA1: 3f5307a44a8cb0b8c3c5453a169bf195fd8005f8
+FileChecksum: SHA256: 08bb58242ff3e6223c3ea6da8e92cb28699488a978ed2bf6db9263b81f6da92a
+FileChecksum: MD5: fc2c6d8a41de57ec5c49e52179a11fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/.flake8
+SPDXID: SPDXRef-item865071
+FileChecksum: SHA1: 52ea3d06ea27dcb3f092d7e6dfc91224f2273224
+FileChecksum: SHA256: 1dfffa76c6b501256cddc7323a239256dd2126478e63dd97a266186266923e8d
+FileChecksum: MD5: 4f6317fb4940abec7bb3c4ecac2aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/.gitignore
+SPDXID: SPDXRef-item865073
+FileChecksum: SHA1: 1a0d5bad5e8e2c2cd28ed3954f38f1eabc872e36
+FileChecksum: SHA256: ffdfb0e5deb5bb3bca1e3d51ce09ad923010a42b6678499830d0ae7f6940dc80
+FileChecksum: MD5: 33509841a08402176a47518d94220ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/cli/commands.py
+SPDXID: SPDXRef-item865076
+FileChecksum: SHA1: 1c8292adf9dc79856ba9511d1d6e26995272c500
+FileChecksum: SHA256: 7cdf0bfc426e000aac0cbd07919728509a80c55c025d9adfe2d06c84476bc18c
+FileChecksum: MD5: 764b090f32875a01b96f31bfc92d375c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/cli/tests/test_cli.py
+SPDXID: SPDXRef-item865078
+FileChecksum: SHA1: 182817e595a444ae242b59994102df83e31b63c1
+FileChecksum: SHA256: deef2fae5712f8d975fe0543c635fa1de8ce546fcebef54fb1ed14d53a11ed85
+FileChecksum: MD5: 4b61447fba66573c7f8a56d4bbd3407c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/cli/tests/__init__.py
+SPDXID: SPDXRef-item865079
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/cli/__init__.py
+SPDXID: SPDXRef-item865080
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/conftest.py
+SPDXID: SPDXRef-item865081
+FileChecksum: SHA1: a5b1b650d2564f8feb1446faa348db04b6b64c29
+FileChecksum: SHA256: e96b68021b179f498f3faf44b5018fe698797c2fb61f2210e3872383f7b41da4
+FileChecksum: MD5: 55b4a3e56df2a6124ec228ddc9038196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/__init__.py
+SPDXID: SPDXRef-item865082
+FileChecksum: SHA1: 2a53b53ab3c9a03ff48a4dd376ec1dc183158011
+FileChecksum: SHA256: ef199e41b8b340687a367437502126800145d1354312ba3f4bd41c1ee86420e8
+FileChecksum: MD5: 549f0cbf7ea02838bcefe8d33de2ab89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/ui/tests/test_views.py
+SPDXID: SPDXRef-item865085
+FileChecksum: SHA1: 8c868fd5fdee35bdc258e2826c02d6317a5d421b
+FileChecksum: SHA256: 852188bb164f844cfbee07278b4e5778c559579bdb93ab64d4b771a224fb15f5
+FileChecksum: MD5: 7444ba950bd50e6b90db0a85988cdf2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/ui/__init__.py
+SPDXID: SPDXRef-item865086
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/ui/views/dashboard.py
+SPDXID: SPDXRef-item865088
+FileChecksum: SHA1: 6d17091811c287f416dc5f25497b8f14de1e2de5
+FileChecksum: SHA256: 4fbb5d87ceeeeb9c5c1e7c890a319551a56afdf22c6285851369ff61c6a0ea1f
+FileChecksum: MD5: 457c4d4513a012fe53723bc7a011c6a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/ui/views/__init__.py
+SPDXID: SPDXRef-item865089
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/ui/templates/{{cookiecutter.module_name}}_dashboard.html
+SPDXID: SPDXRef-item865091
+FileChecksum: SHA1: 12fcb0d4f0da064bdf4685d308c40db1a72d1cb5
+FileChecksum: SHA256: f66b96c6f985ddc501a32d3df98dbb1dff25ca027621a139a5c4551327afbbbe
+FileChecksum: MD5: 4782f635c01310116b2a2851a89b3d62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/ui/templates/base_{{cookiecutter.module_name}}.html
+SPDXID: SPDXRef-item865092
+FileChecksum: SHA1: 91a1c231b4bbb8c0a83712c225139482cd16f89f
+FileChecksum: SHA256: 75ec394eb61957e7eef3c024a8571060a1f00ba9b7985e131324b2c24bd715ec
+FileChecksum: MD5: ffd4689d89bfc2d55df0c5d57e85845e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright_notice %}' }} This is a plugin created by <a mailto="{{ cookiecutter.author_email }}">{{ cookiecutter.author_name }}</a>. script>var CurrentYear = new Date().getFullYear(); document.write(CurrentYear)</script>. endblock copyright_notice %}' }} </text>
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/api/tests/test_api.py
+SPDXID: SPDXRef-item865095
+FileChecksum: SHA1: 47bfaaabc1d4a6f3a6ffe97c6982b12b1dbc82b6
+FileChecksum: SHA256: 8bc7d7d864f9fc8534f77a41e3b228cb09991095ba93bdaaf991fc40d67ccecb
+FileChecksum: MD5: 58e1153f44fde31b6f5229e53484728e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/api/__init__.py
+SPDXID: SPDXRef-item865096
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/api/somedata.py
+SPDXID: SPDXRef-item865097
+FileChecksum: SHA1: f07735de0275cde7d604aadd5feff0925621ca15
+FileChecksum: SHA256: 0994de5ed0576c2b06776c7f9df36817cd82466686b6eeb1473be6437c52bbc5
+FileChecksum: MD5: 7a0811eee1e79cef30ace99c59290747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/{{cookiecutter.module_name}}/utils.py
+SPDXID: SPDXRef-item865098
+FileChecksum: SHA1: be9fd143989a376c94e64aebb8eb22f65a208373
+FileChecksum: SHA256: 8b49aa1d54f87a1e2f3d7daa001f61514b6584f8ebd3a8603f3f4f3b89a495ec
+FileChecksum: MD5: bb457cd429e542a02e98029277cf93c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/README.md
+SPDXID: SPDXRef-item865099
+FileChecksum: SHA1: aa01d05e1ffd1ef8ea0ed3420b464720fcd9d3e7
+FileChecksum: SHA256: 66fcd15e369b6117c5e19923a425b615280f00ccfa97cf84708477bd89fb903f
+FileChecksum: MD5: d1e0c6ef524a531c5bd8fcb0efa90483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/run_mypy.sh
+SPDXID: SPDXRef-item865100
+FileChecksum: SHA1: 96e20653c7ec9f765e68232aa0168f6ac7857c4c
+FileChecksum: SHA256: e95593e86a480fdaa0c1c8befa6f0d664e8bef887830d05e969eaf982085ae1a
+FileChecksum: MD5: a61ea7da5f2f31d953f2047742487351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/{{cookiecutter.plugin_name}}/.pre-commit-config.yaml
+SPDXID: SPDXRef-item865101
+FileChecksum: SHA1: a53e0b598719120fdcc07c8c2933f31162052b61
+FileChecksum: SHA256: 32c0fdbed9d6be597908ad7157e21f7a5b1791e98ee7341b5825684df5bfa769
+FileChecksum: MD5: 905ae75887d3ea26de06e2cb5c953d18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-plugin-template/cookiecutter.json
+SPDXID: SPDXRef-item865102
+FileChecksum: SHA1: 1ede00c776b636ea59f423dd854be11bf7471c9a
+FileChecksum: SHA256: 58ea9432c282c530f5c69a6c2285098d021931832334e54bdd2b6a97b4fe2084
+FileChecksum: MD5: e84b382b56806473c0f2aa9ef269bed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/generation/day_ahead.py
+SPDXID: SPDXRef-item865105
+FileChecksum: SHA1: 57d5c565dd24cafa43ef64e85e55cc9aa2bd3739
+FileChecksum: SHA256: 5dcc58d535cc607075e7fe48a3be032cce78bb85a92149f9fb9dc8e2696965b4
+FileChecksum: MD5: 76a6b92b6c5ab679232615490cd62572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/generation/__init__.py
+SPDXID: SPDXRef-item865106
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/generation/utils.py
+SPDXID: SPDXRef-item865107
+FileChecksum: SHA1: 1cf708828d275ad0425242adcac7112fff225908
+FileChecksum: SHA256: ee4d8b0718d49965954cc179929df2f9256883c688837ed533f0ba0f9eb0f5a1
+FileChecksum: MD5: 0e8dd0870ee903392bbceb58f60ba237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/.flake8
+SPDXID: SPDXRef-item865109
+FileChecksum: SHA1: 52ea3d06ea27dcb3f092d7e6dfc91224f2273224
+FileChecksum: SHA256: 1dfffa76c6b501256cddc7323a239256dd2126478e63dd97a266186266923e8d
+FileChecksum: MD5: 4f6317fb4940abec7bb3c4ecac2aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/.gitignore
+SPDXID: SPDXRef-item865110
+FileChecksum: SHA1: 9d566483ab3ada4bc353380361c7ca28e55cf9af
+FileChecksum: SHA256: 916bd81ab459506d09230f8a8a74d38b16023aa1f610cc4e267eb503d08b876a
+FileChecksum: MD5: 9fc483eb8638496c82554dac08f61f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/__init__.py
+SPDXID: SPDXRef-item865111
+FileChecksum: SHA1: f11d32e8988a3a3bade57d53d18af0435d3bb195
+FileChecksum: SHA256: 4d4d550ce8af743c30022128d79e2a71412a37e97519eb53746e6fd60492e871
+FileChecksum: MD5: 839cfffc0d12be0c77fc732e33280649
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/README.md
+SPDXID: SPDXRef-item865112
+FileChecksum: SHA1: 9909ae8be25fc5f97bd57df70c20609a1138d88d
+FileChecksum: SHA256: ccd5c9e55a3f1979069d0d85b3f6ed30a8fe89fd22b1b5eef57b30a017684b58
+FileChecksum: MD5: 59d7584c6bbdd939e04b5b8e5eb2497b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/run_mypy.sh
+SPDXID: SPDXRef-item865113
+FileChecksum: SHA1: 96e20653c7ec9f765e68232aa0168f6ac7857c4c
+FileChecksum: SHA256: e95593e86a480fdaa0c1c8befa6f0d664e8bef887830d05e969eaf982085ae1a
+FileChecksum: MD5: a61ea7da5f2f31d953f2047742487351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/.pre-commit-config.yaml
+SPDXID: SPDXRef-item865114
+FileChecksum: SHA1: a53e0b598719120fdcc07c8c2933f31162052b61
+FileChecksum: SHA256: 32c0fdbed9d6be597908ad7157e21f7a5b1791e98ee7341b5825684df5bfa769
+FileChecksum: MD5: 905ae75887d3ea26de06e2cb5c953d18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-entsoe/utils.py
+SPDXID: SPDXRef-item865115
+FileChecksum: SHA1: dbe2cf6636df38e7ac8ac106697765be5592447d
+FileChecksum: SHA256: d958dc4d1d9458454d2bf7a8921ce65add07ff925c20684655de646f4a4dba03
+FileChecksum: MD5: 1e203fe828475f88834fa0662ba7f97f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/.github/issue-branch.yml
+SPDXID: SPDXRef-item865118
+FileChecksum: SHA1: 4e4a6193a3c1515335a29f94450a44eee00f4aeb
+FileChecksum: SHA256: bbf61045f7e99d5371b51f42f127135341c7343cca77b7e16470db6b99e11938
+FileChecksum: MD5: 7715a153f8ba3a266bad5389e02649b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/.github/workflows/lint-and-test.yml
+SPDXID: SPDXRef-item865120
+FileChecksum: SHA1: 53a2b90c14175da0e8c47363dc0e23076135f89d
+FileChecksum: SHA256: 81eae8f9d8766d38c8db1c5b80504d7e17d4681881a85e0ecaa082c3c95d1cdf
+FileChecksum: MD5: 5059e5bfbf528e91f773fee3e1cc9b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/.flake8
+SPDXID: SPDXRef-item865121
+FileChecksum: SHA1: 52ea3d06ea27dcb3f092d7e6dfc91224f2273224
+FileChecksum: SHA256: 1dfffa76c6b501256cddc7323a239256dd2126478e63dd97a266186266923e8d
+FileChecksum: MD5: 4f6317fb4940abec7bb3c4ecac2aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/__init__.py
+SPDXID: SPDXRef-item865122
+FileChecksum: SHA1: efdfdda8c76315263e649665983b3a8389a86be7
+FileChecksum: SHA256: bac933c6296ddc19e6cec8b2f98798c43619b6d6bb0e4a443c9c1c8fc339fcf3
+FileChecksum: MD5: d27276a5c0d3ec4881ce05bd662b41f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/README.md
+SPDXID: SPDXRef-item865123
+FileChecksum: SHA1: f0a64de570279c7014da47d69cd9bde8cd53fff1
+FileChecksum: SHA256: 6e7f87b4971688ca6e861cd9e455dc3f7fde63949700c94e74023eaa21d91290
+FileChecksum: MD5: c1ae30f5afed31343e611da7c48f8bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/run_mypy.sh
+SPDXID: SPDXRef-item865124
+FileChecksum: SHA1: 96e20653c7ec9f765e68232aa0168f6ac7857c4c
+FileChecksum: SHA256: e95593e86a480fdaa0c1c8befa6f0d664e8bef887830d05e969eaf982085ae1a
+FileChecksum: MD5: a61ea7da5f2f31d953f2047742487351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/.pre-commit-config.yaml
+SPDXID: SPDXRef-item865125
+FileChecksum: SHA1: a53e0b598719120fdcc07c8c2933f31162052b61
+FileChecksum: SHA256: 32c0fdbed9d6be597908ad7157e21f7a5b1791e98ee7341b5825684df5bfa769
+FileChecksum: MD5: 905ae75887d3ea26de06e2cb5c953d18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2021-11-16.zip/flexmeasures-zinfo/utils.py
+SPDXID: SPDXRef-item865126
+FileChecksum: SHA1: ea0b8d877df92c01292248f643f3856278a80ff9
+FileChecksum: SHA256: 16ea58f22485d3280955d6579f20ae02021b5200c0593a8c0a959a08b054e50f
+FileChecksum: MD5: 1f85c1572624e452dc4919838b7ab35f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
