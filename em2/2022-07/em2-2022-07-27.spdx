@@ -1,0 +1,565 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_em2-2022-07-27.zip_1659399703.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-08-02T00:21:44Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: em2-2022-07-27.zip
+PackageFileName: em2-2022-07-27.zip
+SPDXID: SPDXRef-upload551
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 78165d98ffff405feee115a593886843c9b644ed
+PackageChecksum: SHA1: 32e8df1890d8e961071c31ce205725df672b3fd2
+PackageChecksum: SHA256: 95134cb04eb73c3fe942d9c48f84cd1c5ba6e999fe33e733a3dd38d9d56dccf2
+PackageChecksum: MD5: 52042dccc45b19f21ae283e1f8464c92
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload551
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/LICENSE
+SPDXID: SPDXRef-item2550743
+FileChecksum: SHA1: 34b2b37ec594d86bd391137b4fb644eccb17bdbb
+FileChecksum: SHA256: 36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673
+FileChecksum: MD5: 7bae63a234e80ee7c6427dce9fdba6cc
+LicenseConcluded: CC0-1.0
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her
+Copyright and
+Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose. </text>
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/GRID/README.md
+SPDXID: SPDXRef-item2550708
+FileChecksum: SHA1: d6793c007329068c32ee2e2cdc05b8ac5330bd39
+FileChecksum: SHA256: 93177f2d9e763344cfb00e2a6de48ce1ea682abbee2975e2344725c156570251
+FileChecksum: MD5: 19c22a35bb06407dc2ca57be399c355a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/Makefile
+SPDXID: SPDXRef-item2550711
+FileChecksum: SHA1: 1b43be735f5c2857c60cb4a4a03072c4f685034d
+FileChecksum: SHA256: f38e11be5dfb0285a7900816b8072f5ccacef502bf3890f438db2ba1bc79db27
+FileChecksum: MD5: a5138ae8b781927a9dc686517c1016ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_2_1_image1.png
+SPDXID: SPDXRef-item2550713
+FileChecksum: SHA1: a4df89cba4a94ec51272fea0e748a08b9ea91205
+FileChecksum: SHA256: d4f07b6e19e1897f1643f4885c9f444f10ad55c74735bb1581b37730cb5c081a
+FileChecksum: MD5: 20526cf60602fdaeb32bcde4473471fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_3_1_2_image3.png
+SPDXID: SPDXRef-item2550714
+FileChecksum: SHA1: 2557a02172e6cf80f7627b7549216914f87c9907
+FileChecksum: SHA256: 93aef0ab4cbbbe632ea3568332c2e44e9f1f76bbcceddfdc15cfe25c87a61a45
+FileChecksum: MD5: 0e5f88bbe6cc40dc08e3474237e3fb37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_2_image1.png
+SPDXID: SPDXRef-item2550715
+FileChecksum: SHA1: 09d584a714d83ab6e9fd62f4c05bc762403c0a3a
+FileChecksum: SHA256: 65e6da0fcc3800b6f64c605f5112d6b7854f5c685e64970b62ef3abd7ee6d6f4
+FileChecksum: MD5: 62a72f553c200baa0ddfc716563dbee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_6_5_image1.png
+SPDXID: SPDXRef-item2550716
+FileChecksum: SHA1: 0a2d244105688cbbcebf12e3f158aadfe0714933
+FileChecksum: SHA256: c1f1dd25484216a147c96303af1463b42ad11f44650466a39bdbd1f49d6b184a
+FileChecksum: MD5: 6b538d2269a732a3df8f49c179c1aba2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_3_image4.png
+SPDXID: SPDXRef-item2550717
+FileChecksum: SHA1: b5b76d626ae49ce17ed6924d0e05e841d72b9c12
+FileChecksum: SHA256: 8abaeb725d2e479855c14b6d892c7b2f139b2370761927aafa37975045340674
+FileChecksum: MD5: df1380bc822c077d590c45991aa49a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_2_3_image1.png
+SPDXID: SPDXRef-item2550718
+FileChecksum: SHA1: fd6e3f77efb58607ac688a29a71f8a71ba452054
+FileChecksum: SHA256: ef3a91a00d6d95d878300ed5652765c88a6f557a04bc5d21de25c4b5cf6e49fc
+FileChecksum: MD5: 19af1a5dc6e01475e6aca4dd86238363
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_1_image1.png
+SPDXID: SPDXRef-item2550719
+FileChecksum: SHA1: 46cf9567d6c79a22cacc32b437691423b747510b
+FileChecksum: SHA256: 124696c559b4b9ad547a194cfc1282684940f37b0d0406faa8c9bbbbd31a793b
+FileChecksum: MD5: 3065c7f81063396a177060bd245c1c36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_3_image2.png
+SPDXID: SPDXRef-item2550720
+FileChecksum: SHA1: 0d7cd3b2be35f4e01d8fadcd52c8f22031cb37ee
+FileChecksum: SHA256: efa106a31169de9e96afb335851926ea8c1a7b09c7eb25a8414a4b1a0d6174d2
+FileChecksum: MD5: 312d2f9549d10d58487d9b75b666a6f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_2_1_image2.png
+SPDXID: SPDXRef-item2550721
+FileChecksum: SHA1: d1c4b1f594e8a38094c6fac9398d44d2aa97f50f
+FileChecksum: SHA256: 7d0e31f836502c1925b8ce3ca0ba3374c148e387eacf3985fbd147732d9be5fc
+FileChecksum: MD5: e2cb8eb6035c7c70f3698245e8d7baf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_3_1_2_image4.png
+SPDXID: SPDXRef-item2550722
+FileChecksum: SHA1: 53af08f25e203412c77a798cefa76405e45e1bd5
+FileChecksum: SHA256: ef74ba28afd97b3f3859410ba02e3a8fbf6f546550676a32f7b6441216fb0687
+FileChecksum: MD5: 5805694deca4254314dbecd65ea71d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_3_1_2_image5.png
+SPDXID: SPDXRef-item2550723
+FileChecksum: SHA1: f49eff6cd53f9f50db164e3341b1dcf763b7b611
+FileChecksum: SHA256: 264bfe7f1ff72e10a54d02be149cb04070da8ee38510dfc1a450890899ee18c2
+FileChecksum: MD5: 1aa9188ace5acfa06cfe0ac7e0566e6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_1_3_image2.png
+SPDXID: SPDXRef-item2550724
+FileChecksum: SHA1: 4554caa691b888c83315f9a8303e98c1ac046b4d
+FileChecksum: SHA256: bda14fb712842caf50004be68c2016ad52f83af346b80f1e05c1cc0fe337f78c
+FileChecksum: MD5: e63ec12392d4b09de20474f296450c3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_3_image1.png
+SPDXID: SPDXRef-item2550725
+FileChecksum: SHA1: ff8c6bdd0b10e9c937a88295c10f1f6cfac4b55e
+FileChecksum: SHA256: 6a3d1f0430db39af33d897391feb65c1cfde51c7385220875255b2ec334b58f7
+FileChecksum: MD5: db62c1cca86c4e1c512b95a459e2646f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_3_1_2_image2.png
+SPDXID: SPDXRef-item2550726
+FileChecksum: SHA1: fdbbf53f25238a668ae56194140ac6e8266a1c97
+FileChecksum: SHA256: 083998de66f9f991a34fc3eff1244edd1bdb7f88f1ef11e3b05bfcd2025ee450
+FileChecksum: MD5: 2f252e307fdf71a823a5198c46c72890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_3_image5.png
+SPDXID: SPDXRef-item2550727
+FileChecksum: SHA1: 0ba71e2d4481c79133a10b01f9d95776ca980a04
+FileChecksum: SHA256: 8898f6deb1fa61fa0390f2f71234575db14997af04f5270eb0bb96bf0b018776
+FileChecksum: MD5: 4121ed05fb25c61529319119626c65f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_1_4_1_image1.png
+SPDXID: SPDXRef-item2550728
+FileChecksum: SHA1: 7f9540f06a20d1e2808a36e58e336a5e2a472dd8
+FileChecksum: SHA256: 4e4007b33580d7cf2172f79b5d348ac8afca1aa3652aa729e31aa378a6c6618b
+FileChecksum: MD5: 1d92d7486a89749e81f3f950b5150339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_3_image3.png
+SPDXID: SPDXRef-item2550729
+FileChecksum: SHA1: 909a29d8967b6601f00419d4ed92b2a00a8cb7f6
+FileChecksum: SHA256: 2b2966ee9c7e480154f08c29c59a176fe43a328fc3cc13697d5bfd01c54ca87f
+FileChecksum: MD5: f33f7460ca124635ba5970ffc407036a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/2_4_1_image1.png
+SPDXID: SPDXRef-item2550730
+FileChecksum: SHA1: c70452a88c0beb4b66673e59d09f9ae185788721
+FileChecksum: SHA256: 17a7c93276d6e7fdf41859e07c6f2023240a605153fdea56235a5a0b3ff5dd70
+FileChecksum: MD5: a4f452bedddac250c69a14a1f59106f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_6_5_image2.png
+SPDXID: SPDXRef-item2550731
+FileChecksum: SHA1: bd3f58a89296276550ce41c1d4df824fc30556c9
+FileChecksum: SHA256: 4c7fd30e73e54f897cc25ed12544e0ec83f4dd94da7af94e46ec9769c76ce590
+FileChecksum: MD5: 01be72dba0cebacd44298feea307c6e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_3_1_2_image1.png
+SPDXID: SPDXRef-item2550732
+FileChecksum: SHA1: 36fb50912c0a7a94232cb85b5464678af07b68ce
+FileChecksum: SHA256: 79d1fe5a6e6ce869326e10cc0e494b8efaa1075db00e80a8ff2968385acf109b
+FileChecksum: MD5: 87519f35f84a848a9680903dac1ca201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_4_3_2_image2.png
+SPDXID: SPDXRef-item2550733
+FileChecksum: SHA1: 7169718a8ed3fe44761f61631958004299fc8c19
+FileChecksum: SHA256: ede0c09e1fbc946086fa351e1a3be3fdb43d48c4ab82dcc52beefcb34e5bad24
+FileChecksum: MD5: bf16a931183b9e47c8bfd870ee4eebfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/images/3_1_3_image1.png
+SPDXID: SPDXRef-item2550734
+FileChecksum: SHA1: 6990f36dea859279a9543e695c9850397d5c5043
+FileChecksum: SHA256: 59463c837269aae631e7de8d0041da8af0e747be8843451b78f458297faaaf7b
+FileChecksum: MD5: 2b29ffab5418960f83c93903e7a89b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/index.rst
+SPDXID: SPDXRef-item2550735
+FileChecksum: SHA1: 5e409899fe1964d7ec14d733adf914690b2cbee1
+FileChecksum: SHA256: 4db486e9cccabb96f5a5f78928253446c222a6217c44ed8a1fa18be6f881fbb5
+FileChecksum: MD5: 96e9fb13530cfc73c02ae0ae2cb39bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/_templates/sidebar.html
+SPDXID: SPDXRef-item2550737
+FileChecksum: SHA1: f3823e6d53f9c07f18f25c0039743a1f31ef4d26
+FileChecksum: SHA256: a8fee2e235dace733cfa86eaa3e402f6e60474ad1d10a9356c9de185617aa616
+FileChecksum: MD5: ddc1fa51913464d928e90edee8241974
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/_static/logo.png
+SPDXID: SPDXRef-item2550739
+FileChecksum: SHA1: 6f7e8b321c025ddc8295f4ce5a3f9e24f5eb2bae
+FileChecksum: SHA256: 2ba6922a36c4a186eac6f3fc8189120629151365ebb415cec786effb812046c7
+FileChecksum: MD5: 5242fe628bf90505cc3e0e90463ef957
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/conf.py
+SPDXID: SPDXRef-item2550740
+FileChecksum: SHA1: 24a056a77dd1d1a2d0ab298c22be49d81c3e1d8d
+FileChecksum: SHA256: 839971c034e2023f02a5a8605be325ccef8fd399f443bc34a4dfa669b0123178
+FileChecksum: MD5: 38ab46f525f0bf537e77e272a97146e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright = '2018' author = '' </text>
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/technical-appendix.rst
+SPDXID: SPDXRef-item2550741
+FileChecksum: SHA1: 38778d12e9ea12a16e1e9ffffeb95406f7f8d1ea
+FileChecksum: SHA256: 456aa1e3bb540a396fde53bbb88715f4b0477bc5d46482ecc844efc071ad2b25
+FileChecksum: MD5: a22c5c74cba990b8747990e2f43ff453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docs/methods.rst
+SPDXID: SPDXRef-item2550742
+FileChecksum: SHA1: 9396214d549191112fe5f0a1e56a0ab64383c6dd
+FileChecksum: SHA256: 85d600d8f78388b732df1025127fc1c6656c63c6d3c430147beafcf1453a5862
+FileChecksum: MD5: a087f72fc705c8f846c93412c1828f9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/.github/ISSUE_TEMPLATE/caltrack-template.md
+SPDXID: SPDXRef-item2550746
+FileChecksum: SHA1: 3e7225ade95ce7b5768a1ca145ccf198956c92fd
+FileChecksum: SHA256: 66628322f1214963b1516bf4e5334f5cfcbbbb232a697113be422823b0fb786b
+FileChecksum: MD5: f5451e5bdbf8165d8502d76456d78bc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/Meeting_Recordings.md
+SPDXID: SPDXRef-item2550747
+FileChecksum: SHA1: f2519c30ead209a2bccca26b6aca67c5d7f90183
+FileChecksum: SHA256: 605f84f421529f9dcc4e4e579b4283ce0d473b7fd112e0eb1abf26803cce77e5
+FileChecksum: MD5: 57380bc7255261bea3d20cc29cc1701d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/Pipfile.lock
+SPDXID: SPDXRef-item2550748
+FileChecksum: SHA1: d5faf8a79a278a699fbd4465b1c4837f97a4de02
+FileChecksum: SHA256: 02c1e6fd9c5af9ac27f9cdafe8ef74e95f251a5b27eec1fdcb5b06a4cc2b8e10
+FileChecksum: MD5: c7327729d6303a6537d5ea811c3a154e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/.gitignore
+SPDXID: SPDXRef-item2550749
+FileChecksum: SHA1: 17f8bc7d95b560cc4ac79730d716acde635db72e
+FileChecksum: SHA256: 39dd1df5a9e7c7470cc427cafa932543601ecd35ee267611a18a346e98800806
+FileChecksum: MD5: 8eaa762acecd22ee27a7d00a7b5fc267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/Membership.md
+SPDXID: SPDXRef-item2550750
+FileChecksum: SHA1: f0e4161656ec132bab3a922e834684d5e084d14d
+FileChecksum: SHA256: 5c124c39c9911651c5bddd8dbb3b1978a691d481c1a1a76b80586d34012b6393
+FileChecksum: MD5: 519f5459a923a2b1f12140b7e692c1b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/requirements.txt
+SPDXID: SPDXRef-item2550751
+FileChecksum: SHA1: e746a612fc4f650791a5518fd5b718e1b17545bb
+FileChecksum: SHA256: f6e096f8b2d3e7a5803cafc6a3a00a7c865876edd0dbf5f52b61cd9bd98fcc54
+FileChecksum: MD5: 95a99191dd407c2920680e06eec97a3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/Dockerfile
+SPDXID: SPDXRef-item2550752
+FileChecksum: SHA1: eacd3073d6ac933d614a67f7ceec5d33acae519c
+FileChecksum: SHA256: a212a2c79799d3150b4df6f2f614ed8131c375a9e8adf6f6e9e84cf347e9dfe5
+FileChecksum: MD5: 386371370aea5d4f7c3d4059cc62cbf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/README.md
+SPDXID: SPDXRef-item2550753
+FileChecksum: SHA1: e2e3987e99a8140518a86f18a0710ce7347c25d9
+FileChecksum: SHA256: 4244511c6a6d90053487700ecf3a2b85aaa8cda9526d91b8f928a1be1d89c947
+FileChecksum: MD5: 250754326c7f3b852057b6132bf45c20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: <text> copyright rights from the copyright owners to make the Contribution under the terms of this Project Charter and applicable Working Group Charter. The Steering Member, Associate, or Contributor must disclose the identities of all known copyright owners in the Contribution.
+copyright rights necessary to make those submissions. </text>
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/docker-compose.yml
+SPDXID: SPDXRef-item2550754
+FileChecksum: SHA1: 234ddbd1bfd3c3d8ad7352c3b3e833ca761121c7
+FileChecksum: SHA256: 26f58eb0c9b61ebdcc29b4eafef0821b3cab66a96cb6dcdc7c008b9a06d0d136
+FileChecksum: MD5: 155928f405840b47846a3bcb3c1201f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: em2-2022-07-27.zip/caltrack/Pipfile
+SPDXID: SPDXRef-item2550755
+FileChecksum: SHA1: dfdc772b443160b6c61093b68d283922a393a806
+FileChecksum: SHA256: 610112ad6dfa0b51a35247a0b9a163c326fb060fedfaaa85ee9ccf4d8288f761
+FileChecksum: MD5: 883d7955033055cf869045bc209d1761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
