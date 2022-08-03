@@ -1,0 +1,785 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_SeitaBV-2022-07-28.zip_1659399646.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-08-02T00:20:47Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: SeitaBV-2022-07-28.zip
+PackageFileName: SeitaBV-2022-07-28.zip
+SPDXID: SPDXRef-upload555
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4a8c5587f641718477a5f0eeaf7b381817ed11f3
+PackageChecksum: SHA1: 82d868c3dcd6317fe0dc20e99616ef77c3dc54e9
+PackageChecksum: SHA256: d803c34503e6f4df56ec7443021f4837720ff69ddba3864a2922638ca050ee0b
+PackageChecksum: MD5: 01af2a7d936a63424ee99f1768ff9848
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload555
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/setup.py
+SPDXID: SPDXRef-item2552554
+FileChecksum: SHA1: c0ba5207845edda1aca3f5410e9d6fc711d5045d
+FileChecksum: SHA256: 1238b875c4673f1bfaed88622c570cd4998a970c11568bedf5c61bf5ad064aea
+FileChecksum: MD5: 72203f07674bb946777be1aaf804c917
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/LICENSE
+SPDXID: SPDXRef-item2552539
+FileChecksum: SHA1: ab493383353f91b9ccc38085a5044fbef904b58b
+FileChecksum: SHA256: cc4d4de0920b0d3912203b5d9aa76728ac4a11087f55da9ea00576db7d1e34e2
+FileChecksum: MD5: 5335066555b14d832335aa4660d6c376
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and </text>
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/LICENSE
+SPDXID: SPDXRef-item2552592
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/Makefile
+SPDXID: SPDXRef-item2552538
+FileChecksum: SHA1: 331cf7d9f09c6652713070761b41ba0587c6ae55
+FileChecksum: SHA256: c8517786b79d98fd984df59cc7b856fbf55bd54e0ffa23308167c9fd309e652f
+FileChecksum: MD5: e154e59e605a644ce80fd899e85cc79f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/Readme.md
+SPDXID: SPDXRef-item2552541
+FileChecksum: SHA1: d4a618900d03c359a65add81e5017a20e16338ed
+FileChecksum: SHA256: 04628a8258f3e9004f8ea3b0872d59dc995aac762c36590079787ca481f52490
+FileChecksum: MD5: b8fab18d47f9563af581898232bd07bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/app.txt
+SPDXID: SPDXRef-item2552542
+FileChecksum: SHA1: de0ed8e748b3cac06c994e9f0bf4d89219f6368f
+FileChecksum: SHA256: 17f5db0c78269073d87edfd19464902620e7e6e367bf3f5b256e7f11ffdcb479
+FileChecksum: MD5: 4fe304fb3822fb2ef122ee7b4a3ad380
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/test.txt
+SPDXID: SPDXRef-item2552543
+FileChecksum: SHA1: b1436d6172752af6b45b31426eb77627d778c6f9
+FileChecksum: SHA256: 71424b09fa7939655f9074e2ca7f47ece9ccd4157571c63171e2f47387204939
+FileChecksum: MD5: da15da52488a4cbbb01ef0f636d87c69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/app.in
+SPDXID: SPDXRef-item2552544
+FileChecksum: SHA1: 742f46e2e41886a4a2020802a7e67267a929b4b5
+FileChecksum: SHA256: be9f862df0f3eca20d7aa49b1494c275445c5b25a07671e6967d654607539867
+FileChecksum: MD5: ffe2248280c79bbdc571e6db1e2ce4e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/dev.txt
+SPDXID: SPDXRef-item2552545
+FileChecksum: SHA1: 459c5ad406b270834958e617e1c2b0d9dbd938b3
+FileChecksum: SHA256: 70de78be3f29e3fb9fc103c4673bf2d65103ff4db2df1ddd79f24f8afa0ad1db
+FileChecksum: MD5: 02373385fa2a6d697e357bb7b5feef44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/test.in
+SPDXID: SPDXRef-item2552546
+FileChecksum: SHA1: 546f9190ebc7ef82d00f35e5ad495b970ec3d7ed
+FileChecksum: SHA256: 40aac8b4c39cec60dc84b35793ce4ba75d0cb406de601166bb1c13f5f1523f19
+FileChecksum: MD5: c57cb1437ceee96549e117b4d7dc23ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/requirements/dev.in
+SPDXID: SPDXRef-item2552547
+FileChecksum: SHA1: d52037d093b5664f0afc75d4b07c6018d4140cd1
+FileChecksum: SHA256: fbc47600a1e0a8f323f137701baec2180002ee8aa944863550d04a1761bbe93a
+FileChecksum: MD5: 79c20d5df33fba59a8a059f9f4cfb71a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/.github/issue-branch.yml
+SPDXID: SPDXRef-item2552549
+FileChecksum: SHA1: 4e4a6193a3c1515335a29f94450a44eee00f4aeb
+FileChecksum: SHA256: bbf61045f7e99d5371b51f42f127135341c7343cca77b7e16470db6b99e11938
+FileChecksum: MD5: 7715a153f8ba3a266bad5389e02649b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/.github/workflows/lint-and-test.yml
+SPDXID: SPDXRef-item2552551
+FileChecksum: SHA1: 03bb4f3edf315da7aca12754ca88d66266702151
+FileChecksum: SHA256: 3d9f2f920d8f239fca541a664c1d18cab3558e5f4fa6db4bd9b22504a911b513
+FileChecksum: MD5: 2e698d7ee889d8831865a1a8ced8ae4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/setup.cfg
+SPDXID: SPDXRef-item2552552
+FileChecksum: SHA1: 3f5307a44a8cb0b8c3c5453a169bf195fd8005f8
+FileChecksum: SHA256: 08bb58242ff3e6223c3ea6da8e92cb28699488a978ed2bf6db9263b81f6da92a
+FileChecksum: MD5: fc2c6d8a41de57ec5c49e52179a11fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/.flake8
+SPDXID: SPDXRef-item2552553
+FileChecksum: SHA1: 52ea3d06ea27dcb3f092d7e6dfc91224f2273224
+FileChecksum: SHA256: 1dfffa76c6b501256cddc7323a239256dd2126478e63dd97a266186266923e8d
+FileChecksum: MD5: 4f6317fb4940abec7bb3c4ecac2aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/.gitignore
+SPDXID: SPDXRef-item2552555
+FileChecksum: SHA1: 43d71bddafe1811ee0ee1e164ab4238bd8d63aa5
+FileChecksum: SHA256: bb4d609210094ae9dd2e1a8a89cf61687d2493bc49f0d1774e7a2e983a274d67
+FileChecksum: MD5: 6e048c176e2e0510c4d5f029eae81b60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/scripts/solartest.py
+SPDXID: SPDXRef-item2552557
+FileChecksum: SHA1: e85a9a59e31b344ee3d9b3a0670ea29f96af96af
+FileChecksum: SHA256: 81530990cf64bd1f8e46868bd833066e6a9cf9230180f94019e14ef96e14f674
+FileChecksum: MD5: 1e0578708722a96c32f5039e9c159789
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/README.md
+SPDXID: SPDXRef-item2552558
+FileChecksum: SHA1: c22a4659b6b48847fe1515463f8e1a0303792f2c
+FileChecksum: SHA256: 9ed96cc5719880fe9b94448465eb91abd9edfc11cf6b887c7d38d12477044df7
+FileChecksum: MD5: b3a63c1571fb6b9177db8fc2816382e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/run_mypy.sh
+SPDXID: SPDXRef-item2552559
+FileChecksum: SHA1: a30c07adc701891c2547cebda184d4227488e055
+FileChecksum: SHA256: e99410c32d37dd5657afd037c82ccba0281bb0e276d8d6bd1efac8492dac6c7c
+FileChecksum: MD5: e1e13773c2849acbf657bae146770f54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/.pre-commit-config.yaml
+SPDXID: SPDXRef-item2552560
+FileChecksum: SHA1: a53e0b598719120fdcc07c8c2933f31162052b61
+FileChecksum: SHA256: 32c0fdbed9d6be597908ad7157e21f7a5b1791e98ee7341b5825684df5bfa769
+FileChecksum: MD5: 905ae75887d3ea26de06e2cb5c953d18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/commands.py
+SPDXID: SPDXRef-item2552563
+FileChecksum: SHA1: f0d4beca6cad992099d933ea6bfe62895dbbc7b5
+FileChecksum: SHA256: 77ca376c71b0137c79b4c2875032deb0eace9d308e47b80da52637d90390eef0
+FileChecksum: MD5: ecddfac2c4afeb1317ca2fbf62746a95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/tests/test_register.py
+SPDXID: SPDXRef-item2552565
+FileChecksum: SHA1: cbe304d40d607f7e877ab56af28525d7c2c4b786
+FileChecksum: SHA256: db4a901f630a8e5a04f2357f5683c6ebe6bb38ca53fdc42b94b41fbf7e5cf942
+FileChecksum: MD5: 3b6516ec69d1db7622092caf8f980c3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/tests/conftest.py
+SPDXID: SPDXRef-item2552566
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/tests/__init__.py
+SPDXID: SPDXRef-item2552567
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/tests/test_get_forecasts.py
+SPDXID: SPDXRef-item2552568
+FileChecksum: SHA1: 554957c795be1dc9c86caaac85a29c2d99d4f9ac
+FileChecksum: SHA256: 1e7ab30dc140e5fcde4b8b8e16857177a0b9a1c405b13b0164112ed31c5e443a
+FileChecksum: MD5: ef44b0e61a2e247fcc8640e502c66171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/tests/utils.py
+SPDXID: SPDXRef-item2552569
+FileChecksum: SHA1: 894b7676d97eb06e20f87b78c821a57c6a68ef9a
+FileChecksum: SHA256: f88872b87c225089e1c07c7f6ac0f5fad1028e8083e4bd8e21cdf51da48d27e9
+FileChecksum: MD5: a4576a6f7e11c74de0dbdd886801d4aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/schemas/__init__.py
+SPDXID: SPDXRef-item2552571
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/schemas/weather_sensor.py
+SPDXID: SPDXRef-item2552572
+FileChecksum: SHA1: 5ac0c6dfe46d8e0436b3cc7ac06f8920d88da1f1
+FileChecksum: SHA256: 120a712113c016462e2150fde915e9c842755d3d3185c14112be06fd1bab7cd6
+FileChecksum: MD5: 9958477759e8b39ede99f593eeae68f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/cli/__init__.py
+SPDXID: SPDXRef-item2552573
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/tests/test_modeling.py
+SPDXID: SPDXRef-item2552576
+FileChecksum: SHA1: a8fa2fafe4bef6430396a81b494bd45c6b45a081
+FileChecksum: SHA256: 3c36ccfdb3ee5d1a8dff5c26e3768b0e857f88d46f0458ab0f1afe6add63a322
+FileChecksum: MD5: 5bb5476827c7a74c9a7d2d903ff19a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/filing.py
+SPDXID: SPDXRef-item2552577
+FileChecksum: SHA1: ad70312f2dc340b39ef7005e99a8f26552ed90a3
+FileChecksum: SHA256: 3a26b9a0458287288c806dcb2c1cd09e71e02150f10e7cb53ed5126b0e8dbd8e
+FileChecksum: MD5: fdf61dfc1ed8613fa4295740a4f50091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/owm.py
+SPDXID: SPDXRef-item2552578
+FileChecksum: SHA1: 386abbcb72fa98a15f8837e1f5155973b2539a18
+FileChecksum: SHA256: 5cb2ffbc5066eb729b6b398ccb51c4520a3e40e26d845bb6f19f2f6e5178b66b
+FileChecksum: MD5: 6a27b7d56c9fba6c6c09fe60d995c853
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/locating.py
+SPDXID: SPDXRef-item2552579
+FileChecksum: SHA1: 5067f9fd60a38c86a580f309fff317d4175058c2
+FileChecksum: SHA256: 0306d5a1ebd221652af54742820d46b0f2707e884352842bf16bc5bf4fed79db
+FileChecksum: MD5: 9505cab18db3f4495a2a7d18e317deda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/__init__.py
+SPDXID: SPDXRef-item2552580
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/blueprinting.py
+SPDXID: SPDXRef-item2552581
+FileChecksum: SHA1: 113fe0d28e0ed9fcccb0835eca54ef3794be3600
+FileChecksum: SHA256: 25eda57d35d9481ac997c83f218de514de09f42b6e7961ca25478d802b9ade0a
+FileChecksum: MD5: f4d6d27b4e6e26422b1e1e0e3516f6ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/modeling.py
+SPDXID: SPDXRef-item2552582
+FileChecksum: SHA1: b911ecb3ba5ccaf7935151a4c37de2b5d0e05068
+FileChecksum: SHA256: 16050af3d3157af3f8e4b611267f3ad48ba824ded17fa1bd813ffb994b863585
+FileChecksum: MD5: e03817272c16f949c96ddf8816b9b610
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/utils/radiating.py
+SPDXID: SPDXRef-item2552583
+FileChecksum: SHA1: 9037f88e6b80ab33fa9e56d2f8ecb3db1f8d6a06
+FileChecksum: SHA256: 1dc67b29f2f1aebae1c60035b4887666693e13581c25ed0a8bdfcf43d9d75a51
+FileChecksum: MD5: 2d00c2369283c5886a273f2a0e6e0613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/sensor_specs.py
+SPDXID: SPDXRef-item2552584
+FileChecksum: SHA1: a56e27873d010348ba3d1ea3aed38dfdd511ac80
+FileChecksum: SHA256: dce510ca4f11eff3db9963c90c56960f05ce3aa59b2c01a461fef50aa71759e9
+FileChecksum: MD5: 8a347c4082a470af3088f2392ffe7dd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/conftest.py
+SPDXID: SPDXRef-item2552585
+FileChecksum: SHA1: 2fc5bb60d920eef82f4fcf9ff04c8e2bc15f30ae
+FileChecksum: SHA256: f3fcf5469c3407ccff8331467b8a2a693b98e3f5223a8490a2123d759927dacd
+FileChecksum: MD5: 9543b73abe5e8a692aa4fa715bbabfde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-openweathermap/flexmeasures_openweathermap/__init__.py
+SPDXID: SPDXRef-item2552586
+FileChecksum: SHA1: 895340dab11a9e799ad8b2bc5c8b2f9f5a6fda06
+FileChecksum: SHA256: 53aa398dc251d37bec624621a58c6c39b62141d4d4d60d6f69625e8de8dbf1b2
+FileChecksum: MD5: 89117ffa09215b01b543a610fa2d219e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/generation/day_ahead.py
+SPDXID: SPDXRef-item2552589
+FileChecksum: SHA1: edd26852aaf7cc6965a19abea1a41e32a1988b37
+FileChecksum: SHA256: 991fd6c14652d1ffb0e7f23e014c247059c092abee7aa2ae0aa427744fdb066a
+FileChecksum: MD5: 20b1e345ce2367c08e99f692101be24e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/generation/__init__.py
+SPDXID: SPDXRef-item2552590
+FileChecksum: SHA1: 18ecb42cd0ce30f4770401afa579bc8e6cc733c1
+FileChecksum: SHA256: 216ff78d12b1c49bbb56b94455693d56dc3c75b797a7bc5d2608e018f614c315
+FileChecksum: MD5: 6be90bd4a5bc2502413fc1c519f5149c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/generation/utils.py
+SPDXID: SPDXRef-item2552591
+FileChecksum: SHA1: e809154d5da34587db26531c54c79db3f5e336a1
+FileChecksum: SHA256: 6ebc5ed71e92836230da2971600bfcff333a5765fb67030034c735943ba5dcaf
+FileChecksum: MD5: c5fe3ecd2040d152c3a25553bba9c2ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/.flake8
+SPDXID: SPDXRef-item2552593
+FileChecksum: SHA1: 52ea3d06ea27dcb3f092d7e6dfc91224f2273224
+FileChecksum: SHA256: 1dfffa76c6b501256cddc7323a239256dd2126478e63dd97a266186266923e8d
+FileChecksum: MD5: 4f6317fb4940abec7bb3c4ecac2aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/prices/day_ahead.py
+SPDXID: SPDXRef-item2552595
+FileChecksum: SHA1: 06a773ba53b64372ab019fea6c62eaf549ae887f
+FileChecksum: SHA256: 9111fc3ec1dc7d5ef11c9584b7c17be61db51fe4a03187ea83a780bff3fd7904
+FileChecksum: MD5: f3fb990b6fc212430ee654aeb8bdddf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/prices/__init__.py
+SPDXID: SPDXRef-item2552596
+FileChecksum: SHA1: ffee55017d9ae2714b280dc3770016b5b45618eb
+FileChecksum: SHA256: 271db0fc64c9983847f9413657b417c4ecf8adb35b962f573246fabe9b3412c9
+FileChecksum: MD5: 4188bba88383a4df552a7e315d97d31d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/.gitignore
+SPDXID: SPDXRef-item2552597
+FileChecksum: SHA1: 9d566483ab3ada4bc353380361c7ca28e55cf9af
+FileChecksum: SHA256: 916bd81ab459506d09230f8a8a74d38b16023aa1f610cc4e267eb503d08b876a
+FileChecksum: MD5: 9fc483eb8638496c82554dac08f61f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/__init__.py
+SPDXID: SPDXRef-item2552598
+FileChecksum: SHA1: 7b3e98c7cfa2cbcd60b56ee9e6eb90171ec35188
+FileChecksum: SHA256: a6c9f2ba2b054d9d88134b16cfb5c2af6d01ca55b9258b379232e329d277ab1e
+FileChecksum: MD5: 2fecd85be8c57bc59fc56da0a0e59b23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/README.md
+SPDXID: SPDXRef-item2552599
+FileChecksum: SHA1: 50167eb5d70543e220f8b218df07c34218cfdb1b
+FileChecksum: SHA256: 1b7fa8b78f0b263c7be696aa42b0215a8e565dbf7906208efc15d9ce416460ce
+FileChecksum: MD5: 17b4b3fc1a87fa12cf260cf72bf2d0e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/run_mypy.sh
+SPDXID: SPDXRef-item2552600
+FileChecksum: SHA1: 96e20653c7ec9f765e68232aa0168f6ac7857c4c
+FileChecksum: SHA256: e95593e86a480fdaa0c1c8befa6f0d664e8bef887830d05e969eaf982085ae1a
+FileChecksum: MD5: a61ea7da5f2f31d953f2047742487351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/.pre-commit-config.yaml
+SPDXID: SPDXRef-item2552601
+FileChecksum: SHA1: a53e0b598719120fdcc07c8c2933f31162052b61
+FileChecksum: SHA256: 32c0fdbed9d6be597908ad7157e21f7a5b1791e98ee7341b5825684df5bfa769
+FileChecksum: MD5: 905ae75887d3ea26de06e2cb5c953d18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-entsoe/utils.py
+SPDXID: SPDXRef-item2552602
+FileChecksum: SHA1: 427cbe3147f849db41d369257d5bf83bd72ea043
+FileChecksum: SHA256: cd9fddb6e8d53fde274ca816cfe1bdf7622baa3a9f02f951abea71262ff35070
+FileChecksum: MD5: 0b5257bd1ed1f4d393e85d4ac066a7a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/.github/issue-branch.yml
+SPDXID: SPDXRef-item2552605
+FileChecksum: SHA1: 4e4a6193a3c1515335a29f94450a44eee00f4aeb
+FileChecksum: SHA256: bbf61045f7e99d5371b51f42f127135341c7343cca77b7e16470db6b99e11938
+FileChecksum: MD5: 7715a153f8ba3a266bad5389e02649b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/.github/workflows/lint-and-test.yml
+SPDXID: SPDXRef-item2552607
+FileChecksum: SHA1: 53a2b90c14175da0e8c47363dc0e23076135f89d
+FileChecksum: SHA256: 81eae8f9d8766d38c8db1c5b80504d7e17d4681881a85e0ecaa082c3c95d1cdf
+FileChecksum: MD5: 5059e5bfbf528e91f773fee3e1cc9b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/.flake8
+SPDXID: SPDXRef-item2552608
+FileChecksum: SHA1: 52ea3d06ea27dcb3f092d7e6dfc91224f2273224
+FileChecksum: SHA256: 1dfffa76c6b501256cddc7323a239256dd2126478e63dd97a266186266923e8d
+FileChecksum: MD5: 4f6317fb4940abec7bb3c4ecac2aff55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/__init__.py
+SPDXID: SPDXRef-item2552609
+FileChecksum: SHA1: 28b4ae24c41f38e5b81e829af6ddc8927d4a1f75
+FileChecksum: SHA256: eaff8e63f2d30aa705b16f2918b36b218aa01c046a4e4fd02624c7814f52440b
+FileChecksum: MD5: 99608ec4cd1bf7a23e405875beefcd12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/README.md
+SPDXID: SPDXRef-item2552610
+FileChecksum: SHA1: 24f325bc955fbd1aaf9823254694f97bd6d03c94
+FileChecksum: SHA256: cc99533fd61dc5b875c1c9472acb4beaf55e2129126865cfca105836ccc2e632
+FileChecksum: MD5: 6e1c00f59210e08c3cbad25613cd6e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/run_mypy.sh
+SPDXID: SPDXRef-item2552611
+FileChecksum: SHA1: 96e20653c7ec9f765e68232aa0168f6ac7857c4c
+FileChecksum: SHA256: e95593e86a480fdaa0c1c8befa6f0d664e8bef887830d05e969eaf982085ae1a
+FileChecksum: MD5: a61ea7da5f2f31d953f2047742487351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/.pre-commit-config.yaml
+SPDXID: SPDXRef-item2552612
+FileChecksum: SHA1: 5a6849079930867872cb05b420146f3220edbdd1
+FileChecksum: SHA256: 0fab0e7211dc71cda8e75431bd626090aa6592069ab69b3a76306986e3b7eefb
+FileChecksum: MD5: 89fa087f36509d9a3841bd2f543756b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: SeitaBV-2022-07-28.zip/flexmeasures-zinfo/utils.py
+SPDXID: SPDXRef-item2552613
+FileChecksum: SHA1: 55ca4104614521cb3893fbb4799622889b6efe97
+FileChecksum: SHA256: b7e73c5b07d58c5470d3b8d4a95af75dd3c7bc7735137c5bcb9700fcf1b2410e
+FileChecksum: MD5: 8b647319482b16af1ad430ba1d2cd476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
