@@ -1,0 +1,1119 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_ocpp-cloud-connector-2022-07-31.zip_1659399805.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-08-02T00:23:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: ocpp-cloud-connector-2022-07-31.zip
+PackageFileName: ocpp-cloud-connector-2022-07-31.zip
+SPDXID: SPDXRef-upload565
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2a7a47d4a69ffda088f32b9104f1862d637381a5
+PackageChecksum: SHA1: 84792dd63721ae98e965673570a9392d2f6777a1
+PackageChecksum: SHA256: fbe4051b2db236962046fdcb5834e43c115dea139fbe8d8101be6c14511ab989
+PackageChecksum: MD5: a526fc2448c46faeb02c8da46a34a1fb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload565
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/CONTRIBUTING.md
+SPDXID: SPDXRef-item2595295
+FileChecksum: SHA1: e3ac8d3f17105653665a5c51a5898d71b5872283
+FileChecksum: SHA256: 5861d78d69cc6278494788a3506fe58dc01887608919d303b5b4a606a79c62e4
+FileChecksum: MD5: 115789d14cf573c37783709659dc23cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/package.json
+SPDXID: SPDXRef-item2595345
+FileChecksum: SHA1: 0c6cfcb5b7142f1971217f1c58fe4549c50d9748
+FileChecksum: SHA256: 561cafb7b08bf4b2200c4797cb6ba2cd9aeff06d3ddf4d073fb5985d843b8529
+FileChecksum: MD5: df5e42a6a2e8e720d4f492c07b28bb56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/CONTRIBUTING.md
+SPDXID: SPDXRef-item2595246
+FileChecksum: SHA1: e3ac8d3f17105653665a5c51a5898d71b5872283
+FileChecksum: SHA256: 5861d78d69cc6278494788a3506fe58dc01887608919d303b5b4a606a79c62e4
+FileChecksum: MD5: 115789d14cf573c37783709659dc23cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/tsc/CHARTER.md
+SPDXID: SPDXRef-item2595273
+FileChecksum: SHA1: d19d88bca70afcc5f02c2482ee868a12402b96cf
+FileChecksum: SHA256: 506409232e70d8176b28d1c8aecb4ede22157af896fd692380888eaa0b7c9db4
+FileChecksum: MD5: cc00ad12a870fc8920f0b8f55f1a7365
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright in all new contributions shall be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project. b.** Except as described in Section 7.c., all code contributions to the Project are subject to the following: i.** All new inbound code contributions to the Project must be made using the **[Apache License 2.0 (available here: https://spdx.org/licenses/Apache-2.0.html)]** (the "Project License"). ii.** All new inbound code contributions must be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license; iii.** All outbound code will be made available under the Project License. iv.** Documentation will be received </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/LICENSE.md
+SPDXID: SPDXRef-item2595241
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/LICENSE.md
+SPDXID: SPDXRef-item2595291
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/examples/local/local.go
+SPDXID: SPDXRef-item2595260
+FileChecksum: SHA1: 6f3da8088a566114ae2cbf4ce6b431af662ec74f
+FileChecksum: SHA256: b9ee1d936a265ae26704a120f56b7c82bfebfe5b897e22a299c1fee6ca5356ec
+FileChecksum: MD5: 5d3385a11f2fe29d4dba09482403a5b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/examples/store/localstore.go
+SPDXID: SPDXRef-item2595262
+FileChecksum: SHA1: b46b0f6f50bcc81141291992c046429b13add2bd
+FileChecksum: SHA256: 7b9801ddd795fb15f3a139eb5cc74538e2f769a71592aa322d045134d68e35f0
+FileChecksum: MD5: 9bdade2470d44e876e294dea209dadc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/pkg/server/server_test.go
+SPDXID: SPDXRef-item2595281
+FileChecksum: SHA1: 6c01b459edd7ef2659babf2008fff58200d401a3
+FileChecksum: SHA256: 03ea9feeefdb33f88b9e0eb6847ba463373ce70931ff1fdc00297d5a3f205b6e
+FileChecksum: MD5: 37d57a9dd275f3caa7ced446110e1443
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/pkg/convert/convert.go
+SPDXID: SPDXRef-item2595279
+FileChecksum: SHA1: 68e8194baef07432bf5987171650905e59b8a046
+FileChecksum: SHA256: 23bf57fb8c3e18c498aabd88b357b5e5f27b546b394e92d04f31cb6346a96164
+FileChecksum: MD5: dde9d12a0d8bbe401f7309117af499d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/pkg/connection/connection.go
+SPDXID: SPDXRef-item2595284
+FileChecksum: SHA1: 41acbaecf42232cb31ea5efaaf4334dcb25f55f6
+FileChecksum: SHA256: 8c1c79746b10ecf3ef227d1da2b47842daaf2004fb371792b5ee9b1d954dd256
+FileChecksum: MD5: ee0a361b07c866f91d41fcbb2eaf8108
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/pkg/server/server.go
+SPDXID: SPDXRef-item2595282
+FileChecksum: SHA1: 92eee87d694216e55ef7c24fec75ea670c8dcfdc
+FileChecksum: SHA256: ec7116a9fba81e269efebb40192ca84bf26fffe0b8289f4cfa2a2c87742062df
+FileChecksum: MD5: 61d915ff644128e1baad85859ffc6dfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/pkg/connection/connection_test.go
+SPDXID: SPDXRef-item2595285
+FileChecksum: SHA1: 5150c449566326e76a822f717b1a16a11b74d2fb
+FileChecksum: SHA256: a57f40a8edd2388340e86829ed8ac574c629c0bad9bb9d98715db2c33200e07e
+FileChecksum: MD5: fd2c32270cf2edcb84c8940d6e61e89d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/pkg/convert/convert_test.go
+SPDXID: SPDXRef-item2595278
+FileChecksum: SHA1: 0ae9c0eaea0d492d6ec0f0eaa9c48118cb1f1790
+FileChecksum: SHA256: b3ae67dad98bea776a23d7bd712923da18153b8857b5c658d21e3ccec104ade3
+FileChecksum: MD5: 3f0d4ae330f29ac52e7f1f0cd31e8b73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/bin/ocpp-pipeline.ts
+SPDXID: SPDXRef-item2595299
+FileChecksum: SHA1: 97bdf2bd121be08910c3c07fe538fd3011f02c7f
+FileChecksum: SHA256: 770f534f328e1a6dd4689e194700b30e4efd6d0bdb605c9443e7a2f6ea308516
+FileChecksum: MD5: fe5f9d7dc5bdb05a0ac6c930301f306c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/lib/ocpp-pipeline-stack.ts
+SPDXID: SPDXRef-item2595305
+FileChecksum: SHA1: e68bb963bf0e6e3f9d755628310b17cf1aa78472
+FileChecksum: SHA256: a85993de29dd9376b0e62b601f99e90df0e123dbe6ab847ec15e79f55b11732d
+FileChecksum: MD5: 5d1988b0fe6515ae7e0fb69887f47b57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/lib/ocpp-cloud-front.ts
+SPDXID: SPDXRef-item2595307
+FileChecksum: SHA1: 2dfac27c66bf0a2e798415b5e6fdaf458481eb45
+FileChecksum: SHA256: 0cf6c8e9e57d2512206ac0e097d8248e223801bd5a673b5d949cca74f5a6e36e
+FileChecksum: MD5: bcabb71989cc57821a4a198e5fa230cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/lib/ocpp-services.ts
+SPDXID: SPDXRef-item2595306
+FileChecksum: SHA1: 9cd5567e0d3c25435c89d6886d5568a92c7a6962
+FileChecksum: SHA256: 46b882a42f4d804f46438c1acc885e318452fd0d9a4cd96622136fb4bb214531
+FileChecksum: MD5: 6b6438e7586156ecc98334f52ea6971f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/test/ocpp-cloud-front.test.ts
+SPDXID: SPDXRef-item2595311
+FileChecksum: SHA1: 517d84526a582e2b63b78bdf18d664203ee19687
+FileChecksum: SHA256: 588d6e8cdfbeaa67857f089703436de2979467776405ce2863dbfef748c2678e
+FileChecksum: MD5: ac46c55a1eda1bd25f0efb31567bf437
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/stop-transaction.test.ts
+SPDXID: SPDXRef-item2595320
+FileChecksum: SHA1: b52ddff261e02a19762c1f5ed9067295403942aa
+FileChecksum: SHA256: ce5d13e2887d68adf783ec3be7bd7b759b085a40f81e76e306a99fde722240d3
+FileChecksum: MD5: ea9c7eac8dba1eba139cd128ce5618b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/test/ocpp-services.test.ts
+SPDXID: SPDXRef-item2595310
+FileChecksum: SHA1: fc08f2314e15f1f3ae52678247378175fea8b6dc
+FileChecksum: SHA256: 68c9999faf387ce4a298c13cc7618fb5e5abc59a325f40e52a574a306de8e5b9
+FileChecksum: MD5: b5e54d4a16a0bbda12b04769f064dcc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/event-producer.test.ts
+SPDXID: SPDXRef-item2595319
+FileChecksum: SHA1: 2338c3c2919ad1e99870e883f9d13d495f257d01
+FileChecksum: SHA256: 4ce8dbd4b47e163ae8e6af655a64996293feff9d96ad518ad8f74dd7eab778bb
+FileChecksum: MD5: 890142e90067bf6ca5c985a8d6f5f58b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/boot-notification.test.ts
+SPDXID: SPDXRef-item2595321
+FileChecksum: SHA1: 3fb36a6473f77ac186fc37fa64a66f457be757e6
+FileChecksum: SHA256: cb48321e0773db0a1c2724a9985ec21522375eadf59cc0bf9630328f8c1de2d8
+FileChecksum: MD5: 88c8d5655daf0f7b0babc7fff08066e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/connect.test.ts
+SPDXID: SPDXRef-item2595322
+FileChecksum: SHA1: bf587a9bdfa422dd7a99a3902da451e773d686b6
+FileChecksum: SHA256: 0efd301110fc424b40b11e655df048e8b65ff5c3203551502a94e1ecc29f1165
+FileChecksum: MD5: cd2340a4d6dd00434e325ff185a3d769
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/start-transaction.test.ts
+SPDXID: SPDXRef-item2595323
+FileChecksum: SHA1: f6f8bedd20d3e3042c65347bd1fc913f7c05726e
+FileChecksum: SHA256: 98869f0a9e2e8f62ea1edc49ed2c592490ecaa4cd016ac59423cd9598cf5f9f7
+FileChecksum: MD5: 411ef41b3f3b154d69458f5c78949468
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/default.test.ts
+SPDXID: SPDXRef-item2595324
+FileChecksum: SHA1: 2659ce2e4186fc864f1f64fa53c3320d8fd29ff5
+FileChecksum: SHA256: 95fe5d05a98c72533ab1f741ddfc3c3470cb19d507f9bf8aab10da3e4fc3c9f6
+FileChecksum: MD5: ea73b5fc7e9736dcbe08d917eaa0401b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/disconnect.test.ts
+SPDXID: SPDXRef-item2595325
+FileChecksum: SHA1: 34d5d54d87851919d20bea338aa79224292f5916
+FileChecksum: SHA256: cb206cafec41395b7af92e056ba7cbc696c55e00d70351858a6420447a3cb373
+FileChecksum: MD5: 687709a9dcad90125c46808e6d6f24b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/layers/config/nodejs/config.ts
+SPDXID: SPDXRef-item2595332
+FileChecksum: SHA1: ecd8df043764854d8e6f21cb4c295525be7edf06
+FileChecksum: SHA256: fac03781e056435b43a63dce14ea870531782eb449fc00d2d7923a46acb4f1c7
+FileChecksum: MD5: 0dd9579594daca52c8f8c81e0c42019b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tests/status-notification.test.ts
+SPDXID: SPDXRef-item2595326
+FileChecksum: SHA1: 119fee33a7b163152a76ce3366b841dd8f4ddc5b
+FileChecksum: SHA256: 26672d4f8ebce9b962d7c3c70e06f0d0d778b1d8f70500c7bc12a9e414b93d47
+FileChecksum: MD5: d44ac1fa9c3ed7f73679a2d8e538613c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/disconnect/index.ts
+SPDXID: SPDXRef-item2595335
+FileChecksum: SHA1: 7a3cd154a07aed34a7b62d8914e490221af22100
+FileChecksum: SHA256: 5aa75b3c3a9f0b0cdda60e2ec2c35929784a78cbf025cb7f7093eb6b9cb47e96
+FileChecksum: MD5: 7f6848a6065d60cd57df751c8c97e69e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/event-producer/index.ts
+SPDXID: SPDXRef-item2595342
+FileChecksum: SHA1: b382999361cba4b0c09834fb9099afbea6b32b8d
+FileChecksum: SHA256: db3c2649b5d1cf2133bce4b85aef5e47cf847ac0dde45ffc54b8769dd49be7fd
+FileChecksum: MD5: ad9408ba5be63350887aefce9935683b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/connect/index.ts
+SPDXID: SPDXRef-item2595340
+FileChecksum: SHA1: 2d0e2687ef87916ffc8cb1e9ebb0ff9ede69e7f1
+FileChecksum: SHA256: cef6ee3b394fa3aff31d7621e43f3d7141be4cf0a5db355ee54f76664a42e054
+FileChecksum: MD5: 75485ad66d8df5a2def672ee20408d2a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/start-transaction/index.ts
+SPDXID: SPDXRef-item2595338
+FileChecksum: SHA1: 73b2ddc1d5499c36dd9c1dc53338a4be2adc4639
+FileChecksum: SHA256: 33065b1379be29478857552f87880c4fa353ede154ad70b3b6e4568e6d54c878
+FileChecksum: MD5: 6bab2767b1a60ac283b17e20743077dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/boot-notification/index.ts
+SPDXID: SPDXRef-item2595344
+FileChecksum: SHA1: d1046f23368a909caeaa0861525e2f8c0bb73ec4
+FileChecksum: SHA256: 9698f6fe9163c861ad55bf637561d0177f1a47ef490335c711a85aff5bc423c3
+FileChecksum: MD5: a0960224f264ffc87c7ccaf35a34333b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/status-notification/index.ts
+SPDXID: SPDXRef-item2595347
+FileChecksum: SHA1: 8a390861233c3c4336d04677340bfcf125394d69
+FileChecksum: SHA256: 31a1774f563c412a5ad7429df2034c56b184aafc49488fa0dcfaaece1c260e09
+FileChecksum: MD5: 38eb806f10e3c7003c0100ce95dbb9db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/stop-transaction/index.ts
+SPDXID: SPDXRef-item2595349
+FileChecksum: SHA1: 161d746e1abbe5a6573b6cf5de83f94d1f0a7df7
+FileChecksum: SHA256: f365d848ff3df9f8dcf482f2a2bacc098b66202609e066c10f13552cd6593577
+FileChecksum: MD5: ff5ee98dafd1f1e971a7bf4542388a78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/default-lambda/index.ts
+SPDXID: SPDXRef-item2595351
+FileChecksum: SHA1: de22500236799303cc372bc7186634b223277317
+FileChecksum: SHA256: fc0387fc3b0b26a18a841195d43aac432ce3ef975bb645e83249c27f842bfa0d
+FileChecksum: MD5: 4ba9eaf79f62f3f6b4dfc5c2befb53c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/utils/evse-client.html
+SPDXID: SPDXRef-item2595353
+FileChecksum: SHA1: a58a70ccf55e621a72597302c4275642433456c7
+FileChecksum: SHA256: e9ccf748a7ff5aade3b1a1172ee78dcd86deb745ebcd286c8471cd0097a2ad07
+FileChecksum: MD5: 801d09379e8f47a675e24059fc988bc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Charge Net Stations and Contributors. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item2595242
+FileChecksum: SHA1: 669d3f1d3f48b9d97a8b65b04173cfcade89a1f8
+FileChecksum: SHA256: 31035641cc394bae59fd57a55f5ea7895f137009f0c5b5dc9b541410d0ff664c
+FileChecksum: MD5: 79fd9bda0f75c4c2749bffbf0e81fb74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/GOVERNANCE.md
+SPDXID: SPDXRef-item2595243
+FileChecksum: SHA1: 87577745a4219d152d4354260147a90cf0da2076
+FileChecksum: SHA256: 95cf872f968629f19d05df36e51071cbbbe4fc5897224c0a62baf8247b1d682c
+FileChecksum: MD5: d2877e534a01fae33d4b5eeaf8e9bc32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/RELEASE.md
+SPDXID: SPDXRef-item2595244
+FileChecksum: SHA1: 91690bf2a07c1ada40722d2755eb1b4ee71bf080
+FileChecksum: SHA256: df5111ea662f5c4daabbac8a7d10214eb038c068495760c0a680a50e2b5d75ca
+FileChecksum: MD5: 962f407549f71d34d5d86650b637fcaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/INSTRUCTIONS.md
+SPDXID: SPDXRef-item2595245
+FileChecksum: SHA1: 4bf1691f28610aaa8812f353488869307c931a5a
+FileChecksum: SHA256: daffda47c90670b34a1424c147d4a2cd65eda7aa98174f9bed1ee4fb34dc9721
+FileChecksum: MD5: c4d329b2546ba037e3a7a8bdce7a123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item2595249
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: SHA256: 1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item2595250
+FileChecksum: SHA1: 83d211c67c12e8c1f6e9f796cfd0cecbf5160e15
+FileChecksum: SHA256: 0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3
+FileChecksum: MD5: e468801d29e6b66b0d496136e22e8b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item2595251
+FileChecksum: SHA1: 393bf5205b20d3179034d8fffae769b13020c178
+FileChecksum: SHA256: 304119775b46424d9e402fba0ffd2b7af79075ad7e023af163f72141bd753786
+FileChecksum: MD5: 89eef89d1604ef8d684c8c349dbcfbef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item2595253
+FileChecksum: SHA1: a8fdc0f69520a4fe3ed8e605f41e96d2c95359dc
+FileChecksum: SHA256: a54e6fcd9e710621594cff1d90de818c05c7eb6bdefb3db019e9b354a4954ef2
+FileChecksum: MD5: 1ce582a704498623bd09e22533a06a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/workflows/send_agenda.yml
+SPDXID: SPDXRef-item2595255
+FileChecksum: SHA1: e3e56c4521e960501ebfc635a99cf44f6a53dac8
+FileChecksum: SHA256: 883674c10ad97d0dd21d1a2fb9d9a5f7ea0cb21a04594454f88a13f62d493516
+FileChecksum: MD5: 27b58816b0bb2f7ca4fe6d685c8c734b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/workflows/repolinter.yml
+SPDXID: SPDXRef-item2595256
+FileChecksum: SHA1: 860839db283e31323c3f5bdf741b91552038bda8
+FileChecksum: SHA256: c7299160d3108dffba2d0980e0a1bf7d2b282099301119997bcd4818bb18c1d7
+FileChecksum: MD5: fd869318e954031451a786110519eb53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.github/workflows/create_agenda.yml
+SPDXID: SPDXRef-item2595257
+FileChecksum: SHA1: da62b9e35aa2e4a51d62c5bfd36e1871826390fe
+FileChecksum: SHA256: 5f45669f4c6069328c712c6c48586415b8fcd1ac4b3db4741d0117cf885417e1
+FileChecksum: MD5: f8f172fff27784cc08bb5e8e5ea23375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/.gitignore
+SPDXID: SPDXRef-item2595263
+FileChecksum: SHA1: a73624a7b087261680e579351ab8d313072e8fe1
+FileChecksum: SHA256: ef9af6e28fa8a1cdd4efcf5da097442578ab36859e5fc65efadef4935ced7974
+FileChecksum: MD5: 54c65a9bd53eb1520857c661760ee08c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/CHANGELOG.md
+SPDXID: SPDXRef-item2595264
+FileChecksum: SHA1: 2513ddcf08eaefc8f38d0a0c039f3aeeb69948ac
+FileChecksum: SHA256: c3b214015411eabab1cebd1ed827ec3699cc7c61bf9ed9e8821708c58bf62253
+FileChecksum: MD5: 0161c1aeaa72f21f2a2005c1006e161b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/SUPPORT.md
+SPDXID: SPDXRef-item2595265
+FileChecksum: SHA1: 8d68dd8dcf60d6336d2e505f134e32d08c0c3756
+FileChecksum: SHA256: e23a5351549aaac817043eaf8c72221a1c161f3e2ae0ce431ccec92fb3858ca5
+FileChecksum: MD5: 15f248a868bef74926658c4c6153f34b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/go.mod
+SPDXID: SPDXRef-item2595266
+FileChecksum: SHA1: edb33760b4d6b956dcc4d050a4ce1e092b4a7efa
+FileChecksum: SHA256: 5e75909d7ae861c4bf54dfed338a40627b4248a51e82ca077561002bc0547f1c
+FileChecksum: MD5: 9d5593e05adbc7a010373000e51d2276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/THIRD_PARTY.md
+SPDXID: SPDXRef-item2595267
+FileChecksum: SHA1: 64bb5699daff711e09020adbcbd53df0c7f16c0d
+FileChecksum: SHA256: 97be59fd8b10c94f2f4769d124c271a02cc1707348135fd5f2dc6fdf7baecc2b
+FileChecksum: MD5: 142eb46f967c26babda800a3ab57ff0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/tsc/meetings/2022-03-11.md
+SPDXID: SPDXRef-item2595270
+FileChecksum: SHA1: 33162f20b3867a1557e380197e4e8b4cad0e4f9a
+FileChecksum: SHA256: 7a6ef90079f311a88653df15ad7d7bbf6d891af2328e488c097aab91adc54246
+FileChecksum: MD5: 4efc16a7bc46365c74c320f41b4ea6b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/tsc/meetings/README.md
+SPDXID: SPDXRef-item2595271
+FileChecksum: SHA1: bf467c0bcf0bd7f2d7d44f326654889e59a08bdf
+FileChecksum: SHA256: bb4fcb293b4c7989df92280abd14ac2419e36895abe4b4efe0731066c1aa76b4
+FileChecksum: MD5: f2d895e12fb6adb1b419d27c44fc1491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/tsc/meetings/meeting-agenda-template.md
+SPDXID: SPDXRef-item2595272
+FileChecksum: SHA1: 9a5e74b75292cb12783473a9bbfc318e0dd069e0
+FileChecksum: SHA256: 55023c6b8a598e6d78610f195847d1832f230922de6dcffc38a642190c6af84e
+FileChecksum: MD5: 8edbf9a52327e14d7ef11ec60d8998c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/tsc/README.md
+SPDXID: SPDXRef-item2595274
+FileChecksum: SHA1: d4e6d23dc327c68abee876d6b80f5185c5798e35
+FileChecksum: SHA256: 1b0af13820fa61b31ab7891fe6db5723a5a55a57e9897774c5dc4f0d1c66cc28
+FileChecksum: MD5: 6c959617f0f2539ea414b0f165e0f9e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/README.md
+SPDXID: SPDXRef-item2595275
+FileChecksum: SHA1: b1bdd03de7ed29189b146811761b0b00dc706125
+FileChecksum: SHA256: 1a145885c243d8edad043ece88a2087256aab95d0f7bac29c81a0a5292c4dca8
+FileChecksum: MD5: 4600b8a4c76794db72829d11972601ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/ocpp-cloud-connector-roadmap.png
+SPDXID: SPDXRef-item2595286
+FileChecksum: SHA1: 4e0961bc5eaf806d929d9bf022a6af779e3e7c90
+FileChecksum: SHA256: 4ca4bdda83424cd36d616dca024db290f003bce9b354c13951661011a0889d3b
+FileChecksum: MD5: 16ff0eba4836dac5acf8b0606979eb83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/SECURITY.md
+SPDXID: SPDXRef-item2595287
+FileChecksum: SHA1: fa533283215d0ba141a7a28ac0d4fdc8089e3f0b
+FileChecksum: SHA256: ba9643955bfcb04524a6fe5a8c2929b54abc2e67bb3480ce806e742d506e4dc9
+FileChecksum: MD5: b1060e70aaff0e2baed6fc1d91ebe9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/go.sum
+SPDXID: SPDXRef-item2595288
+FileChecksum: SHA1: 8b31da881f1d001d1821c99b1fd7ec6e210acb73
+FileChecksum: SHA256: d9fea763def814a0d51fb69cb409aa1f569d6bd7fac13022e44f2016241a98bd
+FileChecksum: MD5: d8cae0c79d0acbedb4d283588535aa96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-container/COMMITTERS.csv
+SPDXID: SPDXRef-item2595289
+FileChecksum: SHA1: 2bd5b3a70b90e1543bd73b8826e1adc3d05ba258
+FileChecksum: SHA256: 773d3b4fe0d81fb4d9edae9b6c8116d347c59ed02acfba3dee9eb0e704265414
+FileChecksum: MD5: d611a0e28606175305122f9d35cf03a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item2595292
+FileChecksum: SHA1: 669d3f1d3f48b9d97a8b65b04173cfcade89a1f8
+FileChecksum: SHA256: 31035641cc394bae59fd57a55f5ea7895f137009f0c5b5dc9b541410d0ff664c
+FileChecksum: MD5: 79fd9bda0f75c4c2749bffbf0e81fb74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/GOVERNANCE.md
+SPDXID: SPDXRef-item2595293
+FileChecksum: SHA1: 87577745a4219d152d4354260147a90cf0da2076
+FileChecksum: SHA256: 95cf872f968629f19d05df36e51071cbbbe4fc5897224c0a62baf8247b1d682c
+FileChecksum: MD5: d2877e534a01fae33d4b5eeaf8e9bc32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/RELEASE.md
+SPDXID: SPDXRef-item2595294
+FileChecksum: SHA1: 91690bf2a07c1ada40722d2755eb1b4ee71bf080
+FileChecksum: SHA256: df5111ea662f5c4daabbac8a7d10214eb038c068495760c0a680a50e2b5d75ca
+FileChecksum: MD5: 962f407549f71d34d5d86650b637fcaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/yarn.lock
+SPDXID: SPDXRef-item2595300
+FileChecksum: SHA1: 60392e397a92896f1fb133d644a255db53aa2f7e
+FileChecksum: SHA256: 96a359ad646d5c6f5e2177e90a51ebbd3d3373751b3f4ba99ca54c5ce1d36d65
+FileChecksum: MD5: ee4f42497018f7e500b7bcfeb32fdda1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/.npmignore
+SPDXID: SPDXRef-item2595301
+FileChecksum: SHA1: 8a7028730d8e0c8dfaa8dfbc44f29d0af51532ef
+FileChecksum: SHA256: 8610ff2e37f5501913393f902e5bb07d0c0da081604f606945e1129b6f17367f
+FileChecksum: MD5: 63b3fab11e9dd23be619c11011d86368
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/tsconfig.json
+SPDXID: SPDXRef-item2595302
+FileChecksum: SHA1: 97b2c3276b36dd84d54473e595ed10832183f58a
+FileChecksum: SHA256: d0d12209e4c7f93d0ad3412455403789e80e8530767692056e6eece915dd0c3c
+FileChecksum: MD5: 9ff5ed96fcd24a72ae19d51bd7ad0c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/jest.config.js
+SPDXID: SPDXRef-item2595303
+FileChecksum: SHA1: df4063dfb5419d896b07a17fd29f8b9505a9b6ac
+FileChecksum: SHA256: 91170f222763e6f7925808c987833ed44b5b38121e2e7396afa74f5f351d9bfe
+FileChecksum: MD5: af1e86274f4570dc64104cf463e21ac8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/.gitignore
+SPDXID: SPDXRef-item2595308
+FileChecksum: SHA1: 6d52bc1ee48d00fbe13452c7ccebf6f2b2cb6339
+FileChecksum: SHA256: 68a2b0ec484f99cb39e4c5915235079f96e125c802559df094be4529d3aef857
+FileChecksum: MD5: 79bc90420bafc224313dd9f881739d91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/README.md
+SPDXID: SPDXRef-item2595312
+FileChecksum: SHA1: a7c33e20e2eb3a0628a7faa42b8257779a74e637
+FileChecksum: SHA256: 926c8e15474d31d7f4c88b0db5fdf73b969635e8c1558e021cb20a9e33d8ac2c
+FileChecksum: MD5: 571877cb134a0d65526c340cd9a853d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/package.json
+SPDXID: SPDXRef-item2595313
+FileChecksum: SHA1: e51b5b3ec6c10e2c4be4f1e8699901ac71e9072d
+FileChecksum: SHA256: 4c155055383faae36861342c47ae8b0810cfe52f29b510ad73b42f13495952ae
+FileChecksum: MD5: f3da72ddd7a6cb13d37968200189c9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/infrasructure/cdk.json
+SPDXID: SPDXRef-item2595314
+FileChecksum: SHA1: 2fadbd4be590089159f8eb014105f6e55fa1a640
+FileChecksum: SHA256: 9b9c7e47009dafdd9ef4ba5e2552a4913c03659ca8a41231b96968fad1c0b598
+FileChecksum: MD5: 857466a275aabefe0eef5f47a262f920
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/path-to-query-param/app.js
+SPDXID: SPDXRef-item2595317
+FileChecksum: SHA1: 795b5ea960759ee01041ca0b8e92c7ef86c7a159
+FileChecksum: SHA256: d5957717258c60193e3856ae5e969a140a5d291f44a14b1f6cbd858a2bf1d95c
+FileChecksum: MD5: c7e25ddaae92709cacc5d2b01063bc68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/yarn.lock
+SPDXID: SPDXRef-item2595327
+FileChecksum: SHA1: 6ce76fc85ac5f89bd72b37903a674c93cbed9800
+FileChecksum: SHA256: f6aad88c9efb1a083642d81941350e7592c61c62a45f7780dd4c0208253cb7d3
+FileChecksum: MD5: 0d9dc0643d2c7133fc53eeec818e77db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-W3C-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/package-lock.json
+SPDXID: SPDXRef-item2595328
+FileChecksum: SHA1: 1ce7e94edc4884295d83bc78f7a98cfaf1b51a96
+FileChecksum: SHA256: e5eb3042f3a642779a363c535ca9eb2e9e1246d77fcd5275f51ac8300a38cfbb
+FileChecksum: MD5: 3178341ebaa5d7bd84ee2a4382dff8dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/tsconfig.json
+SPDXID: SPDXRef-item2595333
+FileChecksum: SHA1: dd3eb8bf1830a359a2291657d72eb9eda519e168
+FileChecksum: SHA256: a18375bbf561e4ed18aa3e163bf19b8f680d27387938e16e084ba8ee3ee87ffa
+FileChecksum: MD5: 9a5b7554ea709d45c229d13980e069c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/src/functions/jest.config.js
+SPDXID: SPDXRef-item2595336
+FileChecksum: SHA1: df4063dfb5419d896b07a17fd29f8b9505a9b6ac
+FileChecksum: SHA256: 91170f222763e6f7925808c987833ed44b5b38121e2e7396afa74f5f351d9bfe
+FileChecksum: MD5: af1e86274f4570dc64104cf463e21ac8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/.vscode/settings.json
+SPDXID: SPDXRef-item2595355
+FileChecksum: SHA1: eff7529f7c13d20e03b61f4884ea8e35c7840c8c
+FileChecksum: SHA256: 57d9a389bcd93fa070d6263ab39149ab4ec1e8db123fb4e385a2b0177b8c4228
+FileChecksum: MD5: 23b15a4c62851da86111532de1ca740f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/.gitignore
+SPDXID: SPDXRef-item2595356
+FileChecksum: SHA1: 13184dd91af203c5efce3b3d420695dec818fb73
+FileChecksum: SHA256: afbc66e08a213a380476b094abc3126da77ff4abef375420b95181a9c1ddf055
+FileChecksum: MD5: fdc0e1c9ebd200d84eca56f97701e531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/CHANGELOG.md
+SPDXID: SPDXRef-item2595357
+FileChecksum: SHA1: 2513ddcf08eaefc8f38d0a0c039f3aeeb69948ac
+FileChecksum: SHA256: c3b214015411eabab1cebd1ed827ec3699cc7c61bf9ed9e8821708c58bf62253
+FileChecksum: MD5: 0161c1aeaa72f21f2a2005c1006e161b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/SUPPORT.md
+SPDXID: SPDXRef-item2595358
+FileChecksum: SHA1: 8d68dd8dcf60d6336d2e505f134e32d08c0c3756
+FileChecksum: SHA256: e23a5351549aaac817043eaf8c72221a1c161f3e2ae0ce431ccec92fb3858ca5
+FileChecksum: MD5: 15f248a868bef74926658c4c6153f34b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/THIRD_PARTY.md
+SPDXID: SPDXRef-item2595359
+FileChecksum: SHA1: 64bb5699daff711e09020adbcbd53df0c7f16c0d
+FileChecksum: SHA256: 97be59fd8b10c94f2f4769d124c271a02cc1707348135fd5f2dc6fdf7baecc2b
+FileChecksum: MD5: 142eb46f967c26babda800a3ab57ff0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/README.md
+SPDXID: SPDXRef-item2595360
+FileChecksum: SHA1: b1bdd03de7ed29189b146811761b0b00dc706125
+FileChecksum: SHA256: 1a145885c243d8edad043ece88a2087256aab95d0f7bac29c81a0a5292c4dca8
+FileChecksum: MD5: 4600b8a4c76794db72829d11972601ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/SECURITY.md
+SPDXID: SPDXRef-item2595361
+FileChecksum: SHA1: fa533283215d0ba141a7a28ac0d4fdc8089e3f0b
+FileChecksum: SHA256: ba9643955bfcb04524a6fe5a8c2929b54abc2e67bb3480ce806e742d506e4dc9
+FileChecksum: MD5: b1060e70aaff0e2baed6fc1d91ebe9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ocpp-cloud-connector-2022-07-31.zip/connector-serverless/COMMITTERS.csv
+SPDXID: SPDXRef-item2595362
+FileChecksum: SHA1: 2bd5b3a70b90e1543bd73b8826e1adc3d05ba258
+FileChecksum: SHA256: 773d3b4fe0d81fb4d9edae9b6c8116d347c59ed02acfba3dee9eb0e704265414
+FileChecksum: MD5: d611a0e28606175305122f9d35cf03a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-W3C-possibility
+LicenseName: W3C-possibility
+ExtractedText: <text> License by Nomos. </text>
+
