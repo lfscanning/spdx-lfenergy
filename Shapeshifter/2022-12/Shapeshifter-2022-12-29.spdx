@@ -1,0 +1,3123 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_shapeshifter-2022-12-29.zip_1675843039.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-02-08T07:57:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: shapeshifter-2022-12-29.zip
+PackageFileName: shapeshifter-2022-12-29.zip
+SPDXID: SPDXRef-upload745
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: a140ebbc93e51ce732d893b42c766dbedbae05cc
+PackageChecksum: SHA1: c703dacbd106d0ca34dd0d7ea7ec8eca80c2e99b
+PackageChecksum: SHA256: 42fb5b1bf9ea7e411b15c8c4f8bce4b1b89178f7b92862f0ca5c40cf2174dce6
+PackageChecksum: MD5: 0734a4ded1488a95643f97422f2da038
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload745
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/LICENSE
+SPDXID: SPDXRef-item3672134
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/LICENSE
+SPDXID: SPDXRef-item3672117
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradlew.bat
+SPDXID: SPDXRef-item3672112
+FileChecksum: SHA1: 92532ed0b804e19dbeab84308f816f914229d9e7
+FileChecksum: SHA256: 54ba208d85c429bd8f6a629f4e657087e2d5aa20968ed2c374966588686a593f
+FileChecksum: MD5: 4bc3d8ba21d62429bab584a7e14b395f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. rem rem Licensed under the Apache License, Version 2.0 (the "License"); rem you may not use this file except in compliance with the License. rem You may obtain a copy of the License at rem rem https://www.apache.org/licenses/LICENSE-2.0 rem rem Unless required by applicable law or agreed to in writing, software rem distributed under the License is distributed on an "AS IS" BASIS, rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. rem See the License for the specific language governing permissions and rem limitations under the License. rem </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradlew.bat
+SPDXID: SPDXRef-item3672220
+FileChecksum: SHA1: 92532ed0b804e19dbeab84308f816f914229d9e7
+FileChecksum: SHA256: 54ba208d85c429bd8f6a629f4e657087e2d5aa20968ed2c374966588686a593f
+FileChecksum: MD5: 4bc3d8ba21d62429bab584a7e14b395f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. rem rem Licensed under the Apache License, Version 2.0 (the "License"); rem you may not use this file except in compliance with the License. rem You may obtain a copy of the License at rem rem https://www.apache.org/licenses/LICENSE-2.0 rem rem Unless required by applicable law or agreed to in writing, software rem distributed under the License is distributed on an "AS IS" BASIS, rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. rem See the License for the specific language governing permissions and rem limitations under the License. rem </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradlew
+SPDXID: SPDXRef-item3672108
+FileChecksum: SHA1: cd7a9d1df758042b6313da29d33d7eeeef7b67cd
+FileChecksum: SHA256: 52f7d03f603956bb91f3fb4f18e08578aab89cc98ec606dc8dd811337f5bce3d
+FileChecksum: MD5: 1b8ae77c6fad405e526b39fd72fc40f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradlew
+SPDXID: SPDXRef-item3672207
+FileChecksum: SHA1: cd7a9d1df758042b6313da29d33d7eeeef7b67cd
+FileChecksum: SHA256: 52f7d03f603956bb91f3fb4f18e08578aab89cc98ec606dc8dd811337f5bce3d
+FileChecksum: MD5: 1b8ae77c6fad405e526b39fd72fc40f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 the original author or authors. </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/LICENSE
+SPDXID: SPDXRef-item3671916
+FileChecksum: SHA1: a8f3e29d5eab4420318de979754f5637d4bf2c3f
+FileChecksum: SHA256: c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c
+FileChecksum: MD5: 2a944942e1496af1886903d274dedb13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-cro.xsd
+SPDXID: SPDXRef-item3671920
+FileChecksum: SHA1: 7011ee15ed61fe18f7599c47546f80a5a61f48b5
+FileChecksum: SHA256: ca0ad5c9d733a5ebdeb1e353650860e966e088834fd1c3e1ba2b92a887991206
+FileChecksum: MD5: 093d1c88bd9536436a15fa75778be3ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-dso.xsd
+SPDXID: SPDXRef-item3671921
+FileChecksum: SHA1: b3c58267babd13dbe7568c1727b794e92074a448
+FileChecksum: SHA256: cf586dc417e25827ca81a6bd6c58d9ae07701a93a612a080bd6eb1ab8170d06f
+FileChecksum: MD5: 6330e0a6cb344397c2e9bd385cf2816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-metering.xsd
+SPDXID: SPDXRef-item3671922
+FileChecksum: SHA1: c18c47503c68461229c77c247f7e1365ca8290d8
+FileChecksum: SHA256: cf33da960692803a4575898e52d046e4de23420ffb68b9c2768f05f3b0238f6b
+FileChecksum: MD5: 37c26aafd423c6a67115639732bfc1d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-agr.xsd
+SPDXID: SPDXRef-item3671923
+FileChecksum: SHA1: 2021e6fb483a3c2676591289288b24af2a20fcf5
+FileChecksum: SHA256: 563ed4fd7a5a7b8316515bc56b3a2ae362ae0c61f4d5dc5463dbc3ac99eae879
+FileChecksum: MD5: b55158176a4ce03e8aa668dc6ee12397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-cro-dso.xsd
+SPDXID: SPDXRef-item3671924
+FileChecksum: SHA1: 573178fce92a5b49fad564abc903ab9bb1ed9453
+FileChecksum: SHA256: ef12b33e8e379f5fedfb0333edf55e580d34b8ed172945decbbb7a9b9d1ce7f0
+FileChecksum: MD5: 7e719cf0d274fd1fc3f32947b9e04523
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-agr-dso.xsd
+SPDXID: SPDXRef-item3671925
+FileChecksum: SHA1: e408753c4e96cfc5a522b5f024549ee62870e481
+FileChecksum: SHA256: d0bdcf2049cf320ee1266f95659d82f0120b3428659d81e0e58bed7c845d8d82
+FileChecksum: MD5: c41cb4e6e05c8a23ff3faa0c866f6b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-agr-cro.xsd
+SPDXID: SPDXRef-item3671926
+FileChecksum: SHA1: 3bb9e344f7fb6941d1e44f5956feb14d9a63f9c4
+FileChecksum: SHA256: 00a0757a900235083a59ccc850cdb2ade07ac2db8d36293493a27c578a5dc055
+FileChecksum: MD5: 619ccfdec53e87ae085fe2c84319db13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/resources/UFTP-common.xsd
+SPDXID: SPDXRef-item3671927
+FileChecksum: SHA1: 696400c7ff0ee5975637d47ddb0afe52195bc19f
+FileChecksum: SHA256: a6fad2b0ca689f02cffe536ac1b8d5cc7b89d49f1362e49e339e81ae1d5b0a3a
+FileChecksum: MD5: dff8558bbd9eb47e2afa76f25c10e355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/repository/MessageRepository.java
+SPDXID: SPDXRef-item3671932
+FileChecksum: SHA1: fdf8dc8c77835b74f0792dd0c3a9dcd10d8776ea
+FileChecksum: SHA256: 230710fe7ba2d0b09bd79ace6f6145c8d0fec1cfdf74dba6777ba0598940b331
+FileChecksum: MD5: 1af15388c2c4399ea0d41414a22d6fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/entity/Message.java
+SPDXID: SPDXRef-item3671934
+FileChecksum: SHA1: b0fdf4edc9104c309d83e2113ffccb6357696cbe
+FileChecksum: SHA256: 19780c24eca8d03258c07919f5413ac6237367e99dec9e73e2c83c144e5782fb
+FileChecksum: MD5: 7f25b1057cccd3390d27e7836a7a7880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/web/UftpController.java
+SPDXID: SPDXRef-item3671936
+FileChecksum: SHA1: c7af6449e3d5e781df863abd9381dd4b907374d7
+FileChecksum: SHA256: e3707f80d4eccadaa5dcc10dde1f9ec098877ae7763c5381d43f47f7fb01d34d
+FileChecksum: MD5: f9f5e4448985e4e1d73bd2bd65e64647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/DomainPair.java
+SPDXID: SPDXRef-item3671938
+FileChecksum: SHA1: 4b65b9ba66879f42b76d0111202873b469f0fe54
+FileChecksum: SHA256: 44f2575afbec2c368de6ed77980b41557d307ebd7a770eb8a606cd75ec866368
+FileChecksum: MD5: 27511bbc131e506de05dd5e1bbeb5445
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/DeliveryStatus.java
+SPDXID: SPDXRef-item3671939
+FileChecksum: SHA1: 2c9c6495811fc8d5590e9cea4432f5747c4b4eed
+FileChecksum: SHA256: 44c8d207a147fcfe531d7af2445dfa79dde50f50425a98728b890563d90fa784
+FileChecksum: MD5: 3f37adcc97bfb0d4702e40aff64dfd04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/KeyPair.java
+SPDXID: SPDXRef-item3671940
+FileChecksum: SHA1: 8c3cccc0d38cc3ac808f7e18977dbc29819f2fe3
+FileChecksum: SHA256: d8d747312dd0cd87830d4278aacf819387e5962b58f0769428bca38cba13f506
+FileChecksum: MD5: 3bbe98566ad9db1d984979244d3f80ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpParticipantService.java
+SPDXID: SPDXRef-item3671941
+FileChecksum: SHA1: 2292377d5363882497d0af72a4fcb2d5b52722f6
+FileChecksum: SHA256: 67fe294abe2d6c19809abd5162a10358ddb1f60a9212700b55284277203dfdc3
+FileChecksum: MD5: 034e2b0cc3b730b40d0489f1455af036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpService.java
+SPDXID: SPDXRef-item3671942
+FileChecksum: SHA1: 10ccfb0ce45eca8facecc13738ad6f27c6909ea0
+FileChecksum: SHA256: 9cf9ea9ee8c2923bbe19dd669a0382efb86106755899a9a5f0f8070262298844
+FileChecksum: MD5: 894cd321e4548ed6bfa6f74515c3b9aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpServiceImplementation.java
+SPDXID: SPDXRef-item3671943
+FileChecksum: SHA1: 5e158c6a754fc8588448c3f84f65d2121e9ded94
+FileChecksum: SHA256: f4db6c3bc6193d3a567e96dcc0e6cc83c61e068e7838c5f23cecc7f5c28ca185
+FileChecksum: MD5: f705feb7a00a532989f8679007f3ce16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpValidationServiceImplementation.java
+SPDXID: SPDXRef-item3671944
+FileChecksum: SHA1: 31237b7d46c7cfd6a653c9a12ce361e4c48f4012
+FileChecksum: SHA256: 31ce8db596a060e90e346fd3d245bd4d5306f4d28b1c196d729b00d60d66e6af
+FileChecksum: MD5: a9a8261ab83da6c49624dcbb4a1086fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpParticipantServiceStub.java
+SPDXID: SPDXRef-item3671945
+FileChecksum: SHA1: 6efb52f464c0006baf5353c561009265b79b3c4d
+FileChecksum: SHA256: 9f4e535c078838423e8fee127f833eb1982ca25e16bc2914560f23cd5db0d9d1
+FileChecksum: MD5: 04a21b4a5f744d13ca8aa73dbec27316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/DeliveryStatusListener.java
+SPDXID: SPDXRef-item3671946
+FileChecksum: SHA1: a3460738b8651fb7d61b48ed1bfff1bf4ac9cd18
+FileChecksum: SHA256: e05736348bb0caf0594d1c06b78349d1810e5f904987e039b8270e455c70fb9b
+FileChecksum: MD5: 8a68f84f83f76faf9e402e105b233aca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpSigningServiceImplementation.java
+SPDXID: SPDXRef-item3671947
+FileChecksum: SHA1: d2ddcc24e43574e9e4459caf68704f4e34083d8e
+FileChecksum: SHA256: e035e374f4bb0405c3a18b98d4efe6a40c483107af3b113865ee79bb1153b10a
+FileChecksum: MD5: c7f2bf2af8dea2e7919f17d58c2ad4f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/NewMessageListener.java
+SPDXID: SPDXRef-item3671948
+FileChecksum: SHA1: 3b4be4b4cc3185d99fa676e9ae3f2f68cdab2b21
+FileChecksum: SHA256: 42e137dc78af4a874858f4bcc485d7abac6ac22702fa75c19573b13f8ee98a57
+FileChecksum: MD5: d8666acb3dd7e1e75c1898d93498aea6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpDomain.java
+SPDXID: SPDXRef-item3671949
+FileChecksum: SHA1: cb20a6f220c7b3bd673cf54d33b4a3231feb0b1b
+FileChecksum: SHA256: 8470d9f9dcfdb5e05f9d296dd4a245fa85f773681dfd8b4c05a5dc41c68e7ba9
+FileChecksum: MD5: 04757c226459451edd1be8b6b3902ce1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpSendMessageService.java
+SPDXID: SPDXRef-item3671950
+FileChecksum: SHA1: 09515bd3764b98af906a13f238d7d12ccd4e975f
+FileChecksum: SHA256: 2768c95831a87985c47efd8a3fbb3000457ca25db976d24d46ec71c09435d1cd
+FileChecksum: MD5: a262fce8deed1c1da2b5e90d7df94f72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/MessageDirection.java
+SPDXID: SPDXRef-item3671951
+FileChecksum: SHA1: 6c8b30e10373288283f5c3c510b727e9edd16637
+FileChecksum: SHA256: 294336627fbd163f5903bd20bdbd5a51c61256b82cba2fad5dc9d3303fb7b799
+FileChecksum: MD5: a2dd51fca1f5f8e34e92542a12e9e35e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpSigningService.java
+SPDXID: SPDXRef-item3671952
+FileChecksum: SHA1: 2ccb4b6afb6684578b8863e2a0baea8a6d2d9e9d
+FileChecksum: SHA256: 6ae65e2c2c0483b0678c11b4e2fdecc52f3414cf845cba7b3dc6201fc22990f9
+FileChecksum: MD5: d8b11a1a79f99087116459023118808c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpValidationService.java
+SPDXID: SPDXRef-item3671953
+FileChecksum: SHA1: 617fd9332f3742ab0df0c3a91aaf5e3ca14c54d9
+FileChecksum: SHA256: d852a200b203ea72520e0f003e5b8998534ca9785dbd2d8110261374364c0d9d
+FileChecksum: MD5: c97ff59a0a096e7996d6f3a1ca2c79dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/eu/uftplib/service/UftpSendMessageServiceImplementation.java
+SPDXID: SPDXRef-item3671954
+FileChecksum: SHA1: 8870da2088885ec4f3d8be13ca1496c643c5180f
+FileChecksum: SHA256: 0d342fad5eb6f26c33c3df0d7f7e96809fd5cbee3a8f988574ffef17306cebc1
+FileChecksum: MD5: 5346f655aed3f34503c0c60700ba85c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/ContractSettlementType.java
+SPDXID: SPDXRef-item3671956
+FileChecksum: SHA1: a20b55f61fa4128efca1cf068dedbe7c0f661a51
+FileChecksum: SHA256: 2f58ef934bb51a97ec879840aab1dd751d8359c18f269c03195573f0c720204a
+FileChecksum: MD5: 2eee0a8f8329fc25be1b0d7294637080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderResponseType.java
+SPDXID: SPDXRef-item3671957
+FileChecksum: SHA1: a6970d8490d65cb397102a19920cfa3dd28f82c0
+FileChecksum: SHA256: 85b7c368618194fc8b86f6c50a45dd698db9c1f33cdf9bdbe2752fe13691a96c
+FileChecksum: MD5: 990cce9157c10d0fb1f2ab7f6e10ad2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderSettlementType.java
+SPDXID: SPDXRef-item3671958
+FileChecksum: SHA1: 5dfb02a46990480b15b82089b22dc68d20f5b76a
+FileChecksum: SHA256: 1778cd095abca94fd0d2d2ac70c72fee73be5ed333cd4fdce39b570e93371bcf
+FileChecksum: MD5: 51e819d23767c21e9e6a98d51913f61d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOfferType.java
+SPDXID: SPDXRef-item3671959
+FileChecksum: SHA1: 0d644e79a07716dd609fc8b7eb40dae0955f8d0b
+FileChecksum: SHA256: c42dcf807be70a5de8a859440b1d6faa68c2548e90554badd3ac1014415bdf6f
+FileChecksum: MD5: baf0da299891699b889cf442007aa429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexSettlementType.java
+SPDXID: SPDXRef-item3671960
+FileChecksum: SHA1: cd5e4cabbb257d0eac45060980c1e02fa097c60a
+FileChecksum: SHA256: b515c5950d2a88a81cc2905f3f05b89e6cb522d45b04af137d151cfc61c72c5c
+FileChecksum: MD5: 238e6266eec0b3e01f13e37280adfed2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexRequestType.java
+SPDXID: SPDXRef-item3671961
+FileChecksum: SHA1: e13dc7bf607ee939d609143bc20504d346308287
+FileChecksum: SHA256: 3a3079de504f541515f58f5f163281d05426d3f05094b7e587d79acedc3a3c77
+FileChecksum: MD5: 1c8a9b7561df8365dfab296dcc062158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOfferOptionISPType.java
+SPDXID: SPDXRef-item3671962
+FileChecksum: SHA1: d5f310f54d591b4ae83e5ecfd17b9f046f042d3f
+FileChecksum: SHA256: 37a67a666141742a18978cd4b2ae2a2872c24f74a117e091e1eef34d273c9a7c
+FileChecksum: MD5: f1847798e934059b03a556a3e58edbf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/PayloadMessageType.java
+SPDXID: SPDXRef-item3671963
+FileChecksum: SHA1: b4228c956a1dfc5deebeb8de624ae4b188573289
+FileChecksum: SHA256: 87b27467224a184291ecd3e733345cfbe1672b2452c988235d3adcbe3364bc2d
+FileChecksum: MD5: 561912186cfa3597c9f04e834dd91f60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioQueryType.java
+SPDXID: SPDXRef-item3671964
+FileChecksum: SHA1: 15e81b95126a1b6caca96e9c039c5d3c48d96957
+FileChecksum: SHA256: f8dba1b386d7658e152a9f1f38e024c4286660ea8bed9a065a27446e4b462bcc
+FileChecksum: MD5: b2a2fd82aa3e881a32c8f5b3c3b8c891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexReservationUpdateISPType.java
+SPDXID: SPDXRef-item3671965
+FileChecksum: SHA1: 1842ca75a95bceac689bb19a12930a3e454b41b8
+FileChecksum: SHA256: 0addfa42f2b3c21513101ee6b1a9a112245c556a2c396cd3419e996e446fcb8c
+FileChecksum: MD5: de99434ad2fe80934f1f9ba694045780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderISPType.java
+SPDXID: SPDXRef-item3671966
+FileChecksum: SHA1: 652ad512274e6bd22a86e628a436632bdc506907
+FileChecksum: SHA256: 7a3adbff9a72b6962d573063eb87efdde5600bebd3237d095259320b153c3af5
+FileChecksum: MD5: f7ee2ad4e465177cdc2390c1b9ec8e53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/MeteringResponseType.java
+SPDXID: SPDXRef-item3671967
+FileChecksum: SHA1: 203c4bd15361f7715ba865c0de96436157b262b6
+FileChecksum: SHA256: 4ba999eab7df2cd7ca9538b580496e5a283a15cd4b77cda2470e64529c37d7a5
+FileChecksum: MD5: e580854b6d781cc3571dae4a8d61e439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioUpdateConnectionType.java
+SPDXID: SPDXRef-item3671968
+FileChecksum: SHA1: 4f2068ef03a358312d45f4c63b2f44d427575702
+FileChecksum: SHA256: 11b37e708459ca8c045724050de665a130829cad540e5dae8479400aff993b56
+FileChecksum: MD5: af81462f500e9f440322582b630b9f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexReservationUpdateResponseType.java
+SPDXID: SPDXRef-item3671969
+FileChecksum: SHA1: 210cbcf86db013eb68583d2dc4aba9bd4e9ad1a7
+FileChecksum: SHA256: 5fd15a29f1ac290c183c969111414f96024df04451bc47e1cb0b4a4a99d06ec1
+FileChecksum: MD5: 897d41ca720d7ae6c355a3bdb985d3ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DPrognosisISPType.java
+SPDXID: SPDXRef-item3671970
+FileChecksum: SHA1: 6a588ac86e886358a2e588fad11673a2f3bfd325
+FileChecksum: SHA256: c0a2108a77df64998112e5e46bc4d28b6bb36955d1e70178ac63c90dcb3f3342
+FileChecksum: MD5: fffdbe7feab1b497b5fadc8635811b56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderStatusType.java
+SPDXID: SPDXRef-item3671971
+FileChecksum: SHA1: fc48b83ce345d0ae2aedbbb92e0439480c334632
+FileChecksum: SHA256: 982e50f22e81334d95eb065e68d1aab8100ceb1485b0a0801a952034078fc015
+FileChecksum: MD5: c53c8eac6929dcf459a4f94d9151c717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOfferOptionType.java
+SPDXID: SPDXRef-item3671972
+FileChecksum: SHA1: 57f62d844205a6a544d337a6d2dd37fc4853b500
+FileChecksum: SHA256: c125925ce265fb1c7d24efb611c9f7f4614c7c20f2794fa46120369bead4108d
+FileChecksum: MD5: 5d14fa8a000e498f7bb4b2b23442cea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DPrognosisResponseType.java
+SPDXID: SPDXRef-item3671973
+FileChecksum: SHA1: caf2f464251ea3938c12174a2034a9a7e43dcf5a
+FileChecksum: SHA256: a315c1877675c131d5782bd65263b312848864673e3815aac5a4855b455f9a60
+FileChecksum: MD5: 4afc39577599db12be50dbb50b5c24f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioUpdateResponseType.java
+SPDXID: SPDXRef-item3671974
+FileChecksum: SHA1: 83e92dd0734b2ca28d8c94ba2c9700d9f015aefc
+FileChecksum: SHA256: 7eca48994524a295d7a620c38b9373c1216a21c5ab6d90cc48d33482219f9075
+FileChecksum: MD5: c467be4f845b95926a462f4d1f5552da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/MeteringISPType.java
+SPDXID: SPDXRef-item3671975
+FileChecksum: SHA1: 80622265676220438e0e7aeefa556492fbbf0f38
+FileChecksum: SHA256: 9bea808c26167d25baa98f556499e71298c6d9a1629ae3bc5e8f32557f99bd57
+FileChecksum: MD5: 60c7f6f32b1d801f9c405120faa684aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/MeteringMessageType.java
+SPDXID: SPDXRef-item3671976
+FileChecksum: SHA1: 7afd58fc64ad3f0d10b8e060d2e3ac719ba986f7
+FileChecksum: SHA256: 0e2543bff7b818c393bcb731078d5b18ad72222ac39a8ae717d71c2fc64c3e01
+FileChecksum: MD5: f42fce837d314c5889a4142125a5439c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioQueryType.java
+SPDXID: SPDXRef-item3671977
+FileChecksum: SHA1: 0bd117d7446011eb203eedb091375e501d34d07f
+FileChecksum: SHA256: b67f7553d8952701e565f83e24571b0990ef8a848baaf8d59ac730cddc0bb079
+FileChecksum: MD5: 5938901d69fc8aabdec8f095ca5bfbc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AvailableRequestedType.java
+SPDXID: SPDXRef-item3671978
+FileChecksum: SHA1: cf8f263644a8170068655cc828de4c02cfcd7a09
+FileChecksum: SHA256: 181843074c20b1d42d03efa0e2cc36b8055520ee4dfd08c420c010c928909c0d
+FileChecksum: MD5: a9225d0861265f7b67669e3dcb6a453f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/RedispatchByType.java
+SPDXID: SPDXRef-item3671979
+FileChecksum: SHA1: ded714da8fea953b3e5605eb3f6330605c40af75
+FileChecksum: SHA256: 0f96432e1e19458fa714bd21010d5dfd9784240acf96fbe530dc3ebacb740374
+FileChecksum: MD5: a32f390180e510d4a7bb81624228eeec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/ObjectFactory.java
+SPDXID: SPDXRef-item3671980
+FileChecksum: SHA1: c16d8d90602165dc3f15f0e3bc435facb1fbc87b
+FileChecksum: SHA256: 9deefc407a756bceee3eea10b111f4f243a153db8e3532faf5403e76a0be147e
+FileChecksum: MD5: dbdc9c89d60bb1228d1ac0af2c46ae50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioQueryResponseConnectionType.java
+SPDXID: SPDXRef-item3671981
+FileChecksum: SHA1: fd601ce454b276e1bba276c56293d63da2dbc889
+FileChecksum: SHA256: 5ffe9b4dc46b673b77246612878bc44f79c804bd80a4f5fa429f2fcd62bc693d
+FileChecksum: MD5: 93d2cbdd9a0ca3b224b5c72aaed9064c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioQueryResponseType.java
+SPDXID: SPDXRef-item3671982
+FileChecksum: SHA1: fd24163e9aeb2a5320e922d6302a60a6f6c9124e
+FileChecksum: SHA256: daf623bf793bdfeb09464474f09126deb8f0efa88c5dca3b5b56a7a5e65f5673
+FileChecksum: MD5: 7f36329fc22d2fc63df189350f143a02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioUpdateType.java
+SPDXID: SPDXRef-item3671983
+FileChecksum: SHA1: e389406be9d7ef6959614a117c4db9354c3bb661
+FileChecksum: SHA256: 2d304cef22d54c28f8a45ecdb29d6fbd7b02b49ba5329420f9129a630f06d15f
+FileChecksum: MD5: 0d2e8590eece383f69430f56a786938a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderSettlementISPType.java
+SPDXID: SPDXRef-item3671984
+FileChecksum: SHA1: cfd083cde06896bdffd65b0ce9e8dc6971e33c28
+FileChecksum: SHA256: 154c09f9e60a23c841f5442e35cc971481131d2671f64e45c4282e91d5fec930
+FileChecksum: MD5: 0c3d2a0ac51c7f5985f695f68e712e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AcceptedDisputedType.java
+SPDXID: SPDXRef-item3671985
+FileChecksum: SHA1: 897268d2b9e84a08fdceb4cd48695b944389222e
+FileChecksum: SHA256: 1c479c4149b56664d6cc2d531f688faf2a0f01fb59a513050df67d8d934256f7
+FileChecksum: MD5: bfb5ad041910cc7a7844d90dc3514241
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioQueryResponseCongestionPointType.java
+SPDXID: SPDXRef-item3671986
+FileChecksum: SHA1: 0787289794fdac3382f85d4a1c5772ccca335997
+FileChecksum: SHA256: 5ff753f724431ee09d0e96bf1030339e587c70b77570ee6c98edb5ec94821c30
+FileChecksum: MD5: 6249322bcd2e386ef3978144d0097c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexMessageType.java
+SPDXID: SPDXRef-item3671987
+FileChecksum: SHA1: 75aeee6cacf59aa8bcc8f01e19566f833260001c
+FileChecksum: SHA256: 28b6b58092d8cae11dc63cb2308f34176fbbea43555a42b4471a7769b050c136
+FileChecksum: MD5: f5081e394f27938abf59f55d57bc6747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/SignedMessageType.java
+SPDXID: SPDXRef-item3671988
+FileChecksum: SHA1: e96f265e011d46b8d6b67fd9be3d7392c904c6c9
+FileChecksum: SHA256: 90897d009a57fc2429531c1dce76f8c81575eae4f51a31d79bceed1aba4f21c4
+FileChecksum: MD5: c7e65c202c69c3fc08399b81d58dbb70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioQueryResponseDSOPortfolioType.java
+SPDXID: SPDXRef-item3671989
+FileChecksum: SHA1: 7dc37d9bd0716ab9cbd4a79d6bae41355aafa494
+FileChecksum: SHA256: 1a0c6fbf59fe332de1a77799fba43902134fe44b6ecf038d60d07569add786ef
+FileChecksum: MD5: 46116875df76e9ce77cd2ba3f9d70ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DPrognosisType.java
+SPDXID: SPDXRef-item3671990
+FileChecksum: SHA1: 756e0d95ceac1533f88160a65332454a6fb5f3c9
+FileChecksum: SHA256: 3b64e598c733a4fb9d22e0391e7d6956ef81abcede865181e02e136eff9ca889
+FileChecksum: MD5: 84d11dbdb73bb85fa383e8b09524f6d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOfferRevocationType.java
+SPDXID: SPDXRef-item3671991
+FileChecksum: SHA1: c009f2231d0bfedeb3f0f4d91eea23adaa2e9997
+FileChecksum: SHA256: c5716dedaac4952ea798b7f6316c86cabcf35d75e3f993786f0636dbeea30872
+FileChecksum: MD5: a918ba7ebb14e0701cd9f1c54244ec43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/TestMessageType.java
+SPDXID: SPDXRef-item3671992
+FileChecksum: SHA1: b07630b4f6f0a0a0b270a3d8e72997f02b582ad2
+FileChecksum: SHA256: f2bc50b559de012e7c50bc6ba65ba080f43bfed6f33180996f6109ef60bb9ed6
+FileChecksum: MD5: ccbd2e6dd89d205bb07bd9548097496d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioQueryResponseType.java
+SPDXID: SPDXRef-item3671993
+FileChecksum: SHA1: 27899829de80857cb17b29b4bcafca8958a4d852
+FileChecksum: SHA256: 54248fa9374ad841cf5a91108911d18da0ecc42bb8de3293283d29b00ee325de
+FileChecksum: MD5: 01214ebb4685d1eb3aa9aa06f570c911
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOfferRevocationResponseType.java
+SPDXID: SPDXRef-item3671994
+FileChecksum: SHA1: 00fa4bdacad7f254d0c6f7dd2c8bd209a33f6cf2
+FileChecksum: SHA256: 475a3d5392ef9fec5a26a0edebc4a6dd414484f4c85311867048893a0bf21600
+FileChecksum: MD5: d54c2f7a33fc9636a831103c7d83b19a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOfferResponseType.java
+SPDXID: SPDXRef-item3671995
+FileChecksum: SHA1: 9af0b9b0e1776b679c773a9fdc51a5edd71bb923
+FileChecksum: SHA256: 34b48065756b4dafa18dd6896715dd4048a89e9124704d1e8b1b52f1b333fd21
+FileChecksum: MD5: d32de85c83ac25a8c872aaad7221bd2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexReservationUpdateType.java
+SPDXID: SPDXRef-item3671996
+FileChecksum: SHA1: 8aa07bcd781ed50ceb6b5ffc65a06a945684cca9
+FileChecksum: SHA256: 2a2d4e92f893dd828d081751ea88f776073d53daf6dd9056655bd9ea4ee89507
+FileChecksum: MD5: 40593c9ae20f85d9a74e55b6bcb58775
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioUpdateConnection.java
+SPDXID: SPDXRef-item3671997
+FileChecksum: SHA1: fb02635f9beabb85bcf993d25a821a06409b8ec0
+FileChecksum: SHA256: adfd935aa75c8b3b57cdf7a5fd3a974c57fc347cacce57f07fa1e913e89ad544
+FileChecksum: MD5: 3ea490766e91d1f8d88a756a9727018a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/ContractSettlementISPType.java
+SPDXID: SPDXRef-item3671998
+FileChecksum: SHA1: a9b0474e60a27557d4a39a739cd4fc9298005320
+FileChecksum: SHA256: c41f34de7da687ed0b0be654d0f73afefd5a17b57f5290ceb27c87402db2e9a1
+FileChecksum: MD5: cec6591e66909de93d1525ca2f89a34e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/PayloadMessageResponseType.java
+SPDXID: SPDXRef-item3671999
+FileChecksum: SHA1: 579cf7a593940912e04669f05199b9f2223f497c
+FileChecksum: SHA256: dd6d620ca2c5a64e1ae911739c806bd728bb361f38597d65a91fe6b70ccc2407
+FileChecksum: MD5: 96e5d6264a192e152f0e8066aec825a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexRequestISPType.java
+SPDXID: SPDXRef-item3672000
+FileChecksum: SHA1: 7ffe12cbbc2b1f019e036f0bc5601856ae2eb55b
+FileChecksum: SHA256: e2e8c27057c7f458ce13df02bbd3a91041dbf17a6621153d0cc5998330bb27bb
+FileChecksum: MD5: 744504d2ed561782f06704a9b7493b4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderSettlementStatusType.java
+SPDXID: SPDXRef-item3672001
+FileChecksum: SHA1: dd5e9f1046efc368e46972b0d72ec8bf02043115
+FileChecksum: SHA256: 2bfe64831cbb46c358c81e76028f93764312bf23fc4718c0ab3861ca8246b66b
+FileChecksum: MD5: 5b23c4e8765a2659da082d3fb35a713b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/ContractSettlementPeriodType.java
+SPDXID: SPDXRef-item3672002
+FileChecksum: SHA1: ab2c68ed028c1cdef66f5be89d7c68d8874c36fe
+FileChecksum: SHA256: c99902875443e6bc6d5d80b44f0a8993b6a6b1811fef9897814ea429100c5d2f
+FileChecksum: MD5: 0ebb46575181fd61bafecf6de9adb75c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/MeteringProfileType.java
+SPDXID: SPDXRef-item3672003
+FileChecksum: SHA1: d1985b0c5ccfdd9877f86c60adbe1a725640ec56
+FileChecksum: SHA256: 797540a7d6e75bf05b58084ba98fb3287573b448ada1ab1324eb689c14cf1353
+FileChecksum: MD5: 1b3e4d35b8b6b86a2a4478bc0c5aac6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioQueryCongestionPointType.java
+SPDXID: SPDXRef-item3672004
+FileChecksum: SHA1: 69a14b93593db36cc1486903b47dd8d6da54eccb
+FileChecksum: SHA256: 80a22cdaef1b8430dd8d7a8844f74283010c873f4f0d5a06e9f5e8a99a46470d
+FileChecksum: MD5: 561ccee0e112a1e3daaa6f58a17f8dfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioQueryConnectionType.java
+SPDXID: SPDXRef-item3672005
+FileChecksum: SHA1: a8b7eb008779155def7579891bc13171c67b9164
+FileChecksum: SHA256: 350c706975d758c5e5cca006a741276a016d66f28c99f0ca62286d7c6f7328a3
+FileChecksum: MD5: f46700dae9c70406c1e7bb04097031a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/USEFRoleType.java
+SPDXID: SPDXRef-item3672006
+FileChecksum: SHA1: c3bff80d7b339fcf5fedf6c29a5211f28b6789e2
+FileChecksum: SHA256: 054aa5494a661cbea3fe203faea534ab4204242b3b807fc7089f2a6439ff0f0d
+FileChecksum: MD5: dc470a57a42a1907b25c1a502e9d7c7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioUpdateCongestionPoint.java
+SPDXID: SPDXRef-item3672007
+FileChecksum: SHA1: 1fb89a9012b5bab70e806f59f6056c82c0e89426
+FileChecksum: SHA256: d77c08b1479bb09a0ddba7616c282bda3d1afe980b73b9a75e9723a2b89fc041
+FileChecksum: MD5: 36744ca1e78326dec158e491b5c0d3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AGRPortfolioQueryResponseDSOViewType.java
+SPDXID: SPDXRef-item3672008
+FileChecksum: SHA1: 678162d2381952658f5d4d2d652cbd2e1492beba
+FileChecksum: SHA256: a8bf99419e378e86a4bc5d98e38720e440ba0dbb2c698f98e6cc600e60a7653f
+FileChecksum: MD5: b1fe3b0be13d4bd24a212375c706ace0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/MeteringUnitType.java
+SPDXID: SPDXRef-item3672009
+FileChecksum: SHA1: 6b50abcc89b55c74f6d43f5a9597ec34e318f0e3
+FileChecksum: SHA256: e0cd0567ae5cd17774ba35cb73560e9810515dc94a418deb571aa9f58a3202ed
+FileChecksum: MD5: 6bc2ad4a5081e3131e4cef18558e974b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/MeteringProfileEnum.java
+SPDXID: SPDXRef-item3672010
+FileChecksum: SHA1: 1a204f4888fb957d803570b021732715edf7f3c7
+FileChecksum: SHA256: 788a7093e5b065ea04e9ca40024aab22680f224b2d79185984611b07169058f1
+FileChecksum: MD5: db7a1f08f39a7b13d1a81b13b2c68b8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioUpdateType.java
+SPDXID: SPDXRef-item3672011
+FileChecksum: SHA1: 9da84fb4f559bddbae7c10f04375cd31d9166eef
+FileChecksum: SHA256: 80473a21a609746c7f64a1db669a60135e40a6e82934855732cae7691cd6244d
+FileChecksum: MD5: 93df1794604359f7af916ce9adbcf65b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexOrderType.java
+SPDXID: SPDXRef-item3672012
+FileChecksum: SHA1: 4e5dda23d96421e4975cab301b6e9905a2cd5dbc
+FileChecksum: SHA256: afb2868eb2d66dde90ad0d8218ecc61b7dcd99aa90cc76eb84093bec0097d508
+FileChecksum: MD5: 10ace4da1736046b0b6fac9a6447ae81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexSettlementResponseType.java
+SPDXID: SPDXRef-item3672013
+FileChecksum: SHA1: 673701dbd375b81b11307d782fb30f9a56f249cb
+FileChecksum: SHA256: 4d49daaa518d27f98d9eef3295a9d85c37d2e2e8badcebf12a76402b8d10411e
+FileChecksum: MD5: 34740b1cb0cfc2a46aae8e2d2a3d0a4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/AcceptedRejectedType.java
+SPDXID: SPDXRef-item3672014
+FileChecksum: SHA1: 29430b83502124d29187c3c0511cb20290d88c79
+FileChecksum: SHA256: 0af338738eb55783a84ceb937a935cc988d45efae2a37a2a94511d624286978a
+FileChecksum: MD5: 0fef808863484f9906f7c6e2687a9d83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/FlexRequestResponseType.java
+SPDXID: SPDXRef-item3672015
+FileChecksum: SHA1: 1676ca94b8c8d6d452bff533066a5562dd88163a
+FileChecksum: SHA256: 9390643b3b70b320b7635344e1341ac842a823047061c2aeeb0673189c828dd0
+FileChecksum: MD5: 58c0b95a13d50d654cfadaa668fdb791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/TestMessageResponseType.java
+SPDXID: SPDXRef-item3672016
+FileChecksum: SHA1: 2ff704af68ec1c00701b55e96c555ef154955572
+FileChecksum: SHA256: de6d4f84bde8c4f5c69584e8e4f31755ae7be07136e01c617bc7c05852208607
+FileChecksum: MD5: c6409d6f2bc6e9b2182eb927648c43b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/main/java/generated/DSOPortfolioUpdateResponseType.java
+SPDXID: SPDXRef-item3672017
+FileChecksum: SHA1: 4f0b508f294414da2aa964609d9cc463869ca1db
+FileChecksum: SHA256: 0c6c556a892d100e75aa608e3018a391fafb9dee7e2a3eef9294e3956cdf05ec
+FileChecksum: MD5: 14ae468a4a9aff00541dd24cd4febf89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexRequest.XML
+SPDXID: SPDXRef-item3672023
+FileChecksum: SHA1: bbd51e44267a61d6990524a5ff19412cc7dc4f40
+FileChecksum: SHA256: e067f0007b8c5ad356d51c629886a63d704f1f44c92d1b7f38af66a16dbaf351
+FileChecksum: MD5: 34ad0214ee1cbb6f5c913867831aa4c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestMessageIncorrectISPDuration.XML
+SPDXID: SPDXRef-item3672024
+FileChecksum: SHA1: 9b0bfbb14e79b484ea8202c12f9b42bfb960a91c
+FileChecksum: SHA256: 9360a66e00113a3df5109ecb19790c4c044eb78e479b1835d949f845a5b996e8
+FileChecksum: MD5: 4dff1fd83f13ed379a3e12794860652b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexOfferResponse.XML
+SPDXID: SPDXRef-item3672025
+FileChecksum: SHA1: d4a9851cb858c229e5ac904696bf1e064f4f0571
+FileChecksum: SHA256: 767f1f96ba676265c37a63e328b5fcbddaa099b8e9203d55ee4d9540690a9264
+FileChecksum: MD5: 58721164dd0d4e6cb2490023e797d79b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestD-Prognosis.XML
+SPDXID: SPDXRef-item3672026
+FileChecksum: SHA1: 00d9ff2664757ae012ae1aa7921053a5ccef8343
+FileChecksum: SHA256: 441d3f3a5966e7895a7356050b32e20d3fe4de1a2faa0018085324e571a2f303
+FileChecksum: MD5: b6eb3e17fafe67d52daf1fa8d2e91b48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexRequestResponse.XML
+SPDXID: SPDXRef-item3672027
+FileChecksum: SHA1: 280de81fe948de4456dfda0f013b4ed7209c021b
+FileChecksum: SHA256: 9a1878595bd5bab3685b3e63d7d3ab9c881c4ca8f235c0474e45d169ba9ee1d2
+FileChecksum: MD5: ab0803a405cd22889db4f5c80d6557e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexSettlement.XML
+SPDXID: SPDXRef-item3672028
+FileChecksum: SHA1: 23a48c00078710b01ff4b51bb1a18995a1801005
+FileChecksum: SHA256: 01339c6c6e00352bdc2d099efd99b2a98e9dadb541e8413e7a9eb844f3f57bcb
+FileChecksum: MD5: f1baa3f290e30bdb7939dd3a9be78fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestMessageIncorrectTimezone.XML
+SPDXID: SPDXRef-item3672029
+FileChecksum: SHA1: 9bf222a64d3aa0c211523235eb92cffcce20873e
+FileChecksum: SHA256: 7da8c307849cfa7b9abdfe32b02cf1795e422b4646994a3c813e080173da14a0
+FileChecksum: MD5: 7cdb52a9f33ffcaa3524da86850b8751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexOrderResponse.XML
+SPDXID: SPDXRef-item3672030
+FileChecksum: SHA1: e5f70327b61f87ee6bf36439a5172cc301487638
+FileChecksum: SHA256: 8d3901282c22a124a18c1ec708787a04cc5e3d344698819c509f80d49c5cc8c2
+FileChecksum: MD5: 811dd3ce04cca2ce4349b87da01c352a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestAGRPortfolioUpdate_Correct.XML
+SPDXID: SPDXRef-item3672031
+FileChecksum: SHA1: 7e388bdbdc175ccda1a36243b6ea95d9041d635f
+FileChecksum: SHA256: 583214057a37bdfa5daa74e17569a361fd8ab79a8e8cea5f06b6fc5a9f4a1b13
+FileChecksum: MD5: a825b6a2ea7229efc65a251e01a2f267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestMessageCorrect.XML
+SPDXID: SPDXRef-item3672032
+FileChecksum: SHA1: 97c9ec2c4eb8f0353bcc9565419eaf6f00b3c43a
+FileChecksum: SHA256: b1c54e628c6134e2132380bdbcad1f81ba6cbf8e99074c23e18624fc8f5d5566
+FileChecksum: MD5: f66c8c77073850c9e5ec3aea482839f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestD-PrognosisResponse.XML
+SPDXID: SPDXRef-item3672033
+FileChecksum: SHA1: 2e82a4b0d717120013aad736cc375a3743979543
+FileChecksum: SHA256: 44fb72fbb6cbdfc45b1fc15530656ed9c3d875ae4e4bdd382a0a84acb52ad07a
+FileChecksum: MD5: 29bde5a70cd5a64e588bfe17e3db16a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestD-Prognosis2.XML
+SPDXID: SPDXRef-item3672034
+FileChecksum: SHA1: ceeb3fcc5491261ca3298973206954934dda81e9
+FileChecksum: SHA256: 522b7ad292073df9c82bd444d9225385e8c19697a10ad20efc8e7d5f6e7f5bc8
+FileChecksum: MD5: 36449ccc3dae97d6e22ae0c6f31add31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexOrder.XML
+SPDXID: SPDXRef-item3672035
+FileChecksum: SHA1: 51d67112e697300ddf45d06ad58969ffc2fe68bf
+FileChecksum: SHA256: 099e780940b8564de1a44b7814275c3abb04f5b086e1e2493abae8180c905841
+FileChecksum: MD5: 85cd3b62f0865bf7d8fdcaef7e3920d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexSettlementResponse.XML
+SPDXID: SPDXRef-item3672036
+FileChecksum: SHA1: a5493d2b2b972590e786f61a2929d1ec13c0da26
+FileChecksum: SHA256: f626bc2db7a2ca0ddb242257736430f563577dfa47d91f9a40c45bf2f6a132b1
+FileChecksum: MD5: b8489da2d56f352d868de8be0cf3da0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestFlexOffer.XML
+SPDXID: SPDXRef-item3672037
+FileChecksum: SHA1: 6aeb7e939388f654b14e4afa506e3adb29cc546b
+FileChecksum: SHA256: 02a5e7d3ff931c25621a6572544d97309373e045b89ee1e5486be84114ec580d
+FileChecksum: MD5: f04596f1d4a44e7e2d074202f8344c51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestD-PrognosisResponse2.XML
+SPDXID: SPDXRef-item3672038
+FileChecksum: SHA1: 2b00cc3c3edc5e43a794f4905f5486d263f8cd48
+FileChecksum: SHA256: 64d695d9de43e69d95f97e639e10babd24e7886c2d79f7b4bcaaba27b966f14b
+FileChecksum: MD5: 19f94c788447c6c76262a203579c71fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/input/TestDSOPortfolioUpdateResponse_AcceptedCorrect.XML
+SPDXID: SPDXRef-item3672039
+FileChecksum: SHA1: d78af7e6289174860c19cbb577d6c6f5d9a7c705
+FileChecksum: SHA256: 7052ba989567d6d698f11a28f8eb2ada10b6fd316d58043f57360bb8b48ea20d
+FileChecksum: MD5: 562d961b142004bd8dece0f6a774a66b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/service/UftpSigningServiceImplementationTest.java
+SPDXID: SPDXRef-item3672041
+FileChecksum: SHA1: 8f9078cab2c0c781fbabc2224751651ccc5dc713
+FileChecksum: SHA256: 72d04bc96dbe8bdd0b8ddcdf285e34d38f316a59accb2b156ae1ffee37ac8912
+FileChecksum: MD5: 33123ce4fdd3a3166df08205eaa7fe37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/src/test/java/eu/uftplib/service/UftpValidationServiceImplementationTest.java
+SPDXID: SPDXRef-item3672042
+FileChecksum: SHA1: f9dc0059849164b76e708bd47af7161fef658098
+FileChecksum: SHA256: 67aa020ff9510554a1d479e0326b9b98a3405e62ece184af3ad813b7f6b6874a
+FileChecksum: MD5: afaa850d562204586a715117e2f46e10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item3672045
+FileChecksum: SHA1: 7c03de9bd96d69ebd970fd106990b61c59741c2e
+FileChecksum: SHA256: 464a521ebb1a5d5d33bb0db6ca87a7cb57ade6e2ebb7c6dc13b982ea5cdced09
+FileChecksum: MD5: 9c6a0eba93886a57d2db1caeab7206ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/gradle-cli-parameter-names.properties
+SPDXID: SPDXRef-item3672049
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item3672053
+FileChecksum: SHA1: 05e55d09799cb3a6440135b1165bfd6812c2afd7
+FileChecksum: SHA256: eb1e23ab046e96e669ede43f3cf07b6fc97b1ddf183d7f5730ddc167519ea649
+FileChecksum: MD5: 98334bfd59e357404a5acb37ac440c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item3672054
+FileChecksum: SHA1: 10b209cc840edb3515115724b942bf28c0f4a500
+FileChecksum: SHA256: e0dc52eb3e1e68515215e557270f200b7204840753293e84d0876968159bbff3
+FileChecksum: MD5: 83634fe3358cddf6241f3cc9322cdc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item3672055
+FileChecksum: SHA1: 7c161383a230cbb8c9487e5a81cafbb4deb95324
+FileChecksum: SHA256: 6bcafe26a373d6de7e25cb28602e5133b2630615d3678d3278363f1c46c6ecc1
+FileChecksum: MD5: 8096c4ce0a266342893eba661c91784f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item3672056
+FileChecksum: SHA1: d374dfd77fa05c103c35e2e3a3bb931c71c87e1c
+FileChecksum: SHA256: 148881256a6d29aa381630809702a9c105f4d27ad4bd2e44fddf966f45af45d9
+FileChecksum: MD5: d002054aea31ddfc9d50cef4947fd537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item3672057
+FileChecksum: SHA1: 9d5990da93ab9814779988771d0eb7bcca5ad0ef
+FileChecksum: SHA256: 09c3f264fabef42c6b9bd50c3a13a4fafcb023f9db536a5ef514b1bec6d73086
+FileChecksum: MD5: 4ba2bcfffc0dbefa9a95515825d9590f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item3672058
+FileChecksum: SHA1: 9c060f1d1f3b0f50c165941fa8edd76a8d33e99f
+FileChecksum: SHA256: 95c6bb99f47f60ea88ec4eebc519c736f4bac3b40a28f84f0cb3fa6603c576a1
+FileChecksum: MD5: 2db0851759c0768b579efa3b7b1571b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item3672059
+FileChecksum: SHA1: 0db5902c567c07d61c0f78001e418f6a5f776929
+FileChecksum: SHA256: e4514fd07d45611467479248630d9c40c7edf814cb462972db148ae8b8e0bd99
+FileChecksum: MD5: 277fa532899a703d8b2ea74d55f00c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item3672060
+FileChecksum: SHA1: 2ca0219cde04346481cf07d0e2c422d2ac8bcc61
+FileChecksum: SHA256: c5f36809c37102d35e140cbba4ba5e7903b2da1f09f58d5f04b4e7f5aef083e8
+FileChecksum: MD5: f66787a5e12f59cbee75076dd2db8f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item3672061
+FileChecksum: SHA1: baa3ae6c352ac19e4c0c844cb7e02bdf3d205df5
+FileChecksum: SHA256: d0a4951a7442482709b1b599c956297b8914ba984c612a7bca44b1a0ef0c5e96
+FileChecksum: MD5: a63cb16cedfb493c78aebfe7ecd6101f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item3672062
+FileChecksum: SHA1: 4b5690e4b73a127789dc83bbc8e1bc3e499030a8
+FileChecksum: SHA256: ecb449d4d9176ae798ac8e676fd9128a189951292ae13801a692ea6f58895c5d
+FileChecksum: MD5: 834adc5447f38f639031d436f3b06289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item3672063
+FileChecksum: SHA1: d8506a68a45dba9af8efc55da300a27c2c418236
+FileChecksum: SHA256: 724f01b028a2372e72b042015b46c3e87038edb5bfd287eec300df5f846cd309
+FileChecksum: MD5: 8a97f545c713dd4daac45f1e4a79118a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item3672064
+FileChecksum: SHA1: 2fc9039aef600c275a3d475880ae1375c1b123cf
+FileChecksum: SHA256: 2562145d99253b03e82b8383d62c403d085e6337aa6b8be0ce4fc48bd299aba2
+FileChecksum: MD5: f181213b3a8822e4667875ded438f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item3672065
+FileChecksum: SHA1: bdaec56bc5a96e3b7b07dc907ce419135ad6038c
+FileChecksum: SHA256: 7e4a4261173938c38ca6aac0736d477d7d2988191a6470e4cf40d381f3ece965
+FileChecksum: MD5: fd4f17a502ae81fcf379cb79e2598704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item3672066
+FileChecksum: SHA1: a3483e79d06ac6cc758cd833dee965fda7ea0a89
+FileChecksum: SHA256: 1b3c1aca3b0ae72c4e737f36dfa6923881fc0ea65c4842cd46dfa4cd6f3ae10d
+FileChecksum: MD5: bac2d45857b386fc92687856d0950dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item3672067
+FileChecksum: SHA1: d8ff9633b52fd5989b8b14bd76d1ac80328ed776
+FileChecksum: SHA256: 0d8eb831b12a91187f01758b57f8b3ca8ed22cffdf2017b59e8b38881eea38a0
+FileChecksum: MD5: dec104c8dc8b5208246968f45b20d31b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item3672068
+FileChecksum: SHA1: b8d615c5283ce6868ced7f7f900e0836c3df197d
+FileChecksum: SHA256: b2911df66b809f54e42a43bf6ce07c0cfee3bb4a1ef54dc1b3a7c156f573a41f
+FileChecksum: MD5: 48e7b9c3210c2b8acad1e52401c52cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item3672069
+FileChecksum: SHA1: eef7086a2a9b1b3cb706ec4a10cc99f106d7b503
+FileChecksum: SHA256: 45587ecda73bef44b77f314570f278c524f1fb9b39c9e8c55f19c0d5008f5d97
+FileChecksum: MD5: 775df20b44e30b76a25d53958324e8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item3672070
+FileChecksum: SHA1: 1ea6a99b8c28a407394f169333e0b6cccc36088f
+FileChecksum: SHA256: d55198e9ae1b97a3588ab6a2c3608b1670996a6bda068a6e8b25ede31c4a05e3
+FileChecksum: MD5: d747befd22991a2d8276805c83db1311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item3672071
+FileChecksum: SHA1: e5da8c788f9e0d04f6a8b59c83b5d681c1572530
+FileChecksum: SHA256: ae37fa564f99da515cf8ebf49f0af0d256f53aa62c0ea5f563bcc79fbf7a9b29
+FileChecksum: MD5: e25f7a5df2eb640fe4487df8b182b110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item3672072
+FileChecksum: SHA1: 0bf2e049008ddbe43018dd2bac05fe49d992d538
+FileChecksum: SHA256: 353331d14a47f7d8a17a8954c68d51f440397da9ef9a2e5d2d7c5179c359c471
+FileChecksum: MD5: aca5ffc46110fc6573074cd31b2d81d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item3672073
+FileChecksum: SHA1: 54d1134b153d9199aa60bde18b129ba166588c7e
+FileChecksum: SHA256: 75c05854afee3299802fb4d357e53668cc05c299208c77826679fb478a7d3c4f
+FileChecksum: MD5: 843a3cda7eda915d393397b5adc310e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item3672074
+FileChecksum: SHA1: 1deec7e8fe37d85a00cc9f5f53f047574fbf1e06
+FileChecksum: SHA256: b23056f9e57ca79fb2aa9fb8c3db133b510a89beda4a80f256ce69d26dcbf921
+FileChecksum: MD5: 487c06f6dbf506daef9d0c44ea677396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item3672075
+FileChecksum: SHA1: 8bf3c018a7df678e35da50ea502e606f013ebbfb
+FileChecksum: SHA256: 4282ae9d6c4330d7f0edfe9571783cbd6139246c7e5c0930326e317452ab3457
+FileChecksum: MD5: 18afda22fde37ed9907dab367cbc5efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item3672076
+FileChecksum: SHA1: 8dacd3aa177653f4d9510cd25cda1ef0f058b79b
+FileChecksum: SHA256: dc0e2ed203b6b2a2f506c63f278c7944e5a0e6bff4e99911e7667800b73dac03
+FileChecksum: MD5: e86964eddf79f3af3878f26920202708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item3672078
+FileChecksum: SHA1: f2947e18cb0dcda8415c566e56195e3605c0e346
+FileChecksum: SHA256: 250582f8864752ebae7d03264d457c2c8a20abff391527a787cfc834aaf46659
+FileChecksum: MD5: a59b56d540759e634fda141a235c84d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item3672079
+FileChecksum: SHA1: 16d52de7c21cde5e10a3ccb56bd4bb8f31b6cccf
+FileChecksum: SHA256: 30441ecdc7c0c0bd5222a565b2ab6234619a96f32091b6d57e8e0e825b7c76a9
+FileChecksum: MD5: 3659aa20fb4d874e17680a5bfc6452dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item3672080
+FileChecksum: SHA1: 399adab73d34700613b77225452f18ee6c5a34bf
+FileChecksum: SHA256: 63db829492f9e62d37d69de9e48dd8f75db1f3403cb74ccafb4c54a8853a6dfe
+FileChecksum: MD5: 3397f9e0b07f88189c877cd321bb67fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$InstallCheck.class
+SPDXID: SPDXRef-item3672081
+FileChecksum: SHA1: 114840abb68bc32b263da44c10ad9493e5be85ad
+FileChecksum: SHA256: 0d7f56439a0e0af52d0c414b0f8285f8562052729938053b5bc0e31b4b907799
+FileChecksum: MD5: eea64f576356eec33871f4e27e3fabc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item3672082
+FileChecksum: SHA1: 69cfcb1953956226a0993da777f81ef208e58a25
+FileChecksum: SHA256: ac2d5b41023eafbfd28a1f5af6e3c3e446d2c551ebd16ab39c1a679a5a97176d
+FileChecksum: MD5: 1f35a5ec6d325a3e1f25e13be345aadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item3672083
+FileChecksum: SHA1: 1376cffcdf45a6eaf25cd7a51dc4defc4ed74086
+FileChecksum: SHA256: 724f07f959cec4e95012a134abadffb8684f758e565293f74ef073a3bb18fcba
+FileChecksum: MD5: b8bed11a856a8621b62f46716dc0b9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item3672084
+FileChecksum: SHA1: 620bae39e98fa2cd69f99880d6ec649a1874a3e5
+FileChecksum: SHA256: 04b75c4a98b57a7aad3fa9ea4455050db5e25b5eca6f85d5762153fa09799afc
+FileChecksum: MD5: 1b01fd28fc454620df79c859bc039750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter$1.class
+SPDXID: SPDXRef-item3672085
+FileChecksum: SHA1: 2968b54251cb8defda1b732c901b3fceebc68716
+FileChecksum: SHA256: 84748f2bfb89f0d8b532ebd8db4dd2e74583f16c670b88face4939122e90c0d3
+FileChecksum: MD5: 2bd853acbe0555391a6dbe0728e450e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item3672086
+FileChecksum: SHA1: fd4611788dd0fccfb96c6e39d82d698baecace47
+FileChecksum: SHA256: dee4918cce7d2c96a0ac9caab85354f7d19594235fbff5b12d936026b0f64924
+FileChecksum: MD5: 3cb3fc270160c81c675f57f84e30b8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item3672087
+FileChecksum: SHA1: 40a71932008ec7000b0753d5e9997a68fcccae11
+FileChecksum: SHA256: 2331e2ec12e5d8537789de9953e4f4c6888963a059cbdb42da89d0ffc07bc8a4
+FileChecksum: MD5: c9d6fcf5ffb579513c82ac3965f20d54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item3672088
+FileChecksum: SHA1: d8b3b27086297ccd16232f345cdaa39976b67c69
+FileChecksum: SHA256: 3ed35d051c27f7bc41f34bf00551d3efeaf69097ded70590f46dbf18f08c812a
+FileChecksum: MD5: 9d8e7ef338fd267ad55020655229ae12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item3672089
+FileChecksum: SHA1: 3414639f7980269c422d73433ffe5443cd207e8f
+FileChecksum: SHA256: 08b63b42a483fce4db68cb10cbb77e81af04423edf423e9e2495c1b38e43ee71
+FileChecksum: MD5: 606c9d4d9392ce9f08a0bd9f7f82d1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$DefaultDownloadProgressListener.class
+SPDXID: SPDXRef-item3672090
+FileChecksum: SHA1: cec62de22cad551e06c72254ba62d0eff7fd669d
+FileChecksum: SHA256: ea781e8a92bebd744589915ff1f65c2cb6c237b81595ab6c54f5afab5fae850e
+FileChecksum: MD5: 64d402b984c0034a83452056e83b3ee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item3672091
+FileChecksum: SHA1: 2e4ebcac23731e555d386a158e56443e581db4c8
+FileChecksum: SHA256: 7ff1b328daf614199438fd9dce9b35fab7c360c04d3194891fc6f6f4b8362f27
+FileChecksum: MD5: 1780855b6d5f67130993beef58a06552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item3672092
+FileChecksum: SHA1: 982163a7ffa7162ef52ddc95456818729d7546c0
+FileChecksum: SHA256: b7631cd16196a529a623498571e490c1d6a021131e3d0f95ebb50d6447162141
+FileChecksum: MD5: f5083aae06c9422366d780f85331649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item3672093
+FileChecksum: SHA1: 74a71a86bb418333d8dddc738fa3ee6c1cde84ca
+FileChecksum: SHA256: a3f62ad985a86912db43253d9dd4d88798ea92b96ea3afb229011edb40d957cf
+FileChecksum: MD5: 88eb80c462eefcb609718ffa6eaac32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item3672094
+FileChecksum: SHA1: 02b3654b22e162fe6e18a1d2042b1ae8a934d65e
+FileChecksum: SHA256: 5d939bba4688b3860ba47e8a5dcc73807be439b2356c67cd94b5fb1240494f81
+FileChecksum: MD5: 154db912d9051c021c9acd4dc042ed6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item3672095
+FileChecksum: SHA1: 5f4b6a77444fdc276bd3fc6f6bd5bb40fe4afc75
+FileChecksum: SHA256: defdf3bcafd5576a815cdd2642402fb49346aa9fc27002f5e3e7a3c32b06329e
+FileChecksum: MD5: 7a345abd2c992345194cf1e500f4e06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item3672096
+FileChecksum: SHA1: 53eb340fd7ecbfc275fd67db0d8d01d2ebbfff12
+FileChecksum: SHA256: 2ac949df1b0140bec80540ba3eb9b161f1c6c73031664072c16e05e3387c203d
+FileChecksum: MD5: c315baa8664e815faf0964144da9ec42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item3672097
+FileChecksum: SHA1: 1a80d3b81cf7d3b77385b2039a7bbac62e480d65
+FileChecksum: SHA256: 5f7d50acca8d754d78d3b37e51ae6a5bffa90356e13ddafd857c4e7a0ecffdc6
+FileChecksum: MD5: 83cdf02725d952d29a40d92d69dc4af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item3672098
+FileChecksum: SHA1: 96ce60b4ff011a1607d435d3c494c64c38f15574
+FileChecksum: SHA256: ad21d3de4f913d920662cc478bcc440f8f09f7fa45148b31752c9caccaa69857
+FileChecksum: MD5: af4589871a681c9e2d05bf70b08052be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item3672100
+FileChecksum: SHA1: 240e3bcf966c65534fc2d9fbf9502bb36f843f89
+FileChecksum: SHA256: c2bdfbb9310cc5d5edfdd6c1c659f64e3e4e253c43d84db5c4fc142e01f658cd
+FileChecksum: MD5: 0d3a8708bdea53bc771745759d5dbf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-parameter-names.properties
+SPDXID: SPDXRef-item3672101
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item3672102
+FileChecksum: SHA1: 7cd25e28b1f4b5024d5026b7c572760d47ce7e10
+FileChecksum: SHA256: cfcda6a4010c5e9174f454f8ba5906ea10f39e797523da30ce9084d772e83de7
+FileChecksum: MD5: d64d3518bd04e47f2fce0fd9e7e755fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item3672105
+FileChecksum: SHA1: 5b80cbe990ecd7ec2a48bb1279e051eb678d4a1f
+FileChecksum: SHA256: 92cafc97edb53b6486206cfb8655671672e502e2e41745318c48fed480eb9b22
+FileChecksum: MD5: 2d58ff1d749eeb2874351aac873326d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item3672106
+FileChecksum: SHA1: 86b919ace7775b982ca4d7f8a9964bddc60abb9a
+FileChecksum: SHA256: 00eef49959689fe24458d64f24e6ea05e586f3e01059c4e094cf67ecd4bbaee6
+FileChecksum: MD5: f4fad0fceae7151f024f69f41dcf0644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/.gitignore
+SPDXID: SPDXRef-item3672107
+FileChecksum: SHA1: 48193919020beeefb721c409e3ba636a8c864ba4
+FileChecksum: SHA256: 662aa216323cc76189e00038211f7ffb1215c7c8c8842e2c233c4b53330a142d
+FileChecksum: MD5: 07c4ed56ee142b32e5df00e5df801396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/build.gradle
+SPDXID: SPDXRef-item3672109
+FileChecksum: SHA1: 5098a6341850d48bdfda217bf425ddade2423c31
+FileChecksum: SHA256: 22fb5100da6f0be8253d19518b328772e0664f9407c51fe9c3573e8441e56d41
+FileChecksum: MD5: a2267b228f7aaa3599b921b384c67833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/README.md
+SPDXID: SPDXRef-item3672110
+FileChecksum: SHA1: 20869f79bcb56c9250dd4de9df70ea9def735836
+FileChecksum: SHA256: f0dc8f0868bda49f6813200d76bdf4ecb74cc7dfeac3d0079eccb51943318db1
+FileChecksum: MD5: a50858256d3de020cc8920fdeb99883d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library/settings.gradle
+SPDXID: SPDXRef-item3672111
+FileChecksum: SHA1: 22332f73f3caba5d07958306dd406085c8f89aaf
+FileChecksum: SHA256: dabf8b9e5e52c9e0e80209db3eb13d79538730680fe986674ebc1696accd5521
+FileChecksum: MD5: 3cce609b34fff102b2758c3fab776a01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/USEF Flex Trading Protocol Specifications 3.0.0.pdf/USEF Flex Trading Protocol Specifications 3.0.0
+SPDXID: SPDXRef-item3672116
+FileChecksum: SHA1: 8d151789c0546e35ee3e3d61d3e2356c990e8315
+FileChecksum: SHA256: f392d0550520dab766da7ab45a604545a6416de8e27ee1a8c4e11385d1d5ff80
+FileChecksum: MD5: 900793ef99bbb28a813a50047291eb05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/.gitignore
+SPDXID: SPDXRef-item3672118
+FileChecksum: SHA1: b9c4d3cfcf0530fa5ee6eacf43499be4b0fd0505
+FileChecksum: SHA256: 1d15bdb66e2d42cd0ecddeb6926d7a97dbf7a82a055067b7b9afc05112ee0437
+FileChecksum: MD5: 7a8b085dbf273de1bb2cb0b44c858f33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/CHANGELOG.md
+SPDXID: SPDXRef-item3672119
+FileChecksum: SHA1: aeb9d0a543909a6d9338440131b133453d5cc76c
+FileChecksum: SHA256: 72ceb05f7ee8cc5dacdfd72f24368ab2a4cdd9c2cc87c74562d689d4db1a0dae
+FileChecksum: MD5: a048050f10b408d53049b2213b761a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/.editorconfig
+SPDXID: SPDXRef-item3672120
+FileChecksum: SHA1: 1e877b1b77aca3ac32fe2de9215fbbab8b500943
+FileChecksum: SHA256: 974176d7433fc503d439a26a40a5c91ea3db2fe6fc9876788eeeadcdd3285d89
+FileChecksum: MD5: a48e8e5592d004de1b82f4cdcc021a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/USEF Flex Trading Protocol Specifications 3.0.0.docx
+SPDXID: SPDXRef-item3672121
+FileChecksum: SHA1: f40691bfc00c73de7ccbd215d3aaec112d3e267a
+FileChecksum: SHA256: 42b3c55b53e105e81d9e22c0191ccc16499b0ab6be014601b3f2108cf29ada25
+FileChecksum: MD5: b9399cd78222f911b6f802d63e4d6638
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/.gitattributes
+SPDXID: SPDXRef-item3672122
+FileChecksum: SHA1: d42eb05b522a72aeaa958c9be5d3221b4a9a5c33
+FileChecksum: SHA256: 70233ebc8cc077c5961480d237b486171b63a520bfc6dbfd551ef87c4bbe266a
+FileChecksum: MD5: 318eb118953dc251c38d769372dd4aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-cro.xsd
+SPDXID: SPDXRef-item3672124
+FileChecksum: SHA1: 7011ee15ed61fe18f7599c47546f80a5a61f48b5
+FileChecksum: SHA256: ca0ad5c9d733a5ebdeb1e353650860e966e088834fd1c3e1ba2b92a887991206
+FileChecksum: MD5: 093d1c88bd9536436a15fa75778be3ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-dso.xsd
+SPDXID: SPDXRef-item3672125
+FileChecksum: SHA1: b3c58267babd13dbe7568c1727b794e92074a448
+FileChecksum: SHA256: cf586dc417e25827ca81a6bd6c58d9ae07701a93a612a080bd6eb1ab8170d06f
+FileChecksum: MD5: 6330e0a6cb344397c2e9bd385cf2816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-metering.xsd
+SPDXID: SPDXRef-item3672126
+FileChecksum: SHA1: 36bbf458335ce6a16ab73e641b3dac5a1cbf5bb1
+FileChecksum: SHA256: dfc24a49191874cf7c1e9365fa1cea72c2d8b4aa9f5899bd7ed3186571711c8f
+FileChecksum: MD5: d346bd39949dc1344a3a5f5fbd44ab28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-agr.xsd
+SPDXID: SPDXRef-item3672127
+FileChecksum: SHA1: 2021e6fb483a3c2676591289288b24af2a20fcf5
+FileChecksum: SHA256: 563ed4fd7a5a7b8316515bc56b3a2ae362ae0c61f4d5dc5463dbc3ac99eae879
+FileChecksum: MD5: b55158176a4ce03e8aa668dc6ee12397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-cro-dso.xsd
+SPDXID: SPDXRef-item3672128
+FileChecksum: SHA1: 573178fce92a5b49fad564abc903ab9bb1ed9453
+FileChecksum: SHA256: ef12b33e8e379f5fedfb0333edf55e580d34b8ed172945decbbb7a9b9d1ce7f0
+FileChecksum: MD5: 7e719cf0d274fd1fc3f32947b9e04523
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-agr-dso.xsd
+SPDXID: SPDXRef-item3672129
+FileChecksum: SHA1: bb874abecf5c06c2e8ed841269505de0b1150b0d
+FileChecksum: SHA256: 3729cd227d5c3f56f921924a498e4bcaf6c7af37bd99df3de95054706760bbc8
+FileChecksum: MD5: f9f2d4d8c4d24a4ca3df3efe0fc20b11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-agr-cro.xsd
+SPDXID: SPDXRef-item3672130
+FileChecksum: SHA1: 3bb9e344f7fb6941d1e44f5956feb14d9a63f9c4
+FileChecksum: SHA256: 00a0757a900235083a59ccc850cdb2ade07ac2db8d36293493a27c578a5dc055
+FileChecksum: MD5: 619ccfdec53e87ae085fe2c84319db13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/xsd/UFTP-common.xsd
+SPDXID: SPDXRef-item3672131
+FileChecksum: SHA1: 696400c7ff0ee5975637d47ddb0afe52195bc19f
+FileChecksum: SHA256: a6fad2b0ca689f02cffe536ac1b8d5cc7b89d49f1362e49e339e81ae1d5b0a3a
+FileChecksum: MD5: dff8558bbd9eb47e2afa76f25c10e355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-specification/README.md
+SPDXID: SPDXRef-item3672132
+FileChecksum: SHA1: c79e88305a96af9cb1f47258d4e2fe0d33074033
+FileChecksum: SHA256: f3e48b2477eae6c1f1000ad30dd23fd94d619eff8097ba43f11238c328fd389b
+FileChecksum: MD5: fb62a396cce10eb328c2fd8488b71ff9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/src/main/resources/application.properties
+SPDXID: SPDXRef-item3672138
+FileChecksum: SHA1: 9ca326745266b53b067d14b68dae21a8a5f652b1
+FileChecksum: SHA256: f443460603589792c106fa855e8ef40d7bedb0b58e064c8fbd4ba189d7ff9b88
+FileChecksum: MD5: 94affe11f1ab7be81675d338135eacf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/src/main/java/eu/uftpapi/Housekeeping.java
+SPDXID: SPDXRef-item3672142
+FileChecksum: SHA1: f8a0552c5da371b39d8bc70e597bbc05079585a8
+FileChecksum: SHA256: 968add528573cb5aa1d1740ec442fb62f3ac64ae0f6dac5c925ad6d7c80d280e
+FileChecksum: MD5: d2ba0be544dcd3c36d66d02605c44027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/src/main/java/eu/uftpapi/UftpapiApplication.java
+SPDXID: SPDXRef-item3672143
+FileChecksum: SHA1: 0921929525b3f14b73903a3affe553bb94363d88
+FileChecksum: SHA256: a691321fc235ac478481e0f64bbe2f83c80db9ce05f98650b91f4754ba76d46b
+FileChecksum: MD5: 473f56c716d222689a5701bf0830dac1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/src/main/java/eu/uftpapi/web/MessageController.java
+SPDXID: SPDXRef-item3672145
+FileChecksum: SHA1: 9c9a964d98395c8c19f867280e3af45aec4c7355
+FileChecksum: SHA256: 63169088e4938b06eb3596720b8d2969f6f94868d9adf13ed31f900e86aaaf8c
+FileChecksum: MD5: 7b6dcc6fe53cb9c1d478735417a1e73d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-item3672148
+FileChecksum: SHA1: 7c03de9bd96d69ebd970fd106990b61c59741c2e
+FileChecksum: SHA256: 464a521ebb1a5d5d33bb0db6ca87a7cb57ade6e2ebb7c6dc13b982ea5cdced09
+FileChecksum: MD5: 9c6a0eba93886a57d2db1caeab7206ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/gradle-cli-parameter-names.properties
+SPDXID: SPDXRef-item3672152
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class
+SPDXID: SPDXRef-item3672156
+FileChecksum: SHA1: 05e55d09799cb3a6440135b1165bfd6812c2afd7
+FileChecksum: SHA256: eb1e23ab046e96e669ede43f3cf07b6fc97b1ddf183d7f5730ddc167519ea649
+FileChecksum: MD5: 98334bfd59e357404a5acb37ac440c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item3672157
+FileChecksum: SHA1: 10b209cc840edb3515115724b942bf28c0f4a500
+FileChecksum: SHA256: e0dc52eb3e1e68515215e557270f200b7204840753293e84d0876968159bbff3
+FileChecksum: MD5: 83634fe3358cddf6241f3cc9322cdc6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class
+SPDXID: SPDXRef-item3672158
+FileChecksum: SHA1: 7c161383a230cbb8c9487e5a81cafbb4deb95324
+FileChecksum: SHA256: 6bcafe26a373d6de7e25cb28602e5133b2630615d3678d3278363f1c46c6ecc1
+FileChecksum: MD5: 8096c4ce0a266342893eba661c91784f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class
+SPDXID: SPDXRef-item3672159
+FileChecksum: SHA1: d374dfd77fa05c103c35e2e3a3bb931c71c87e1c
+FileChecksum: SHA256: 148881256a6d29aa381630809702a9c105f4d27ad4bd2e44fddf966f45af45d9
+FileChecksum: MD5: d002054aea31ddfc9d50cef4947fd537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class
+SPDXID: SPDXRef-item3672160
+FileChecksum: SHA1: 9d5990da93ab9814779988771d0eb7bcca5ad0ef
+FileChecksum: SHA256: 09c3f264fabef42c6b9bd50c3a13a4fafcb023f9db536a5ef514b1bec6d73086
+FileChecksum: MD5: 4ba2bcfffc0dbefa9a95515825d9590f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class
+SPDXID: SPDXRef-item3672161
+FileChecksum: SHA1: 9c060f1d1f3b0f50c165941fa8edd76a8d33e99f
+FileChecksum: SHA256: 95c6bb99f47f60ea88ec4eebc519c736f4bac3b40a28f84f0cb3fa6603c576a1
+FileChecksum: MD5: 2db0851759c0768b579efa3b7b1571b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class
+SPDXID: SPDXRef-item3672162
+FileChecksum: SHA1: 0db5902c567c07d61c0f78001e418f6a5f776929
+FileChecksum: SHA256: e4514fd07d45611467479248630d9c40c7edf814cb462972db148ae8b8e0bd99
+FileChecksum: MD5: 277fa532899a703d8b2ea74d55f00c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class
+SPDXID: SPDXRef-item3672163
+FileChecksum: SHA1: 2ca0219cde04346481cf07d0e2c422d2ac8bcc61
+FileChecksum: SHA256: c5f36809c37102d35e140cbba4ba5e7903b2da1f09f58d5f04b4e7f5aef083e8
+FileChecksum: MD5: f66787a5e12f59cbee75076dd2db8f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class
+SPDXID: SPDXRef-item3672164
+FileChecksum: SHA1: baa3ae6c352ac19e4c0c844cb7e02bdf3d205df5
+FileChecksum: SHA256: d0a4951a7442482709b1b599c956297b8914ba984c612a7bca44b1a0ef0c5e96
+FileChecksum: MD5: a63cb16cedfb493c78aebfe7ecd6101f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class
+SPDXID: SPDXRef-item3672165
+FileChecksum: SHA1: 4b5690e4b73a127789dc83bbc8e1bc3e499030a8
+FileChecksum: SHA256: ecb449d4d9176ae798ac8e676fd9128a189951292ae13801a692ea6f58895c5d
+FileChecksum: MD5: 834adc5447f38f639031d436f3b06289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class
+SPDXID: SPDXRef-item3672166
+FileChecksum: SHA1: d8506a68a45dba9af8efc55da300a27c2c418236
+FileChecksum: SHA256: 724f01b028a2372e72b042015b46c3e87038edb5bfd287eec300df5f846cd309
+FileChecksum: MD5: 8a97f545c713dd4daac45f1e4a79118a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class
+SPDXID: SPDXRef-item3672167
+FileChecksum: SHA1: 2fc9039aef600c275a3d475880ae1375c1b123cf
+FileChecksum: SHA256: 2562145d99253b03e82b8383d62c403d085e6337aa6b8be0ce4fc48bd299aba2
+FileChecksum: MD5: f181213b3a8822e4667875ded438f64b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class
+SPDXID: SPDXRef-item3672168
+FileChecksum: SHA1: bdaec56bc5a96e3b7b07dc907ce419135ad6038c
+FileChecksum: SHA256: 7e4a4261173938c38ca6aac0736d477d7d2988191a6470e4cf40d381f3ece965
+FileChecksum: MD5: fd4f17a502ae81fcf379cb79e2598704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class
+SPDXID: SPDXRef-item3672169
+FileChecksum: SHA1: a3483e79d06ac6cc758cd833dee965fda7ea0a89
+FileChecksum: SHA256: 1b3c1aca3b0ae72c4e737f36dfa6923881fc0ea65c4842cd46dfa4cd6f3ae10d
+FileChecksum: MD5: bac2d45857b386fc92687856d0950dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class
+SPDXID: SPDXRef-item3672170
+FileChecksum: SHA1: d8ff9633b52fd5989b8b14bd76d1ac80328ed776
+FileChecksum: SHA256: 0d8eb831b12a91187f01758b57f8b3ca8ed22cffdf2017b59e8b38881eea38a0
+FileChecksum: MD5: dec104c8dc8b5208246968f45b20d31b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item3672171
+FileChecksum: SHA1: b8d615c5283ce6868ced7f7f900e0836c3df197d
+FileChecksum: SHA256: b2911df66b809f54e42a43bf6ce07c0cfee3bb4a1ef54dc1b3a7c156f573a41f
+FileChecksum: MD5: 48e7b9c3210c2b8acad1e52401c52cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class
+SPDXID: SPDXRef-item3672172
+FileChecksum: SHA1: eef7086a2a9b1b3cb706ec4a10cc99f106d7b503
+FileChecksum: SHA256: 45587ecda73bef44b77f314570f278c524f1fb9b39c9e8c55f19c0d5008f5d97
+FileChecksum: MD5: 775df20b44e30b76a25d53958324e8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class
+SPDXID: SPDXRef-item3672173
+FileChecksum: SHA1: 1ea6a99b8c28a407394f169333e0b6cccc36088f
+FileChecksum: SHA256: d55198e9ae1b97a3588ab6a2c3608b1670996a6bda068a6e8b25ede31c4a05e3
+FileChecksum: MD5: d747befd22991a2d8276805c83db1311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class
+SPDXID: SPDXRef-item3672174
+FileChecksum: SHA1: e5da8c788f9e0d04f6a8b59c83b5d681c1572530
+FileChecksum: SHA256: ae37fa564f99da515cf8ebf49f0af0d256f53aa62c0ea5f563bcc79fbf7a9b29
+FileChecksum: MD5: e25f7a5df2eb640fe4487df8b182b110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class
+SPDXID: SPDXRef-item3672175
+FileChecksum: SHA1: 0bf2e049008ddbe43018dd2bac05fe49d992d538
+FileChecksum: SHA256: 353331d14a47f7d8a17a8954c68d51f440397da9ef9a2e5d2d7c5179c359c471
+FileChecksum: MD5: aca5ffc46110fc6573074cd31b2d81d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class
+SPDXID: SPDXRef-item3672176
+FileChecksum: SHA1: 54d1134b153d9199aa60bde18b129ba166588c7e
+FileChecksum: SHA256: 75c05854afee3299802fb4d357e53668cc05c299208c77826679fb478a7d3c4f
+FileChecksum: MD5: 843a3cda7eda915d393397b5adc310e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class
+SPDXID: SPDXRef-item3672177
+FileChecksum: SHA1: 1deec7e8fe37d85a00cc9f5f53f047574fbf1e06
+FileChecksum: SHA256: b23056f9e57ca79fb2aa9fb8c3db133b510a89beda4a80f256ce69d26dcbf921
+FileChecksum: MD5: 487c06f6dbf506daef9d0c44ea677396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class
+SPDXID: SPDXRef-item3672178
+FileChecksum: SHA1: 8bf3c018a7df678e35da50ea502e606f013ebbfb
+FileChecksum: SHA256: 4282ae9d6c4330d7f0edfe9571783cbd6139246c7e5c0930326e317452ab3457
+FileChecksum: MD5: 18afda22fde37ed9907dab367cbc5efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class
+SPDXID: SPDXRef-item3672179
+FileChecksum: SHA1: 8dacd3aa177653f4d9510cd25cda1ef0f058b79b
+FileChecksum: SHA256: dc0e2ed203b6b2a2f506c63f278c7944e5a0e6bff4e99911e7667800b73dac03
+FileChecksum: MD5: e86964eddf79f3af3878f26920202708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class
+SPDXID: SPDXRef-item3672181
+FileChecksum: SHA1: f2947e18cb0dcda8415c566e56195e3605c0e346
+FileChecksum: SHA256: 250582f8864752ebae7d03264d457c2c8a20abff391527a787cfc834aaf46659
+FileChecksum: MD5: a59b56d540759e634fda141a235c84d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class
+SPDXID: SPDXRef-item3672182
+FileChecksum: SHA1: 16d52de7c21cde5e10a3ccb56bd4bb8f31b6cccf
+FileChecksum: SHA256: 30441ecdc7c0c0bd5222a565b2ab6234619a96f32091b6d57e8e0e825b7c76a9
+FileChecksum: MD5: 3659aa20fb4d874e17680a5bfc6452dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class
+SPDXID: SPDXRef-item3672183
+FileChecksum: SHA1: 399adab73d34700613b77225452f18ee6c5a34bf
+FileChecksum: SHA256: 63db829492f9e62d37d69de9e48dd8f75db1f3403cb74ccafb4c54a8853a6dfe
+FileChecksum: MD5: 3397f9e0b07f88189c877cd321bb67fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$InstallCheck.class
+SPDXID: SPDXRef-item3672184
+FileChecksum: SHA1: 114840abb68bc32b263da44c10ad9493e5be85ad
+FileChecksum: SHA256: 0d7f56439a0e0af52d0c414b0f8285f8562052729938053b5bc0e31b4b907799
+FileChecksum: MD5: eea64f576356eec33871f4e27e3fabc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class
+SPDXID: SPDXRef-item3672185
+FileChecksum: SHA1: 69cfcb1953956226a0993da777f81ef208e58a25
+FileChecksum: SHA256: ac2d5b41023eafbfd28a1f5af6e3c3e446d2c551ebd16ab39c1a679a5a97176d
+FileChecksum: MD5: 1f35a5ec6d325a3e1f25e13be345aadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class
+SPDXID: SPDXRef-item3672186
+FileChecksum: SHA1: 1376cffcdf45a6eaf25cd7a51dc4defc4ed74086
+FileChecksum: SHA256: 724f07f959cec4e95012a134abadffb8684f758e565293f74ef073a3bb18fcba
+FileChecksum: MD5: b8bed11a856a8621b62f46716dc0b9d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class
+SPDXID: SPDXRef-item3672187
+FileChecksum: SHA1: 620bae39e98fa2cd69f99880d6ec649a1874a3e5
+FileChecksum: SHA256: 04b75c4a98b57a7aad3fa9ea4455050db5e25b5eca6f85d5762153fa09799afc
+FileChecksum: MD5: 1b01fd28fc454620df79c859bc039750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter$1.class
+SPDXID: SPDXRef-item3672188
+FileChecksum: SHA1: 2968b54251cb8defda1b732c901b3fceebc68716
+FileChecksum: SHA256: 84748f2bfb89f0d8b532ebd8db4dd2e74583f16c670b88face4939122e90c0d3
+FileChecksum: MD5: 2bd853acbe0555391a6dbe0728e450e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class
+SPDXID: SPDXRef-item3672189
+FileChecksum: SHA1: fd4611788dd0fccfb96c6e39d82d698baecace47
+FileChecksum: SHA256: dee4918cce7d2c96a0ac9caab85354f7d19594235fbff5b12d936026b0f64924
+FileChecksum: MD5: 3cb3fc270160c81c675f57f84e30b8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class
+SPDXID: SPDXRef-item3672190
+FileChecksum: SHA1: 40a71932008ec7000b0753d5e9997a68fcccae11
+FileChecksum: SHA256: 2331e2ec12e5d8537789de9953e4f4c6888963a059cbdb42da89d0ffc07bc8a4
+FileChecksum: MD5: c9d6fcf5ffb579513c82ac3965f20d54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class
+SPDXID: SPDXRef-item3672191
+FileChecksum: SHA1: d8b3b27086297ccd16232f345cdaa39976b67c69
+FileChecksum: SHA256: 3ed35d051c27f7bc41f34bf00551d3efeaf69097ded70590f46dbf18f08c812a
+FileChecksum: MD5: 9d8e7ef338fd267ad55020655229ae12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class
+SPDXID: SPDXRef-item3672192
+FileChecksum: SHA1: 3414639f7980269c422d73433ffe5443cd207e8f
+FileChecksum: SHA256: 08b63b42a483fce4db68cb10cbb77e81af04423edf423e9e2495c1b38e43ee71
+FileChecksum: MD5: 606c9d4d9392ce9f08a0bd9f7f82d1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$DefaultDownloadProgressListener.class
+SPDXID: SPDXRef-item3672193
+FileChecksum: SHA1: cec62de22cad551e06c72254ba62d0eff7fd669d
+FileChecksum: SHA256: ea781e8a92bebd744589915ff1f65c2cb6c237b81595ab6c54f5afab5fae850e
+FileChecksum: MD5: 64d402b984c0034a83452056e83b3ee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class
+SPDXID: SPDXRef-item3672194
+FileChecksum: SHA1: 2e4ebcac23731e555d386a158e56443e581db4c8
+FileChecksum: SHA256: 7ff1b328daf614199438fd9dce9b35fab7c360c04d3194891fc6f6f4b8362f27
+FileChecksum: MD5: 1780855b6d5f67130993beef58a06552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class
+SPDXID: SPDXRef-item3672195
+FileChecksum: SHA1: 982163a7ffa7162ef52ddc95456818729d7546c0
+FileChecksum: SHA256: b7631cd16196a529a623498571e490c1d6a021131e3d0f95ebb50d6447162141
+FileChecksum: MD5: f5083aae06c9422366d780f85331649b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class
+SPDXID: SPDXRef-item3672196
+FileChecksum: SHA1: 74a71a86bb418333d8dddc738fa3ee6c1cde84ca
+FileChecksum: SHA256: a3f62ad985a86912db43253d9dd4d88798ea92b96ea3afb229011edb40d957cf
+FileChecksum: MD5: 88eb80c462eefcb609718ffa6eaac32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class
+SPDXID: SPDXRef-item3672197
+FileChecksum: SHA1: 02b3654b22e162fe6e18a1d2042b1ae8a934d65e
+FileChecksum: SHA256: 5d939bba4688b3860ba47e8a5dcc73807be439b2356c67cd94b5fb1240494f81
+FileChecksum: MD5: 154db912d9051c021c9acd4dc042ed6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/DownloadProgressListener.class
+SPDXID: SPDXRef-item3672198
+FileChecksum: SHA1: 5f4b6a77444fdc276bd3fc6f6bd5bb40fe4afc75
+FileChecksum: SHA256: defdf3bcafd5576a815cdd2642402fb49346aa9fc27002f5e3e7a3c32b06329e
+FileChecksum: MD5: 7a345abd2c992345194cf1e500f4e06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$ProxyAuthenticator.class
+SPDXID: SPDXRef-item3672199
+FileChecksum: SHA1: 53eb340fd7ecbfc275fd67db0d8d01d2ebbfff12
+FileChecksum: SHA256: 2ac949df1b0140bec80540ba3eb9b161f1c6c73031664072c16e05e3387c203d
+FileChecksum: MD5: c315baa8664e815faf0964144da9ec42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class
+SPDXID: SPDXRef-item3672200
+FileChecksum: SHA1: 1a80d3b81cf7d3b77385b2039a7bbac62e480d65
+FileChecksum: SHA256: 5f7d50acca8d754d78d3b37e51ae6a5bffa90356e13ddafd857c4e7a0ecffdc6
+FileChecksum: MD5: 83cdf02725d952d29a40d92d69dc4af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties
+SPDXID: SPDXRef-item3672201
+FileChecksum: SHA1: 96ce60b4ff011a1607d435d3c494c64c38f15574
+FileChecksum: SHA256: ad21d3de4f913d920662cc478bcc440f8f09f7fa45148b31752c9caccaa69857
+FileChecksum: MD5: af4589871a681c9e2d05bf70b08052be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item3672203
+FileChecksum: SHA1: 240e3bcf966c65534fc2d9fbf9502bb36f843f89
+FileChecksum: SHA256: c2bdfbb9310cc5d5edfdd6c1c659f64e3e4e253c43d84db5c4fc142e01f658cd
+FileChecksum: MD5: 0d3a8708bdea53bc771745759d5dbf88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-parameter-names.properties
+SPDXID: SPDXRef-item3672204
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties
+SPDXID: SPDXRef-item3672205
+FileChecksum: SHA1: 7cd25e28b1f4b5024d5026b7c572760d47ce7e10
+FileChecksum: SHA256: cfcda6a4010c5e9174f454f8ba5906ea10f39e797523da30ce9084d772e83de7
+FileChecksum: MD5: d64d3518bd04e47f2fce0fd9e7e755fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.gitignore
+SPDXID: SPDXRef-item3672206
+FileChecksum: SHA1: 05480219af32e5662e65550641bb57cdc2f39d9d
+FileChecksum: SHA256: fe5b18ff780e70124bda7799bdde260064daae8152a3d52573e5fbcc40f59e8e
+FileChecksum: MD5: 5d9d52357bba511c707ab174ce12234c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/build.gradle
+SPDXID: SPDXRef-item3672208
+FileChecksum: SHA1: afb0b0856770034db5bc73de45b36e2d6ea9e078
+FileChecksum: SHA256: 20639122ebcdd6d080341bd422658f032827a0602a646a8fde2e121fcfa42d60
+FileChecksum: MD5: 84983c0c9fbeb30cb2c47fdc512797ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/Dockerfile
+SPDXID: SPDXRef-item3672209
+FileChecksum: SHA1: f7164bd8139b8d7b4c7dc8e831170fec8002fa9c
+FileChecksum: SHA256: 03f4d7db9cc8ecefd9eafb166fda2ca57d9d6a39b64bec7c97753d4cf87e1bf6
+FileChecksum: MD5: 3117f412c9b07b0588343ad587c1125d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/vcs.xml
+SPDXID: SPDXRef-item3672211
+FileChecksum: SHA1: 6f94fc1df9e8721673d47588ac444667dc9ded06
+FileChecksum: SHA256: 6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e
+FileChecksum: MD5: 8c9c0403ab0f6457841c605f08a3340c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/compiler.xml
+SPDXID: SPDXRef-item3672212
+FileChecksum: SHA1: b85bd6cc06bf1c496e62d73ac4ca25b09daaf4a0
+FileChecksum: SHA256: 66ee79806c2b059002bb3b68dbf5e5178bd6bb97db78cad058f31e9eb89a906d
+FileChecksum: MD5: b560e4ea0d2093cc374b464906139a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/misc.xml
+SPDXID: SPDXRef-item3672213
+FileChecksum: SHA1: a7aee36d73670ef9e5d7b678e84e483632d57865
+FileChecksum: SHA256: eff8d4b4faead91f9a990416b6ce4d41403bd90211fbc29a1501ddfec2aba7f9
+FileChecksum: MD5: 6eef0e0150a381182363067c63608c26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/gradle.xml
+SPDXID: SPDXRef-item3672214
+FileChecksum: SHA1: 9da980f149033530108dfcf84b219440fb4c87f5
+FileChecksum: SHA256: b20ad95b802017c16f0e6b638c4ef328b8092f8e461d78eb4f15c65bddc9e03e
+FileChecksum: MD5: 05a6b1ab42ee1a8e656cc2863f35d743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/jarRepositories.xml
+SPDXID: SPDXRef-item3672215
+FileChecksum: SHA1: 28d3689d0e03ddf39c216874514c8b294fa5da71
+FileChecksum: SHA256: 0c83ebf482c9e741823637e224cdce7d4759bc366a656e08692a7ca47d4ae98a
+FileChecksum: MD5: d0e69ee615e3a59b11de6e3fa85450d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/uiDesigner.xml
+SPDXID: SPDXRef-item3672216
+FileChecksum: SHA1: 7f8efad1ae462d63daf0ea4a22c56947964c10ea
+FileChecksum: SHA256: 8d7619ec3e83bfe871a9962a2cb816a727e722babb0d3b12ba0960ca23cdc78a
+FileChecksum: MD5: a9d2a34fba34d48e46ce58d67808142a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/.gitignore
+SPDXID: SPDXRef-item3672217
+FileChecksum: SHA1: b0808552c40b30c337734f4b1cfb434c2ce873b2
+FileChecksum: SHA256: a9e54fc4f08bc97d82c04bd86ff37d3af84ba9ef4ad87fcfcb438dab622e8aaa
+FileChecksum: MD5: bd588a782a4fe62c25b44342c8dbb173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/.idea/uftpapi.iml
+SPDXID: SPDXRef-item3672218
+FileChecksum: SHA1: 277b11e6f1a55be26d17add17d29d8a5765b440e
+FileChecksum: SHA256: 23265a9a3634d6c39f510b89e823754b2d39836c692a57322a7ea66f5302b67c
+FileChecksum: MD5: fabe1215697813a0b722aea9a4b20461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: shapeshifter-2022-12-29.zip/shapeshifter-library-api/README.md
+SPDXID: SPDXRef-item3672219
+FileChecksum: SHA1: 0470d113fa067fb6a7bb80dcfb5b75b73ca85b75
+FileChecksum: SHA256: 27c0ad0f39cc50c074fe5b12f7a579255c946ecc0c8955b4f93557bd0eaf1e8e
+FileChecksum: MD5: ccccc6526c04b81e16f9e0e6bc6038d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
