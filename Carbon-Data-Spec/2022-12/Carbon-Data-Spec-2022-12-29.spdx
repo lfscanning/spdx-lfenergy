@@ -1,0 +1,255 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_carbon-data-specification-2022-12-29.zip_1675843094.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-02-08T07:58:14Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: carbon-data-specification-2022-12-29.zip
+PackageFileName: carbon-data-specification-2022-12-29.zip
+SPDXID: SPDXRef-upload750
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 48f09974cb1893a454d2a79ac16a09554ef30f99
+PackageChecksum: SHA1: f8d92c80422b7b2be6d9ea645db95cb517028499
+PackageChecksum: SHA256: 78d7d59da533e64da779ff5c7308d4b1a6ec4fc52b4795d075dd9efb9b6fc222
+PackageChecksum: MD5: 4fae141ee98b202d83097b0442fe6194
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload750
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/LICENSE
+SPDXID: SPDXRef-item3673405
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/Properties/launchSettings.json
+SPDXID: SPDXRef-item3673407
+FileChecksum: SHA1: 8fd2a632ae735340b73efc92d92193ce40fba96b
+FileChecksum: SHA256: 1bfe0ee3d85290be45e458e94ec5e156f377eb423d2632fd1ff38cb6c8374ebf
+FileChecksum: MD5: 1da2826cf4369d85a9b6dcb2b00bf8a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/LFEnergy.csproj
+SPDXID: SPDXRef-item3673408
+FileChecksum: SHA1: ea77d724bebdd250d626147ac21506392be3312d
+FileChecksum: SHA256: 1b28fec6ad4dee6fdf7f3de15b7d4187d8c43e7d626049125d825698a9417439
+FileChecksum: MD5: b9e69f39153ee241d113e79ccb142eef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/EnergyModels.cs
+SPDXID: SPDXRef-item3673409
+FileChecksum: SHA1: c09144dde14127ec9af8d9a95fd5f020b0709665
+FileChecksum: SHA256: b407ca68d43f236eebf0750e3be8ca31cca0a46c690626f9c986c3891a924939
+FileChecksum: MD5: ccbbf0e6abcac44fad3420a38baed6c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/.github/workflows/docker-publish.yml
+SPDXID: SPDXRef-item3673412
+FileChecksum: SHA1: e7da3e54a4f1d8f6b6acc41d34e9b60f059a89ad
+FileChecksum: SHA256: 3d31cddbbd9b0f87ba97a0de81039783948a132b8b820ff605e6c51ce6012959
+FileChecksum: MD5: 8a17d9063804cdd71d445594bb89c6c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/appsettings.json
+SPDXID: SPDXRef-item3673413
+FileChecksum: SHA1: 1a929a30e30e1f245e734fa9bd976cb0b58ee82a
+FileChecksum: SHA256: 200332b434757a0054a3d356c91cde01f2c48712be8aa2bcb0f3e973619f06e3
+FileChecksum: MD5: f7e65dde4e5533740a0d57ac9355c0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/Pollutant.cs
+SPDXID: SPDXRef-item3673414
+FileChecksum: SHA1: b1f2437551b7c29a210f2d2e727e653f38d21545
+FileChecksum: SHA256: 33039cfae3ed3ad0cda5f3a103bbbd5ca9e280741577cbb6dc8c4d062a94b8a4
+FileChecksum: MD5: fa4a3d8f81c740682affdff283806b89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/appsettings.Development.json
+SPDXID: SPDXRef-item3673415
+FileChecksum: SHA1: c4395dec377a5bc3f27955fe131047dc9f4fa2af
+FileChecksum: SHA256: 73f95f9e0ceb205fc1c4dc50c07697fcfa29d7087868c2aef1d504cb38c771ec
+FileChecksum: MD5: 804b473502a4c415cf75db61c56c32aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/.gitignore
+SPDXID: SPDXRef-item3673416
+FileChecksum: SHA1: d3cfaf1228fc9127ce42d11f120a52e35eed5476
+FileChecksum: SHA256: 1b66f3db2de5d95bda985b2b7686718b3e27cce14d15c54a1f503b8948dbbd5e
+FileChecksum: MD5: df2b48b82a353f851c28e620d388ef79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/Program.cs
+SPDXID: SPDXRef-item3673417
+FileChecksum: SHA1: 9206f9e6c46cc0cb0d74f28577b95a550ad222bc
+FileChecksum: SHA256: a5e4879741585225d09b52569cf5e78194d70c33867c20671fc03177f4060fdb
+FileChecksum: MD5: 3c8f0f89cf37a713f956fe31fded8c2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/Dockerfile
+SPDXID: SPDXRef-item3673418
+FileChecksum: SHA1: 6295076429289dda2cfbbe041c4ddd798da3b5c1
+FileChecksum: SHA256: 9cd5aeec0e363403d26dd1832e74ff0520d00e45f41604084208dc70cff2ef9b
+FileChecksum: MD5: 98234f117e099a7d195887ec094efe94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/Controllers/SystemController.cs
+SPDXID: SPDXRef-item3673420
+FileChecksum: SHA1: c5c5884629a9e61688d66ced0b2bf536a8b9ad84
+FileChecksum: SHA256: e3d5d4531b33404b093d405d11227711bd36f27fb9ef5b2750fdccd47fd185a0
+FileChecksum: MD5: dec4e8b2add5dc2bb3d409eeb0770e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/FuelType.cs
+SPDXID: SPDXRef-item3673421
+FileChecksum: SHA1: 496d93e0b01cf5fd2abb8d271008b9e89f6f6fe2
+FileChecksum: SHA256: 0740d4aac9c2f60b8b2e89ed73dbcde6ce892853d1b90302656599329ac3e66f
+FileChecksum: MD5: 54234df8cebed80b35d2aac7ab41c6e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/LFEnergy.sln
+SPDXID: SPDXRef-item3673422
+FileChecksum: SHA1: 95e3f5ee4464430928b61ccb8006698d66a0a0fe
+FileChecksum: SHA256: 13104792d7ae78e7bb292c5498624b8816a4cb736ea47515779e69946a16a794
+FileChecksum: MD5: e8cc7a768acfd08c90502944e2b45e8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/LFEnergy.csproj.user
+SPDXID: SPDXRef-item3673423
+FileChecksum: SHA1: 22568ae44f32fc6a398fc6626c0074ace3804cf2
+FileChecksum: SHA256: 10ba4903302acf84e2e891a303a5fcb1e77e584f3046badd810af986e8f2e496
+FileChecksum: MD5: 049610f1cfbcb2d20dbb249aa5d0e49c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2022-12-29.zip/Power-Systems-Data-API-Demonstrator/.dockerignore
+SPDXID: SPDXRef-item3673424
+FileChecksum: SHA1: b2037002864902b2c16985c5931e92589cc7d8d2
+FileChecksum: SHA256: c808016968fff79cf66749abbfbb98e7790db4540d3378968c0e5c48bcf954fe
+FileChecksum: MD5: adc54031e39b17a4611aba252fe390f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
