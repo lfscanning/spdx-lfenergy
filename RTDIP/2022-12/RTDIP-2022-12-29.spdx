@@ -1,0 +1,2140 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_rtdip-2022-12-29.zip_1675843086.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-02-08T07:58:06Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: rtdip-2022-12-29.zip
+PackageFileName: rtdip-2022-12-29.zip
+SPDXID: SPDXRef-upload749
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: fe0b6baed5883002a8f12f01d81eca608afeeb71
+PackageChecksum: SHA1: 5ec7d4627b86fe282d7afcaca71591dcedaa91a1
+PackageChecksum: SHA256: 0abba61cd0e1630559dd65794f094a887ab0be2e8ed7b3ebd31221fa1d25c581
+PackageChecksum: MD5: 498fe4eaff577e9c791bc123afc30f8f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload749
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/README.md
+SPDXID: SPDXRef-item3673399
+FileChecksum: SHA1: f5b113c8d2604ea0d2618ed608c488ae3bff979d
+FileChecksum: SHA256: 6f25608b9782c76464a19366c6f3d612799a468cb0916ba961627fe2be43f047
+FileChecksum: MD5: 83422f579f6847f8904a23364497c030
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/PYPI-README.md
+SPDXID: SPDXRef-item3673372
+FileChecksum: SHA1: ab97ae8f593ff3a3dd38f984c44948f53a779c86
+FileChecksum: SHA256: ffb382432c624d5cb3dc5e02560bd8ef07883c375ef7a20adc9921f78d82689f
+FileChecksum: MD5: 842d6d84e932059b372cd69c232ee6b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/LICENSE.md
+SPDXID: SPDXRef-item3673178
+FileChecksum: SHA1: 612ad650a328990087959416a7e2fd160b1daea9
+FileChecksum: SHA256: 59899c6091b540582ed617e8eeaac4919dc985ccfc35459ee9752b699be5205b
+FileChecksum: MD5: 34f8c1142fd6208a8be89399cb521df9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/authentication/test_authenticate.py
+SPDXID: SPDXRef-item3673185
+FileChecksum: SHA1: 461f9faef2cc0c80b86cf028bd8bcbb49e45e741
+FileChecksum: SHA256: c84a64feba6fb29fc2424ec702548c9bc789c1364617221a37c66d44542d1c5c
+FileChecksum: MD5: 69e9f42a871c56bd6b48b12366e2ac2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/assets/__init__.py
+SPDXID: SPDXRef-item3673369
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/auth/__init__.py
+SPDXID: SPDXRef-item3673347
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/__init__.py
+SPDXID: SPDXRef-item3673353
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/authentication/__init__.py
+SPDXID: SPDXRef-item3673324
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/__init__.py
+SPDXID: SPDXRef-item3673333
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/odbc/__init__.py
+SPDXID: SPDXRef-item3673339
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/__init__.py
+SPDXID: SPDXRef-item3673341
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/__init__.py
+SPDXID: SPDXRef-item3673321
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/__init__.py
+SPDXID: SPDXRef-item3673342
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/__init__.py
+SPDXID: SPDXRef-item3673343
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/__init__.py
+SPDXID: SPDXRef-item3673217
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/__init__.py
+SPDXID: SPDXRef-item3673210
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/authentication/__init__.py
+SPDXID: SPDXRef-item3673186
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/functions/__init__.py
+SPDXID: SPDXRef-item3673190
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/__init__.py
+SPDXID: SPDXRef-item3673200
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/__init__.py
+SPDXID: SPDXRef-item3673203
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/__init__.py
+SPDXID: SPDXRef-item3673182
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/__init__.py
+SPDXID: SPDXRef-item3673204
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/__init__.py
+SPDXID: SPDXRef-item3673205
+FileChecksum: SHA1: 5bb5eadc2f6f5617aff2498ad086e6c90e4fffa3
+FileChecksum: SHA256: 78891ef42da5781414d5ece92476e4a16525ec4c4dc3d426c6f6456c2c95a261
+FileChecksum: MD5: d4406301036c53917915c85ed794a59c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/functions/test_time_weighted_average.py
+SPDXID: SPDXRef-item3673189
+FileChecksum: SHA1: 4610fe787496a84ca796f33d28f9d8906a4734c3
+FileChecksum: SHA256: 43451e2019eaca9c0b04507a5316f76a063726398f6f5cc4ab09899c1843fa0c
+FileChecksum: MD5: 8eb13abde61eee7187b2d75d1cdf7831
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/functions/test_interpolate.py
+SPDXID: SPDXRef-item3673188
+FileChecksum: SHA1: eb9de218b7abb59854f192d250baa63797575bb4
+FileChecksum: SHA256: f7e57711db67a3316ded0cd6f23a2b7ba32978e0c8de1cfa90428273e9e5b0d5
+FileChecksum: MD5: 3658be6d5260461231ba95af82955209
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/functions/test_raw.py
+SPDXID: SPDXRef-item3673191
+FileChecksum: SHA1: 356cbe99d9ca981d41ab07df9fdd61388c2b766b
+FileChecksum: SHA256: 1c4682785e96e39fef6360f639e0023adf0d24ad1b47b0b2ff3d6ace05c9c4de
+FileChecksum: MD5: 670695a09481ab07c6cd46a13abe82ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/functions/test_resample.py
+SPDXID: SPDXRef-item3673193
+FileChecksum: SHA1: d5c455f92c8165b517695fcc089315e381c8b3fb
+FileChecksum: SHA256: 5ba2f4c5667db67baa1fab5f9e83e1c785770469a327f4ce7d39a66a3ead6b86
+FileChecksum: MD5: 8e1f80fe4f35ba742a9de1de328c7ee5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/functions/test_metadata.py
+SPDXID: SPDXRef-item3673192
+FileChecksum: SHA1: 50e334ba5b63e33f83e8a6e78419bb56b6f6d548
+FileChecksum: SHA256: 89871a01c7a9572fe5a7ad2cf92c72b8335edcb33f1d29c25faf78d58fb227e4
+FileChecksum: MD5: 3c837ddf61d80642f51321efe4e8c3e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/test_turbodbc_sql_connector.py
+SPDXID: SPDXRef-item3673196
+FileChecksum: SHA1: b09111fb0a05d8f639d724e9cc2d3948a6b94050
+FileChecksum: SHA256: ab4e7cc9aac2931888c3cf1230ed68e3de9f1a3c4a94dc46d56d1cfcf642ee26
+FileChecksum: MD5: 86fc8e4a8688c5663e0825e8575671ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/test_db_sql_connector.py
+SPDXID: SPDXRef-item3673195
+FileChecksum: SHA1: 114eae8b53db91f8bb4dbfdadc0eeac9dbe7b354
+FileChecksum: SHA256: 509a5d8665cdc59226968568a6c968229711f593441a234f0f6c244caafbc2ad
+FileChecksum: MD5: 89f84b9fa5ac73f98bfbf2dff5c4f233
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/test_connection_interface.py
+SPDXID: SPDXRef-item3673201
+FileChecksum: SHA1: 6bf154f5d8646d009b8a6854580bafbca96ecdb0
+FileChecksum: SHA256: 507c8efe2a9182514d699a18523d9b7b1266bdced0a85d809492711a02bc175c
+FileChecksum: MD5: 38253de86a76522ccc53fed2bc7d81bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/test_pyodbc_sql_connector.py
+SPDXID: SPDXRef-item3673202
+FileChecksum: SHA1: 895e3f83e574cd71a48e2a7c67f02bf0f0a56c0a
+FileChecksum: SHA256: cda484e581d3126e085faa60e8e1afd09877c7f1ef7baf1b831025221b9ff053
+FileChecksum: MD5: c67b6a48d593e053fabf55319b82faec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/test_cursor_interface.py
+SPDXID: SPDXRef-item3673199
+FileChecksum: SHA1: f9832fe78bf6168ed8180d90e2c372f3b7b7d551
+FileChecksum: SHA256: 5a1ddfcdeb82ddfc65da751645ffafa888eab5538d6c2904ea21b8b0cab9f3a9
+FileChecksum: MD5: aa795e8a01ab4dc2bd35cd74b05a65b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/auth/test_auth_azuread.py
+SPDXID: SPDXRef-item3673208
+FileChecksum: SHA1: 53c5f73fd7e06527bd87b111fe816b1bd63591cb
+FileChecksum: SHA256: 79881b3823fcb5a4bf0a9fde078ae7319488a2b90f4e8b996ba7749d34a80808
+FileChecksum: MD5: bb1620bf4efe8c20a9e53fd82fa38861
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/api_test_objects.py
+SPDXID: SPDXRef-item3673212
+FileChecksum: SHA1: eb9c42225d9937d5d9b600d5d18d761867d89f8f
+FileChecksum: SHA256: 3e25fb025fe02740fc680b8c7be1847e1b970b9acd6718135bc308ea6bb9e1eb
+FileChecksum: MD5: 58a4e30bced6132e20019e710293b8ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/test_api_time_weighted_average.py
+SPDXID: SPDXRef-item3673214
+FileChecksum: SHA1: 75f9cd8349d6d7deeca669f15d4a651de2ea48c7
+FileChecksum: SHA256: 939997bfb50447a2a00caaddb6547bbc83707cec475a2bb591a3fadb4b412436
+FileChecksum: MD5: 1031c93091aef2b38087fefcc1501e1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/auth/__init__.py
+SPDXID: SPDXRef-item3673209
+FileChecksum: SHA1: c24d92af35be1540d40db91d14ff01a2ae32f7cb
+FileChecksum: SHA256: 32e6ddc3e41c2596c4ffef5297ae7356c6208f229d4a697b656699bb7a87c4b5
+FileChecksum: MD5: f3ac9e373a9c5a0a94799ecec172f2a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/test_api_utilities.py
+SPDXID: SPDXRef-item3673213
+FileChecksum: SHA1: 046b5985a8299eeb9cd104e8debabf5a762abeff
+FileChecksum: SHA256: 6aba3e26de9dac66a82a15839ab7b416c8fd09a5d2952d7eaf5a537e4dbc8b67
+FileChecksum: MD5: d9cd76e5135e93b28b2d000b4a6abd7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/test_api_resample.py
+SPDXID: SPDXRef-item3673215
+FileChecksum: SHA1: a2ebf44bbd4214ea654b4326e30cb673f691b51b
+FileChecksum: SHA256: 1c3203432af1b9e14e7c60efc12c2fb8c30333e254e1affc2654cd2ccfbd39f2
+FileChecksum: MD5: 3757f7b34afeb833a6faa176ebf456b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/test_api_raw.py
+SPDXID: SPDXRef-item3673218
+FileChecksum: SHA1: 2c7a96ed070abed8ba7f165c65eae988c5db4a9e
+FileChecksum: SHA256: b36d76153673cdd654602a744c561f9a9dd059b2a9b792a5dc2cbf04270ace73
+FileChecksum: MD5: b3cb0f70588d446afa88e29e101dcc6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/test_api_metadata.py
+SPDXID: SPDXRef-item3673216
+FileChecksum: SHA1: 25457a732fb42833ba97e85ba83a4e3543646e8f
+FileChecksum: SHA256: 98e275dbafd3be5a071e86dafde2d8fe15e4a67272004ab76f4713760c43028c
+FileChecksum: MD5: bf3609dfe66cf82693b83e5eca686e4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/api/v1/test_api_interpolate.py
+SPDXID: SPDXRef-item3673219
+FileChecksum: SHA1: b6310cfa55cd3206d1ebbb91e035438c4884b220
+FileChecksum: SHA256: 8a0513308048e18a688e4b7a1c3657a3c4d17e94f4092dffb35042352024b5b0
+FileChecksum: MD5: 02229283c08ff042b16d402b0b377498
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/extra.css
+SPDXID: SPDXRef-item3673312
+FileChecksum: SHA1: 4b057e9050a73dbe7c40a60df6a5f6cd20a1b649
+FileChecksum: SHA256: 7b6c2d115c3d19fa90e7c177fa287dbc65a14191960c131698501602965fee89
+FileChecksum: MD5: 7ce2ff435ee6b721f73fea27dca950a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/authentication/authenticate.py
+SPDXID: SPDXRef-item3673325
+FileChecksum: SHA1: 056df831637461cff29cb655628528ecdbc9e650
+FileChecksum: SHA256: 85b244d35be1501b56ee4d07acaeaf49ba31a39e8709f3d3b747c599c75ab740
+FileChecksum: MD5: 3a492617e05de37b124f16a6944e1b5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/resample.py
+SPDXID: SPDXRef-item3673327
+FileChecksum: SHA1: 09ddd591eae743cfd115d2a506b980f577738bb7
+FileChecksum: SHA256: 1ea71813bd5b563576704f2455a746a6f697b796d715b09fabeb6c8fd6775249
+FileChecksum: MD5: 98cfbdef8b2bb539a6941def6019809e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/_query_builder.py
+SPDXID: SPDXRef-item3673329
+FileChecksum: SHA1: d1f8e77eeafd58cc1f19e5f921ee57c5c4a14e2c
+FileChecksum: SHA256: 9b6f57db823d53f5ab80c9a0f4fc9588420f435bcc5932b3747ad11b608d2c65
+FileChecksum: MD5: db1a465214d1e251e94e7660cc1847f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/interpolate.py
+SPDXID: SPDXRef-item3673330
+FileChecksum: SHA1: 7c0dbd580056208801fbaf66e45f640f904a61c7
+FileChecksum: SHA256: 6c5c19602b9949e39c3391bf8a176098b7c09486fb69f5a2694e5672c54a0b84
+FileChecksum: MD5: 914121d9c8b7bfc41186be836b6e01fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/raw.py
+SPDXID: SPDXRef-item3673331
+FileChecksum: SHA1: f5a7c4d184451efd833a0af3bf35bb3330f2e1fa
+FileChecksum: SHA256: 2d04688de52660126a20f4363fdafad91d34d709c71300c269ae9f473c7a43fe
+FileChecksum: MD5: fac040d7ec280f490c681f9ea527e953
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/odbc/connection_interface.py
+SPDXID: SPDXRef-item3673335
+FileChecksum: SHA1: bdcb3012eb18c5dc1975459416278b33f5e326df
+FileChecksum: SHA256: ec59eb6c14afb0218d8eeb71bad1af15865f92d63685c0e1c9f2e709c0a1fa14
+FileChecksum: MD5: c178071fe2c2b55ab67c37dbfbf1027c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/time_weighted_average.py
+SPDXID: SPDXRef-item3673328
+FileChecksum: SHA1: b7bf657bd8a6242080473da58d607f9fa9f43406
+FileChecksum: SHA256: 3b4e640c74d5f9f3b852efe078ba73f9876b5ec20dbdda5ae50a964d23138fc9
+FileChecksum: MD5: a599509a8cc0578eff38c394c897b01c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/functions/metadata.py
+SPDXID: SPDXRef-item3673332
+FileChecksum: SHA1: ebe799c3cec6db7ae069337e0d0c217c8a371bdf
+FileChecksum: SHA256: b11df8d8c4264d8a41f3130816e34a00eaa65cf11d04cdbc64979843c8c5ccce
+FileChecksum: MD5: a58375bb8f2912cfbc8214feafdaa4f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/odbc/db_sql_connector.py
+SPDXID: SPDXRef-item3673337
+FileChecksum: SHA1: 1562e64a47bafa39404ce1ee1739cdf073182b82
+FileChecksum: SHA256: 23a77c2b79a6ff29083e1f3e12390d40399d446bc2745c91387b25f04ac163e8
+FileChecksum: MD5: 29966d0c26c78b0ca85a564cbade881a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/odbc/turbodbc_sql_connector.py
+SPDXID: SPDXRef-item3673336
+FileChecksum: SHA1: 573eb19b4f317c202d07e0229403eec18a83ebad
+FileChecksum: SHA256: 52fe03467d72d503a28203799c054f07746b4b5854b88e7a3ac0001eca59aaad
+FileChecksum: MD5: ffd319ce3cb5cd28b0b1ab8d2d8481cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/odbc/cursor_interface.py
+SPDXID: SPDXRef-item3673338
+FileChecksum: SHA1: eb5c4136220dd266780f3686d8e94c055b201009
+FileChecksum: SHA256: 24459bd56ef63d789bced1bc9284e3fad3ae7a3be80ec261f24ee616f1fe0ba9
+FileChecksum: MD5: 6133ae419a9da8dec8e424688adb745c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/auth/azuread.py
+SPDXID: SPDXRef-item3673346
+FileChecksum: SHA1: 255e0e900d1c172f7342a86b93b8535a02eea98d
+FileChecksum: SHA256: 9b76c39c43b6aa31bedeb2cd6241fe8286e2925f35b1407a92f10aa72f35e354
+FileChecksum: MD5: fdf0902dbba711f8675d8092a8bb1ce5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/sdk/python/rtdip_sdk/odbc/pyodbc_sql_connector.py
+SPDXID: SPDXRef-item3673340
+FileChecksum: SHA1: 0933356022ba5ff50373882e3cec4da9fd54ecfb
+FileChecksum: SHA256: f40a7a421ef77a76174ba1a79abc9b3769951f60940960b0523c6aee6ae6b5a4
+FileChecksum: MD5: 831a177e7ca355a8b379ba9030b908b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/FastAPIApp/__init__.py
+SPDXID: SPDXRef-item3673349
+FileChecksum: SHA1: 072ba3ed5e88bd65ffbd1ba703223ce677554d3e
+FileChecksum: SHA256: 10e179c2d1fdbd1e9bfdb700cdc67be92d17885a47c55dea29f1e95cd7c3e54e
+FileChecksum: MD5: 0169c9b9a0264e87311064ea0edad2cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/resample.py
+SPDXID: SPDXRef-item3673355
+FileChecksum: SHA1: fa912f9d057ac7fee84161924d8ec01bd4e9cb25
+FileChecksum: SHA256: e58d56f9cde498087d57a24083895891ec3a28e021b6fb8dd62062fa53b8b30f
+FileChecksum: MD5: 21d82d9a6a35be1e705ca7d1502e4398
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/interpolate.py
+SPDXID: SPDXRef-item3673357
+FileChecksum: SHA1: d0ea2e95eae2948e52b546dcfbb7929c35a01920
+FileChecksum: SHA256: de2e30343798c1d7baee5425835bc40a0d53ab941edb7c55423ee71cdf45cae9
+FileChecksum: MD5: c011848af2aa713431b3946ee038f26f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/Dockerfile
+SPDXID: SPDXRef-item3673352
+FileChecksum: SHA1: c72c787342c66dada67adeda7421b367eb364791
+FileChecksum: SHA256: 0c2d7a040ee1bf520cdc30ca6e2253deea18d9254fa554b24c6d2a62a7719f0e
+FileChecksum: MD5: f4db8f298df2fa0f9ace18e1decb7891
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/common.py
+SPDXID: SPDXRef-item3673358
+FileChecksum: SHA1: f82395cb61774a630cec098dce524f804a3a6b46
+FileChecksum: SHA256: 614850185d3b96fa48c04eda65dd971dd37a0f462debbce8ac2b0b256dfbc60b
+FileChecksum: MD5: 330cbec4a569a55d66b1f6e648ade75f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/metadata.py
+SPDXID: SPDXRef-item3673361
+FileChecksum: SHA1: 32beebfce1482559e4983af849f90bf360b1cda7
+FileChecksum: SHA256: 281cf785edb176a95ace93c8542c9f410e5c1bc27205595d08b7bd3628106e86
+FileChecksum: MD5: 48cd555ef6d3aa32c4f7712aedc4e6c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/graphql.py
+SPDXID: SPDXRef-item3673362
+FileChecksum: SHA1: 1df271d955b56ed9b86ee86f0a5849e02f062051
+FileChecksum: SHA256: 861892ddb9a7f9b8b1469e6e004b0b00bd899cd741d47cadda60f287fc754882
+FileChecksum: MD5: cff7dcfaad43f52b347e3e0fc34263a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/raw.py
+SPDXID: SPDXRef-item3673360
+FileChecksum: SHA1: bd153cac24f31d521e49409369daca651ea588cd
+FileChecksum: SHA256: 2c1da470867416a51add38f8a956f882f8faaf03acd81316b0676235dc9f889d
+FileChecksum: MD5: 43c9e571b1828ad8e7d704d41d7edfd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/models.py
+SPDXID: SPDXRef-item3673364
+FileChecksum: SHA1: 3fad73db0792aaef6522efb4cc24275b1219b896
+FileChecksum: SHA256: 2af238ba9143e80d4123013453b3e0d21f0a8fe223cbb8abe7236667c30981c5
+FileChecksum: MD5: 69326546e90411f681f85057cbb52b5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/__init__.py
+SPDXID: SPDXRef-item3673363
+FileChecksum: SHA1: 3b5fdde3d3b4c32f675616d44fdaec097814edd6
+FileChecksum: SHA256: 3d558047cb654ce62dfd86887b111677df87949e42a9e808fc05aaf51999c81f
+FileChecksum: MD5: b2286ba0b4e6bde80f9f8ad1c98bc90a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/workflows/main.yml
+SPDXID: SPDXRef-item3673386
+FileChecksum: SHA1: a20855af7eb7d80b065ce007ae8ead095ec36f28
+FileChecksum: SHA256: 353ae08eb9063f10ece389f20e9fa7386b9607d6813c7bfc75180a3983ccfd98
+FileChecksum: MD5: f655aaea09ec4f58b1456795ee7e3121
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/release.yml
+SPDXID: SPDXRef-item3673384
+FileChecksum: SHA1: 2bf3025b699aa03333a0e1dd9013b06deeb3c17a
+FileChecksum: SHA256: fc99f9ae6b6c872760bb4399a49fe6ea7666005b8514071bcb6929b04e96bc94
+FileChecksum: MD5: 6100a95010c91e8a1c9f4e7854506ae5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/workflows/test.yml
+SPDXID: SPDXRef-item3673387
+FileChecksum: SHA1: faa6e326fcfd29e42d0d986ee078966317ddf656
+FileChecksum: SHA256: 8df594f5f71a8ccbde7b69205fe2ef897c4c248e9ea0163aa975f66fa7ff0b8a
+FileChecksum: MD5: ba6c4537baae00ea59b03e5af4a456fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/workflows/pr.yml
+SPDXID: SPDXRef-item3673389
+FileChecksum: SHA1: 1275ea09afc0cb9b3726fd38489486bf43375930
+FileChecksum: SHA256: 50b5c795fdf96bc9e02088e493d85a314a0216ae9636b67722a6c5d0c644f3e0
+FileChecksum: MD5: dd9f6da5bcd43d19e9c9626332cbdf01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/workflows/release.yml
+SPDXID: SPDXRef-item3673388
+FileChecksum: SHA1: 419217e9d205cca7a97ae2835dfaea485d2fdf0b
+FileChecksum: SHA256: b5a29ffabd1b45505e8e9647c90cbec42f3ff2a06e2faca13ccb6a6c5c6c5d9b
+FileChecksum: MD5: c8d1dae657c0878129e6ed4a5eb49e0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/setup.py
+SPDXID: SPDXRef-item3673394
+FileChecksum: SHA1: 4246eaacc5ef7274eb58f57203cb9e324c6dfa8a
+FileChecksum: SHA256: fe1116dc43768b18a397baad18f739f21c97f1ed386c942ad2c951fc98f83dbd
+FileChecksum: MD5: 525c50d020cbb00394e8f0755f7ee015
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/workflows/develop.yml
+SPDXID: SPDXRef-item3673390
+FileChecksum: SHA1: 17b53dacdb52facd76c62ee576c2df70affb4981
+FileChecksum: SHA256: ffa50bc1d03936add172ec903cdd282cc26d3056a952152c48c3b9d25f6bb20c
+FileChecksum: MD5: 25f95c83df5f7babd2d1a3ecbe2355ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/environment.yml
+SPDXID: SPDXRef-item3673391
+FileChecksum: SHA1: 2d9ba9a44082084ab6aaa3078cd0bd1dd42f542e
+FileChecksum: SHA256: 24f829d7d2a14e3cb2c005c2547c8e07270517514fb7871a64f77c5fd4387804
+FileChecksum: MD5: d5f03dc32ed4931218aa73b0e4348eb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/mkdocs.yml
+SPDXID: SPDXRef-item3673398
+FileChecksum: SHA1: fc63a6cffb7a9f5f45e3174c4ab881f10f30b250
+FileChecksum: SHA256: a2069c4b28888ec2b25fb1b8985edc3ad93eb9d7cd48ba0923183f1051e39c91
+FileChecksum: MD5: 84b05fe9b74f164427c08435d9a70a36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 RTDIP </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/tests/sdk/python/rtdip_sdk/odbc/mock/turbodbc
+SPDXID: SPDXRef-item3673198
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item3673220
+FileChecksum: SHA1: a9e2435c26768717f2efbda18b47d176c4ff25a5
+FileChecksum: SHA256: 1f9518865f4434365e3e884607a469d9ab9f449b23bb2a2b2c3687239687c86d
+FileChecksum: MD5: ba46a066f737ed2dd527b4206c267a49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-profit
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/images/power-bi-install.png
+SPDXID: SPDXRef-item3673224
+FileChecksum: SHA1: 49a7e565604bd2ae8a1c4336d294a8049ba33507
+FileChecksum: SHA256: c3f601744662adac451f6cfecb5d4f8fe5fa1a8bbdd61ecc3f6c10e32a068c41
+FileChecksum: MD5: f83148dcc7e353a717e9f9c211ae0803
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/images/databricks_powerbi.png
+SPDXID: SPDXRef-item3673225
+FileChecksum: SHA1: 5481d561ee849e756ac3aad3f247b9e93fd6fbaa
+FileChecksum: SHA256: 25e4c3e16982846e8c5c849ad806be4bef552a498b18b07feaa865b95570da8b
+FileChecksum: MD5: 2fb0bf887d3db0d65c2b818bdaaa521c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/images/power-bi-desktop.png
+SPDXID: SPDXRef-item3673226
+FileChecksum: SHA1: 29c1fbcf52da1a3072ab19dcd1cd896f8ecce8e4
+FileChecksum: SHA256: 19cb46015357ec36261c72988d22ee202c653272b8c1cd4f060785cdd6043a30
+FileChecksum: MD5: 7b51099d6c90a57edfb049a5db154362
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/images/bi-azure-signin.png
+SPDXID: SPDXRef-item3673227
+FileChecksum: SHA1: 1f52227b531837472771f2d071a9ec2a4b6979eb
+FileChecksum: SHA256: 69504aac0f31c3ba0d2fc776c1bd0ac0333015a977c7a66ac76c9e80ee38f692
+FileChecksum: MD5: ddb1a81ea6c23262b0a9a0e5d4ad990c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/images/bi-getdata-more.png
+SPDXID: SPDXRef-item3673228
+FileChecksum: SHA1: cf16d7ca841ebfbc5f489720d6760adee9e9456b
+FileChecksum: SHA256: 1e72615e6dd0c949574155d1ea60c1caa5d455d084d87230047dc6c1aebf1bcf
+FileChecksum: MD5: c47d98c542a2b042665bb1b6e960cb72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/images/bi-search-databricks.png
+SPDXID: SPDXRef-item3673229
+FileChecksum: SHA1: e04d3543239e2cc310d4fb6f522989d5bd5aa89c
+FileChecksum: SHA256: 51d7a2fab6e046c449586c72dcdf3cebfce7254a64f48320d082b2b70c802f29
+FileChecksum: MD5: a4ca435319a57ecd3968fa63f99c2eb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/integration/power-bi.md
+SPDXID: SPDXRef-item3673230
+FileChecksum: SHA1: f69a61349d99b129fcc7c4f2816fd993af75baf2
+FileChecksum: SHA256: 099ac66608fa3c889e76faad35f0f425284c9f053b4a8478c2ef8e984fd3f13d
+FileChecksum: MD5: 8e34e99fa91a778a9c7a5a689dafa07b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/CNAME
+SPDXID: SPDXRef-item3673231
+FileChecksum: SHA1: 347888f8df944a38370d38ca21aad1305a53fb5e
+FileChecksum: SHA256: 06ee3a6465899fc25c013f075dfb35b3e0547bd1a855eb9c0f7524247cbc77ef
+FileChecksum: MD5: 24149ed1a700c089fd138dd90db6660e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/index.md
+SPDXID: SPDXRef-item3673232
+FileChecksum: SHA1: 509ca443b0816b490d0cc087e2a2d2c1093a061b
+FileChecksum: SHA256: 320169feb30e744d31f288ae38dc91970f337ee3e9ce6090fbc4393e6815cec6
+FileChecksum: MD5: 4c1c4176a116ea42176f501b1a8f44b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/sqlwarehouses/sql-warehouses.md
+SPDXID: SPDXRef-item3673235
+FileChecksum: SHA1: 15557df5ea885a948e24bcf3bf2e3789f5c702dd
+FileChecksum: SHA256: 3cf6a2bee4c50971218e68728fff1b6b46ff03e994ebfbbea2f81244d197e47c
+FileChecksum: MD5: 6b0916f4e87bd82705010880553eac0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/troubleshooting.md
+SPDXID: SPDXRef-item3673236
+FileChecksum: SHA1: e5c212d87bb5eff7c35b3eefbddeb45d46cf2c07
+FileChecksum: SHA256: ada882dc1c36cc4d59b2608a8e23297aed52f2b96457fbe85ec736c3702d1e48
+FileChecksum: MD5: 2ca7c67c5a8e41e5429bc956836f1d82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/overview.md
+SPDXID: SPDXRef-item3673237
+FileChecksum: SHA1: f5d1f6a31c75a672580ce50a671f86bab0277d17
+FileChecksum: SHA256: 6da075d468ffd197026fba9b30637e11eaf8516e6193107db8f87c0144a84302
+FileChecksum: MD5: 31ffa139afdecf6ec39cb093d2e32c34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/images/sdk-logo.png
+SPDXID: SPDXRef-item3673239
+FileChecksum: SHA1: 18e5a725e7bf4d7c415f39ce6d9b8c452a3f5ff4
+FileChecksum: SHA256: 5d13d326de8348ef765113b879c7e8ad7f82f61856dab0f9761a23ad035fe0c2
+FileChecksum: MD5: eb05551d30d3b3f1be0c39a93f7faed0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/db-sql-connector.md
+SPDXID: SPDXRef-item3673241
+FileChecksum: SHA1: e982add75aedc4f7e3113845d222c8d9349de415
+FileChecksum: SHA256: 0209eef402489d396371149a0f567c02e87acd342208f6f953f013fbd462166b
+FileChecksum: MD5: 2078ae1a8842616daee938dab2dead4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/raw.md
+SPDXID: SPDXRef-item3673242
+FileChecksum: SHA1: 8efccf1e55f07ec4ed5115c7762a41f997c0d57c
+FileChecksum: SHA256: 9314337da22e83fdb2a0ea592db73c7fe6b074f2887a901b60060c4bb73a145c
+FileChecksum: MD5: bb365ea249afe66ad300e9c32230c3e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/interpolate.md
+SPDXID: SPDXRef-item3673243
+FileChecksum: SHA1: 46099ddec411b40661c232a724016ec177ef3cbc
+FileChecksum: SHA256: 2d18789fb9ca6281cf49a67c9fd6365a0af33e8f2b3e31ddb389fb5f7e971d71
+FileChecksum: MD5: c517d0bb7f35f448b34408da3ad8cc27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/resample.md
+SPDXID: SPDXRef-item3673244
+FileChecksum: SHA1: 64e06e13e7cd5bcd96fb0cbc50b9ca66031c1b15
+FileChecksum: SHA256: 6b73abb2bdf14376c7befb14da4b02e74a3d677f02b120dbaf872ee9b9aebee0
+FileChecksum: MD5: b4e02d58542bee3375aa5fa2c1c1626b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/time-weighted-average.md
+SPDXID: SPDXRef-item3673245
+FileChecksum: SHA1: 9e78089e51472c6fe50a4b9d3c3ee0a4e3867ac6
+FileChecksum: SHA256: b4f4608df014c473213d95f44b9e5e91427ce05bfee161f457e9f672b99ddcd3
+FileChecksum: MD5: fa675688ea836faa4ef0b771393520a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/pyodbc-sql-connector.md
+SPDXID: SPDXRef-item3673246
+FileChecksum: SHA1: d2cabc6f275f3d58326d84ce815ced8db485aedb
+FileChecksum: SHA256: 1efcb5a2e0bdf35bd579ec7b5c408721b42747415431e9c0a8939229bc4452c3
+FileChecksum: MD5: c7158405cc4d42eb8c591f461d69c2f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/metadata.md
+SPDXID: SPDXRef-item3673247
+FileChecksum: SHA1: 33a3ff231798ad765d73f8daad4b6c704b130480
+FileChecksum: SHA256: 97334796018a0496b067e10cb0abacdac0d03a6292312b8d23c6d9423fd1538d
+FileChecksum: MD5: eba3af3c2640f87500e2016635f13364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/authenticate.md
+SPDXID: SPDXRef-item3673248
+FileChecksum: SHA1: 5dfcffd5194fd456d92473ad60b16690020b45c8
+FileChecksum: SHA256: 903413e08b9ba46ee6f853f0501973bdbb8e65ed3c6a76f3a7b9f623589b8a42
+FileChecksum: MD5: 686350b925b4a27ccee50658ef66d35b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/code-reference/turbodbc-sql-connector.md
+SPDXID: SPDXRef-item3673249
+FileChecksum: SHA1: cea119b7f1696d2870164559f29e129a0edaf10e
+FileChecksum: SHA256: 3fd42931d6a31777a9177cc32755e9c83b59b5f2f89e799bdb62b2fc43a0d742
+FileChecksum: MD5: 1c07f9f63c21124093ee70252ac99758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/sdk/rtdip-sdk-usage.md
+SPDXID: SPDXRef-item3673250
+FileChecksum: SHA1: e82f254e7b312699df6d0e6ee2146e85e5348667
+FileChecksum: SHA256: bb6faa029055229fcc73e911fd2e53ccbc02536e2da5a8b85be0b043787d14e3
+FileChecksum: MD5: 400aebc2f6e5c5fe00c78fb2ce3d2c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/background-curve-default.svg
+SPDXID: SPDXRef-item3673252
+FileChecksum: SHA1: 025f0afa2363abe6f8de1b1cb555ab89b545866f
+FileChecksum: SHA256: c06a8bd48b7206a3852eb49ab6b6ce990e8a7e9c3508d1d1ca47455ac839bdf6
+FileChecksum: MD5: 2dada0c0c68a4672d8c3cae185a85443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/release-images/Set As Latest Release.png
+SPDXID: SPDXRef-item3673254
+FileChecksum: SHA1: 587fb1c0d3dc2d69584b229cb4f95da60caaa0b9
+FileChecksum: SHA256: bbafd2d03e986ed9fd96f8cb27e21bba33cf55172a8a5ffb865130773a32f2c9
+FileChecksum: MD5: dd83621d6e83f405d30c147d2a69a5fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/release-images/Publish Release.png
+SPDXID: SPDXRef-item3673255
+FileChecksum: SHA1: 6ca5960b0cae70c0ade9c8b7c53f5e5f71af30f7
+FileChecksum: SHA256: b27447088af7ee6abdd5e55dcb14d94472e63b5167b2e4d058bbe79d7fa52eb7
+FileChecksum: MD5: ba1c4dbe920db61189f1017d7c9753f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/release-images/Generate Release Notes.png
+SPDXID: SPDXRef-item3673256
+FileChecksum: SHA1: 62a1cf0a7d9b9b58696452b89cc16c90802c64de
+FileChecksum: SHA256: d50a7c55fad384c210be2e2705b9385b598f5df58220f97407760bb1a634a043
+FileChecksum: MD5: 3c0a12a6fd48afc79f4b1f8be6d4635a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/release-images/Release Target Title.png
+SPDXID: SPDXRef-item3673257
+FileChecksum: SHA1: f43171352c9422f131a1030bc93ddd9d9eb905eb
+FileChecksum: SHA256: 7592fee299301453824ee8e8fc0e1228944118dc44cf6395064036a4bb34f500
+FileChecksum: MD5: 6c5d3216918dadfb002e8afb6a340632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/curve.png
+SPDXID: SPDXRef-item3673258
+FileChecksum: SHA1: 3e37f28f7c95a956db0d24a93147a049a4c904e6
+FileChecksum: SHA256: d004432a1d8755a5e223426869f21556ffb00688e0f6243c60d4573a682fc630
+FileChecksum: MD5: 37989a152691fc30245e69b0f4d3a2ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/images/background-curve-slate.svg
+SPDXID: SPDXRef-item3673259
+FileChecksum: SHA1: 1b2020d55baeed4e54ceca1b41934497b14c7fbd
+FileChecksum: SHA256: 636acf948949623e389c97f1dea711af9c49255c3dfad8c55108f23997b61831
+FileChecksum: MD5: db799785500a7da8816bfa647707026e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/blog/delta_and_rtdip.md
+SPDXID: SPDXRef-item3673261
+FileChecksum: SHA1: f0539b75d57cc6e29c4a36aa552e4239d94eeb6f
+FileChecksum: SHA256: 0592637e7bf3c61d9aae0f2ac70616c5ac3f4ac6d230020eb3907c526dc82cc3
+FileChecksum: MD5: f69da0b2080b598b713ca517cea01e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/blog/overview.md
+SPDXID: SPDXRef-item3673262
+FileChecksum: SHA1: a5f41e1c39a67acebf0ef51f621f7f1c7f62466d
+FileChecksum: SHA256: 75831a54f7200236348f276c9544ff7a332a0fb466a69f8459b9ea0dcf588afa
+FileChecksum: MD5: 2f92aa8f58e174481ec21d90cdb8a1b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/blog/images/delta-lakehouse.svg
+SPDXID: SPDXRef-item3673264
+FileChecksum: SHA1: e2b76f0e9a1ca7b7fe06d04c318c5d5ccdf47786
+FileChecksum: SHA256: 8030cc28597ce068e110dd4ab8d826de73bceccc56f2eba27c5fbd947ff5147c
+FileChecksum: MD5: 5a945e175f09eb2f522b911352a149f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/blog/images/spark-query-plan.png
+SPDXID: SPDXRef-item3673265
+FileChecksum: SHA1: 3410aa6b9ee01674f88f3dd3d5fd5b749b66500b
+FileChecksum: SHA256: 64f7070f08ab3eee945c87bcd821fd21496264d3a0b5f039a06f5d00d312bccd
+FileChecksum: MD5: 1c55f7d6e0c3a43b70bbd60bfa7d0791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/blog/images/blog-icon.png
+SPDXID: SPDXRef-item3673266
+FileChecksum: SHA1: 80897120d4b8f993e45b65123de330f0b46256ed
+FileChecksum: SHA256: 7969508b262e3a3c34ed84eabc0235da9a1403b966184c263f571c5d032baba7
+FileChecksum: MD5: f4f26330e0bd8a0f1e4414c04b002ba7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/images/roadmap-overview.jpeg
+SPDXID: SPDXRef-item3673269
+FileChecksum: SHA1: c8272419fc9744cdd9ff9730b17aa33ffe59a033
+FileChecksum: SHA256: 991297555ce700e66b84733cbc58a8b3c9be98c08a1f4f5f10f55796ca150a6c
+FileChecksum: MD5: d63368872b29af2824bebc65a6bdab4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> CopyrightFlag="true" GettyImagesGIFT:AssetID="691423398" GettyImagesGIFT:dlref="iv6/Xr83fJTNdKW4D7TfwA==" GettyImagesGIFT:ImageRank="3"> <dc:creator> <rdf:Seq> <rdf:li>zmicierkavabata</rdf:li> </rdf:Seq> </dc:creator> <dc:description> <rdf:Alt> <rdf:li xml:lang="x-default">Winding Road on a White Isolated Background. Road way location infographic template with pin pointer. Vector EPS 10</rdf:li> </rdf:Alt> </dc:description> <dc:title> <rdf:Alt> <rdf:li xml:lang="x-default">691423398</rdf:li> </rdf:Alt> </dc:title> <dc:rights> <rdf:Alt> <rdf:li xml:lang="x-default">This content is subject to copyright.</rdf:li> </rdf:Alt> </dc:rights> </rdf:Description> </rdf:RDF> </x:xmpmeta>
+Copyright 2000 Adobe Systems Incorporateddesc?Adobe RGB (1998)XYZ óQ ÌXYZ curv 3curv 3curv 3XYZ ?O¥?üXYZ 4 ,?XYZ &1?/¾ÿÛC ÿÛC ÿÂ i?u ÿÄ </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/delta-unity-catalog.png
+SPDXID: SPDXRef-item3673272
+FileChecksum: SHA1: 29f86b39aaee6a33e283f82681d52e9009b1a3dc
+FileChecksum: SHA256: 497ea68a606485c7cab0edec2354dc81a26b767052b502a167d324625b9b7e32
+FileChecksum: MD5: 01177d2d052646b01b0d9d0e9eac054a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/delta-sharing.png
+SPDXID: SPDXRef-item3673273
+FileChecksum: SHA1: 1dcfda5695ddbd8feb214bd5d6328bae79ace2e9
+FileChecksum: SHA256: e0f6b147bf475bfc1aeea6475449a18638fcfac8f3d37002de5028961ff7daa8
+FileChecksum: MD5: 20bb4eb8960ae2d8fe43ef8b851bb15e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/roadmap.png
+SPDXID: SPDXRef-item3673274
+FileChecksum: SHA1: c70425b11b8cd231f822b4b19cc7e7f38875bcb5
+FileChecksum: SHA256: 00d14f1704c7f30289d279e3f8b878d35b5dc687a263847eb321a493e22fddd4
+FileChecksum: MD5: bd6ad5e6da2e3d5a4267c75b3e9a190f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/seeq.png
+SPDXID: SPDXRef-item3673275
+FileChecksum: SHA1: 653335421ad971bb3c9ecc0f71617dcb4a677d32
+FileChecksum: SHA256: 4bad8c029b4d6d1b9836e849536c77d7e42738102f9e61ba93ad7042c30d17bc
+FileChecksum: MD5: 9228689d2f4052be8e954caab064ab1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/power-bi.png
+SPDXID: SPDXRef-item3673276
+FileChecksum: SHA1: 9c2cace04629cacb26bb92d566ba5359545d79c9
+FileChecksum: SHA256: 5058779a33a172d69402437452cbc38a6dfde5ac86d979d619aab06d21b5e16e
+FileChecksum: MD5: 4524d828646dc234fe4c13aebbf5bff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/multicloud.jpeg
+SPDXID: SPDXRef-item3673277
+FileChecksum: SHA1: a4ff26215576f92a057ed3a7dde888a48843b88d
+FileChecksum: SHA256: d32ed11af05efd2d7090950143a20e5d8caa004df3a7d480b643367867a28a33
+FileChecksum: MD5: 3dc26fbcec0a8b764d83844552479bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Apple Inc., 2019XYZ ðÏ XYZ o<ÿÿÿ¹XYZ MÝ´í ÚXYZ '?vȚcurv </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/delta-live-tables.png
+SPDXID: SPDXRef-item3673278
+FileChecksum: SHA1: 6595d312027795cff197033143994cbd97fef341
+FileChecksum: SHA256: 4d91b0ff03a488bdc6edea78cca57d902d62a9f2bc9eb3eec9dfd21bee1e6394
+FileChecksum: MD5: 73b5be2f306864547b790a7c8ee6316e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/images/sdk-vs-api.png
+SPDXID: SPDXRef-item3673279
+FileChecksum: SHA1: 3425fd1ef8ce99ac4ffa2ae6c3ee3130a546bcf9
+FileChecksum: SHA256: 3d8bec7dc9fec63e3141bca45ab313aee10097413dbd34e761e52a3e1894d974
+FileChecksum: MD5: 2c590c23f90a5a45b17a1b5447c0802e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/yearly-roadmaps/2022-development-roadmap.md
+SPDXID: SPDXRef-item3673280
+FileChecksum: SHA1: 428311e75b686854fea91e76cc8b81f3cbf0c484
+FileChecksum: SHA256: 6a8c836ee00e6815dbd9e4bf584d338805477ac119e1faa5e02c40bde3e0f580
+FileChecksum: MD5: b4d2b33d796201893b25d98e854f3b48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/roadmap/roadmap-overview.md
+SPDXID: SPDXRef-item3673281
+FileChecksum: SHA1: 371e611ec697853d4a52e6236609961ad4525ec4
+FileChecksum: SHA256: af15db64ea7babab1f9808ced0dc5e52062607912aad547a51144da16444482f
+FileChecksum: MD5: 9785e013ce326e5693aa23d390f31ee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/releases/releases.md
+SPDXID: SPDXRef-item3673283
+FileChecksum: SHA1: 3b6fb58a837cac352f754b71b6288c41d95e502a
+FileChecksum: SHA256: 3c58c138f85109aa75bd7d5dd6026366609f5fb471fcc071c083e358bb771644
+FileChecksum: MD5: 846e9e129e81d9b2278c33d5eb6d25ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/releases/images/cicd.png
+SPDXID: SPDXRef-item3673285
+FileChecksum: SHA1: b539bfec7652140c261cb8183744d7a7428da9f9
+FileChecksum: SHA256: a650538a2c91b7544a3d4cddd04d517e73c7c701dd8a57c634b7bfd63be5db31
+FileChecksum: MD5: f5d492400642d3f7386130804c8c64ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	P¨¦Sr6©h¬aô?G: hv¼4F¯8~.? `£Ú?î	5'!,0Öšô4)?X?Pbç=íâÑt?º%P ¹Ȩq:;åuQ^¡ɀXò§¿hV"¼?-?©?NZ }¾ÿþ_£P??Ó9©QÏñÙß?w?z´®_ósÂJTó_Y´*í?ò4´T~ÖX]Áì`úþʊvµZXèK!SM </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/getting-started/images/timeseries2.gif
+SPDXID: SPDXRef-item3673288
+FileChecksum: SHA1: a24d99d8c6b7f3f74de18c7c40390dd35acef3db
+FileChecksum: SHA256: da491172628a0b62a7261af2a1f94dc2ff7ff7e2ea375c3f88e84ba74439ea7a
+FileChecksum: MD5: 3df44fa3dcac9c61ffcb8f65bc510fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	mi sÀWcE K§?gÑ'N?.2°| c?D}A?må&t=?æ?Ã!rµ wQu?l7¤I-â/À  ?þr?Ç?×a|h?ªö  îhYKd; T&[(é E?* LD ÓÇ?,`p[µ=!?´8 ?¡>?q4ÒRtIS?'`@z¹ <È?0_S?¢$5?!·ër!gÂÀù?±~4?.j¹?@%1 8 rédî&2ÿ?}Â?5Ѐ°¹|A§8ÈPmÈkû?W?pm×9 8_'v~Ïdrù?Xób0?|)p Aîô 3Gl5; !?AÁ øF烈ÄᚉHAß`Yh?½1Ôã?5 µEIÝRR[ P?p?q?4 ¾iy<SRÄé>2¨8zEÅ5#5PI?÷ቕJÒzRWµÁ:à?¢  ?3÷{ÞD?GU?xé|&ãdҷ|q*§Lfe
+© 3?CÃ57j£ íð?à D?9)&wö`?P ×Kµ|@??÷tÏJ?i&A.$¶?-¼	³.0(%?,ÀÂ8|?D?õ¥´?¬hu8I?­%jIK榫´ =& mFáòÖ$:bª Êr@§L%Ls[Jª5ÒýXÎb y?QÀ$?Äp«9# ñ 5¥(½ò³ _?A¢#ql# ,% 4@Ì 8ä3?F?ÈÀ?¦ôÐÂ Ä?v?+H?;<È. ôôÔTWÿ=.P²Ácæ<ôªl÷.õJ¶í§?ÜPÁÌåxðtÒàÃZ=èë%?Qâ »'y[ÛUf,+ìÐ1(?ˀ \??74 µ$÷ÕÃ /#Øìë(	e.¼]I?'¼Ä?%E8?<p?+T£kõì´'zÂB?tñÔVºM%?÷oÀ"eµÜÍø¾ÝãÐè`N?0Üý°«¸pÃ´¬ ±?±ìP{û\°e??l	.S ÅÐXýaެ?r~?z'?hHP0' ÈîP?Ä "®
+© 0fe?Rq?))`v?¤¦?ªmãÂ ðIÞÁ? .??>0 \ë p,ûç?Ú (PÞQDT%À»4Yz¯?§Pc85j?s՚²?Ö?F(g¡°r³?¢@ À?HZ.SE#7ÿ?*
+© oÊ0W´uµEúÖ?^;¯uUÜâzĊP?  +à r B?"?0 Wi' ¢?äÂ 8?ª ¦ÐiÄ?)?T=VlÁ2?Ñ!?"f8åTy¯?ÿaå8?Úd?4Ô'µ² ¡# À)¬wJQ ~âÇ?/Ð PqW}?uÿ¸?LÖ?̂5?¹?O³?gèYÏ?.?Aô¡bð?=?5À``È?ib qãã?ÓEOå?gªàdíWkÏď¬@?ð?°?´ Q?Â i%-â V? Ií!vÙ?#X.áBq	j·QEú VY " "À °3?73?0 ó?5 R?ؒ4Ájn è±hÏÑeÓፋ08?Å?¾sX^ñ z ±?Ô0 ²
+©	GgI627ð?êB?° éJª?ËW?©h ??\}UË?ðJ PC5iôÿfsa¡R?(Â?`Dxò3»6UùP?#¤?WF{,ڀNAKU?B1+p?Ö&ԦP³ãs¯Ç#È?çé?½¡3 Oú?_gf遗¾?,vº"VW?+°©®y%¯Ô?E?FÃ·¨pÌBcѓéÝÄofʌXx!°&·©?ÊpnZ6«?? ¥ê_ǩ?UlÄFúÂ0¡M{8¨~ø#r  õ]?¨?j?C<?àhÆ#®?_­Ǯ?1Q¿±?9?.` ð?û0ª¤#æåXÈò¥#	=`£P`Ên?V?ÄÃ?ðÿ?5?
+©	BDҿ98nRã8àküsC!=*'ÃH²l?ð?.YP˖Æ@疑à×Ť9¬D䒠Z<W˲"M?, 6hSà[.«˸Ý-0'ÓÇ 3¸êÜD!^|?575Ɔ\ ¼?.¬åDh?Àg?4 4¡ñ3?p?𹡎èn?ݦ0{JR{.eC?¥N²?æp </text>
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/getting-started/images/rtdip-horizontal-color.png
+SPDXID: SPDXRef-item3673289
+FileChecksum: SHA1: 84471b1a110faff19aabb63b95927a18c8fa2299
+FileChecksum: SHA256: 44b310d4abc50bece8a0a5bf80f4c7136f2eca5aacc2162cf09bdfb936c32850
+FileChecksum: MD5: 2ca00b05c72d1c50e0f165c62bcc43bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/getting-started/images/timeseries.gif
+SPDXID: SPDXRef-item3673290
+FileChecksum: SHA1: a49575dda4f5e5ba8ad4a2b1e049270cc77e4bb1
+FileChecksum: SHA256: 5ee4bd44328c5d062403fd56fef89b6ab7699072ed2b9ab71ff91d7c991943d1
+FileChecksum: MD5: f5f3be2761d727a232a4ce723f8d0d5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/getting-started/why-rtdip.md
+SPDXID: SPDXRef-item3673291
+FileChecksum: SHA1: 7b3b3d59a28b3b067571d27c5070297776c15a86
+FileChecksum: SHA256: 307d7a616c8ebc9fea3575e7218909c5574d1a41786635fba87392695f4678d9
+FileChecksum: MD5: 1aa6a57e48a1cc1883d4986901d2ae84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/getting-started/installation.md
+SPDXID: SPDXRef-item3673292
+FileChecksum: SHA1: f3e7d3137081faea36aae56b4cc102a24dd26353
+FileChecksum: SHA256: 500bc8ccf53e2da1fd5bac173912f8b7a3697695992474cb690ad1ccc2d646df
+FileChecksum: MD5: 67d8946145c1373a64a3ed538067455f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/getting-started/about-rtdip.md
+SPDXID: SPDXRef-item3673293
+FileChecksum: SHA1: 957e77c4f147e5aaf77c277fdc08c1c917ffc102
+FileChecksum: SHA256: f0baa3696c4085745d68d2db3215b508db2a7f8480ccd81d14d3390f556d7a42
+FileChecksum: MD5: f2ae30d16a8b04ea973d995c45301e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/overview.md
+SPDXID: SPDXRef-item3673295
+FileChecksum: SHA1: 5fe6d9102a2532029fcb78a151be24dfc85e3b6f
+FileChecksum: SHA256: 79908e0bfb9fe36bf3272f7654f200fc289b39537abda1c36fa1f8c7572bf915
+FileChecksum: MD5: 49f50cdbad0a8500c8ffd9bf375462c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/images/redoc-logo.png
+SPDXID: SPDXRef-item3673297
+FileChecksum: SHA1: 402106b6aa2a9ac90b9d758eb57351e5b0901fa9
+FileChecksum: SHA256: 39afc9a1f3a0a7635ca3aac57f3fbe8d7ddc3e466482f2bf8c79ef84ece50217
+FileChecksum: MD5: a247d02f190004e3e37b80511af40cca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/images/rest-api-logo.png
+SPDXID: SPDXRef-item3673298
+FileChecksum: SHA1: 557abb0f9e4de27e358e5c3a4af5441ddbcd2a46
+FileChecksum: SHA256: 8907eee21b87243e5e5d272d1412a4acb2d4d1900eda9cd04df8dd539bbc8c43
+FileChecksum: MD5: 59df66a0d76f06c82c343325e95d417a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/images/open-api.png
+SPDXID: SPDXRef-item3673299
+FileChecksum: SHA1: 6a1e2a8fe897323428b0e5fe8381f6ed2e0c5a02
+FileChecksum: SHA256: 10b462becd52125b9cd0745f475f95ccf459c215bfd01633832feb720c44733d
+FileChecksum: MD5: 4909fb845de201325dd176f3dd09c162
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/images/swagger.png
+SPDXID: SPDXRef-item3673300
+FileChecksum: SHA1: f27fdfd6a10b7929183d5d3575c2a8d5c59da53b
+FileChecksum: SHA256: b877cac653bd5bca8a78c0ec622324f313de9bc3863ca969b800baf1a17e0cc7
+FileChecksum: MD5: 1ae00d4e02d9a2ef40f78df6d206059a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/deployment/azure.md
+SPDXID: SPDXRef-item3673302
+FileChecksum: SHA1: dda3526af5e201ca67d4dec72e0e6e8626effa1e
+FileChecksum: SHA256: 58b4ee6d8773c2335a779a407271f68acd12226e0db32d59504600e5a2943c2c
+FileChecksum: MD5: 605100bbcb19f6900cd4f26768cc9270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/rest_apis.md
+SPDXID: SPDXRef-item3673303
+FileChecksum: SHA1: e5a79fda75623366a154f8af618e74869c67444c
+FileChecksum: SHA256: 4284907afc49e29355c420c14413af040d1ff0690760c4b31e83e11b6c07523c
+FileChecksum: MD5: 9a6e4397000715d7b440eb77f77e16ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/examples.md
+SPDXID: SPDXRef-item3673304
+FileChecksum: SHA1: ece28f56ea3a245cb1fd28a4df3d88fbdb00270c
+FileChecksum: SHA256: 8564a72c2d4a8041b4241ae60c7ea3627b32a457620e7bb136fd586f8a18eef5
+FileChecksum: MD5: d9950fe784447d5eed20c531c382b16d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/api/authentication.md
+SPDXID: SPDXRef-item3673305
+FileChecksum: SHA1: 0d39658229d2f173119ab2d2dfaf5970b8f6813a
+FileChecksum: SHA256: a5e9ec4610e12089baeae1af9774e132a35c9784e037159fef2bf50f4566908c
+FileChecksum: MD5: 5d5fa56ea52f7d918f4f008265a0f03e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/rtdip-horizontal-color.png
+SPDXID: SPDXRef-item3673307
+FileChecksum: SHA1: 84471b1a110faff19aabb63b95927a18c8fa2299
+FileChecksum: SHA256: 44b310d4abc50bece8a0a5bf80f4c7136f2eca5aacc2162cf09bdfb936c32850
+FileChecksum: MD5: 2ca00b05c72d1c50e0f165c62bcc43bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/illustration.png
+SPDXID: SPDXRef-item3673308
+FileChecksum: SHA1: f32035b58c0223362d3e3e15daec02163353b923
+FileChecksum: SHA256: da6c55c7a853c0c9715aecc2e9ca825d744c9190acb56fc8968dc25c928b30e8
+FileChecksum: MD5: 828aaea186d4f53aa5ce744412fec61d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/logo_lfe.png
+SPDXID: SPDXRef-item3673309
+FileChecksum: SHA1: 1d3960de4f0315c92ab66779ce40f2a09e8e308f
+FileChecksum: SHA256: 72424620edafaaa5be4585a8f7c54b36dee0d4da79d68fc3de7ebcaa0fbd67ab
+FileChecksum: MD5: 65973bf181ef509e9284fc3a8551f936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/rtdip-icon-black.png
+SPDXID: SPDXRef-item3673310
+FileChecksum: SHA1: 75c97d317223f0dc85f375864731136979158e96
+FileChecksum: SHA256: 78fda74e177e64814434403b4c93ba53bf5e0055bc0ab998b41b43189192bb82
+FileChecksum: MD5: a73cadfb9ceeb55a3d317df8d7c8c25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/favicon.png
+SPDXID: SPDXRef-item3673311
+FileChecksum: SHA1: 624611580311e91154ec9c8aaadb65df5d245340
+FileChecksum: SHA256: 6507036fa92b66f45815b091cd11148fbedae11f9b047c0079687eeb81309e45
+FileChecksum: MD5: dc6b57b2bcb0c0d48cfbdf29a9dd95ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/rtdip-horizontal-white.png
+SPDXID: SPDXRef-item3673313
+FileChecksum: SHA1: c5665f6dd658b97b78435bcd07c8369abd53cb52
+FileChecksum: SHA256: e9bf423ac415f5cf3d5bf4d2cc21e5c113f5c504a3a708bfe59790d867e0a48b
+FileChecksum: MD5: 74f5d1754867cd2daeb0cf6f040b54b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/docs/assets/rtdip-horizontal-black.png
+SPDXID: SPDXRef-item3673314
+FileChecksum: SHA1: b6b66b6069e27acf7b7569b1ef23348b2de5bdb3
+FileChecksum: SHA256: 4feddb62672664cc6bfb964c82cf80a79acb7d3abe82c7182e5c10a037dd6eb2
+FileChecksum: MD5: 9f0f874d617eb53d1cd35428c4bc121a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/GOVERNANCE.md
+SPDXID: SPDXRef-item3673315
+FileChecksum: SHA1: 2df4519be085a5ce3e348f1b8a0551acfcf129cd
+FileChecksum: SHA256: 16dd408af07ed8f635fa4745955ee2f66406262539d2038f6efdd6a3ce24f1cc
+FileChecksum: MD5: 389e7f6421494b61db56455ecd2dee5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/RELEASE.md
+SPDXID: SPDXRef-item3673316
+FileChecksum: SHA1: bb26c6acef77b8db6ef5505dcafe6a502c330575
+FileChecksum: SHA256: 01bf40006de4b998f0a7d97af57ccc5d1752f1b45df150c8c6b33de8f5076cd2
+FileChecksum: MD5: 64c86f11125d2f72363f74e8ded5280b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/CONTRIBUTING.md
+SPDXID: SPDXRef-item3673317
+FileChecksum: SHA1: c82ca9dc35b2ab7ce01e428938b24092e980f65a
+FileChecksum: SHA256: 6c79969a39e65a35c81efdb61562279fd8445b218027b1be9cd0e42463569613
+FileChecksum: MD5: b8c361a21a0c6a4e6b1a473c2561655e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/.gitignore
+SPDXID: SPDXRef-item3673350
+FileChecksum: SHA1: 44a5c812bca5061d5a3a01c1e00202b2734dcbb2
+FileChecksum: SHA256: 39d086dab89ffed00c38a5267e2fbbd0cb5f2ac282bdc14ceac0ab544b238abd
+FileChecksum: MD5: 07e9feda5529f31fdc96051ce1c4f07a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/requirements.txt
+SPDXID: SPDXRef-item3673351
+FileChecksum: SHA1: 169489fc5118ae79145c3b80a4b172134bb3b7cf
+FileChecksum: SHA256: 8681701e4e49423b84f6b436d7a30e3bce275d140376f0979fbed91a38a4ab3b
+FileChecksum: MD5: 53b114e0f11182f467101c1fbec39edb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/time_weighted_average.py
+SPDXID: SPDXRef-item3673356
+FileChecksum: SHA1: 94e072d07f457c83c603aad609dabf54a43dda7d
+FileChecksum: SHA256: b80f35ebd1d694dd29b003db3fcc0ac6e2ee2301e758ddc211f8085df2dfbef9
+FileChecksum: MD5: 2a99e3ab86e87e8b74d7788343142c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/v1/function.json
+SPDXID: SPDXRef-item3673359
+FileChecksum: SHA1: 12b95bfa2ab6f59e4c5a37d5bc73a010f2eaa90e
+FileChecksum: SHA256: 89fc9fed68b4a1ffa382a3627838d6644351bc948e3f2b8c46d0192ef4d0886d
+FileChecksum: MD5: 865ff48567214df5ed8d29fc603fef94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/.funcignore
+SPDXID: SPDXRef-item3673365
+FileChecksum: SHA1: 27b17a53142c00881f9db7fdbba987ee4193b148
+FileChecksum: SHA256: 2f7262029aec3113fcf7453a3466a65930c5cb447d8dff728c2ca0f63b45d244
+FileChecksum: MD5: ae4c70421340d4cd7b62a9ce48819c33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/README.md
+SPDXID: SPDXRef-item3673366
+FileChecksum: SHA1: c0026995bf1619ff7fe974fef53adc36c2cdde1c
+FileChecksum: SHA256: f060b57a0e50244aac47c3c5e92baccb301945216e83690550a45de8d97ba705
+FileChecksum: MD5: 1a14c66aea6550750ac4d59aad1f65c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/assets/favicon.png
+SPDXID: SPDXRef-item3673368
+FileChecksum: SHA1: 4e0db43f57259afa6c910eeb1b48fac692ed5b5b
+FileChecksum: SHA256: 8fbfd7cb2e7def1fb62a9400212eadb5ee168b67254689d01cf401af2d0098ee
+FileChecksum: MD5: c72828d59f17b25bbc7867c81dbc39cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/host.json
+SPDXID: SPDXRef-item3673370
+FileChecksum: SHA1: 0269985c5ed8c03786dc6c96da010aed341e4967
+FileChecksum: SHA256: 2fc5da75444c66aea2944002206a8fd21e7e2f0f371a2100ddaae7dbefb00140
+FileChecksum: MD5: 6149bfa8f87b28a79d8c49f1977d3e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/src/api/.dockerignore
+SPDXID: SPDXRef-item3673371
+FileChecksum: SHA1: 08aca8528fab4f9538b873db5e1725ed3e2842b1
+FileChecksum: SHA256: afc8c72bc10853664efe4a0e9690a5f2d16b04353fa3ce7a1e01604074cd6881
+FileChecksum: MD5: b70443e67ef1ad40d689f692c0246c9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.vscode/tasks.json
+SPDXID: SPDXRef-item3673374
+FileChecksum: SHA1: 0b3f0eae1ddade05b350beda6f1505badd1331c3
+FileChecksum: SHA256: b240b2d7b95b01f62de8f1b7fe26f35e71af59a2923286c5db7007d46c0baa54
+FileChecksum: MD5: e777b08f9a42f37da91c6572b318500a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.vscode/launch.json
+SPDXID: SPDXRef-item3673375
+FileChecksum: SHA1: 1988eb7abe2db255488e19cfe68777d147f02fd0
+FileChecksum: SHA256: 124117f181919d1011efa54fa3b04f523bd67e72b67d0133e34500544dbd8915
+FileChecksum: MD5: 4b4219b2e10e7d8b171fd757bfd56bf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.vscode/settings.json
+SPDXID: SPDXRef-item3673376
+FileChecksum: SHA1: d0200411d0a23aedc98dbefbc6bf9fba7180abd5
+FileChecksum: SHA256: 7e7bc4727d01013723b9a56a79048ffeb46e8cd703eb5c3c0cd034829b982381
+FileChecksum: MD5: a1b43b6a3fa9845518263fdb8ad368c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.vscode/extensions.json
+SPDXID: SPDXRef-item3673377
+FileChecksum: SHA1: 02459308e77c01254354de20cb891af9f2760c94
+FileChecksum: SHA256: fb5d128ba3924afe58a7c258778ce12a8d2c91aa4098be69bc28948ca447162c
+FileChecksum: MD5: 723c9a68fcdc3dcd901d16d1709a8afc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item3673380
+FileChecksum: SHA1: 0cbf106d95bf9991d850671a9e804f74a1783caa
+FileChecksum: SHA256: 99878cea345832cef9e03ad16533e1f586748042f3a7b83a866ee44476d63df3
+FileChecksum: MD5: db0bd6c56afc63dff85c27b6f5c0b6ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/ISSUE_TEMPLATE/security_vulnerability.md
+SPDXID: SPDXRef-item3673381
+FileChecksum: SHA1: 55cfbb8fd9d1047e674d776df5ba3873ec7daa7f
+FileChecksum: SHA256: 9d9fb5549e95bfc7eb8d40278926f2f181c9b9a769da1b166b6f3c56e58c77ee
+FileChecksum: MD5: 0d2e2563dcab12ae9bf38c10926873c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item3673382
+FileChecksum: SHA1: 1288c4ce418741759d64c2ece1f0a2520136b4cc
+FileChecksum: SHA256: c6309758626fbb52887b5acfae2e519d6025e1a752a330de9cd56386d7720a1d
+FileChecksum: MD5: 322d6ea14980d30649cecb29d7198571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.github/ISSUE_TEMPLATE/general_inquiry.md
+SPDXID: SPDXRef-item3673383
+FileChecksum: SHA1: 740f4117fc23de7a617983edb9fb373268227cb9
+FileChecksum: SHA256: 06fea48453889003ab9b46f7570b1e8d44edfde56ba29e659a1b94cc01668c02
+FileChecksum: MD5: fde222d043251d4a590ef9a6243d44d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item3673393
+FileChecksum: SHA1: 85c4b1b0c2716536d2e22d7639369be80518e0c5
+FileChecksum: SHA256: 265d82c8349c6df19dc7d62966558c26e02f509cf7f0e3fae60df6583c6ae5eb
+FileChecksum: MD5: 49033c50799358b11aecb41bde994a26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.gitignore
+SPDXID: SPDXRef-item3673395
+FileChecksum: SHA1: 6ed22398496a5a0c3cba428864f0a30a89b6d3b7
+FileChecksum: SHA256: 61419140705a59417a9d3c6ebc486f5b5be10168bf6db1919e80a1a111171fe9
+FileChecksum: MD5: ff7d1bdd7b411c1d55d16940b12e9db3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/SUPPORT.md
+SPDXID: SPDXRef-item3673396
+FileChecksum: SHA1: 8491518f2a4153f7cb406108a11279066a17a50a
+FileChecksum: SHA256: 72df1c4d7485740d202010ddc02f3d86cbf6272373efbf2624f10fb15a1fcc8b
+FileChecksum: MD5: 477fe13b4e10ca5f35ce7d81f2b71086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/CODEOWNERS.md
+SPDXID: SPDXRef-item3673397
+FileChecksum: SHA1: fc83524d552a6c72da45febaca379af5776b2e42
+FileChecksum: SHA256: 7038aa6e1517fd3931c1c9cce14a303ac66b9e5a4d9395c1d684b0243191de0e
+FileChecksum: MD5: 45d12872baac4f484781ffc1e54ae5ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: rtdip-2022-12-29.zip/core/.whitesource
+SPDXID: SPDXRef-item3673400
+FileChecksum: SHA1: 39df1226655f28e0645822bc5bac1fc2cd4ddd70
+FileChecksum: SHA256: e41e029d9f8a8bd0fa745a9ede64b2303860f6c9833b954fd992a99dae388b9f
+FileChecksum: MD5: 36095a0dbd71509a9ae419889540303c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Non-profit
+LicenseName: Non-profit
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
