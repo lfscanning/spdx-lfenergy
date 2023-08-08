@@ -1,0 +1,1248 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_carbon-data-specification-2023-07-26.zip_1691057655.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-08-03T10:14:15Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: carbon-data-specification-2023-07-26.zip
+PackageFileName: carbon-data-specification-2023-07-26.zip
+SPDXID: SPDXRef-upload962
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: c8d26f52b9336e4339293f61fb9858f8d1d97d51
+PackageChecksum: SHA1: bdf09001be9c4bcff162cdb93e1da40715626405
+PackageChecksum: SHA256: 8b86286344bdc23de7050e8b894a6088e177b7674f6bd6c57f80766056c07fbd
+PackageChecksum: MD5: 06a7f3401497ec45a4053c5991be8306
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload962
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/swagger-ui.css
+SPDXID: SPDXRef-item5065889
+FileChecksum: SHA1: d0b74754b22b01d824738492e4509930ab395911
+FileChecksum: SHA256: fb373b17aad77949909a52e1563fb4d2bf2c69cb7a955333d303c62f82582094
+FileChecksum: MD5: 55904cef9d72a1edf1cce5c0ca3a2d64
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/tests/test_routes.py
+SPDXID: SPDXRef-item5065840
+FileChecksum: SHA1: eccaff21992a9751e96209c599164e36c4ee9533
+FileChecksum: SHA256: 94e75062375012770a44591d19eb993007c50c9e84d967420bce42a016f374d9
+FileChecksum: MD5: 242896814c7ef34a39f6edde29052f37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/__init__.py
+SPDXID: SPDXRef-item5065859
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/__init__.py
+SPDXID: SPDXRef-item5065863
+FileChecksum: SHA1: 2c7f6fcb58e9cbbeda3e38f402494ff07cb279b8
+FileChecksum: SHA256: 6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1
+FileChecksum: MD5: 653b254f286b881bdce1d14afdede628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/tests/conftest.py
+SPDXID: SPDXRef-item5065841
+FileChecksum: SHA1: 69290fcc57753aeee49ca5a7dc2de025d54d16c7
+FileChecksum: SHA256: 73e9330df28f38d6730a374b793e9fa5aad07eda5e639ee792b9186b9ca19465
+FileChecksum: MD5: b5bd9e4de3b608078e4a13078d1a8364
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/dependencies.py
+SPDXID: SPDXRef-item5065846
+FileChecksum: SHA1: f0031afe539b0a057496701a6ba5ad4d934e2330
+FileChecksum: SHA256: bad0a8b1836c6313f15b407fb74048970909e9555511084e819651b275902c38
+FileChecksum: MD5: 81740e28c4b77715d914491a97964996
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/tests/__init__.py
+SPDXID: SPDXRef-item5065842
+FileChecksum: SHA1: 1f7c57eb3f9935faabde0685a3be4d407145748c
+FileChecksum: SHA256: 67c7785ef69c93026fbc491f3f77b55159ee97425e50d1f67b668cf343e783b7
+FileChecksum: MD5: d358d130d1c211be3e1d2fd2d6f32b0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/prices.py
+SPDXID: SPDXRef-item5065849
+FileChecksum: SHA1: 3b26e28eed300e0ed17122ed7344271f28c75c55
+FileChecksum: SHA256: dd2efceca2728a5d911e74905d964da6a0cc0d72139fa5930b283fb2b58b8d94
+FileChecksum: MD5: ab7c05f7fbf3695010f94c620dcb2bde
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/grid_node_model.py
+SPDXID: SPDXRef-item5065848
+FileChecksum: SHA1: e763edc8fd61699a12d4d8912e9f1f755c9b3eb5
+FileChecksum: SHA256: 07f33a45c958961351ce7e322334768eee0eaddee72329baab902ccb03f76f1f
+FileChecksum: MD5: 3139d0b7d423e4011f11e0560a08b9c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/demand.py
+SPDXID: SPDXRef-item5065850
+FileChecksum: SHA1: efd5a2d2b934d51a0cb30f707bfe1e0e275a2929
+FileChecksum: SHA256: 3aba53ec93c2d172c7dd1ac1878b356c6e0df3dc82ea6558cd4ed5b5060d7d3f
+FileChecksum: MD5: 47c5c630030a5ea0cf583d0418812989
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/fuel_types.py
+SPDXID: SPDXRef-item5065851
+FileChecksum: SHA1: 96e1018ef9e1e20dddfb7d6ca7f60d4de5a78865
+FileChecksum: SHA256: 1be2d0d1d2f46bf6e66e45dc126585ec1a29f09844bc217c301daee9461fc5a6
+FileChecksum: MD5: 1128090c22225ad9043509348cd8b4c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/exchanges.py
+SPDXID: SPDXRef-item5065852
+FileChecksum: SHA1: b7ce9901a9c2407c4b5dcdca0b5a5c7630e486bf
+FileChecksum: SHA256: 0c0e8e824e7d7182c16ecf8197126cd0afa0bba74719693119d1dfdf1b2f8fc7
+FileChecksum: MD5: 891f5fde88532712ed3661309d4c5b64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/__init__.py
+SPDXID: SPDXRef-item5065853
+FileChecksum: SHA1: 17efe10dc5da8bf4cff964a6e08f041ee214f821
+FileChecksum: SHA256: c04b8448832fcbd7c7b34b22110d2ea8841d94b396cc46347c065d16993a404b
+FileChecksum: MD5: c3df84e78a6ec7fcd5dc5e1e9b030ad3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/dao/fuel_type_dao.py
+SPDXID: SPDXRef-item5065856
+FileChecksum: SHA1: a8e5663d8a436a344441ea16b42c71cdbd979bd9
+FileChecksum: SHA256: 9261f1d0ae855ea6b96a1f8f943d23764397a02ca1d1dffe62426e32ad0c1830
+FileChecksum: MD5: 0129a45b53c409324b313245b05576ab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/models/generation.py
+SPDXID: SPDXRef-item5065854
+FileChecksum: SHA1: 6b7956d36a62757b2f056af1b8d757376f092c06
+FileChecksum: SHA256: 93635b29f3fdd1ddb884cd1d3e03d3fe9f19ce4ec10eb58d673c97e1db7d21e7
+FileChecksum: MD5: 2b8406fa27172c22e254ffcfe1e714f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/dao/__init__.py
+SPDXID: SPDXRef-item5065857
+FileChecksum: SHA1: 289c73e9ac86d0c1c7d44ccfe6597f07a5d76d53
+FileChecksum: SHA256: 76f4c84b34812561882ca6af075f54fa95e11cbf00672959bd48ffdfd7ff2249
+FileChecksum: MD5: 475a1c3152e0cf7e113ab76694fe2be8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/base.py
+SPDXID: SPDXRef-item5065861
+FileChecksum: SHA1: 6ab260b4cfd0d4b83a33fbca742b73e073621a79
+FileChecksum: SHA256: 759962fe671ebd3bd68526551463b5c81ba552bd343e6a276423b1a4f72a9aaf
+FileChecksum: MD5: 6c081519c53ad4badbc332e868d1424b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/dao/grid_node_dao.py
+SPDXID: SPDXRef-item5065858
+FileChecksum: SHA1: ab9f279277f1d37d85b4a62ffabd090eb7ea7cc8
+FileChecksum: SHA256: fead16b95c9b076ae55b8972b391964b0577dae6fa572baa22e63a3ababcf867
+FileChecksum: MD5: 2e1419cbe437410ec8815d5b4829d13e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/meta.py
+SPDXID: SPDXRef-item5065860
+FileChecksum: SHA1: dac5d42bd4cf6b1dfee021242057d5c874db928d
+FileChecksum: SHA256: 1a35849f6500aa47e1572d78f1408ec79da2bc9f88dd2ad49a53f0cc210f0cc4
+FileChecksum: MD5: 2c4901b1307acb15c63d4ac51db8ce6f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/db/utils.py
+SPDXID: SPDXRef-item5065862
+FileChecksum: SHA1: 0f656bae9c35d4e92939c22f2308a64a6acd4c2f
+FileChecksum: SHA256: c530f7d9df3c1932916a12804dddeffe62fc0c9159ca4596a19ea08627f1ee58
+FileChecksum: MD5: 5b11b737c7f824db86ca77bd4328ea1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/config/__init__.py
+SPDXID: SPDXRef-item5065865
+FileChecksum: SHA1: 8d541b67a8c27efc33d2daae65a179b49ac51098
+FileChecksum: SHA256: 3fe01ccad966bdc7cb6450b10c6a8960c6c7f1d30a3b24a0cecbe2a14b4c3067
+FileChecksum: MD5: db925cf140cf326f8a758cae045a8329
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lifetime.py
+SPDXID: SPDXRef-item5065867
+FileChecksum: SHA1: efb8486bed188c30249861767a76d1d587fcc0a2
+FileChecksum: SHA256: 14af13944c4df8b85e87cacfa8e1f0101bc26f5a19a67e4a271b4a46dbb93ac9
+FileChecksum: MD5: 1a61cf75c688459cce487b2fd1a9c983
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/grid_node/schema.py
+SPDXID: SPDXRef-item5065871
+FileChecksum: SHA1: 9800f90ae11fb8dcd88bc8ffe31123be66af58df
+FileChecksum: SHA256: 33a26f411c1bd3f11208f3aee4b217cec8b558d855504abfec231bcdca895a38
+FileChecksum: MD5: 29d0db57d4ae5ba051a2f9cde7a0ba56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/lib/config/grid_nodes.yaml
+SPDXID: SPDXRef-item5065866
+FileChecksum: SHA1: 43427e0b78d74b6af40ef4ef9a891cd2a0bbb8f1
+FileChecksum: SHA256: 2e88baae0ee702a5e741ca45caee7922b28d1e40c4ef33cafd162f6a2c94cb8a
+FileChecksum: MD5: 1e0dd6b9aa8d0cc8a5b78c60946e0fe8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/__init__.py
+SPDXID: SPDXRef-item5065868
+FileChecksum: SHA1: f541be395e00b34bdedef2427e320c7953dd7a4e
+FileChecksum: SHA256: c84e013d3f150918e80330b22776eb71fd8d70e10d2052074bc3a856b2724fbc
+FileChecksum: MD5: 4608c0ba664e99d854748538d6b4e26f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/grid_node/__init__.py
+SPDXID: SPDXRef-item5065872
+FileChecksum: SHA1: 53dae9add443d7a7ad699ad7681c3361e84d7a18
+FileChecksum: SHA256: 7e2125ad367b363bb7227f53ecd0de0eb6149e73db7ced28c2e1dda01d3be3bf
+FileChecksum: MD5: 0b132a0201ed2e8088db35040a3634ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/docs/views.py
+SPDXID: SPDXRef-item5065876
+FileChecksum: SHA1: b61de64a4f03926bcb68d4fbd8c4fa4ee69e71cf
+FileChecksum: SHA256: c190dd41b81620a2ce935a55b384b8042925b51d09e3860b707b9b207fd8e9ae
+FileChecksum: MD5: 6822a9c51ef566fee4c7964c84d5f8f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/docs/__init__.py
+SPDXID: SPDXRef-item5065875
+FileChecksum: SHA1: 63b4771f7c6fa1112c89f8d0a0dc586aff2390e9
+FileChecksum: SHA256: a159fa0f359d2022d9a8d9430946622b415be3c41fb9681c1776f39ad966a26b
+FileChecksum: MD5: e50f6372e3d412873748511b6828170c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/grid_node/views.py
+SPDXID: SPDXRef-item5065873
+FileChecksum: SHA1: 0ca7dea27faeccbda7e7acde63042ac70ea2f76a
+FileChecksum: SHA256: 991cb58dfc0dd8bc2e07ff16e54ccb519a90461a3fadc2d86d0884be32d36544
+FileChecksum: MD5: 315cff9a61bea318abde5994e56a51cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/router.py
+SPDXID: SPDXRef-item5065877
+FileChecksum: SHA1: d443e67e08591c3d5bb20c4c8b09db55bc44c414
+FileChecksum: SHA256: 5f49c3215da3bc5b6fda44ade6935b31876030cb4d09e53cc0977b0740571b62
+FileChecksum: MD5: 139a0f2ae7c4de13799a1bd4f95ee85a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/monitoring/__init__.py
+SPDXID: SPDXRef-item5065880
+FileChecksum: SHA1: fadf73d681191eed796fafa5859d1d510f29fb96
+FileChecksum: SHA256: 5b2bfea35698af18bbb50c4dbd1aeda1508af4e88fd7e2427ca412818934b2ef
+FileChecksum: MD5: a1ddeb13af86d8132b610e25aac61761
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/monitoring/views.py
+SPDXID: SPDXRef-item5065881
+FileChecksum: SHA1: a7ee9d5fcc9d3ca05881bc62b95d0decd55a710c
+FileChecksum: SHA256: 72ae11a51bbf8b9211d11e1208702607c61b10643d1405a9ef3f923a37355bbc
+FileChecksum: MD5: f91ae51a4086d24aeb82a0ab536eb14e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/api/__init__.py
+SPDXID: SPDXRef-item5065878
+FileChecksum: SHA1: 11ed8924bda50dca53f47870ae268897e152911d
+FileChecksum: SHA256: e3d3de7b99e33f3d3d64a170ed18935feb6a589c365e789330ca210c1145ed43
+FileChecksum: MD5: 8bf3910fba6345192a4a08240f070e8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/src/application.py
+SPDXID: SPDXRef-item5065882
+FileChecksum: SHA1: 88c51e9196382933122a8b5a6105c8842e2a88f1
+FileChecksum: SHA256: 43578862a62b16f51433e3f26a27ec4831b0440be10df468d4971eab3d4ee396
+FileChecksum: MD5: 2778baa4847e6c359b2634fb067399da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/settings.py
+SPDXID: SPDXRef-item5065883
+FileChecksum: SHA1: addc3cfe50d7a83f764db11d4e4144f165caa709
+FileChecksum: SHA256: f6c7a76c0cac66eb0a9cf39e96b208b9370c7425880e955a707a847797895f50
+FileChecksum: MD5: f9c50f4fd73f386baa0d00940c2d17ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/__main__.py
+SPDXID: SPDXRef-item5065885
+FileChecksum: SHA1: 0440cdaee7061b39d68737d760ee99793f3d4f27
+FileChecksum: SHA256: a0ce14745173055fee26870e197000016f82c403740744f5bcbfae0358d7e62c
+FileChecksum: MD5: 118c9a0538f70eaa6ca16ec3f9806406
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/__init__.py
+SPDXID: SPDXRef-item5065884
+FileChecksum: SHA1: 13f745ae551cd8b2a3061ae2a5e1616ee74f292f
+FileChecksum: SHA256: ec46b2f7179dd77b2f59d1a3276c8067608ea4d3b74fb0c1a1db9fb8a2640bcb
+FileChecksum: MD5: ca188452436ac3a30b83f761d1f3fbb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/utils.py
+SPDXID: SPDXRef-item5065894
+FileChecksum: SHA1: e65331e61831de19dfa334afec68b46f1b233508
+FileChecksum: SHA256: c4c1729c8e60cb8b77e04df0dfb27b7a5be1c581785725c3e94daa8769c363ed
+FileChecksum: MD5: e7cb98a9d00c53005d56805c6fee4aef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.python-version
+SPDXID: SPDXRef-item5065837
+FileChecksum: SHA1: 43ba43b9811b981e90e52764c62ba6ce70966195
+FileChecksum: SHA256: 4dbe88c0a5718b2807d248bfe25b8a0a8704acffe4aee6c07d4ee14536b68671
+FileChecksum: MD5: e37dc23d88df84b4f78166734266cb95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/swagger-ui-bundle.js
+SPDXID: SPDXRef-item5065888
+FileChecksum: SHA1: 4b6aed126d24331d8ec06299d8196e7f9a9ae204
+FileChecksum: SHA256: 0d76f5657e5a5f8d44d2c3c01b0772b3280b05dba9c0843b3649a6f126f42ad7
+FileChecksum: MD5: 9c8214d242269b934768714ee3fc0fbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright:"© 2014-2022 Denis Pushkarev (zloirock.ru)",license:"https://github.com/zloirock/core-js/blob/v3.20.3/LICENSE",source:"https://github.com/zloirock/core-js"})},70487:(e,t,r)=>{var n=r(96059),o=r(174),a=r(99813)("species");e.exports=function(e,t){var e=n(e).constructor;return void 0===e||null==(e=n(e)[a])?t:o(e)}},64620:(e,t,r)=>{function n(o){return function(e,t){var r,e=i(s(e)),t=a(t),n=e.length;return t<0||n<=t?o?"":void 0:(r=u(e,t))<55296||56319<r||t+1===n||(n=u(e,t+1))<56320||57343<n?o?l(e,t):r:o?c(e,t,t+2):n-56320+(r-55296<<10)+65536}}var o=r(95329),a=r(62435),i=r(85803),s=r(48219),l=o("".charAt),u=o("".charCodeAt),c=o("".slice);e.exports={codeAt:n(!1),charAt:n(!0)}},73291:(e,t,r)=>{"use strict";function y(e){return e+22+75*(e<26)}function a(e){var t,r=[],n=(e=function(e){for(var t=[],r=0,n=e.length;r<n;){var o,a=_(e,r++);55296<=a&&a<=56319&&r<n?56320==(64512&(o=_(e,r++)))?A(t,((1023&a)<<10)+(1023&o)+65536):(A(t,a),r--):A(t,a)}return t}(e)).length,o=128,a=0,i=72;for(c= </text>
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/redoc.standalone.js
+SPDXID: SPDXRef-item5065890
+FileChecksum: SHA1: fdda0526059de2a57f543efa4891076d728a189f
+FileChecksum: SHA256: 838e7e48f2ed7768be87fa02cf2d539eb86b22c1a930cd8bb93d1357494ec9b2
+FileChecksum: MD5: f976db5005ac34ccb8c7683f831bfa52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/__init__.py
+SPDXID: SPDXRef-item5065891
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/description.md
+SPDXID: SPDXRef-item5065892
+FileChecksum: SHA1: f029cda3c82d6769009063fe7d5231a56e539894
+FileChecksum: SHA256: 0121d524b1be9246696ae51f3dea5d9f326b31b7fefbf056651218e266a9766d
+FileChecksum: MD5: f1703411457c108299b29c730ea2314d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/static/docs/title.txt
+SPDXID: SPDXRef-item5065893
+FileChecksum: SHA1: 0bb0982a3928dc4832124b7bd2c9f5e4060d8751
+FileChecksum: SHA256: e91c7244967bc58a01f48e70980d9ee5c68ba025c3be7074aec8ae78f0c7b9b0
+FileChecksum: MD5: 8d30643eea416182bb4ad191da7c22b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/power_systems_data_api_demonstrator/seed/seed.py
+SPDXID: SPDXRef-item5065896
+FileChecksum: SHA1: 3c13011caf24425a7b2bc006d04b457b8f009b72
+FileChecksum: SHA256: be82bd84b4485f1e6614035be55c42a928aeaa770f91fd455bdb8b0631d7b0c9
+FileChecksum: MD5: 8bcdc14d7075a36a5f7e2ec7ce2e089d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/pyproject.toml
+SPDXID: SPDXRef-item5065897
+FileChecksum: SHA1: 5705924e80f9e66acec24528032d8965bb8aee19
+FileChecksum: SHA256: 02499a694f1828a43e4b8a4a295b6d70832d3fec94484c00186d26263cce3cc4
+FileChecksum: MD5: cc9519a2272ac569b2d22e6d5afbf6ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/clean EIA data.ipynb
+SPDXID: SPDXRef-item5065900
+FileChecksum: SHA1: 433fee1a8a475345c7e220fdec9d41ba2ee15ca3
+FileChecksum: SHA256: 604a9bba80e6b645bb97b0e9e1c3fc6cbbc671a731b77e05d7108ef2c46d0228
+FileChecksum: MD5: 5fcded689a176f44f4cca68eec97a102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/imports_exports.csv
+SPDXID: SPDXRef-item5065901
+FileChecksum: SHA1: af795f192b78f566e5f56aafe2ef96d287cc30ab
+FileChecksum: SHA256: a0a7bfeb58db508485ca5ba0ff486b1236fa9963761a8b28a229f0b85412d170
+FileChecksum: MD5: 17ec3d7d03f7d032ba27fc1661091143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/load_forecast.csv
+SPDXID: SPDXRef-item5065902
+FileChecksum: SHA1: 4be3b31bdd2a0cca29c4c3d5818798fad5612b5d
+FileChecksum: SHA256: 17d00ad752fa3d8f89effbb7782a30cd95ba39fd41618c1b8cf62828277ee10e
+FileChecksum: MD5: e96338fce5adf1126f9a63d7b70e0d27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/raw/imports_exports.csv
+SPDXID: SPDXRef-item5065904
+FileChecksum: SHA1: 7e4ab7b4ce31fb755b240a3f2b6afb3d9b52571d
+FileChecksum: SHA256: a3f3e156daf591aa4316f4b49ef7e9d2e0b8f015f851bdb5cda155abb9aaa401
+FileChecksum: MD5: f0ea4ba9afd55bd81b052fdae5e5cf02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/raw/capacity.csv
+SPDXID: SPDXRef-item5065905
+FileChecksum: SHA1: 3156d5f9d2d0a74f9e8d38fca5983dbcd40bbe19
+FileChecksum: SHA256: 926196fc12acc771ac817408115d7fe0d7dbfd12cea08d8bf98aaa5ff3d4a316
+FileChecksum: MD5: 9dd45bf3629931ed83bb75e2f027b05a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/raw/load_forecast.csv
+SPDXID: SPDXRef-item5065906
+FileChecksum: SHA1: 50204804d925305efffd7b29f592eb349b300f75
+FileChecksum: SHA256: 3dbbaae93a8afc55e76852da22a027dbf264e01b783bad4ca450c09297ffa718
+FileChecksum: MD5: 48e61bd7932a8da98937bc3a531fafe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/raw/generation.csv
+SPDXID: SPDXRef-item5065907
+FileChecksum: SHA1: 2533861d991a9f346b8fb8ea41f230bce7f19721
+FileChecksum: SHA256: 2faeb3bc2c06d472572fbda517aef4145a96c9f1f37b7a5d2c4892dddf13c9c7
+FileChecksum: MD5: 67774a3a51ec4759334973c61885f102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/generation.csv
+SPDXID: SPDXRef-item5065908
+FileChecksum: SHA1: f8de17631fa7e8df2373fd3e815ac47cc7b00e55
+FileChecksum: SHA256: cb9ec4fab7c70430ceb1ac0761777aa4b5d4ab28aa6ebbf9ab4c282dea91c165
+FileChecksum: MD5: ea111757d61660e9f3d778006ff97354
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/EIA/installed_capacity.csv
+SPDXID: SPDXRef-item5065909
+FileChecksum: SHA1: 0e2f45ee181e3d181745d765b4b6af32befe24dd
+FileChecksum: SHA256: 9d216a1cd91abdaa17f302573e8a66df424e577872a080a7a124f8743880addd
+FileChecksum: MD5: 5932168232c4187e71ad930b88658c52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/notebooks/bmrs_imports_exports.ipynb
+SPDXID: SPDXRef-item5065912
+FileChecksum: SHA1: 3d6dd5d68d9e04ede7c43a1f7778b512dc6105e0
+FileChecksum: SHA256: b6ca09f1e4a35037eb1ee723f07519b84e3c1c929f4b088c6aa3222dee174123
+FileChecksum: MD5: 92644958a0eec8ff90753504911f3827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/notebooks/bmrs_installed_generation_capacity_aggregated.ipynb
+SPDXID: SPDXRef-item5065913
+FileChecksum: SHA1: 65ad138f8f5dba737d224f748e14f540c31904c1
+FileChecksum: SHA256: 896cab251f1590f298e9cfbd4b08b36142475ffe0efc56b7102fa23cd0f4473a
+FileChecksum: MD5: b84b79e7c7cd8a6e2dde1b1f83447f56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/notebooks/bmrs_generation_production_type.ipynb
+SPDXID: SPDXRef-item5065914
+FileChecksum: SHA1: ab2b60ddd05886447d234ae5423e6fa323bb2d6e
+FileChecksum: SHA256: 3d814e05fac96d26a0cb140cca9d708b087afa63a96e062bcbdd02d43a51e4e6
+FileChecksum: MD5: 80021e17eba37a335b271fd755a9b576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/notebooks/bmrs_load_forecasts.ipynb
+SPDXID: SPDXRef-item5065915
+FileChecksum: SHA1: a31172f546e3ca7217a08136183aef5cff2003c7
+FileChecksum: SHA256: c8353c7c4c642ad7bbaee7b5c387c6d4820a90706b0ab347f796a38963f60bc0
+FileChecksum: MD5: b22efe68a0c68617cf8cc885756f56e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/imports_exports.csv
+SPDXID: SPDXRef-item5065916
+FileChecksum: SHA1: 59f90be2aec46504614b03567e2ed51e3b349edb
+FileChecksum: SHA256: 0719a902aa3e5afce892f60c62f870182ea11fd3c07288a2778b7c0b2fb33985
+FileChecksum: MD5: b65c13abdd36f3689e95334faa5e1f59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/intermediate/forecast_load.csv
+SPDXID: SPDXRef-item5065918
+FileChecksum: SHA1: 90bfaa79062cf7a2f88b1cf1febcf96be140ecbc
+FileChecksum: SHA256: b3841c66e11e74a977fed5fcf56611a3e1973a35bb9bdf69099f913893925e85
+FileChecksum: MD5: 04e0b10d1c1d915257dcdb5b2194d41c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/intermediate/installed_generation_capacity.csv
+SPDXID: SPDXRef-item5065919
+FileChecksum: SHA1: 3128ed484a1957c904cf94342499eeeb535b551e
+FileChecksum: SHA256: bfdce3257589e04628be48d27ab1b5105075ac27125f541a4621c2bc68e37c70
+FileChecksum: MD5: 5ced10260b5c951926f1c730bcb2db30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/intermediate/generation_by_production_type.csv
+SPDXID: SPDXRef-item5065920
+FileChecksum: SHA1: 5a43024c009194ef47f62a92202b1fd474e216c8
+FileChecksum: SHA256: 66ab752e467ce9e93afa4defe72d19d740048f1898be7731aaa606c3d91b6e61
+FileChecksum: MD5: 9e1381335393cfdd931515e8473595bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/intermediate/interconnector_exchanges.csv
+SPDXID: SPDXRef-item5065921
+FileChecksum: SHA1: 1d7bfada1508419431def96429d9bf5bc758d9f1
+FileChecksum: SHA256: fa567f6b3fca15d611313dcbc756b4833f675f9912ad701bec5351563c16a088
+FileChecksum: MD5: d9d33a0eaac729f175f614ef8d22a954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/reformat_for_seeding.ipynb
+SPDXID: SPDXRef-item5065922
+FileChecksum: SHA1: 48c325bb9c45a848e7fb6474124b98808af82dc2
+FileChecksum: SHA256: 4f2262132ccbaad77269fb8fd89720aef9dff3fa9da7aca784b703a8bced227c
+FileChecksum: MD5: ee18642c342a60dd26de59f4c1335ad0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/raw/bmrs_interconnectors_raw.csv
+SPDXID: SPDXRef-item5065924
+FileChecksum: SHA1: 108b3d04786a3110d0e52ac0bd9c5ad39d14d4f1
+FileChecksum: SHA256: 10cc20239a7cb4dd64d4da1c409cfa4e4eb8cfb64bf2f2ed7074df217bcbaa57
+FileChecksum: MD5: 8b2ca36b184373b50726371b5ad3b46d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/raw/generation_by_production_type_raw.csv
+SPDXID: SPDXRef-item5065925
+FileChecksum: SHA1: bbd79bf64d7effef65b5f2ac3d92b849e59835c4
+FileChecksum: SHA256: 54604222a82871ddd447a6c9b968fc8a439cac19cc9eea8a77c38645aa9fadd1
+FileChecksum: MD5: 25ddf3a6daa5f8e161afbdaa4830d9e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/raw/bmrs_load_forecasts_raw.csv
+SPDXID: SPDXRef-item5065926
+FileChecksum: SHA1: f1fe7a8be8c12975300e64fb9bcdc473ced16fff
+FileChecksum: SHA256: 7b4328eef2f3bbbcf69f17203b4bca31f81b35f20a6ae71e709539df11fa0abc
+FileChecksum: MD5: 0cd106f1e1973e9cfe88cb8d030f7bbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/raw/installed_generation_by_capacity_raw.csv
+SPDXID: SPDXRef-item5065927
+FileChecksum: SHA1: 0fd7f90f1f2c99dc6b6a1fd22ef8ca73cf687106
+FileChecksum: SHA256: 32c4d9351aceaefae6c461067a438948046a2a0c385bd8a73281bfe79d3096b8
+FileChecksum: MD5: 5b59190093209f48b8832ff2e1f6bf21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/generation.csv
+SPDXID: SPDXRef-item5065928
+FileChecksum: SHA1: bc77b56748f64fa217857aa1c69dba1b93f65974
+FileChecksum: SHA256: b4e65b7628148e3a5959d62f2b3e4fc4c7f8b1bbe7df85cc7208a82782faf2c4
+FileChecksum: MD5: 82a776fd07f1826f7c8717fcd0442d61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ELEXON/installed_capacity.csv
+SPDXID: SPDXRef-item5065929
+FileChecksum: SHA1: dc03519ed0617c36be7509f74967b1e17c514709
+FileChecksum: SHA256: 48bb02c6cb4c02830ed6e259c45ac4d030d2fffdb66d68d68c7eeda331e1a313
+FileChecksum: MD5: 991c1b7c3805b5f7faa216be8e39b2b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/generation_ES-ALMARAZ-UNIT1.csv
+SPDXID: SPDXRef-item5065931
+FileChecksum: SHA1: 5d3eb9a0135f055453f4ee006cc350923f8aff5f
+FileChecksum: SHA256: a86158342d9c8a9eef61f3866d08d4519b2c764a89df9a183537f5ed9cb958ae
+FileChecksum: MD5: f61446f065076bc35d2d2c82d5d0208c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/imports_exports.csv
+SPDXID: SPDXRef-item5065932
+FileChecksum: SHA1: 83fa795658c613eaa40cc7a2da77de5ce9879438
+FileChecksum: SHA256: 3283a900d33266b0245d48b8aaf39f897c1fa4670d95459012d7ba2fb47ab7ce
+FileChecksum: MD5: 6a021ce2686a0a5f1feee13eddd88e7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/generation_ES-ALMARAZ-UNIT2.csv
+SPDXID: SPDXRef-item5065933
+FileChecksum: SHA1: 57a2113b374cc4b0873acfb4441ac5669e8debda
+FileChecksum: SHA256: 914de072ba631cbc57991bf1ee0ab5fb1d9b4f971d6362f843117c20e4b21c0c
+FileChecksum: MD5: 79d307a7d9304cdefc72126ea28c2a02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/load_forecast.csv
+SPDXID: SPDXRef-item5065934
+FileChecksum: SHA1: 08c7e7a866583de4eaf66293f4b95e55cba242f6
+FileChecksum: SHA256: ecc3a0a3dcb548d7e52dcbf53c02d0b5a8d48efce68e16bef80f89cf1457d253
+FileChecksum: MD5: fdb2dc9de18df59de4e76e87618c9d72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/raw/Actual Generation per Generation Unit_202304150000-202304160000_1.csv
+SPDXID: SPDXRef-item5065936
+FileChecksum: SHA1: 1d081295b9e71f58103db2057786521e112b4aa5
+FileChecksum: SHA256: 61501a4fda603165b3127c7da7379c305b719c9556a0588c2d796892f5612ad2
+FileChecksum: MD5: 62a610023349003db71acca3ab6bb749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/raw/Actual Generation per Production Type_202211010000-202211020000.csv
+SPDXID: SPDXRef-item5065937
+FileChecksum: SHA1: ee14533a0e93447449908836566ee8780a9c48d4
+FileChecksum: SHA256: fad85c4337698af246d01d005f999a256a098e88d6afbb4a2d188c361be47d6c
+FileChecksum: MD5: c1b9c8d01558d498e221224b0d1c29d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/raw/Installed Capacity per Production Type_202201010000-202301010000.csv
+SPDXID: SPDXRef-item5065938
+FileChecksum: SHA1: eab1008494f3f40171015ebee3ec00829b2a9a8c
+FileChecksum: SHA256: 2043e97b3bd03ac766f55874150892c6fe35f5c82d57726f1864719a78df133c
+FileChecksum: MD5: 4b24bff6dabb13c9cee2497d7126fa5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/raw/Total Load - Day Ahead _ Actual_202211010000-202211020000.csv
+SPDXID: SPDXRef-item5065939
+FileChecksum: SHA1: 0cbd39bc5e9d2e6bc859e15c16b3e11ca97f3840
+FileChecksum: SHA256: cd7ba125a04ec45c8e22707b58da73bc6fcc6793e12168a22d9a2b67be5c316d
+FileChecksum: MD5: 358e0b672e9ab0eef268211c2069c6d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/raw/Actual Generation per Generation Unit_202304150000-202304160000_2.csv
+SPDXID: SPDXRef-item5065940
+FileChecksum: SHA1: 19c773787e03e4821ca2fcf9cbb2973394e00f8f
+FileChecksum: SHA256: 3a478386e4c772100ba729e2f81a6c7540bd01fd4b4052d0a5fb69d536e245b9
+FileChecksum: MD5: 1509768f09cc5514f77cac008e0e5f73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/raw/Cross-Border Physical Flow_202211010000-202211020000.csv
+SPDXID: SPDXRef-item5065941
+FileChecksum: SHA1: 12243ed1b4c7b8460219fbad80737ef7fcdca720
+FileChecksum: SHA256: e2c4b7a1d1da0826beb60bd7565d133de33b7529f859bb7dba5439571e3f5ed4
+FileChecksum: MD5: ccc3840f2ede96f778f90c500b4ec950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/generation.csv
+SPDXID: SPDXRef-item5065942
+FileChecksum: SHA1: 5e2138a93e73a12012c70dac44b68677d3a23fab
+FileChecksum: SHA256: b2bc34c01ad9b639b521f5069e0468523249ce8d5d3b21af4605277034b92929
+FileChecksum: MD5: d2c21520a098e05b6e09de55aa71ad40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/installed_capacity.csv
+SPDXID: SPDXRef-item5065943
+FileChecksum: SHA1: 907b91fba3f805a0838968ccf7fae87b1219f334
+FileChecksum: SHA256: 82ad695cd42bbe5be209d8757131a4db3d90605d7bad553bc6397c8142feacb1
+FileChecksum: MD5: 37054a9dd37585f163253df1151504c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/generation_ES-ALMARAZ-0.csv
+SPDXID: SPDXRef-item5065944
+FileChecksum: SHA1: 066d46371ac2c5b16e2070f8af2e0de112259536
+FileChecksum: SHA256: d9df5b92f7812065ee7369d4bd95299a36d6e47eaabe3780008de8d035cbf96b
+FileChecksum: MD5: e9531cd58c71b6d98a7a0be25428d6b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/data/ENTSO-E/Clean ENTSOE data.ipynb
+SPDXID: SPDXRef-item5065945
+FileChecksum: SHA1: d2f0e786b15fa88960e52b609cc32a21d80acced
+FileChecksum: SHA256: e85a8326aff5d54c3130c291be182ef36d59ce00214b0c1e4b4a5d6553d8fbca
+FileChecksum: MD5: a5c92471899bd72e3fbd62336fa129d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item5065948
+FileChecksum: SHA1: 602d2ce0db29b4adb5e69ab6850f62aca43082d8
+FileChecksum: SHA256: ae70f4251638952efdec4076a42602e5170f1feb5a7239d0f9a80ed54b3f1d35
+FileChecksum: MD5: 6afc8204137b36a9c2addc3c21a0423d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item5065949
+FileChecksum: SHA1: cec7e3f6e49e753c05eaf8cc9bce07c25b16e627
+FileChecksum: SHA256: ccf6540ddc57da8a063d86ba56b2e4221cded12a582ef196d514eab43786bedf
+FileChecksum: MD5: 4b24b17d0d9352d06fbb0685dcc7e139
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.github/pull_request_template.md
+SPDXID: SPDXRef-item5065950
+FileChecksum: SHA1: ea2de4b8f3b756cb785351993970d6aac3f3444c
+FileChecksum: SHA256: 4e2728a0c0074786b677ad5546bc89ca2f6b87f7c4881f5f2deab9e1f77bd94e
+FileChecksum: MD5: bc5cd96907823292c433229b9ae7dbe1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.github/workflows/test.yml
+SPDXID: SPDXRef-item5065952
+FileChecksum: SHA1: 2cafa9a61425a9dffaf00d6f8d7da2e2aac26fef
+FileChecksum: SHA256: 31ce1893851cafb6d4119bc36228059b3bde9b8b076e26e2d49e53c4acc56755
+FileChecksum: MD5: c8dbc7bd5c572f044e9fcdb87623b9d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/server_start.sh
+SPDXID: SPDXRef-item5065953
+FileChecksum: SHA1: 9539fda3f641ec5c26b693f49f33802a6ef99d4d
+FileChecksum: SHA256: ae7f733341404a137ded218f0fd25b8814d2b489c5cab6d6d331a81391185c24
+FileChecksum: MD5: f504504ec376fdeb8acdc7a2dc0b4b3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.gitignore
+SPDXID: SPDXRef-item5065954
+FileChecksum: SHA1: de415461f88b13030aedeedd17251679764473d1
+FileChecksum: SHA256: 5026d98ff02edb5db17829556f078921eac61918acdb96710ee279634d10a469
+FileChecksum: MD5: 95caeca8b4e0702fd7176dddbbec917d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/Dockerfile
+SPDXID: SPDXRef-item5065955
+FileChecksum: SHA1: 5d9d0216fd4bfae4e16e3a3426f0062dbad87290
+FileChecksum: SHA256: 9a07126df59a994a22af4410fe5bd864bf3beea09b2c513ff10e63bd8605ada1
+FileChecksum: MD5: 023aae76b6a120114a2235ad3e4eeb08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/poetry.lock
+SPDXID: SPDXRef-item5065956
+FileChecksum: SHA1: b35422a590ef9889928479913860cf44b065dbc8
+FileChecksum: SHA256: 39e4af9049acfcf2b212d9f9a275ffa9eb6fa3d97409d09b77cb201cc19bae82
+FileChecksum: MD5: bed5cd2c7c52c10126752741146f567b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/README.md
+SPDXID: SPDXRef-item5065957
+FileChecksum: SHA1: b45cdd201fa1137e6368e4beee0b910aa1ba6468
+FileChecksum: SHA256: 3c5b9ba83155ee2e53aeedbe34fb68025eceb2b27acf52a68afd572bead27e60
+FileChecksum: MD5: 97475147543a43cf1b85529eb5bbccee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/docker-compose.yml
+SPDXID: SPDXRef-item5065958
+FileChecksum: SHA1: e903ae7196929a89f8daa2bf341b6125e6612456
+FileChecksum: SHA256: dd02e42222057b5efb88aaebfc8d70e8e32bcf4c7d0ea61f69c3e7bf5ebcd1a1
+FileChecksum: MD5: 6907e99ae39e11785f788242afa2f7c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.dockerignore
+SPDXID: SPDXRef-item5065959
+FileChecksum: SHA1: b2037002864902b2c16985c5931e92589cc7d8d2
+FileChecksum: SHA256: c808016968fff79cf66749abbfbb98e7790db4540d3378968c0e5c48bcf954fe
+FileChecksum: MD5: adc54031e39b17a4611aba252fe390f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/db.sqlite3
+SPDXID: SPDXRef-item5065960
+FileChecksum: SHA1: d8a5b78a19336a92845b58d382eb7828a056adb7
+FileChecksum: SHA256: a1621b0fe73e1d553e4e3ed051f96e2398f5f2e27a99958691f38fd357f8255d
+FileChecksum: MD5: 220eaab350d2d9fd424556c762f94339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: carbon-data-specification-2023-07-26.zip/Power-Systems-Data-API-Demonstrator/.pre-commit-config.yaml
+SPDXID: SPDXRef-item5065961
+FileChecksum: SHA1: c1fa4163a1c8d6ed8d7bb7eb0aeefdfe04a3acd4
+FileChecksum: SHA256: fcd6f8b8ecdce32a11af7ea4c85ed70aa0cda4422b8b64f57add6925725864de
+FileChecksum: MD5: 3a394f839f3cf0a3fc5f560f3a68e71a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
