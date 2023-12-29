@@ -1,0 +1,2680 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_openeemeter-2023-12-22.zip_1703412289.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-12-24T10:04:49Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openeemeter-2023-12-22.zip
+PackageFileName: openeemeter-2023-12-22.zip
+SPDXID: SPDXRef-upload1180
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: b3f6a1dd588585b3665f9d38aa704b86395fabe1
+PackageChecksum: SHA1: e585b4bfa02cb32ba7535a0641cee467353bd663
+PackageChecksum: SHA256: 62bab194972594ccc77d772214e35e0d82e68c9c2ed2703e7e287baa95c91ba2
+PackageChecksum: MD5: 1df97628b9ae8969aa11c74eb5f5131b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1180
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/__version__.py
+SPDXID: SPDXRef-item6609855
+FileChecksum: SHA1: 9e42fe7024f7ace92c632904fe66634902ac1401
+FileChecksum: SHA256: 6143db5e6f36bc9c999ae8f09d6c0668083f23bb85408f56257e94bb6ec11bff
+FileChecksum: MD5: 552b73f9a042c9fa72aa50ffbda4abec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors
+copyright__ = "Copyright 2014-2023 OpenEEmeter contributors" </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_segmentation.py
+SPDXID: SPDXRef-item6609735
+FileChecksum: SHA1: 870e6a2973929e35b36f29cf02cfdc7721915ba2
+FileChecksum: SHA256: b26b3c24ba0b44a7a53efa2ddec7ef1597b3c5edd327bf1bf3a6b82763e76793
+FileChecksum: MD5: 66e5d2f437726107237236a499488de2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_transform.py
+SPDXID: SPDXRef-item6609720
+FileChecksum: SHA1: 137c49f9ecdd3390dcd257a5af7d8c85070d3df7
+FileChecksum: SHA256: 2e524bbf41f462534467f6eb59e5bbacdbca49c73cfdbd9fe8f7f12370a23c23
+FileChecksum: MD5: dffb8773a1120cad0526373961291c5d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_version.py
+SPDXID: SPDXRef-item6609723
+FileChecksum: SHA1: fbae1a59ed7d5a68d42d9045185f49e7661fdc3d
+FileChecksum: SHA256: 2c8004e3570432fb9100cf4300dc8f7de1f83363c43975ea71b3d0b1d363aa28
+FileChecksum: MD5: cdd69e9142ca0291e5ee5b3195b11800
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_visualization.py
+SPDXID: SPDXRef-item6609729
+FileChecksum: SHA1: fdcc17282554bce51cb084d8150bacd169f98607
+FileChecksum: SHA256: 7f30029c436bf1d0061ec5a7f916bc1062bc80059b725780ba12185a0634b18f
+FileChecksum: MD5: d42af1eb6dd99b4575f4b8bda2c6a43c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_warnings.py
+SPDXID: SPDXRef-item6609734
+FileChecksum: SHA1: c49add12d3fe2a5831b53d9b696759b7664946ca
+FileChecksum: SHA256: 682785e15f8e604bb0d46c67465bd9d6c15f08be5e9a3f5b7d6196cae85d5c91
+FileChecksum: MD5: 8989d6807fa1e88d83f19474a1225a7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/CONTRIBUTING.md
+SPDXID: SPDXRef-item6609762
+FileChecksum: SHA1: 948e3f789fa35f2f95d9de2747cc0b87c217aecb
+FileChecksum: SHA256: f0512fa6a0efce39e102dfa687499a2793308751d85b0f699b3089b6eb3a1c3d
+FileChecksum: MD5: e674ba6339e155f91426e3f7d8d90d1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 1 Letterman Drive Suite D4700 San Francisco, CA, 94129
+(c) The contribution was provided directly to me by some other
+(c) and I have not modified it. </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/LICENSE
+SPDXID: SPDXRef-item6609760
+FileChecksum: SHA1: dfb2b726f337e43f5d719ccbf291eba91b9fd455
+FileChecksum: SHA256: 1d1af6f7534e1f08bd7817f3f09306c847c620252a2f00efb7f54ceebd78392a
+FileChecksum: MD5: 45e678f3a436a0175fb2e4057105540f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/README.rst
+SPDXID: SPDXRef-item6609870
+FileChecksum: SHA1: 92300c34168e69b2359e6302a1ed9e9383f01793
+FileChecksum: SHA256: 9bb9ec26b17942a82734baf0cb21dbd0b4967e486ea64ea69807897b912d32da
+FileChecksum: MD5: 2d894d2715dc2a862fd74da7d3751832
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 88 </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/LICENSE
+SPDXID: SPDXRef-item6609920
+FileChecksum: SHA1: 34b2b37ec594d86bd391137b4fb644eccb17bdbb
+FileChecksum: SHA256: 36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673
+FileChecksum: MD5: 7bae63a234e80ee7c6427dce9fdba6cc
+LicenseConcluded: CC0-1.0
+LicenseInfoInFile: CC0-1.0
+FileCopyrightText: <text> Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her
+Copyright and
+Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_templates/sidebar.html
+SPDXID: SPDXRef-item6609747
+FileChecksum: SHA1: 1aec91bb200ae4f70d56bb2d831f70bc57e83839
+FileChecksum: SHA256: f0c734d4078c4641ed7ec56ddde418ad40364f2714488f0e7749dbf98296d3c8
+FileChecksum: MD5: f7b873b8e63bdd4d9e1a702bc0e84f34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 88 </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/conf.py
+SPDXID: SPDXRef-item6609759
+FileChecksum: SHA1: aa2c4168658a74cc8d9be6a9f89949a17e36eac6
+FileChecksum: SHA256: c50509156768dccd186dbc582613f780b65b69a3ba552a41921fc292551794cd
+FileChecksum: MD5: 217df441cf8804b17c85dbff8d30cb5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors
+copyright = "Copyright 2014-2023 OpenEEmeter contributors" author = "Phil Ngo" </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/caltrack/__init__.py
+SPDXID: SPDXRef-item6609774
+FileChecksum: SHA1: 524bd4c853ae04f82f45f4dd979b5b8f6b8fe824
+FileChecksum: SHA256: c08af788bafb550bf85198c218428171dca7ecc90c86fb079d91417236237389
+FileChecksum: MD5: a7a5597d8fcc9f353acd540ae0db641f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/caltrack/design_matrices.py
+SPDXID: SPDXRef-item6609771
+FileChecksum: SHA1: 97b5762004c0639f84f2d1a246e070f35ee34983
+FileChecksum: SHA256: 51093b475182c4fb44bde4ff9337e30195e41de0e665e2aad2bafa7594850ebf
+FileChecksum: MD5: cd417aef2399ccee0b4abcf26fef2b8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/caltrack/hourly.py
+SPDXID: SPDXRef-item6609772
+FileChecksum: SHA1: 586c0213455f6dcf0029b85d42935d6574772681
+FileChecksum: SHA256: 037d0084ed8c8395d7444b2c5345935378e95988cdcdb6ff4ec2723cd2c08bfa
+FileChecksum: MD5: 01cdf6ae645498cb9df3bb5127250c82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors
+(c) for c in data.columns if c.startswith("bin")] </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/caltrack/quickstart.py
+SPDXID: SPDXRef-item6609775
+FileChecksum: SHA1: b7b56673db83f6cb837812e9d31a775dcd1ccbc3
+FileChecksum: SHA256: 42c10d0b2ad83c7bead2e13070441fb28c37da1ce286e2fd355916d8d2fb24b3
+FileChecksum: MD5: c457ba6a8448df55b9e5169382309689
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/caltrack/usage_per_day.py
+SPDXID: SPDXRef-item6609773
+FileChecksum: SHA1: ec48ab3c19a450109ef4fce7ef3d3ee7b7da6d7a
+FileChecksum: SHA256: d973441acc2ebe572a72e4d6a8a6defde40ad4834485ec93dd815ca4f96c0d64
+FileChecksum: MD5: 4c8dd01f7ea8316a3472bfe4eb560082
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/__init__.py
+SPDXID: SPDXRef-item6609819
+FileChecksum: SHA1: 263979aaac63287da9b93e23ab88525a6459792f
+FileChecksum: SHA256: a05e21011d12c2943ac223a5bb81808426396eb2e6983521013fe20d94c8f15d
+FileChecksum: MD5: 4b13685e0e9045ed53ec5ba8b32f908c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/load.py
+SPDXID: SPDXRef-item6609854
+FileChecksum: SHA1: c85877374c1733480291784536a795c4da3d2433
+FileChecksum: SHA256: 99d7cc2959fc404292dcf105ef9377e7657e2018787fd0fe022e132737d8b3ec
+FileChecksum: MD5: cef97dd61624c54e792b11638076a342
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/__init__.py
+SPDXID: SPDXRef-item6609778
+FileChecksum: SHA1: f23c6e02fca9141c097763f050950fbeb0f4b97b
+FileChecksum: SHA256: 69b01e786d1273f0a2aa519aae32b9a5dd7d175dc05302098a70a08ebdeaa0f8
+FileChecksum: MD5: c3a7c63820cc27b58ab07f275e47e9d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors
+copyright__ from .caltrack import * from .derivatives import * from .exceptions import * from .features import * from .io import * from .metrics import * from .samples.load import * from .segmentation import * from .transform import * from .visualization import * from .warnings import * </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/cli.py
+SPDXID: SPDXRef-item6609765
+FileChecksum: SHA1: d7aaa0e66c00e4cd270600c59fe78465758dcc59
+FileChecksum: SHA256: 5bce964f218bca952b6cb230289da4791bbd2d280a715b40c375628df24389f9
+FileChecksum: MD5: 256f4a259921c2f2f5dd7f8ddef6e1df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/derivatives.py
+SPDXID: SPDXRef-item6609766
+FileChecksum: SHA1: f9769a2b3ebea2bab7103ef3d3320734b37f62f9
+FileChecksum: SHA256: d9050626958efda8775b72684414a453ac399ad0f48eba9daa6c5c88a6361734
+FileChecksum: MD5: c7b36150a6ac5ccc45713b29683dc382
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/exceptions.py
+SPDXID: SPDXRef-item6609857
+FileChecksum: SHA1: 5837922116358196b3e4a8acb40e92309a019575
+FileChecksum: SHA256: 388dd7640771c7073c2add3d32e707671468e83c34d9d17698488599c3450b05
+FileChecksum: MD5: 00b818d2365ff2aea40e5602d9939722
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/features.py
+SPDXID: SPDXRef-item6609769
+FileChecksum: SHA1: 4b7f33eaaf39e6e88dad60700b0d1244de8c6d0b
+FileChecksum: SHA256: 6cc55e13ee6a55e6da55ae18385a7bd1ff3ff31676ef26d25b3b4f341a5a6b88
+FileChecksum: MD5: 5679b9ec93e7eb0ddb08e9cd11b51471
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/io.py
+SPDXID: SPDXRef-item6609776
+FileChecksum: SHA1: 35cc7807656c3f779d8d7ae89c9b79e884401bfb
+FileChecksum: SHA256: 0d7cd7d2774b2beb234c98dfc05e35133113874a0c271afbcf76aad6ab00f33a
+FileChecksum: MD5: fb74a448fc6fca1a09c566c521995d14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/metrics.py
+SPDXID: SPDXRef-item6609856
+FileChecksum: SHA1: 3c7892691b855c83cb63859c0165cd19864281db
+FileChecksum: SHA256: 20c2850a8147d6c16d2b6eee753040cdc36fe997cc4b44f774accc1fbd362218
+FileChecksum: MD5: a8fd0b9ab9159449c779535344c246fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/segmentation.py
+SPDXID: SPDXRef-item6609764
+FileChecksum: SHA1: 1e005d0d274c799c5457a8aac138fb9d710bbf1e
+FileChecksum: SHA256: 03b08463c5d9f35c31c602b6f7657b8fc09d88b4d0d25034179147cbd541e15c
+FileChecksum: MD5: cc1d77ef1f32e5efd98f25bf02187e16
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/transform.py
+SPDXID: SPDXRef-item6609768
+FileChecksum: SHA1: 5cc98b006c1b07788bac46aee045153a7b8bd34a
+FileChecksum: SHA256: fe670570ce88aa4e6a48fd56f40869249d6dbf5862e12ef9403bcb6bbea21423
+FileChecksum: MD5: e585d5dd701f4084bfea12bf252ffd75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/visualization.py
+SPDXID: SPDXRef-item6609767
+FileChecksum: SHA1: ae750a50cf589c3a87f44a29778dead49eca75d6
+FileChecksum: SHA256: 7161df9a09fbe721242ba7aecba6ea4c3afad74c55fbe66085a4634834a520bf
+FileChecksum: MD5: 38508f5f5988db38819aa9910367f8c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/warnings.py
+SPDXID: SPDXRef-item6609777
+FileChecksum: SHA1: 4634aac874a05d79a83a4f0dbe0ccf8b21501f25
+FileChecksum: SHA256: d0a74c9174e7392828fced47c0917127039928dced5b877af492910677a007fb
+FileChecksum: MD5: 5641504151b1bcf70e19b8dc942b34ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/conftest.py
+SPDXID: SPDXRef-item6609728
+FileChecksum: SHA1: 54473e060ab21fbd9f52b24a2f935119a26d21fe
+FileChecksum: SHA256: 5abf327433d41527a9829be9aec68fa9ef6b12c77ba5b145699bf3a7c59cfce4
+FileChecksum: MD5: 67758dd15590778ec5474e92ba35a294
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_caltrack_design_matrices.py
+SPDXID: SPDXRef-item6609719
+FileChecksum: SHA1: 44f7784e6adb065b89c7e8644a6be7a52a531d8a
+FileChecksum: SHA256: af9bc624e809dde5e5e56e96786f32b417851f4ccd40b52d9131f1418d91f043
+FileChecksum: MD5: caeb49b8c31fd8fcb61e832a97775048
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_caltrack_hourly.py
+SPDXID: SPDXRef-item6609721
+FileChecksum: SHA1: 4f968c89c76c22eeacaa5f4172a000ba2b74653e
+FileChecksum: SHA256: 069c5325f5c5189c0e56083f4c9734fff18841454202206231408a8bb6d7688c
+FileChecksum: MD5: 742bf2b3286f9505afe10589517f7ffe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_caltrack_usage_per_day.py
+SPDXID: SPDXRef-item6609725
+FileChecksum: SHA1: 05857cad5df6699779f49ade2301906133d51553
+FileChecksum: SHA256: 24a278434ff6881e9cfeb99a09be99e6eb6a9118c93ce58ef10bcf3a1582c150
+FileChecksum: MD5: 0030dc66527769a5954668afc245349f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_cli.py
+SPDXID: SPDXRef-item6609722
+FileChecksum: SHA1: 67dcd359eb6f26062a85855625d4ef1176da7862
+FileChecksum: SHA256: 0ac384055595fc47164bf1323dc078ffc2bfe84a484490d2256ce6e78cf4460b
+FileChecksum: MD5: 02b5a6659c807b3aec936aef956af76b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_derivatives.py
+SPDXID: SPDXRef-item6609727
+FileChecksum: SHA1: 781d98e377c6ff0fdc112103a76536f8e9d74c22
+FileChecksum: SHA256: d691f4f8b6a3fde226d4795b1970e0a1fcd89ca5f12e080f092de578e342245a
+FileChecksum: MD5: 6facc2517ba962c1db09cff1cc5d73bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_exceptions.py
+SPDXID: SPDXRef-item6609717
+FileChecksum: SHA1: c89e47f5925baf41f79a993a953b85c274fd2ffc
+FileChecksum: SHA256: 5cc477e6fbb398eaa5bc15ed2e73d8c54e57b0803cfdb96ebe822d605b0304fd
+FileChecksum: MD5: d17a0b05724ce071262982d1e4c4bec4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_features.py
+SPDXID: SPDXRef-item6609726
+FileChecksum: SHA1: 95515a5caea6c1116c7290a539115d4c0709ac45
+FileChecksum: SHA256: 5177f0d5ec4157a0517796b2f86773214eef9838a6ca50b478049539560522ba
+FileChecksum: MD5: 2749d1a873d31d0f4e783d2b90581fed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_io.py
+SPDXID: SPDXRef-item6609730
+FileChecksum: SHA1: e51f5c471c1cd8ef5c9f7d24645ec074f255000c
+FileChecksum: SHA256: 944acc36c16480fc06266192e94d89faec0a01661b0c9fe3515629790b433496
+FileChecksum: MD5: 4bd0b04492417551f8482ff946078286
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_json_serialization.py
+SPDXID: SPDXRef-item6609724
+FileChecksum: SHA1: da710a1816def61fb2db528d78926c9f173e0013
+FileChecksum: SHA256: 29f2f026c298bcdf6e42f4db322053e21e228d8d4dbdb662d5adb916cec833bd
+FileChecksum: MD5: 4d0c257315cea73a9818570bf3fbdcb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2020 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_metrics.py
+SPDXID: SPDXRef-item6609718
+FileChecksum: SHA1: a3caa73b8c40438d82d23e8fd598aaba7b7bfd4b
+FileChecksum: SHA256: 4c46d036964a80ae0704685757a535b3e41f6aeb501465e9bd0e083fd6cf8d01
+FileChecksum: MD5: 7a09009cb635c7f90222dffcfc67f2ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/test_samples.py
+SPDXID: SPDXRef-item6609736
+FileChecksum: SHA1: 16e5d3bbf1798eb1bc33d77b507da1e24296f056
+FileChecksum: SHA256: 667da5f58c16f8940a7d82eb647d9a09c2374f98f7764e1f5ca899aa9abfc4e2
+FileChecksum: MD5: 4d7e22946bd6dc5a8ab05d7b52fcfd08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/setup.py
+SPDXID: SPDXRef-item6609865
+FileChecksum: SHA1: f77c5956e594fa32684f31dd58358861bdc62877
+FileChecksum: SHA256: 3b847314997785b2764dc0df6f0767a6d90c9928d6fba6a8acac0e59640620fa
+FileChecksum: MD5: c23da5810c3994d6c1f33b1238da692e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2014-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/conf.py
+SPDXID: SPDXRef-item6609686
+FileChecksum: SHA1: d357c0b5220527f54a7e721244d8183b2cf388a1
+FileChecksum: SHA256: a42ba9fcdc2d65e6816caad3370772deaaf4aa5aa8faa61af69ccec22ef46f3b
+FileChecksum: MD5: 5390698f17ef1dee56711e607f5df4d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors
+copyright = "2018-2023, OpenEEmeter contributors" author = "Phil Ngo" </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/__init__.py
+SPDXID: SPDXRef-item6609645
+FileChecksum: SHA1: 9a698d59a5cb1fbab553f056a7c630d43617d3a8
+FileChecksum: SHA256: eac019a558f6e0a9a834dfc853bf4b8f5eef2c25c1e5d05d9cb76f23a5495592
+FileChecksum: MD5: ff1c9b46dcf9f34d354196dcb492f87f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/__init__.py
+SPDXID: SPDXRef-item6609660
+FileChecksum: SHA1: 49bf5fc8f48e2cf648c9757951ce21d8f81693b5
+FileChecksum: SHA256: f797ce4096bc9e07896335a52d0a4b810bad5506ea11cb7fea3fda1db38ab388
+FileChecksum: MD5: ce2569fa20421fb6011e928d4adcdb78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors
+copyright__ from .geo import get_lat_long_climate_zones, get_zcta_metadata, zcta_to_lat_long from .database import build_metadata_db from .exceptions import ( EEWeatherError, UnrecognizedUSAFIDError, UnrecognizedZCTAError, ISDDataNotAvailableError, GSODDataNotAvailableError, </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/__version__.py
+SPDXID: SPDXRef-item6609662
+FileChecksum: SHA1: f3dadeaa060ebd13dc9fb7154ebb7a6ce5bc5ab9
+FileChecksum: SHA256: 2fe29944505da58ab548d7516117ec0c8d53d59335d440d8887846103d0d636a
+FileChecksum: MD5: c2cdebad6db4c9abf0549060cf51738c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors
+copyright__ = "Copyright 2018-2023 OpenEEmeter contributors" </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/cache.py
+SPDXID: SPDXRef-item6609630
+FileChecksum: SHA1: c96a9f30311293ee5437fc4af89ab814fd0195c6
+FileChecksum: SHA256: 5b8e75ca4bd7008f89c274310a1d9c5ffba70d8764beb197a4da28c2f5bf54b7
+FileChecksum: MD5: 3bfa691a42a5cc160eda83b24ea379ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/cli.py
+SPDXID: SPDXRef-item6609632
+FileChecksum: SHA1: cbb6d777907995416a96d7559cc4afd13362c713
+FileChecksum: SHA256: 7a15853e2fca46f0490b42929163f10ecca27aba803d12439f3c4951f02d6d83
+FileChecksum: MD5: 6b9e2538c4bb1f653e2e796734043209
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/connections.py
+SPDXID: SPDXRef-item6609664
+FileChecksum: SHA1: c20cc049cd5f12bf9407ae92cb87d0b021835b79
+FileChecksum: SHA256: c0b4c216ce55021c040618d7628f457b339efc2630e3b9e2c89c20a66457d5f3
+FileChecksum: MD5: b0d380c885e491ed67e6fdea732bead9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/database.py
+SPDXID: SPDXRef-item6609656
+FileChecksum: SHA1: 4921f8354fdccae81e3d79f59af61254e1cc5919
+FileChecksum: SHA256: df47b022cf2dc20b41c1f2ede946310333e5dde51eb0827b2cc9b92da5c16c8d
+FileChecksum: MD5: 1cfcdc98fa06bc82948cd38924c022c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/exceptions.py
+SPDXID: SPDXRef-item6609665
+FileChecksum: SHA1: 9d039309d46fb2d75283fd272b58ee4567854933
+FileChecksum: SHA256: d5d84c6e5bc63b7ae0a002f9d7dadcc6d3dd1f9f33a353c661a0fe83337318d3
+FileChecksum: MD5: 85820ea8921ae2d19520cac34b70ecd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/geo.py
+SPDXID: SPDXRef-item6609658
+FileChecksum: SHA1: 2649d1628fd37a51ffb49278bb1e40dc111c4a92
+FileChecksum: SHA256: 6680ba8b6e04eff31bbeec686354b1189b7c92e15cbaac31726b09f0d61ccc76
+FileChecksum: MD5: a6f261203ca67ed7dda79036902fcbb6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/mockable.py
+SPDXID: SPDXRef-item6609663
+FileChecksum: SHA1: cebc99a7ac4e7fe29814bfec70354524af7641fb
+FileChecksum: SHA256: 2781d3228ef79366eadd5e19291b5c61c82f294a63cf3d14cce78385ccb38e3e
+FileChecksum: MD5: 1e7fa4805500772c3ad4f890718add60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/ranking.py
+SPDXID: SPDXRef-item6609655
+FileChecksum: SHA1: c7e83a9ce13cdc993c04bc7eb376c828f8225fc4
+FileChecksum: SHA256: 72f059cbe5bee72d80bacbe84a48360ce71052e79ffdd2364ac822b00e04e010
+FileChecksum: MD5: 1e4e53f7f96d5b7b10d3b3a6b8796dea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/stations.py
+SPDXID: SPDXRef-item6609631
+FileChecksum: SHA1: 83034689e97c54b87984a4c28c77e284ed86e116
+FileChecksum: SHA256: 856d9f7ecbba8c7786800a9831bca145b16292bf094e32619ff398759f2dbb06
+FileChecksum: MD5: eb46f9dc5410b3260da7df5526f0d74f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/summaries.py
+SPDXID: SPDXRef-item6609657
+FileChecksum: SHA1: af97aa89201bd0b349a62089d73bf89e95e7cfb4
+FileChecksum: SHA256: b51144f8f229d7cd2a563fc07f24cabb92686ae76aed221adaa9d3c9546616d4
+FileChecksum: MD5: 385d1a299ceab7d25afc96f6eb8dcdbd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/testing.py
+SPDXID: SPDXRef-item6609661
+FileChecksum: SHA1: b7fcb278cfd6db98c8c5a9c625271ccfcbeaff53
+FileChecksum: SHA256: 59c83e03476caed69e19687a8431216244b2408266f055a7fb2a4c5e594fbefe
+FileChecksum: MD5: fdc72cfdcbead3ea11da58b58eb638d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/utils.py
+SPDXID: SPDXRef-item6609667
+FileChecksum: SHA1: 8a0acee00ef6e7474c1b5c4dda2417ccbf7ee851
+FileChecksum: SHA256: d266473b99c69153e81d5aaea35b7a347279a6f21398ed765df1a99ee7edf497
+FileChecksum: MD5: d0de5bee8e342e40d7a6ec2b0867ffb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/validation.py
+SPDXID: SPDXRef-item6609666
+FileChecksum: SHA1: d139c5f543e2ce05ca58c540922eb1bd68d81314
+FileChecksum: SHA256: de758ca416f61300aade0731514de30ecbe3400ce65ed57f49296fa1b2904db2
+FileChecksum: MD5: 7ab68818d9c74b0f2636cbe9f33dd8fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/visualization.py
+SPDXID: SPDXRef-item6609654
+FileChecksum: SHA1: ae2e6b6bc04b778b3b04392a9c0747afaddec28e
+FileChecksum: SHA256: fd71e0193f2543e9a7768ffa54f14028b7c4fb8daec93cc1d44b6595d304ba0e
+FileChecksum: MD5: cebd20e538eb4d1ece0a2475cee071b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/warnings.py
+SPDXID: SPDXRef-item6609659
+FileChecksum: SHA1: 7e2ce2a327b2f0d737d4692cc36df34c84b7f5e6
+FileChecksum: SHA256: df5b1958a5c81a76c55df0d6b46831b7f5d69109b8a82de9ce05e78c608e23c6
+FileChecksum: MD5: fb74fff20729c3f5e8ad499089d33f7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_cache.py
+SPDXID: SPDXRef-item6609616
+FileChecksum: SHA1: 31ec5db4083e094261ebe3c0d193f46ed941a7ee
+FileChecksum: SHA256: 9a79f18264b557f22fcdb969f0056eda38bc701d0d4697c65668ddd5ec781e89
+FileChecksum: MD5: f8f951a6124e2ef29b08e471b5444247
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_cli.py
+SPDXID: SPDXRef-item6609614
+FileChecksum: SHA1: 3acbaf8517508f9155821239b8814b7d24f64ad8
+FileChecksum: SHA256: 0e2161559bbdc642d99121d17ac095d66c63b44520deebf056a40afbb7d119fe
+FileChecksum: MD5: 8a5c35cef4e399572dfb655f93e42c25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_database.py
+SPDXID: SPDXRef-item6609612
+FileChecksum: SHA1: 05d128e95a7a9393063d4ca3345731edc7d8b4eb
+FileChecksum: SHA256: 3aabc736b41ecb58a7885c67f4fba14c488e1ea4e609660c9bcb2dde89e8e8b9
+FileChecksum: MD5: 2496e3de418e4492ff761f16aeab2d6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_exceptions.py
+SPDXID: SPDXRef-item6609611
+FileChecksum: SHA1: 35ec1d33458ac737ea4f89f1a4e569d116564a31
+FileChecksum: SHA256: 2297d4b5a208bff80aa7a5a8b8165a6c126652092e95e47ebdfab79e3c4fc94d
+FileChecksum: MD5: cae1e19c479e94d949b3ae97e10e3a34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_geo.py
+SPDXID: SPDXRef-item6609613
+FileChecksum: SHA1: 079fe6fad08741ac1a89542da08554469d9d6afd
+FileChecksum: SHA256: 4ec7b43cf1d22e32c609b99f67cbd257e56b038ae9a4a54fb6be946aedbf7021
+FileChecksum: MD5: fdf76bfa1b5c80181be1ff62d939a7f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_ranking.py
+SPDXID: SPDXRef-item6609617
+FileChecksum: SHA1: 115dab42d009dad142b0e0f9d27123d71103aab5
+FileChecksum: SHA256: 3088699a07d0159df692885c14766ca166519f1d9163d101e6e08a6754248887
+FileChecksum: MD5: dfd4b2f8e6441874ce7dcfca0e2520cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_stations.py
+SPDXID: SPDXRef-item6609626
+FileChecksum: SHA1: 61ff9291cc967371a1c27739ceae4346688a7fe0
+FileChecksum: SHA256: 5d24aa7faaf3f7a8187758048de2d92e179c919124a1f5469043118609d90f75
+FileChecksum: MD5: 725a10813969d8d2ca532f6408b06358
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_utils.py
+SPDXID: SPDXRef-item6609615
+FileChecksum: SHA1: cb442a45ace3663a93dff1d33bb8b29758506e54
+FileChecksum: SHA256: 640c2691cdfa084817e5efd18bf61b479ffe0e1a3f5cf28023e567ce56f131d6
+FileChecksum: MD5: 1b2377bddefc617f1f0ca7c0e635a841
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_validation.py
+SPDXID: SPDXRef-item6609627
+FileChecksum: SHA1: 160b4aaa3d8ee1f835bd0a0252fe28a1d640776c
+FileChecksum: SHA256: f45e6b7c3615d5c705b7789987a552578a3e2aa03e4a127831738cc6c4c4590a
+FileChecksum: MD5: 5862461a802d5354043c286fcb6d3590
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_warnings.py
+SPDXID: SPDXRef-item6609624
+FileChecksum: SHA1: 8111f539b7507f73a7db6c2cbd5b0f4e4f1dac14
+FileChecksum: SHA256: e50f6f59e2f0130eda3addefd0372e0b95115ff69b62d6c56cd1215e03f890e1
+FileChecksum: MD5: 72c2622eb6d1857e52e0bdeffde61033
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/LICENSE
+SPDXID: SPDXRef-item6609687
+FileChecksum: SHA1: c9e953b53c81d6ff5c06d3a3692d900f622f7201
+FileChecksum: SHA256: 260125a5973d5e68674e2dce6403c499e482f0eb5a8df6b9f7f354ef347178b9
+FileChecksum: MD5: 06aacde0946bb27fde57bbb1c21b2313
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/README.rst
+SPDXID: SPDXRef-item6609702
+FileChecksum: SHA1: 1f470895f8526fc946388a75b6c6fe27248d4562
+FileChecksum: SHA256: 100f2458ad99b44950b485c1bc03284c50d4331d10286933f7ebad6b9469d017
+FileChecksum: MD5: b6080ae47c3933562f4772064dc905c7
+LicenseConcluded: Apache-2.0 OR LicenseRef-fossology-Meta-External-Reference
+LicenseInfoInFile: LicenseRef-fossology-Non-commercial
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 88
+88
+88 </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/setup.py
+SPDXID: SPDXRef-item6609697
+FileChecksum: SHA1: 292fa38b69120c314b51875167c9632a975a856c
+FileChecksum: SHA256: 3c8c39506d2a807725cdca2ac15e0a9e8c4e49b071ceb4376c154f0ce27116ac
+FileChecksum: MD5: bb7b22b251995334a46f8f83d61ec3f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018-2023 OpenEEmeter contributors </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/snapshots/snap_test_summaries.py
+SPDXID: SPDXRef-item6609619
+FileChecksum: SHA1: abab898a72ee7059a7bafc8c44e3c0b730ed49ef
+FileChecksum: SHA256: 9b514053f38cb4f51839de44f521f978aaee4da57e52e6d63e7415cf6e2d0934
+FileChecksum: MD5: 500bb709f2711203b7b78825c4bdccec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/snapshots/snap_test_database.py
+SPDXID: SPDXRef-item6609620
+FileChecksum: SHA1: c852f7c95903218f6281d5e822ce3b6dcb3f778c
+FileChecksum: SHA256: d5773c01741a2fc75b99b1063b353988bdec9fd57d0ccd140f0938bae0b198dc
+FileChecksum: MD5: 4ef6cd9acf0cfd560a130c4661f5055e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/snapshots/snap_test_stations.py
+SPDXID: SPDXRef-item6609621
+FileChecksum: SHA1: db08edaaa7296912fac083076ec3ef2cdb7fa608
+FileChecksum: SHA256: 0d7100eb0d940fc39e34a7053ab8833e327e4128ef4c2a6d05d0684745d4cb13
+FileChecksum: MD5: 984fd2b5ededc4401b30f23bbd4aface
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/snapshots/__init__.py
+SPDXID: SPDXRef-item6609622
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/snapshots/snap_test_ranking.py
+SPDXID: SPDXRef-item6609623
+FileChecksum: SHA1: 6daa2aad8bc71cca775cdb6f61b8c91477791531
+FileChecksum: SHA256: a48113ffceee74b9e9136344f4bdab993580c92c94888039bdab3bfd5fefb122
+FileChecksum: MD5: 8a83af182d158663b5541abd2bcc77c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tests/test_summaries.py
+SPDXID: SPDXRef-item6609625
+FileChecksum: SHA1: 763c7299efecc4a19b09cd897ecdc7b280fc0a06
+FileChecksum: SHA256: a4133952281a1107c94da281405633c551824ad866e6e19fc7e1ef7748dd5135
+FileChecksum: MD5: 779a65186f9f2cfc288988bf98073e28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6609628
+FileChecksum: SHA1: 718da4a2dbaeda806db8abebd242e4057bbd2ee5
+FileChecksum: SHA256: f3a34ecb0740cfcde96dbfca78289dfeb7f92244ba5b0646c159291bb469732b
+FileChecksum: MD5: 8a8bea5fb8d25e9971091895e84b104c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/722880TYA.CSV
+SPDXID: SPDXRef-item6609634
+FileChecksum: SHA1: 3b7a52a0a0b3783ce95486805abfe882e6eb9d04
+FileChecksum: SHA256: ac2ae5d91e5f60688b384de7d2f29b59063023483e0f8b0b88a1ac42af5f1f58
+FileChecksum: MD5: f605de380b010941db33a3083d39d06e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/GSOD-MISSING.op.gz/GSOD-MISSING.op
+SPDXID: SPDXRef-item6609637
+FileChecksum: SHA1: 8ae1b163ddeb6d87bfdc8996ca7a9de9c8a67db3
+FileChecksum: SHA256: 265756119cf58349d8d0fe80bea96400a37fc8ffe46136ac196b66b58b8fe570
+FileChecksum: MD5: 5935bc1acae93072a9ca1febb6cf9ea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/722880_CZ2010.CSV
+SPDXID: SPDXRef-item6609638
+FileChecksum: SHA1: 028f4caecb6ff68797f69f6f28839eae38878fe9
+FileChecksum: SHA256: 040c70e6dcd3408995d37b45aa51e254fc8592c382da4f04a3dc46bf93ce31eb
+FileChecksum: MD5: 11a9bc5b9df0eb01e263b54acd32d6e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/ISD-NAN.gz/ISD-NAN
+SPDXID: SPDXRef-item6609641
+FileChecksum: SHA1: d6b2dee9eff1f599c86261552212f895e9669773
+FileChecksum: SHA256: f745e56a9d4758cd0138977e72cb54002d4bae375c8573488064c2b11ba42a8f
+FileChecksum: MD5: 5221b2101965c98ff268094a88ea6ba0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/ISD-MISSING.gz/ISD-MISSING
+SPDXID: SPDXRef-item6609644
+FileChecksum: SHA1: 2bab354bd073dd54747ddca6b6328a7b3a5769f1
+FileChecksum: SHA256: 2c8256b1a37100d36fdff17e26cd01b74163f217cab9e2c03670769e80483e78
+FileChecksum: MD5: 607af71e403a225d0301ed644cf1d949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/GSOD.op.gz/GSOD.op
+SPDXID: SPDXRef-item6609648
+FileChecksum: SHA1: 9fcbf9d0be44b438ac4b13feec78bb9feeacfcab
+FileChecksum: SHA256: 07a1520947958b69ad9869494d96639e938ce1ff070e13967916769d276d7e6f
+FileChecksum: MD5: 8ac110e28342c8e4fc2f7727555a7944
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/tmy3-stations.html
+SPDXID: SPDXRef-item6609649
+FileChecksum: SHA1: 6962bc8d40b479fd66a9485c1e32db6f8df0c2cb
+FileChecksum: SHA256: 25ef7ac204951e4a03407fc81807a7f03960491bd632c7e637ead5aedffca2fb
+FileChecksum: MD5: 8e8d5f9a778ca2c40cfa0480a0bc0004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> COPYRIGHT INTERNET ARCHIVE.
+COPYRIGHT (17 U.S.C. SECTION 108(a)(3)). </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/ISD.gz/ISD
+SPDXID: SPDXRef-item6609652
+FileChecksum: SHA1: eba7f25467ee9691a5cd0deaaed583bae05a2b5a
+FileChecksum: SHA256: 0c2bb5fa2518e7659d1460d928a615277c27560337bc18486595a909cf9464d8
+FileChecksum: MD5: 2ff5d337940fb718d30c26e3c63e2109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/eeweather/resources/metadata.db
+SPDXID: SPDXRef-item6609653
+FileChecksum: SHA1: 81114b5ccc6de72956a21a73bb41daf2a774b1fd
+FileChecksum: SHA256: c891f1a81f1f4fc61a2aaf32281f909fcb62e35775a2af8c253637e1d800267e
+FileChecksum: MD5: 7483c8348fb69650574f0b67ca633353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/spelling_wordlist.txt
+SPDXID: SPDXRef-item6609669
+FileChecksum: SHA1: e2e3f0b963efb38c6667dd52e9eb562599c48571
+FileChecksum: SHA256: e01ccee06f6ee1c8c9ed7bea85e7fb2729c6ca74598e4fa7df3c3a5c239a68f2
+FileChecksum: MD5: c610b15339184b5f8c285f751311a625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/Makefile
+SPDXID: SPDXRef-item6609670
+FileChecksum: SHA1: 245fc2c1b69c4440e1c445a8382c2b6446b2a723
+FileChecksum: SHA256: 4312845e5b11b3ee5d9fb987c0f3f76987729835c555e548335f88e52e15024e
+FileChecksum: MD5: 99e61b17c01402706476a81c26241a91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/advanced.rst
+SPDXID: SPDXRef-item6609671
+FileChecksum: SHA1: 4f02773d902dbd1842387e9c53ad91e61b4ba641
+FileChecksum: SHA256: c83e50f54d4e68d03f792b64ed0a0fec4aa2ad02df6dafb5beb90bd8ca822203
+FileChecksum: MD5: ea997cd9151e39fd4c31382cd4fe7c3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/index.rst
+SPDXID: SPDXRef-item6609672
+FileChecksum: SHA1: e3582d67f552f790388b8c1e656c869826adcff2
+FileChecksum: SHA256: be82ca677eb50b64c936a59ea72f6d3709ae17b65b261d4832384028a0a2f4c5
+FileChecksum: MD5: 43881a337290c4a20180a248039d7ca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/make.bat
+SPDXID: SPDXRef-item6609673
+FileChecksum: SHA1: 464b02b0318a6b765481a517f07db2d8ff1feece
+FileChecksum: SHA256: f96620fc710fb7463fba898685f07e4ac73cd68c380a32b5d06becd3f355cee7
+FileChecksum: MD5: f1010b1e98ae24cd75c6e804399da4be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/basics.rst
+SPDXID: SPDXRef-item6609674
+FileChecksum: SHA1: e0858793fa0a6e4d945fc4c6fb7492cdc197b986
+FileChecksum: SHA256: 7af8823ef24860b8cb2f1ec4759888082ace9e7b3534cd479ba3099811bf88cf
+FileChecksum: MD5: 209a2e6a25dbf008aa45d3eabccc53ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/_templates/sidebar.html
+SPDXID: SPDXRef-item6609676
+FileChecksum: SHA1: c592106f8942af3924dcef8dfe4104bed8a073fc
+FileChecksum: SHA256: e0043b2a91fb43d60bdaaf3581ca50c2348e9bfe185f10c3e3ba88d95f25ce76
+FileChecksum: MD5: 680265331335e1c2bf23a19adebf89dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/rtd-requirements.txt
+SPDXID: SPDXRef-item6609677
+FileChecksum: SHA1: e7e07d117be4a5fda3c112977f7bdaf1790683a9
+FileChecksum: SHA256: c1be83676c1c5734e5d2207e96cf1fec87f338786ad53a112c267f6157f1ba6b
+FileChecksum: MD5: 9dfe491e979f9ff2ea94cb9f3aa1dd1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/api.rst
+SPDXID: SPDXRef-item6609678
+FileChecksum: SHA1: d7fb907060acb7f05b5d2c5f2baa7d025170fa0f
+FileChecksum: SHA256: 1f0dd9ff880000685344c3f04aed99a1d8e3e9099a0e34536067e94ea5ea90b0
+FileChecksum: MD5: d73d324d1eaaf57a754964d27e344faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/_static/css/custom.css
+SPDXID: SPDXRef-item6609681
+FileChecksum: SHA1: 19f8dfdb8eeb20b0ac35a58c5d5355a8fd21547b
+FileChecksum: SHA256: a0f9a2f9d2d5465efaf3804f6e47707e745aeae3cfceca1c54e2ca7cdd1c69d9
+FileChecksum: MD5: bc9c178c9e4ea14f97c3405981ae029f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/_static/oee.ico
+SPDXID: SPDXRef-item6609682
+FileChecksum: SHA1: 309b66306dd55b0af3be4798fb7138e6555ecb12
+FileChecksum: SHA256: 10bf601d7d763e8847dd04072ea5f23d1b463562797afc5dd7f609310743c99d
+FileChecksum: MD5: 9e2529aa4b1d39a9f46890ee68b247f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/_static/plot-91104-to-722880.png
+SPDXID: SPDXRef-item6609683
+FileChecksum: SHA1: a2226751223cd5d4662111655bbe6061d80f201a
+FileChecksum: SHA256: 6512a2217a03d72f585186d7124d677aa9b08f108c8c6814d52fbc759be2dd7f
+FileChecksum: MD5: e1f318edc9f4311c13bb2bfc94059c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/_static/openee.png
+SPDXID: SPDXRef-item6609684
+FileChecksum: SHA1: 220a9a79598c1861f51348ff5005a3304e32261d
+FileChecksum: SHA256: 07467ad7774a4a9da231930210245d1d02787d1a2963d0baaf7288a73547424c
+FileChecksum: MD5: 2086dc9b428a7881a9ba23b2784ea55a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docs/_static/station-mapping.png
+SPDXID: SPDXRef-item6609685
+FileChecksum: SHA1: 9106197879df292dd707ff75a6bcdfef0ed211a1
+FileChecksum: SHA256: 40a8159c879b469300eb164398b81965ce62b2dfa1437eb801826e0c4f2e55e6
+FileChecksum: MD5: 11d823df4d4a3005c28967c0171db765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 4pzdnáÚÉWìo}a3¼??Í)_Èb³³oß>ûÓ?wXÿ¨¶tÂAiq?dK/ ?§ì?¶-¯¼lÏm½b÷=ôÍ?uÈ Øcc?~A?°;í¥§ÿĶýò?ì׾ò_K1Kö'׸ð </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/MANIFEST.in
+SPDXID: SPDXRef-item6609688
+FileChecksum: SHA1: 6b217867329d68e3ad1a5e51ef2c2774692fa660
+FileChecksum: SHA256: 2061a2e4b6f669cc753866891c01e3e957acdca729b6023b751c7f0f18e4c180
+FileChecksum: MD5: 1d2fc5a9867575629f0aa74458f9b906
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/CONTRIBUTING.md
+SPDXID: SPDXRef-item6609689
+FileChecksum: SHA1: ee1e78ed5b48e7b2f9f5165534ad4bbd36b19c7d
+FileChecksum: SHA256: 4b3caf9b972042ed60418918eec294ea9176fe9347a7dd2850fdce6e26cf8761
+FileChecksum: MD5: ca1acc7ed38d21c7d2aec26aa790b6d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/pytest.ini
+SPDXID: SPDXRef-item6609690
+FileChecksum: SHA1: f01b7fdfb19c2ca612ac6ae6aacb4e66789c7249
+FileChecksum: SHA256: 914512fefd4f3259d6002fc92aae1d38e0c4ec5c8a612ad9ee981db30c528c06
+FileChecksum: MD5: 824f432e93f8d843364a122bc5672656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item6609693
+FileChecksum: SHA1: ca7ec6dc303459058d3117f33878beec538d3023
+FileChecksum: SHA256: ee853a1931ed4166feb0fff0eab4880c72aa246c5897c87fe43b2f2e23859d95
+FileChecksum: MD5: ed2255072a8baff5cc6ef57448dcffc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item6609694
+FileChecksum: SHA1: c4317982126838b2ca44d7e35484776036eec141
+FileChecksum: SHA256: 48e9e4e3e25295090394af4ce82620d6ed3ce115c15c56dbc69f28459a3834a4
+FileChecksum: MD5: 5f886c0a9649328ae8871325194e461a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item6609695
+FileChecksum: SHA1: 7822087b28552dfe053c5f977ddde182cfaee87b
+FileChecksum: SHA256: 96820a063734ed4069c81331987aada42ae2934568058853b699950a8e630fc2
+FileChecksum: MD5: cc5fe3f78a7972ac9834a73282c19bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/Pipfile.lock
+SPDXID: SPDXRef-item6609696
+FileChecksum: SHA1: 6fb4f8cab32ddba1be776bc38273085e434e9e64
+FileChecksum: SHA256: b539e43c79e2e0800eb52e5435637dba7825eafd1ae283146ff92230b37f5c38
+FileChecksum: MD5: dc4171c276f160f7b0536bb8d1501d42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/tox.ini
+SPDXID: SPDXRef-item6609698
+FileChecksum: SHA1: a8a3ba5c41899f388f2d1de3c89f906bb754942e
+FileChecksum: SHA256: 2238242f248075b0442e9f402c35c3e035a0c02c24bb0312a76bbdbcdb8704c0
+FileChecksum: MD5: 04478a531d64b8d30d9f98713c033159
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.gitignore
+SPDXID: SPDXRef-item6609699
+FileChecksum: SHA1: 3b26ddb0f5c163b8f0fc37bc8d557a82131aeb59
+FileChecksum: SHA256: a2f0f152511d3acbd03b9235d21b22489428be61301eb07a690f93d78f431773
+FileChecksum: MD5: af1af451efd1d91ef8e6378f589ac33c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/CHANGELOG.md
+SPDXID: SPDXRef-item6609700
+FileChecksum: SHA1: 792413e95f7ccf6870636d7e8d319c4d3aa6d20b
+FileChecksum: SHA256: 7f27a70e997d4cf076b883284bb1c6d3469d67c326ce494fdd64f844481bdd6d
+FileChecksum: MD5: 4529809d44535e944f2501e86f74ef92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.travis.yml
+SPDXID: SPDXRef-item6609701
+FileChecksum: SHA1: 5e3620d785bfd32c41e516e1c57d236574e8adb3
+FileChecksum: SHA256: 883ea6cb649e6bbaa76c23b66ae8bdec33f3a0384f08075d9b4ebbdbfa03e1da
+FileChecksum: MD5: 651ef5a0db4c778c4b9e09a0b9690a01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.gitattributes
+SPDXID: SPDXRef-item6609703
+FileChecksum: SHA1: bb51c8baa566de05b24f2d06d0939e83202714a7
+FileChecksum: SHA256: fee83ac9e58bc552f5f0f1ae5eeaffcbf6c44713d4e352f30beb3099b85d23e2
+FileChecksum: MD5: 0ebc558432419990abfe0154e5c4f6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/Dockerfile
+SPDXID: SPDXRef-item6609704
+FileChecksum: SHA1: 8babf584167c621b1f141686287fa78ab6dec84d
+FileChecksum: SHA256: 11c5229658c842ff8f95e35ac2a5e94fb29164d1b59f9d7b7c0ba7022f493cc6
+FileChecksum: MD5: a568283f23804a47741738381d1681c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/.coveragerc
+SPDXID: SPDXRef-item6609705
+FileChecksum: SHA1: b52b66d3290faa50e86c04ca61814e766f4ef7c4
+FileChecksum: SHA256: 3d3ee6ff61d6eec3cc793a5ca2b1fb7e468f665eaf8a65affd29cdb3b271424b
+FileChecksum: MD5: da21c3ac87d08a24cf2703485e3f5f49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/scripts/create_county_geojson.sh
+SPDXID: SPDXRef-item6609707
+FileChecksum: SHA1: 328a4fb8c155a4f72471f7e4650077c67a4d56cd
+FileChecksum: SHA256: aa07e780e5f239362d8928c2a174cbee820560d748c7a63a923460fc6f512a61
+FileChecksum: MD5: ab3006fe47094f23822672f82d732e35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/scripts/create_ca_climate_zone_geojson.sh
+SPDXID: SPDXRef-item6609708
+FileChecksum: SHA1: f0209a6a3b0df0ec8eabc93782e886e3f7c1b46e
+FileChecksum: SHA256: 69dffb580e851b1c75fa68f93cbf485493e498e9647af0d5b13cff57f52bffae
+FileChecksum: MD5: d33a86f4e7fac7c366a4b2805845ea96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/scripts/create_zipcode_geojson.sh
+SPDXID: SPDXRef-item6609709
+FileChecksum: SHA1: 9c37f8c26fa08649860cc05dd4f4dc3691a5b208
+FileChecksum: SHA256: fcf1f764e16f1479a43901b614d61f0010f2b420c073a0038e5fda0e15b0cccf
+FileChecksum: MD5: 816e1410baa412c3d0ec571558cf7090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/scripts/tutorial.ipynb
+SPDXID: SPDXRef-item6609710
+FileChecksum: SHA1: e9a58f976d09181bd64ccf8da8d2aab67a12ec9c
+FileChecksum: SHA256: bcbb4523614c65eabcade574de07ed5dbdb494cf30c877fc5c643d4d11b74fef
+FileChecksum: MD5: 54104ba0eaf7206fb455740a95cfd966
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/scripts/download_primary_sources.sh
+SPDXID: SPDXRef-item6609711
+FileChecksum: SHA1: 0d85ff8ab2276479703e4a76c16d3a63c6061004
+FileChecksum: SHA256: 7abc2695ce2dd1d24a57f3e5bebc80b9a8885eb2edb51a8525074d6c580bd6a6
+FileChecksum: MD5: 2d1bc0d35a467c4d4c51c75939b606c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/bump_version.sh
+SPDXID: SPDXRef-item6609712
+FileChecksum: SHA1: f598c0c21ae7b4442872278711128f09cddfada7
+FileChecksum: SHA256: b7e6acf16c0dd3ec0893b5e227b4598ce571082a83558f89a7f40fd67de9f5df
+FileChecksum: MD5: 8f1e86472fecabd2fdd9253d8da50525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/docker-compose.yml
+SPDXID: SPDXRef-item6609713
+FileChecksum: SHA1: ff1b02b907f2640798fb04b0acbb9a6bda9a3c03
+FileChecksum: SHA256: 383dd49a2c2749c7bb477aeb396c6a85a6032a7e5b70ae8b06e9eaa5499c8b58
+FileChecksum: MD5: 6524247d02b9de2a323b024fa715e41c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eeweather/Pipfile
+SPDXID: SPDXRef-item6609714
+FileChecksum: SHA1: 53d926f52fafe0b745767b0d372cb859ac3dc318
+FileChecksum: SHA256: 0a455af6d47adb8aad187fae7a581828221293bee5ff393e48868eddd6141c64
+FileChecksum: MD5: 06dcbf58564d260c97f300458288d397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/snapshots/snap_test_features.py
+SPDXID: SPDXRef-item6609732
+FileChecksum: SHA1: 13f587084f9e96d17e330512a84e08325276c37c
+FileChecksum: SHA256: ebbeb8102316d31e01690e0c92a1761a121a71fb453b5e011adf5ceefb722284
+FileChecksum: MD5: 402c12b6de09680116b9b58efbdbbc1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tests/snapshots/__init__.py
+SPDXID: SPDXRef-item6609733
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item6609737
+FileChecksum: SHA1: 718da4a2dbaeda806db8abebd242e4057bbd2ee5
+FileChecksum: SHA256: f3a34ecb0740cfcde96dbfca78289dfeb7f92244ba5b0646c159291bb469732b
+FileChecksum: MD5: 8a8bea5fb8d25e9971091895e84b104c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/caltrack_compliance.rst
+SPDXID: SPDXRef-item6609739
+FileChecksum: SHA1: 30c052482f7f5e5275a8ce4c46f677360c525d7a
+FileChecksum: SHA256: 5c59cf79762361163ae854dfed89df2f7cf9d30df039057cfcae98678e8721d0
+FileChecksum: MD5: f73762c2a72b93b5650046151ce156a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/spelling_wordlist.txt
+SPDXID: SPDXRef-item6609740
+FileChecksum: SHA1: 4300d882c946cf2fb548f3d16d4234c9782d7730
+FileChecksum: SHA256: b52211034254bdb4cf5ce00998832ae1fa99181a67597466350f88e300001cf4
+FileChecksum: MD5: 501bfc9590517fed6946a95b50f6dffd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/Makefile
+SPDXID: SPDXRef-item6609741
+FileChecksum: SHA1: 2ada26ffd92341f1e9c3355a49ab5f03b1141996
+FileChecksum: SHA256: 3445d074bc40bd9079f66b05759954b28e04379ee5ee827514de2499635febd6
+FileChecksum: MD5: 5ce891b6c8f71418bf99659fce3e5d23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/advanced.rst
+SPDXID: SPDXRef-item6609742
+FileChecksum: SHA1: 5853ad3e54030dff455f6edef4e82fe8f8473975
+FileChecksum: SHA256: 74bf12c7527bc5a3f94861168cba84a5c73fd3855ccbd90317350002fb07b27f
+FileChecksum: MD5: c8ac9f066cd8b9f565bf802fd2455b62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/index.rst
+SPDXID: SPDXRef-item6609743
+FileChecksum: SHA1: 0acb114e5d40b1d5bf37aa415c6abc8b1a78c306
+FileChecksum: SHA256: 5b122751e3b3d05864d3b4c74307ea934933c712fa017078b340fc7ef076c5f4
+FileChecksum: MD5: 1dd09644fbc3139716e7bf947ddbe5a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/tutorial.rst
+SPDXID: SPDXRef-item6609744
+FileChecksum: SHA1: f20c8c5ca888f2822de5c64bbbec3e76b409d7d7
+FileChecksum: SHA256: 1d6d663c8eb2967f4e56f6fc7bbc5c69d1f72b142e83b21606c7cc23dfac468e
+FileChecksum: MD5: bd6891a206da888707c6f9fdb628256c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/basics.rst
+SPDXID: SPDXRef-item6609745
+FileChecksum: SHA1: ff5a443f7c2a83115d7246ea8d503253cf9843b2
+FileChecksum: SHA256: db82d7da3bf650163c7f4487f2a17e82a056e4ecd521b036b9d587683fe8eb99
+FileChecksum: MD5: 3aeb369bd41289f417c2f2c14dafe37e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/rtd-requirements.txt
+SPDXID: SPDXRef-item6609748
+FileChecksum: SHA1: 4b1c5d332f1ce63fd7031dff7d6e12983cdb9c3c
+FileChecksum: SHA256: 6f4a04d39b125f5ea4c0c5b49bff951b7656f89997f752e91de578273550927b
+FileChecksum: MD5: 48bd8ef1f862dbbd5215abf37584ec73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/api.rst
+SPDXID: SPDXRef-item6609749
+FileChecksum: SHA1: 27c624c86435b0e9c57c4aca02d1d47db0056275
+FileChecksum: SHA256: 37b99bb09cb8f3902c944dd50b0f73f75898a1cadc45c970ad2f0e5241e0ecc5
+FileChecksum: MD5: 7dc605773a0f48e84edffb99529f011c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/plot_candidate.png
+SPDXID: SPDXRef-item6609751
+FileChecksum: SHA1: 6014c40ab9b2690feaf4f44866ae4db127f2bcfe
+FileChecksum: SHA256: 9fe2fd0b7faafed94583dbd4e3234e4d57257c24fd2a5cd0fe3997696a1b8a6c
+FileChecksum: MD5: 82acba90fe01e17cf27aac757f4ecdd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/plot_model_results.png
+SPDXID: SPDXRef-item6609752
+FileChecksum: SHA1: 39436e1fa67836fa6f68a307c45fcc67fd5f2f86
+FileChecksum: SHA256: 119e969ec5b5692db76dcd8685aacebcb2c9b511ffa1474bfb264b07474e566b
+FileChecksum: MD5: d5286bd3d0912e20a49020b35a0afd68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/css/custom.css
+SPDXID: SPDXRef-item6609754
+FileChecksum: SHA1: 19f8dfdb8eeb20b0ac35a58c5d5355a8fd21547b
+FileChecksum: SHA256: a0f9a2f9d2d5465efaf3804f6e47707e745aeae3cfceca1c54e2ca7cdd1c69d9
+FileChecksum: MD5: bc9c178c9e4ea14f97c3405981ae029f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/oee.ico
+SPDXID: SPDXRef-item6609755
+FileChecksum: SHA1: 309b66306dd55b0af3be4798fb7138e6555ecb12
+FileChecksum: SHA256: 10bf601d7d763e8847dd04072ea5f23d1b463562797afc5dd7f609310743c99d
+FileChecksum: MD5: 9e2529aa4b1d39a9f46890ee68b247f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/plot_energy_signature.png
+SPDXID: SPDXRef-item6609756
+FileChecksum: SHA1: 04644c76897673d2952dea96aa1a8bc1a7ef3135
+FileChecksum: SHA256: 2be649f000aca029959dfd5a622e102b2a273faace3e59d1ed08c42c7628542c
+FileChecksum: MD5: bb10b0184a7ef5cba3778be23fb58a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/openee.png
+SPDXID: SPDXRef-item6609757
+FileChecksum: SHA1: 220a9a79598c1861f51348ff5005a3304e32261d
+FileChecksum: SHA256: 07467ad7774a4a9da231930210245d1d02787d1a2963d0baaf7288a73547424c
+FileChecksum: MD5: 2086dc9b428a7881a9ba23b2784ea55a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docs/_static/plot_time_series.png
+SPDXID: SPDXRef-item6609758
+FileChecksum: SHA1: bcc147e0a9c919b28b980e380d7a914ddc5b10ce
+FileChecksum: SHA256: 11c43e9f484a058bbe661a457bc98d7cc45ec9c6b0d0dcea856f44e6e8bf4b62
+FileChecksum: MD5: 7fafe6f5491a5a70e66d0ac6c1c9227f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/MANIFEST.in
+SPDXID: SPDXRef-item6609761
+FileChecksum: SHA1: af7ea2ce4bcd231bf99face4d0eb2a7e5f4d9777
+FileChecksum: SHA256: 2cea72de5f924d2bbb4fdd46941720ec744a7eb73902e538a9eea732bb3c605d
+FileChecksum: MD5: e0152e656557df34b17972c2b9f7fc62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-only-billing_bimonthly.csv.gz/il-electricity-cdd-only-billing_bimonthly.csv
+SPDXID: SPDXRef-item6609782
+FileChecksum: SHA1: 80d91678b5a2ca9316c74d854ba657f5c0054281
+FileChecksum: SHA256: cfb3e733f980b85309546a0f8829e8ee0b31a83c4743ca8d7cbdfbe42c6f33d9
+FileChecksum: MD5: 0ec50e93bed35c077e81ef0925dae442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/uk-electricity-hdd-only-hourly-sample-0.csv.gz/uk-electricity-hdd-only-hourly-sample-0.csv
+SPDXID: SPDXRef-item6609785
+FileChecksum: SHA1: 8b4d2ff06aea1045970cdf4accd91160eaf04460
+FileChecksum: SHA256: 3dd27235720d1b64429e47b0974b4b08a193709f7a570b4a423c0e84483c4d1c
+FileChecksum: MD5: abf061890afb1c914584136fa1a88423
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-hdd-billing_bimonthly.csv.gz/il-electricity-cdd-hdd-billing_bimonthly.csv
+SPDXID: SPDXRef-item6609788
+FileChecksum: SHA1: 28af2e5d04a048c9084e5f9e3c2bf9bf2c27f56f
+FileChecksum: SHA256: bd2e13b82a788370df14c5107b9b7e59c43d8d3d6c0895da66e15657376a131c
+FileChecksum: MD5: d1ffebe76a341acd12498398cdea19fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-intercept-only-billing_monthly.csv.gz/il-gas-intercept-only-billing_monthly.csv
+SPDXID: SPDXRef-item6609791
+FileChecksum: SHA1: ddd1a5664ce2b902c15287e49e20dd8af3f51428
+FileChecksum: SHA256: be0ed8c05fe46fa0e87139ec5cdffe56002906e4a48c2e87737bf92c31cc7d98
+FileChecksum: MD5: f4c752727e33c5b3af4db9354f0cc503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/uk-gas-hdd-only-hourly-sample-0.csv.gz/uk-gas-hdd-only-hourly-sample-0.csv
+SPDXID: SPDXRef-item6609794
+FileChecksum: SHA1: eacf92c7c3c2f6d7cd56ca3fcbe82de44e655e86
+FileChecksum: SHA256: 8fc7021fdffc8d6098284ea24cf6ee42c4cb889621952cd507a9c375b9cdd4f6
+FileChecksum: MD5: d81d64b99a9307454086c54badd54d61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/uk-tempC-sample-1_2.csv.gz/uk-tempC-sample-1_2.csv
+SPDXID: SPDXRef-item6609797
+FileChecksum: SHA1: b682960bd4be56c3b6c40d1388fa1becd9ce92ef
+FileChecksum: SHA256: 0e41dcb485e52c49f7ed8f00b133d938ef5917d3543e94526c028e1919ac7302
+FileChecksum: MD5: 516321bb8054aab6e4b1036a65ce3079
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/uk-tempC-sample-0.csv.gz/uk-tempC-sample-0.csv
+SPDXID: SPDXRef-item6609800
+FileChecksum: SHA1: b2641666302ef14fa0c8756ca1613bc58c739852
+FileChecksum: SHA256: b429a11541bed0051a2d0c654678798e1c42ba570635f4c3a464a5203fdc2041
+FileChecksum: MD5: 01076be28138525205f863df0d7be4d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-hdd-tempF.csv.gz/il-electricity-cdd-hdd-tempF.csv
+SPDXID: SPDXRef-item6609803
+FileChecksum: SHA1: 94646dd0eec046d950f3b5642c317368ebd1ae60
+FileChecksum: SHA256: c84e8c4885f543c4a49baf4c5b9a9680143f63e08fb207aa48a67b6df989f3b2
+FileChecksum: MD5: d1e16a86b4675def345bfcfa08f49d53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-hdd-only-billing_bimonthly.csv.gz/il-gas-hdd-only-billing_bimonthly.csv
+SPDXID: SPDXRef-item6609806
+FileChecksum: SHA1: 349d3bba587fd01658853ff47ebca79cc938ee12
+FileChecksum: SHA256: c52bcd9e697b5e7d79614633e8a1857f2e8848e1f165590b03c23acf92a4e827
+FileChecksum: MD5: 61d40af07c3f15b21148ff85f959cf3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-hdd-hourly.csv.gz/il-electricity-cdd-hdd-hourly.csv
+SPDXID: SPDXRef-item6609809
+FileChecksum: SHA1: b1c7d7e12a3ff51de893623400108e1e6a7b00ae
+FileChecksum: SHA256: c023f607a190f408c5944f76bf64842798279c916618072d71e41d80e8ed9489
+FileChecksum: MD5: 92c7626c44b85f29ad09a987fa6437eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-hdd-only-daily.csv.gz/il-gas-hdd-only-daily.csv
+SPDXID: SPDXRef-item6609812
+FileChecksum: SHA1: c205a8584e7405bc334c3ae58a16e90712b0d354
+FileChecksum: SHA256: c163adc4cb3224ac81ec8a5b1e6c68825a752b6302d4360b2f9210b6c7445dc6
+FileChecksum: MD5: 9b1d9c80c756d624adc558317070f2e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-only-daily.csv.gz/il-electricity-cdd-only-daily.csv
+SPDXID: SPDXRef-item6609815
+FileChecksum: SHA1: 7401f6d81b7813a9f21e3a52a76a7e853b673ff7
+FileChecksum: SHA256: ad192fc62564d70a521c8b36f4a8a6eaf075cdd1b09cc0ea4eb9d58e2a1bb753
+FileChecksum: MD5: 07b8c794cc2ac80cea1af3210c2f962b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-hdd-billing_monthly.csv.gz/il-electricity-cdd-hdd-billing_monthly.csv
+SPDXID: SPDXRef-item6609818
+FileChecksum: SHA1: 37fb79e1e22dd28df5273d77084d11f59383f561
+FileChecksum: SHA256: e3777820300223e7445dbecc2340d46f5d211b9fb78aa7331421cdc432465034
+FileChecksum: MD5: 6c7951ad2ef3ddf3314bdcf8b96bfb62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/uk-electricity-hdd-only-hourly-sample-1.csv.gz/uk-electricity-hdd-only-hourly-sample-1.csv
+SPDXID: SPDXRef-item6609822
+FileChecksum: SHA1: 7636dfa15383fa66f96dae741884d7c8d2025bf3
+FileChecksum: SHA256: 6b57cea425cc2819614889d1b9f40c6286d7d5551a2ecb78b9510f2b173cf23f
+FileChecksum: MD5: 86d5b130f82ac5680d632c46f008bcfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-hdd-only-billing_monthly.csv.gz/il-gas-hdd-only-billing_monthly.csv
+SPDXID: SPDXRef-item6609825
+FileChecksum: SHA1: 52e0900dcc016e515c6726d101a9d9c81a2c82e1
+FileChecksum: SHA256: 57849821bf8db6c58b86a81b7e5e18360d16c5b10e6fbda0a2ab84d89044b6ca
+FileChecksum: MD5: 25f868c873df4d4b840515d15c848977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-intercept-only-daily.csv.gz/il-gas-intercept-only-daily.csv
+SPDXID: SPDXRef-item6609828
+FileChecksum: SHA1: f3d9d5d4d59ac89f3032322616296f02bc0599d0
+FileChecksum: SHA256: 002717658a348517dbf420151aadecc51628527137ad2ebe47806bb492650cf7
+FileChecksum: MD5: c29c4fe6bdbdec91cfe4e66be43edb86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-only-billing_monthly.csv.gz/il-electricity-cdd-only-billing_monthly.csv
+SPDXID: SPDXRef-item6609831
+FileChecksum: SHA1: 549f0412c8719b31c06e0347c2668e0e5b8e1abc
+FileChecksum: SHA256: 5ffeef221fb177b0bdc4059763f5b3a36002c3da036299e5bc091edab5b41c18
+FileChecksum: MD5: 5ebe71ac22e6abe282360994a9f5f896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-hdd-only-hourly.csv.gz/il-gas-hdd-only-hourly.csv
+SPDXID: SPDXRef-item6609834
+FileChecksum: SHA1: 3bcac3d95851ce997b556c5e3ca85f7a4153c887
+FileChecksum: SHA256: dc46345b90d3f8f8ee54c493aae768710f8e24f0af7c10f139eb23974d628e49
+FileChecksum: MD5: a0e6c6a46936696afc83754be421c894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-only-hourly.csv.gz/il-electricity-cdd-only-hourly.csv
+SPDXID: SPDXRef-item6609837
+FileChecksum: SHA1: 6c167d2a37dfe31eb14261b670c8ecaa4fb89fbc
+FileChecksum: SHA256: 92628c10d3e6497f31c4aa654562d1179b249f9d17db66c29ced590795f27df8
+FileChecksum: MD5: 07dc2918ccd913b4feb97177581abe9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-tempF.csv.gz/il-tempF.csv
+SPDXID: SPDXRef-item6609840
+FileChecksum: SHA1: 94646dd0eec046d950f3b5642c317368ebd1ae60
+FileChecksum: SHA256: c84e8c4885f543c4a49baf4c5b9a9680143f63e08fb207aa48a67b6df989f3b2
+FileChecksum: MD5: d1e16a86b4675def345bfcfa08f49d53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-intercept-only-billing_bimonthly.csv.gz/il-gas-intercept-only-billing_bimonthly.csv
+SPDXID: SPDXRef-item6609843
+FileChecksum: SHA1: baee1df71501a15486bb2f25424f80d4df2beb51
+FileChecksum: SHA256: b9a0687e05bf53a2fd15a6d22d40dcb9e6696a2e6fc5e569f3031fd64a7d9e39
+FileChecksum: MD5: b2281011b6373fb6eb5bca3ef604d914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-electricity-cdd-hdd-daily.csv.gz/il-electricity-cdd-hdd-daily.csv
+SPDXID: SPDXRef-item6609846
+FileChecksum: SHA1: 0ed793407dac20d3b3bc25686955ccd4b58ba173
+FileChecksum: SHA256: 79395580093d2009fa4abc66db3ef9cd830992b4ffc9cc8e5e1b9e71914ad673
+FileChecksum: MD5: d93a1d0bde00b9647f9c242b0635a559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/metadata.json
+SPDXID: SPDXRef-item6609847
+FileChecksum: SHA1: b6494b0deee199d7bf4e8b34333d067b8b0e83c6
+FileChecksum: SHA256: 9fd06ada8dbe93b15dc24e6a68b66d969896372bf9cf5fe73379d28ba9a368c4
+FileChecksum: MD5: a19920e150c657fd01df90dc16ba2721
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/il-gas-intercept-only-hourly.csv.gz/il-gas-intercept-only-hourly.csv
+SPDXID: SPDXRef-item6609850
+FileChecksum: SHA1: 674a8cf35fd3d2d0db10a89b9c140dd5765247a0
+FileChecksum: SHA256: 842ca811cd9240927de0eb97639fd783e27aaeeda25dffee8f6415f05dc15354
+FileChecksum: MD5: e10c2bd6f3e150c207a85f7b267fb5ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/eemeter/samples/uk-electricity-hdd-only-hourly-sample-2.csv.gz/uk-electricity-hdd-only-hourly-sample-2.csv
+SPDXID: SPDXRef-item6609853
+FileChecksum: SHA1: c77fdf67a4d59f9e74b1b440285de9c334431b34
+FileChecksum: SHA256: deb870d83d348d15e9e24b476fc9b7d66ba092411ae7b9facdfe15d6c6b35b84
+FileChecksum: MD5: a325767976256e511deec174e88b557b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/pytest.ini
+SPDXID: SPDXRef-item6609858
+FileChecksum: SHA1: 548cbefc12fdf2dd6019b80bdbdc1816ff242fac
+FileChecksum: SHA256: 735f5023f10bd1655090fe982361fa71f884ab8916e973be13b8f9a46af66eba
+FileChecksum: MD5: 5fa7f0d418512c56130e46d1f96cfca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item6609861
+FileChecksum: SHA1: 42d72bdf40f7435aeeab46f83ddca77b79159494
+FileChecksum: SHA256: 4481785ae7c623caf056904c4b8ab07521a90697549a84b085213c8bec35b52e
+FileChecksum: MD5: b3fbc8cd77fa83517c8f3be83fe70de8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.github/PULL_REQUEST_TEMPLATE.md
+SPDXID: SPDXRef-item6609862
+FileChecksum: SHA1: f29f6cef8fb4aa7d581aa778e704659b9e3b38b6
+FileChecksum: SHA256: 503969b2399dbd75b168ea19bc9c454290454c1fa30ca54c007b2b1d35de8bc3
+FileChecksum: MD5: 8b7dc4d85f5bb7f577b537f0bcfe5aa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/setup.cfg
+SPDXID: SPDXRef-item6609863
+FileChecksum: SHA1: 357f6ca7a52353ca8e76146121255317fd5964c9
+FileChecksum: SHA256: d396efe1804e806b402e6273f13212f72026fc609e59f68b2288b83fe9149a9c
+FileChecksum: MD5: 8f87f24495d68b56fcd0702d00e913ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/Pipfile.lock
+SPDXID: SPDXRef-item6609864
+FileChecksum: SHA1: ed9ce4b6b99610032fbdb503ac00cdeaf43927a9
+FileChecksum: SHA256: 1afb5f96b29834144f757ceb7ff3d0e15772b3afa10a951240c31507beaa5dac
+FileChecksum: MD5: 255914e84a508bb993f5fd7d796d4864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/tox.ini
+SPDXID: SPDXRef-item6609866
+FileChecksum: SHA1: 71554b92e4103c474a25d1077ecdcf14fed6d007
+FileChecksum: SHA256: 3dacffd8d7f5107055f9fd82af341576829072c148cd307502dfe8e6587f52be
+FileChecksum: MD5: 7736cf135fd4d80024e63c5e3ea74ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.gitignore
+SPDXID: SPDXRef-item6609867
+FileChecksum: SHA1: ab2eb602c26b25e41d75f8913b179e84932f9d7a
+FileChecksum: SHA256: b192c4204b69e1a0c0c79dbf72db035341e2d20375e8a8d2b1edc329569638b2
+FileChecksum: MD5: 6853771dec1830ea6606e717ca684fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/CHANGELOG.md
+SPDXID: SPDXRef-item6609868
+FileChecksum: SHA1: 1c254e845d9425dab7582e4df1f5bdf691cce7fc
+FileChecksum: SHA256: 89b5d75634604a8d53d26c4e7b21719f66ec8aaffad033ae3c8674e1360982d3
+FileChecksum: MD5: 1c2eac0ee090245a4c565e834ad136be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.travis.yml
+SPDXID: SPDXRef-item6609869
+FileChecksum: SHA1: 468a91d5e2b92c0c316dcdb4051ac42a7502c61d
+FileChecksum: SHA256: 5f49d6dcd43f09e1654bd775091469542559a3df13600fb784c69511bf8f0d03
+FileChecksum: MD5: 2e7062e76211347ee5aa482496d92797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.gitattributes
+SPDXID: SPDXRef-item6609871
+FileChecksum: SHA1: bb51c8baa566de05b24f2d06d0939e83202714a7
+FileChecksum: SHA256: fee83ac9e58bc552f5f0f1ae5eeaffcbf6c44713d4e352f30beb3099b85d23e2
+FileChecksum: MD5: 0ebc558432419990abfe0154e5c4f6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/Dockerfile
+SPDXID: SPDXRef-item6609872
+FileChecksum: SHA1: ba445f86628fb75fb8c0d0789fbb5417992daf4d
+FileChecksum: SHA256: 40eeec7d5eb7c26576c01dd333b75e8e0ce6c1798114624024d055731eb57657
+FileChecksum: MD5: a220d75c3ec76fe840a0c7f06ff4f8aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.coveragerc
+SPDXID: SPDXRef-item6609873
+FileChecksum: SHA1: 9122681306614aa7ce0830b0bd2a817811c456b5
+FileChecksum: SHA256: b75261a8b50c521601ec464f67f040cd7b0fa1868452b818fa55e665123d625c
+FileChecksum: MD5: fed2b50cb261b375bc76e6d81eb9d9f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/scripts/eemeter international.ipynb
+SPDXID: SPDXRef-item6609875
+FileChecksum: SHA1: 583deaaeea7aae392c1fb7c4de84f5531e0583cc
+FileChecksum: SHA256: 1dc5fb3b530e9188e51460cef68e91e083abe90ae1580277ecf84db273da4ed7
+FileChecksum: MD5: 5b1ecfc78ff93918e795418b45af42d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/scripts/_docs_examples.ipynb
+SPDXID: SPDXRef-item6609876
+FileChecksum: SHA1: b48d0698642514b5cfa22bb9867316ce10a573a2
+FileChecksum: SHA256: ddcdf6100b4efc9c3472a463aea43f581bf7a7d41574e48f3cd2d9855c7606e4
+FileChecksum: MD5: f4d28e175c5662a8d68b1a1632ada667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/scripts/tutorial.ipynb
+SPDXID: SPDXRef-item6609877
+FileChecksum: SHA1: 599baf11b58c5737ab0ed4f0811632d885ecdbe1
+FileChecksum: SHA256: 236b4ed53c59624622c143f2593997275484dc554abfd52d203ce95c0ac24703
+FileChecksum: MD5: a029c6c2ce1e185919ed981322b760e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/bump_version.sh
+SPDXID: SPDXRef-item6609878
+FileChecksum: SHA1: b9093a6487c1fc837c483039e8b3781e5bc27fce
+FileChecksum: SHA256: 3a535c2139a221bb0d58b8098e6bc693717a3e6a0531b8fbd17629b412a088dc
+FileChecksum: MD5: 0a5e209bdd415378d5ffaf16b01946f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/CHARTER.md
+SPDXID: SPDXRef-item6609879
+FileChecksum: SHA1: a9eefa903992332275b50241c52b2777f5ea8ea2
+FileChecksum: SHA256: d2ebf61ab8efa106dac1037ed0f69799c3c53b5ce62e8a9fedce9d42f0401c5f
+FileChecksum: MD5: 8405622d89395fdba2aeecfcb6c7b38d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/docker-compose.yml
+SPDXID: SPDXRef-item6609880
+FileChecksum: SHA1: df1f43744d4b4e35adbf0c7bfc32a5fbe28c6172
+FileChecksum: SHA256: c9c5949a7249194bddb20516bbe8f3899f07695ee65a59daa15c42c0832db336
+FileChecksum: MD5: c9bca3b5a305ce55c9d0bba7ebcb0419
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.pyup.yml
+SPDXID: SPDXRef-item6609881
+FileChecksum: SHA1: fa60d55455d3a810262ecf443feeaa80924b8fc9
+FileChecksum: SHA256: 956c7a8730aa70a19ad548eab22752330fe737893bd2b6cdc8f024f551f52a71
+FileChecksum: MD5: 34f021edf74f10f8e0e08575d64c785e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/Pipfile
+SPDXID: SPDXRef-item6609882
+FileChecksum: SHA1: c52fd1cb20d44e2eee501d89f7b113695e59945f
+FileChecksum: SHA256: 9deaf8628190971bedf5d6753004256e00de445f098402d5068a08830c50a9ce
+FileChecksum: MD5: 10355ed0644bd82f679c80731fcd3c01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/.dockerignore
+SPDXID: SPDXRef-item6609883
+FileChecksum: SHA1: 1518c9f396429404f5d5fe2d97eb2e4dd3215add
+FileChecksum: SHA256: 9ce82b8bebe3394d0886ccc8e50da855781312ca6c1553eb91e0fb09aca1efc0
+FileChecksum: MD5: f52418596e2a71bc885da365f7e68b14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/eemeter/MAINTAINERS.md
+SPDXID: SPDXRef-item6609884
+FileChecksum: SHA1: d7fa49c50ae47f5b50b712758ce71749d559670f
+FileChecksum: SHA256: 8daca0f6eb8d5eec96891d2c0cf1c1f418f33b94ed251e87612a65d5a1c64ac5
+FileChecksum: MD5: c41cb9f2b4b3385d0590ca355271f331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/Makefile
+SPDXID: SPDXRef-item6609887
+FileChecksum: SHA1: 1b43be735f5c2857c60cb4a4a03072c4f685034d
+FileChecksum: SHA256: f38e11be5dfb0285a7900816b8072f5ccacef502bf3890f438db2ba1bc79db27
+FileChecksum: MD5: a5138ae8b781927a9dc686517c1016ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_2_1_image1.png
+SPDXID: SPDXRef-item6609889
+FileChecksum: SHA1: a4df89cba4a94ec51272fea0e748a08b9ea91205
+FileChecksum: SHA256: d4f07b6e19e1897f1643f4885c9f444f10ad55c74735bb1581b37730cb5c081a
+FileChecksum: MD5: 20526cf60602fdaeb32bcde4473471fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_3_1_2_image3.png
+SPDXID: SPDXRef-item6609890
+FileChecksum: SHA1: 2557a02172e6cf80f7627b7549216914f87c9907
+FileChecksum: SHA256: 93aef0ab4cbbbe632ea3568332c2e44e9f1f76bbcceddfdc15cfe25c87a61a45
+FileChecksum: MD5: 0e5f88bbe6cc40dc08e3474237e3fb37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_2_image1.png
+SPDXID: SPDXRef-item6609891
+FileChecksum: SHA1: 09d584a714d83ab6e9fd62f4c05bc762403c0a3a
+FileChecksum: SHA256: 65e6da0fcc3800b6f64c605f5112d6b7854f5c685e64970b62ef3abd7ee6d6f4
+FileChecksum: MD5: 62a72f553c200baa0ddfc716563dbee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_6_5_image1.png
+SPDXID: SPDXRef-item6609892
+FileChecksum: SHA1: 0a2d244105688cbbcebf12e3f158aadfe0714933
+FileChecksum: SHA256: c1f1dd25484216a147c96303af1463b42ad11f44650466a39bdbd1f49d6b184a
+FileChecksum: MD5: 6b538d2269a732a3df8f49c179c1aba2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_3_image4.png
+SPDXID: SPDXRef-item6609893
+FileChecksum: SHA1: b5b76d626ae49ce17ed6924d0e05e841d72b9c12
+FileChecksum: SHA256: 8abaeb725d2e479855c14b6d892c7b2f139b2370761927aafa37975045340674
+FileChecksum: MD5: df1380bc822c077d590c45991aa49a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_2_3_image1.png
+SPDXID: SPDXRef-item6609894
+FileChecksum: SHA1: fd6e3f77efb58607ac688a29a71f8a71ba452054
+FileChecksum: SHA256: ef3a91a00d6d95d878300ed5652765c88a6f557a04bc5d21de25c4b5cf6e49fc
+FileChecksum: MD5: 19af1a5dc6e01475e6aca4dd86238363
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_1_image1.png
+SPDXID: SPDXRef-item6609895
+FileChecksum: SHA1: 46cf9567d6c79a22cacc32b437691423b747510b
+FileChecksum: SHA256: 124696c559b4b9ad547a194cfc1282684940f37b0d0406faa8c9bbbbd31a793b
+FileChecksum: MD5: 3065c7f81063396a177060bd245c1c36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_3_image2.png
+SPDXID: SPDXRef-item6609896
+FileChecksum: SHA1: 0d7cd3b2be35f4e01d8fadcd52c8f22031cb37ee
+FileChecksum: SHA256: efa106a31169de9e96afb335851926ea8c1a7b09c7eb25a8414a4b1a0d6174d2
+FileChecksum: MD5: 312d2f9549d10d58487d9b75b666a6f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_2_1_image2.png
+SPDXID: SPDXRef-item6609897
+FileChecksum: SHA1: d1c4b1f594e8a38094c6fac9398d44d2aa97f50f
+FileChecksum: SHA256: 7d0e31f836502c1925b8ce3ca0ba3374c148e387eacf3985fbd147732d9be5fc
+FileChecksum: MD5: e2cb8eb6035c7c70f3698245e8d7baf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_3_1_2_image4.png
+SPDXID: SPDXRef-item6609898
+FileChecksum: SHA1: 53af08f25e203412c77a798cefa76405e45e1bd5
+FileChecksum: SHA256: ef74ba28afd97b3f3859410ba02e3a8fbf6f546550676a32f7b6441216fb0687
+FileChecksum: MD5: 5805694deca4254314dbecd65ea71d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_3_1_2_image5.png
+SPDXID: SPDXRef-item6609899
+FileChecksum: SHA1: f49eff6cd53f9f50db164e3341b1dcf763b7b611
+FileChecksum: SHA256: 264bfe7f1ff72e10a54d02be149cb04070da8ee38510dfc1a450890899ee18c2
+FileChecksum: MD5: 1aa9188ace5acfa06cfe0ac7e0566e6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_1_3_image2.png
+SPDXID: SPDXRef-item6609900
+FileChecksum: SHA1: 4554caa691b888c83315f9a8303e98c1ac046b4d
+FileChecksum: SHA256: bda14fb712842caf50004be68c2016ad52f83af346b80f1e05c1cc0fe337f78c
+FileChecksum: MD5: e63ec12392d4b09de20474f296450c3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_3_image1.png
+SPDXID: SPDXRef-item6609901
+FileChecksum: SHA1: ff8c6bdd0b10e9c937a88295c10f1f6cfac4b55e
+FileChecksum: SHA256: 6a3d1f0430db39af33d897391feb65c1cfde51c7385220875255b2ec334b58f7
+FileChecksum: MD5: db62c1cca86c4e1c512b95a459e2646f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_3_1_2_image2.png
+SPDXID: SPDXRef-item6609902
+FileChecksum: SHA1: fdbbf53f25238a668ae56194140ac6e8266a1c97
+FileChecksum: SHA256: 083998de66f9f991a34fc3eff1244edd1bdb7f88f1ef11e3b05bfcd2025ee450
+FileChecksum: MD5: 2f252e307fdf71a823a5198c46c72890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_3_image5.png
+SPDXID: SPDXRef-item6609903
+FileChecksum: SHA1: 0ba71e2d4481c79133a10b01f9d95776ca980a04
+FileChecksum: SHA256: 8898f6deb1fa61fa0390f2f71234575db14997af04f5270eb0bb96bf0b018776
+FileChecksum: MD5: 4121ed05fb25c61529319119626c65f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_1_4_1_image1.png
+SPDXID: SPDXRef-item6609904
+FileChecksum: SHA1: 7f9540f06a20d1e2808a36e58e336a5e2a472dd8
+FileChecksum: SHA256: 4e4007b33580d7cf2172f79b5d348ac8afca1aa3652aa729e31aa378a6c6618b
+FileChecksum: MD5: 1d92d7486a89749e81f3f950b5150339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_3_image3.png
+SPDXID: SPDXRef-item6609905
+FileChecksum: SHA1: 909a29d8967b6601f00419d4ed92b2a00a8cb7f6
+FileChecksum: SHA256: 2b2966ee9c7e480154f08c29c59a176fe43a328fc3cc13697d5bfd01c54ca87f
+FileChecksum: MD5: f33f7460ca124635ba5970ffc407036a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/2_4_1_image1.png
+SPDXID: SPDXRef-item6609906
+FileChecksum: SHA1: c70452a88c0beb4b66673e59d09f9ae185788721
+FileChecksum: SHA256: 17a7c93276d6e7fdf41859e07c6f2023240a605153fdea56235a5a0b3ff5dd70
+FileChecksum: MD5: a4f452bedddac250c69a14a1f59106f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_6_5_image2.png
+SPDXID: SPDXRef-item6609907
+FileChecksum: SHA1: bd3f58a89296276550ce41c1d4df824fc30556c9
+FileChecksum: SHA256: 4c7fd30e73e54f897cc25ed12544e0ec83f4dd94da7af94e46ec9769c76ce590
+FileChecksum: MD5: 01be72dba0cebacd44298feea307c6e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_3_1_2_image1.png
+SPDXID: SPDXRef-item6609908
+FileChecksum: SHA1: 36fb50912c0a7a94232cb85b5464678af07b68ce
+FileChecksum: SHA256: 79d1fe5a6e6ce869326e10cc0e494b8efaa1075db00e80a8ff2968385acf109b
+FileChecksum: MD5: 87519f35f84a848a9680903dac1ca201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_4_3_2_image2.png
+SPDXID: SPDXRef-item6609909
+FileChecksum: SHA1: 7169718a8ed3fe44761f61631958004299fc8c19
+FileChecksum: SHA256: ede0c09e1fbc946086fa351e1a3be3fdb43d48c4ab82dcc52beefcb34e5bad24
+FileChecksum: MD5: bf16a931183b9e47c8bfd870ee4eebfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/images/3_1_3_image1.png
+SPDXID: SPDXRef-item6609910
+FileChecksum: SHA1: 6990f36dea859279a9543e695c9850397d5c5043
+FileChecksum: SHA256: 59463c837269aae631e7de8d0041da8af0e747be8843451b78f458297faaaf7b
+FileChecksum: MD5: 2b29ffab5418960f83c93903e7a89b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/index.rst
+SPDXID: SPDXRef-item6609911
+FileChecksum: SHA1: 5e409899fe1964d7ec14d733adf914690b2cbee1
+FileChecksum: SHA256: 4db486e9cccabb96f5a5f78928253446c222a6217c44ed8a1fa18be6f881fbb5
+FileChecksum: MD5: 96e9fb13530cfc73c02ae0ae2cb39bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/_templates/sidebar.html
+SPDXID: SPDXRef-item6609913
+FileChecksum: SHA1: 551c089a8f56a5adde83da693b859c24d17cf4b1
+FileChecksum: SHA256: 7b19931cac3bc7625b752b060e760d9fb4d5a1829576c5e911c3285c01e3f532
+FileChecksum: MD5: 638bac6b5a65119ddd104cb1fe838d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/_static/lf-energy-openeemeter-caltrack-logo.png
+SPDXID: SPDXRef-item6609915
+FileChecksum: SHA1: f4ab03dcaee45e333b03b2e71ba9edb1f87f784c
+FileChecksum: SHA256: 32451866eb8f965d55799e7792ee4596826a7654ea8d565fbcb9a26245a8b9fc
+FileChecksum: MD5: b00743ebc67cf651f9780581abfb158c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/_static/logo.png
+SPDXID: SPDXRef-item6609916
+FileChecksum: SHA1: 6f7e8b321c025ddc8295f4ce5a3f9e24f5eb2bae
+FileChecksum: SHA256: 2ba6922a36c4a186eac6f3fc8189120629151365ebb415cec786effb812046c7
+FileChecksum: MD5: 5242fe628bf90505cc3e0e90463ef957
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/conf.py
+SPDXID: SPDXRef-item6609917
+FileChecksum: SHA1: 24a056a77dd1d1a2d0ab298c22be49d81c3e1d8d
+FileChecksum: SHA256: 839971c034e2023f02a5a8605be325ccef8fd399f443bc34a4dfa669b0123178
+FileChecksum: MD5: 38ab46f525f0bf537e77e272a97146e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright = '2018' author = '' </text>
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/technical-appendix.rst
+SPDXID: SPDXRef-item6609918
+FileChecksum: SHA1: 38778d12e9ea12a16e1e9ffffeb95406f7f8d1ea
+FileChecksum: SHA256: 456aa1e3bb540a396fde53bbb88715f4b0477bc5d46482ecc844efc071ad2b25
+FileChecksum: MD5: a22c5c74cba990b8747990e2f43ff453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docs/methods.rst
+SPDXID: SPDXRef-item6609919
+FileChecksum: SHA1: 9396214d549191112fe5f0a1e56a0ab64383c6dd
+FileChecksum: SHA256: 85d600d8f78388b732df1025127fc1c6656c63c6d3c430147beafcf1453a5862
+FileChecksum: MD5: a087f72fc705c8f846c93412c1828f9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/.github/ISSUE_TEMPLATE/caltrack-template.md
+SPDXID: SPDXRef-item6609923
+FileChecksum: SHA1: aac981396c3cc34472e7481692e1785334a80eda
+FileChecksum: SHA256: 16c79af74a45859af308f600c53852bdf365dac7044bf5d5a6c20b2b41488a9f
+FileChecksum: MD5: ce193d7a347a9ce4af9f42a5fc84d327
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/Meeting_Recordings.md
+SPDXID: SPDXRef-item6609924
+FileChecksum: SHA1: f2519c30ead209a2bccca26b6aca67c5d7f90183
+FileChecksum: SHA256: 605f84f421529f9dcc4e4e579b4283ce0d473b7fd112e0eb1abf26803cce77e5
+FileChecksum: MD5: 57380bc7255261bea3d20cc29cc1701d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/Pipfile.lock
+SPDXID: SPDXRef-item6609925
+FileChecksum: SHA1: d5faf8a79a278a699fbd4465b1c4837f97a4de02
+FileChecksum: SHA256: 02c1e6fd9c5af9ac27f9cdafe8ef74e95f251a5b27eec1fdcb5b06a4cc2b8e10
+FileChecksum: MD5: c7327729d6303a6537d5ea811c3a154e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/.gitignore
+SPDXID: SPDXRef-item6609926
+FileChecksum: SHA1: 17f8bc7d95b560cc4ac79730d716acde635db72e
+FileChecksum: SHA256: 39dd1df5a9e7c7470cc427cafa932543601ecd35ee267611a18a346e98800806
+FileChecksum: MD5: 8eaa762acecd22ee27a7d00a7b5fc267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/Membership.md
+SPDXID: SPDXRef-item6609927
+FileChecksum: SHA1: f0e4161656ec132bab3a922e834684d5e084d14d
+FileChecksum: SHA256: 5c124c39c9911651c5bddd8dbb3b1978a691d481c1a1a76b80586d34012b6393
+FileChecksum: MD5: 519f5459a923a2b1f12140b7e692c1b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/requirements.txt
+SPDXID: SPDXRef-item6609928
+FileChecksum: SHA1: e746a612fc4f650791a5518fd5b718e1b17545bb
+FileChecksum: SHA256: f6e096f8b2d3e7a5803cafc6a3a00a7c865876edd0dbf5f52b61cd9bd98fcc54
+FileChecksum: MD5: 95a99191dd407c2920680e06eec97a3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/Dockerfile
+SPDXID: SPDXRef-item6609929
+FileChecksum: SHA1: eacd3073d6ac933d614a67f7ceec5d33acae519c
+FileChecksum: SHA256: a212a2c79799d3150b4df6f2f614ed8131c375a9e8adf6f6e9e84cf347e9dfe5
+FileChecksum: MD5: 386371370aea5d4f7c3d4059cc62cbf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/README.md
+SPDXID: SPDXRef-item6609930
+FileChecksum: SHA1: e2e3987e99a8140518a86f18a0710ce7347c25d9
+FileChecksum: SHA256: 4244511c6a6d90053487700ecf3a2b85aaa8cda9526d91b8f928a1be1d89c947
+FileChecksum: MD5: 250754326c7f3b852057b6132bf45c20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/docker-compose.yml
+SPDXID: SPDXRef-item6609931
+FileChecksum: SHA1: 234ddbd1bfd3c3d8ad7352c3b3e833ca761121c7
+FileChecksum: SHA256: 26f58eb0c9b61ebdcc29b4eafef0821b3cab66a96cb6dcdc7c008b9a06d0d136
+FileChecksum: MD5: 155928f405840b47846a3bcb3c1201f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openeemeter-2023-12-22.zip/caltrack/Pipfile
+SPDXID: SPDXRef-item6609932
+FileChecksum: SHA1: dfdc772b443160b6c61093b68d283922a393a806
+FileChecksum: SHA256: 610112ad6dfa0b51a35247a0b9a163c326fb060fedfaaa85ee9ccf4d8288f761
+FileChecksum: MD5: 883d7955033055cf869045bc209d1761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Meta-External-Reference
+LicenseName: Meta flag: Reference to external package
+ExtractedText: <text> Meta flag: Indicates a reference to an external package and its corresponding license. </text>
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-fossology-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
