@@ -1,0 +1,1073 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_gridcapacitymap-2023-12-23.zip_1703412380.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-12-24T10:06:20Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: gridcapacitymap-2023-12-23.zip
+PackageFileName: gridcapacitymap-2023-12-23.zip
+SPDXID: SPDXRef-upload1195
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: d27cb4ba84542794f9e2c2b5c68172f488b7e7ac
+PackageChecksum: SHA1: 4a137d568a1d6215e43b3d3ddf60c162d37120e8
+PackageChecksum: SHA256: 7f50d3c62ab7d5eedd109cbf56bdb31930c11d25303325d555dd0a4b2b2ef765
+PackageChecksum: MD5: 03c4ec9b1fa1f3f770d3d9527bd3de0b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1195
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/LICENSE.txt
+SPDXID: SPDXRef-item6658493
+FileChecksum: SHA1: 16401737d2489b2399c6bcb2274e8835bc21c2ec
+FileChecksum: SHA256: 5ad8c213095c573921d7388edf93f6a9f54490b8ebf3b165ae8ef1947cf70846
+FileChecksum: MD5: 4307adfb48e9af7d15224db7286b4f40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/LICENSE.txt
+SPDXID: SPDXRef-item6658538
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: SHA256: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/__init__.py
+SPDXID: SPDXRef-item6658484
+FileChecksum: SHA1: 1cdaa063fd67ee31c2ecd46e8f6b843eb1836dd0
+FileChecksum: SHA256: 9e32394c2f6e5094a45c7cce9972e70e5bdf41ddeca320109fb1218a83d8747c
+FileChecksum: MD5: 5409859433e6d23dd1528584c1047a7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/plotting/__init__.py
+SPDXID: SPDXRef-item6658488
+FileChecksum: SHA1: 9b88392ee2d1b9e5ae311d202561efbe016504c1
+FileChecksum: SHA256: 254c7daf8dd153a533ff46c3a4f7867164e6cd995b098d1c510579e8940be11b
+FileChecksum: MD5: aeede953652470d324325b924a3f3a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/grid/__init__.py
+SPDXID: SPDXRef-item6658490
+FileChecksum: SHA1: 9b88392ee2d1b9e5ae311d202561efbe016504c1
+FileChecksum: SHA256: 254c7daf8dd153a533ff46c3a4f7867164e6cd995b098d1c510579e8940be11b
+FileChecksum: MD5: aeede953652470d324325b924a3f3a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/__init__.py
+SPDXID: SPDXRef-item6658557
+FileChecksum: SHA1: e5dd2830ef9a501bcbd27c9f79a336252f102b65
+FileChecksum: SHA256: 0fde9274b6fe2be1a9f1168a8326ee966cfb68a665f9b29e80d763975ee63270
+FileChecksum: MD5: ab18425093df99c69205ecc10b1a927c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/pandapower/__init__.py
+SPDXID: SPDXRef-item6658570
+FileChecksum: SHA1: e18917230f1694f04deb6a0d0c67227ae297da6d
+FileChecksum: SHA256: dfe941a4091343116be6691db45f0dedcfe23713636691807056294d0b4ade28
+FileChecksum: MD5: 4cd787eda0d3b7f16fb3554b9f7d9196
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/psse/__init__.py
+SPDXID: SPDXRef-item6658567
+FileChecksum: SHA1: 374e182cb9275500e20fc917e726afe8896fea26
+FileChecksum: SHA256: d322915a90b66e5003a400fd57213d68b492298c7d049aaf73d11850a65a56b2
+FileChecksum: MD5: bc30d01d405ab27436d99d4a5814894b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/converter/__init__.py
+SPDXID: SPDXRef-item6658471
+FileChecksum: SHA1: 9b88392ee2d1b9e5ae311d202561efbe016504c1
+FileChecksum: SHA256: 254c7daf8dd153a533ff46c3a4f7867164e6cd995b098d1c510579e8940be11b
+FileChecksum: MD5: aeede953652470d324325b924a3f3a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/controllers/__init__.py
+SPDXID: SPDXRef-item6658482
+FileChecksum: SHA1: 9b88392ee2d1b9e5ae311d202561efbe016504c1
+FileChecksum: SHA256: 254c7daf8dd153a533ff46c3a4f7867164e6cd995b098d1c510579e8940be11b
+FileChecksum: MD5: aeede953652470d324325b924a3f3a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/analysis/__init__.py
+SPDXID: SPDXRef-item6658476
+FileChecksum: SHA1: eba44d4cbedecb65c2fe42c59dfac3b132e3b0a3
+FileChecksum: SHA256: f175a7aca59272baad31b71ecc79a5aae8be01e8fe8823c0efab0d24ce049eba
+FileChecksum: MD5: d10073df1fa046bfd006750b2afc125a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/__init__.py
+SPDXID: SPDXRef-item6658563
+FileChecksum: SHA1: 3b9247ccd5ef41855c02c51a5521c01224ba132e
+FileChecksum: SHA256: aff13f198923004a06e515c57d20afaf2835b1b8c2f0999b150509fecddd3816
+FileChecksum: MD5: 6617996a1c6b7beb206a3103ab918b30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/__init__.py
+SPDXID: SPDXRef-item6658548
+FileChecksum: SHA1: 39782cdf7885bc0949cb8a2924ec2232763e2c27
+FileChecksum: SHA256: a2ad112ad37a9de6e94dd71b021bb82f50c43d581b15ad7671452613e7a85c6c
+FileChecksum: MD5: f12bec0dbcd648909af28b5b50b81483
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/tests/__init__.py
+SPDXID: SPDXRef-item6658530
+FileChecksum: SHA1: 3791473857920b4fd01de33b1aee64f3f99dc963
+FileChecksum: SHA256: cc85f2b278651ca0aac1980d527d768e1351db80491812163c691fd9a907e347
+FileChecksum: MD5: 37ba9e66a86a158ba7635193405de9f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/__main__.py
+SPDXID: SPDXRef-item6658572
+FileChecksum: SHA1: b8ce0b82ea5d2064138e99304c839b5cc06ff97e
+FileChecksum: SHA256: 96039e777b1cc6fbac4482cc632ce4e2555bee937df758f1cdcaed31b4aefb04
+FileChecksum: MD5: ff48af9e2720fa61fac7fe34e09676c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/analysis/analysis_check.py
+SPDXID: SPDXRef-item6658477
+FileChecksum: SHA1: 301ffaa69db6f6ff144680c7f3ceefa4e503cb5f
+FileChecksum: SHA256: 34417813528a233e6a4311bbe6b3273c7638ad9d0f53cb985dbf9c4743edaa1a
+FileChecksum: MD5: f1ff6379aa7819ec1f6b00859d04ce41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/area.py
+SPDXID: SPDXRef-item6658558
+FileChecksum: SHA1: c560d2b0908b780a64ec17225a5cb6dd8362517c
+FileChecksum: SHA256: 108332161fbdf6bedef6b808f947e4453af0f91e3740be843d458c8f10f1f794
+FileChecksum: MD5: a192864d8f4ca9ca7ca0f06d3de924ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/branch.py
+SPDXID: SPDXRef-item6658553
+FileChecksum: SHA1: 35c6f149e1b43799b5bf44f06ae0d1ec85251c27
+FileChecksum: SHA256: 8e66561ce4e7b100e4caa57715fe2c71b2fc052d9f53573cf9973864df9482ee
+FileChecksum: MD5: 7f58d67c587cf0bb45b5510e78e645fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/bus.py
+SPDXID: SPDXRef-item6658560
+FileChecksum: SHA1: 17aefc6c8ee49c9a9fee89e3047500af79bd698c
+FileChecksum: SHA256: 7e54c405afffca1967361424040d248628f6d9673ee94407a0a7482ea329498b
+FileChecksum: MD5: b4347786418fc45cf52dbf2a22b0c687
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/capacity_analysis.py
+SPDXID: SPDXRef-item6658547
+FileChecksum: SHA1: 0ba5cfbce70a8ac27b70279bb580b583a111397e
+FileChecksum: SHA256: 8633f51655855147b7ff4b9311aa8a0de197c448a803c789c7856248803467f0
+FileChecksum: MD5: 688ce4e646c3393365e62d3cbf62bd73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/analysis/capacity_analysis.py
+SPDXID: SPDXRef-item6658475
+FileChecksum: SHA1: 388f4561430c64ad0b3365257330c615f6cb43d0
+FileChecksum: SHA256: b70731f3533fd3e159d8b5e4b535383e7f989c9bed125b230a39ffde5812a92e
+FileChecksum: MD5: a5e8fc2fe024a79c0d3c71bd4cada60e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/config.py
+SPDXID: SPDXRef-item6658544
+FileChecksum: SHA1: bd88b5b3817d0bb8cced27c1c867b888bf2529ad
+FileChecksum: SHA256: 7e169b129e68444288fccbacb022d339dd4e292a9181a0cc379f87b30eebc5e1
+FileChecksum: MD5: 618319568aab519d082f73d0636e2fc5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/contingency_analysis.py
+SPDXID: SPDXRef-item6658546
+FileChecksum: SHA1: e6426cde2eb62b4088155d9042f81c45c5ea73a6
+FileChecksum: SHA256: bfa2074f1b9b05b313a4c5568cea840fa34f5b17e82358f043ab294c08291683
+FileChecksum: MD5: f8559bb81170100f62696d07944df420
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/controllers/controller_functions.py
+SPDXID: SPDXRef-item6658479
+FileChecksum: SHA1: 0adf1f1048ffef5894ebe7a3671364e63566772f
+FileChecksum: SHA256: 390aee2777978c0d900e94eec0ec870714334ec878523ffddd322f1405ea3fd9
+FileChecksum: MD5: 5395f8672354e2c73eea958fa885c71f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/convert_case2json.py
+SPDXID: SPDXRef-item6658549
+FileChecksum: SHA1: aa1e7a60609f0e3808ffc5d4a7f838ba486d1fe5
+FileChecksum: SHA256: 02ca4e65a33aa3437ad1490d6fdee29195fb3d38dc6bb1e1b79ea5f42b179ca3
+FileChecksum: MD5: e765e9f8ca44a564e24b52741fb36c67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/gen.py
+SPDXID: SPDXRef-item6658555
+FileChecksum: SHA1: dbb60db298ce63f45987ef6c38f87f3735bd5a22
+FileChecksum: SHA256: 052ae71035adb21c9f34d7f35da4e28abe94ceb608de7bbe0d05beaf5b7da683
+FileChecksum: MD5: f05314dc8267606302011f61c91b7257
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/grid/grid.py
+SPDXID: SPDXRef-item6658491
+FileChecksum: SHA1: 17d840ef0364b0e6fedc8646f6d9be4c3a2af4dd
+FileChecksum: SHA256: 0776727c521406ea3a3c1526a3a9ee4ed8a75441a0acf0f1abbe6196c9cc227d
+FileChecksum: MD5: 0421191dd538eec5e256e9c691a89d30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/load.py
+SPDXID: SPDXRef-item6658562
+FileChecksum: SHA1: 07e8c2e8c9949f01008e54d8727e899c88539ba8
+FileChecksum: SHA256: f18656f0c6b74005fa9856f1542ebefedb63d87cce582e17dad6ddaeecf2e722
+FileChecksum: MD5: 6bd657b846e8a5477dda6b7428490806
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/output.py
+SPDXID: SPDXRef-item6658545
+FileChecksum: SHA1: d92bd68e3f49f48fb4a404480075f14c4a9dd182
+FileChecksum: SHA256: 5de900dce79d88f44a214f6185e38b53c6d7babac9e40a6c50218d7c33f5cfcc
+FileChecksum: MD5: a0db81fb44d806cf77fc762d5e2edf27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/psse/path_helper.py
+SPDXID: SPDXRef-item6658566
+FileChecksum: SHA1: ce56c04655c8e579ea75db203889896c8e591eba
+FileChecksum: SHA256: b05e4c0b6fd977c11831288d25f376dbcfc5d72f3a12ee01e6ed4d21ed5322c8
+FileChecksum: MD5: a48ebb406b404dc7aecae8111172e0fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/converter/psse-modes.yaml
+SPDXID: SPDXRef-item6658472
+FileChecksum: SHA1: c695c4437ea38c415d79635a72e1af9473e56029
+FileChecksum: SHA256: ff8def9b290be2789b49a96e493167afabedb0c6e8a24a10af8ee6e51a3cdd79
+FileChecksum: MD5: 167c5db949149428297a03d93db7620c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/converter/psse.py
+SPDXID: SPDXRef-item6658470
+FileChecksum: SHA1: 7f2fa78ff3c32b46116d73e0c463403e74ca9fcf
+FileChecksum: SHA256: 51ac19e454456439076c051bcc4c16617cc8bd2e4dd3caefc9a7dd35d4f996d3
+FileChecksum: MD5: ebd932fda879aa26436d5fbe7c18099e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to Grid Capacity Map </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/psse/subsystem_data.py
+SPDXID: SPDXRef-item6658565
+FileChecksum: SHA1: e0748e738459da7cc7155ae20d6743247d927898
+FileChecksum: SHA256: 4fae45c73a6630cb7ed43907755494b402f1ca677387c7fe40e66d9b47d3f75d
+FileChecksum: MD5: 3bac88327673c1562e61c673afd9a9b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/swing_bus.py
+SPDXID: SPDXRef-item6658556
+FileChecksum: SHA1: 9a1657c1d0e63e6ac942a547ab6bca6665b8b642
+FileChecksum: SHA256: 5eb351ef1fa9f8c78b8e2352c7e647f5a2cdaf58512ba9de9a473f6d6a6cf373
+FileChecksum: MD5: ab20d7a89f12e3684ef9c275b1dbd03c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/tests/test_capacity_analysis.py
+SPDXID: SPDXRef-item6658529
+FileChecksum: SHA1: acbd2c56e3d5f5daeb70e4895de6372dcf82f17d
+FileChecksum: SHA256: 36634c3dad709f451688d94b6cb7cbec28cbf1b81f2094a7d3e35fd58181a919
+FileChecksum: MD5: c4b6b8280a6adf13c40c9491938275b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/tests/test_capacity_analysis_utils.py
+SPDXID: SPDXRef-item6658527
+FileChecksum: SHA1: aad946375f6ceb2c0e5c3ab472652ec3095aa8c0
+FileChecksum: SHA256: a7fa94660905317836aa379aae24a60270c40d1aea20074070357dc2b6c41c3f
+FileChecksum: MD5: ff58064d401c04d1c215c1d8cabca246
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/tests/test_capacity_analysis_with_connection_scenario.py
+SPDXID: SPDXRef-item6658532
+FileChecksum: SHA1: f19740c81d80a2f9002802f2abb43a82194d5d83
+FileChecksum: SHA256: 8f073493b06b5252d950b9b49d036e06cb1f1e64b027ac8befd9af4b68739fd0
+FileChecksum: MD5: 06ce8ecbbe8e8b34d0e2174adf8d0bd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/tests/test_contingency_analysis.py
+SPDXID: SPDXRef-item6658528
+FileChecksum: SHA1: 614af27be61f924419b5b72bc9bc59635124b762
+FileChecksum: SHA256: 41159b7eb378bb4c9e1be160d6ad21ad5c7f8ee916247668db61f576c9605b98
+FileChecksum: MD5: a1430aba58006ae8c81657799a427076
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/tests/test_violations_analysis.py
+SPDXID: SPDXRef-item6658531
+FileChecksum: SHA1: 6ff9fbbf4c26d0ff3808c712f9e535c80df96ac9
+FileChecksum: SHA256: acafbd421d315ea3a2c276e28a601a471392f01eef25c45c501044ab385807bb
+FileChecksum: MD5: 791e063738e6b24ba252fd0945443860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/trafo.py
+SPDXID: SPDXRef-item6658552
+FileChecksum: SHA1: 3fcdccc7baeed0c426811882d5d1a95cf0e9dea7
+FileChecksum: SHA256: 2be3b451813e56d125bfa356d0c4034198e73c430aa83dcf2956d61edb8c9b46
+FileChecksum: MD5: ef24a4670aee69dc5830787616f5bbc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/trafo3w.py
+SPDXID: SPDXRef-item6658554
+FileChecksum: SHA1: d329d4752b26658cd7b0d74944c90b1880cef767
+FileChecksum: SHA256: 1877af8ef6a793d134d833f28b8a19a1778c661f569fa6a3478d599fdc63b218
+FileChecksum: MD5: a4192812b07abc6249f5e8f5beba997f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/utils.py
+SPDXID: SPDXRef-item6658574
+FileChecksum: SHA1: 565e13df2ddf6d7055297fd2e59c375d977f4941
+FileChecksum: SHA256: 171d94288e57d66d08f215fd87815b739ee0819340e9f298fdc949fd9638cd7a
+FileChecksum: MD5: 8cb0bb181175fd074edfd5e209953f67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/utils.py
+SPDXID: SPDXRef-item6658561
+FileChecksum: SHA1: 16631a792eaf5f486ba8aaee6fbeee7c2d53de28
+FileChecksum: SHA256: 347bb9c4c5d18fdc7e0878b686c585428e2068fed7446d5561ea91a46f77dd78
+FileChecksum: MD5: 03518a00b8ff0f9ebe06e8ea2ff7fcdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/violations_analysis.py
+SPDXID: SPDXRef-item6658573
+FileChecksum: SHA1: 830f3d06831472a7fa56ee3e78d85a4f65c040bb
+FileChecksum: SHA256: 9a471e12bcb68f47b7e7a112c1fb985c073790f769d9f7ab1c75c66c54687f9f
+FileChecksum: MD5: d5f062e0c29b700f630f86af815f1426
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/psse/wrapped_funcs.py
+SPDXID: SPDXRef-item6658568
+FileChecksum: SHA1: c417cff2db3a6e2d42147e0350511859f8bc258f
+FileChecksum: SHA256: 7caaf05fdec5a85a71fbfac56b54f99188b1ba03f63864fe1ea6f84355bbc118
+FileChecksum: MD5: b1fa68bb4ab5dec57a69f03d71314b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/pandapower/wrapped_funcs.py
+SPDXID: SPDXRef-item6658571
+FileChecksum: SHA1: 1d43e2166ba010287896bdd535056129dda99f7e
+FileChecksum: SHA256: ef518a0c2d4e7c2d1df96607cc752ab1e27d1a75dd284072812a3d2c87685f0b
+FileChecksum: MD5: e46cc567547dc3334edfeb8e98929fc1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2022 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/backends/subsystems/zone.py
+SPDXID: SPDXRef-item6658559
+FileChecksum: SHA1: b02b313c0f7816d78de31e512f99c6c9b1c6c3d9
+FileChecksum: SHA256: dd9890b271020a49e07b36229c5fee416ca56ed2a9b42069c601ca83256bd841
+FileChecksum: MD5: 579d6baa8b055afedaf757bcce55cf24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2023 Vattenfall AB </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/analysis/timeseries.py
+SPDXID: SPDXRef-item6658474
+FileChecksum: SHA1: 7a0059e509a03bf1fd1cf19345a999816e8433e7
+FileChecksum: SHA256: 020eda47b9577420d476f5215a71c293cec1dca763feb1b02e32e8b96ec99873
+FileChecksum: MD5: b46c405fcb1365b4e6ee996a2e56146d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2021 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE) Kassel and individual contributors (see AUTHORS file for details). All rights reserved. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/controllers/discrete_shunt_controller.py
+SPDXID: SPDXRef-item6658480
+FileChecksum: SHA1: 902ae79ac0f63ab5441821f0143a2d36a89abf0f
+FileChecksum: SHA256: f3daf9320fed7b2d503e1047f3973240cb44ca5ea97f05c2b344541593e1f7f9
+FileChecksum: MD5: 124098611b412e48d0c7caed1c60a0d8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2021 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE) Kassel and individual contributors (see AUTHORS file for details). All rights reserved. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/controllers/discrete_trafo_controller.py
+SPDXID: SPDXRef-item6658481
+FileChecksum: SHA1: 76c2e43426315e6ebff3cd7587e2a32a05b8be64
+FileChecksum: SHA256: 50c5eaacd74927e3d5071c147b21b9bb002c9e78525ba793acb4313411e00f7f
+FileChecksum: MD5: 87ed3380f044449c4fcefafcc04ee704
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2021 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE) Kassel and individual contributors (see AUTHORS file for details). All rights reserved. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/controllers/shunt_controller.py
+SPDXID: SPDXRef-item6658483
+FileChecksum: SHA1: 53d7f7433ed988bfaa23f33569e64ac892709d7e
+FileChecksum: SHA256: 6b4f68edd48a28924256074238a5605f810b2d0849f968402d923b2ab18eebff
+FileChecksum: MD5: 27f1b461ece4347ea5aa540bb9a8c567
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2021 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE) Kassel and individual contributors (see AUTHORS file for details). All rights reserved. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/plotting/plot_capacity.py
+SPDXID: SPDXRef-item6658487
+FileChecksum: SHA1: 568c648965d42a3cf112674bd64f4cb802bb0e8f
+FileChecksum: SHA256: fbd31780b4dc766c9ccd2461df22a825bdea5d87d07302408fad50e0e5223f22
+FileChecksum: MD5: f232ac289c22621c9fd29ff99174c58e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2021 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE) Kassel and individual contributors (see AUTHORS file for details). All rights reserved. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/capacitymap/plotting/ppplotlytweaked.py
+SPDXID: SPDXRef-item6658486
+FileChecksum: SHA1: a8c9c2865b01d87d8ddce54595efd78fed9fdbd2
+FileChecksum: SHA256: fd80bca1a14195e5cb8f89d87686a6276fa278be34dc4cbaf23a5aad36a9de86
+FileChecksum: MD5: 4f664ef3e964865a90ce5c4b2cdba8b6
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2016-2021 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE) Kassel and individual contributors (see AUTHORS file for details). All rights reserved. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/LICENSE.txt
+SPDXID: SPDXRef-item6658509
+FileChecksum: SHA1: 0ed21cc63ab1879b6cdc78a94103f4a022d932f3
+FileChecksum: SHA256: a37ed543bb102e72f5b1d957b7efb6c97bb4af2b7b6b01fe3f58dea353a2c0e0
+FileChecksum: MD5: 63a6ab44ae53571c4507a9465547ad61
+LicenseConcluded: CC-BY-SA-4.0
+LicenseInfoInFile: CC-BY-SA-4.0
+FileCopyrightText: <text> © 2010 by Svenska kraftnät, licensed under CC BY-SA 4.0. </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/under development/Test Case grid.ipynb
+SPDXID: SPDXRef-item6658520
+FileChecksum: SHA1: d0cdca05fb3c3018abd4a577c372b297724babff
+FileChecksum: SHA256: 7d41ceeaa837c549ffc9254f9b4dff6e185671e4a3549f126e5281a55940e377
+FileChecksum: MD5: 2e30cc5b5d537719abf39f1bb2b9e9e3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2012-2020, Plotly, Inc.\n", All rights reserved.\n", Licensed under the MIT license\n",
+copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)\n", license Licensed under MIT license\n", See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE\n", ve
+(c) Sindre Sorhus\n", license MIT\n",
+Copyright (c) 2014-2015, Jon Schlinkert.\n", Licensed under the MIT license.\n",
+copyright 2016 Sean Connelly (@voidqk), http://syntheti.cc\n", license MIT\n", preserve Project Home: https://github.com/voidqk/polybooljs\n",
+Copyright (c) 2014-2015, Jon Schlinkert.\n", Licensed under the MIT License.\n",
+copyright\">ODbL</a>.',tiles:[\"https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png\"],tileSize:256}},layers:[{id:\"plotly-stamen-terrain\",type:\"raster\",source:\"plotly-stamen-terrain\",minzoom:0,maxzoom:22}]},\"stamen-toner\":{id:\"stamen-toner\",version:8,sources:{\"plotly-stamen-tone </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Operation planning.ipynb
+SPDXID: SPDXRef-item6658518
+FileChecksum: SHA1: 8c6eba6dd8f071478f3f124894efbfe6c677eb50
+FileChecksum: SHA256: fa4b5412c5641dcc08c92a082cc3bf5f92e6226c494115382d23c59dae631b5b
+FileChecksum: MD5: 1da07af28a6c89667177c76a22db7f37
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2012-2020, Plotly, Inc.\n", All rights reserved.\n", Licensed under the MIT license\n",
+copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)\n", license Licensed under MIT license\n", See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE\n", ve
+(c) Sindre Sorhus\n", license MIT\n",
+Copyright (c) 2014-2015, Jon Schlinkert.\n", Licensed under the MIT license.\n",
+copyright 2016 Sean Connelly (@voidqk), http://syntheti.cc\n", license MIT\n", preserve Project Home: https://github.com/voidqk/polybooljs\n",
+Copyright (c) 2014-2015, Jon Schlinkert.\n", Licensed under the MIT License.\n",
+copyright\">ODbL</a>.',tiles:[\"https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png\"],tileSize:256}},layers:[{id:\"plotly-stamen-terrain\",type:\"raster\",source:\"plotly-stamen-terrain\",minzoom:0,maxzoom:22}]},\"stamen-toner\":{id:\"stamen-toner\",version:8,sources:{\"plotly-stamen-tone </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/THIRD_PARTY.md
+SPDXID: SPDXRef-item6658495
+FileChecksum: SHA1: 242a03a23a30f32d41784b63000c997101b66f65
+FileChecksum: SHA256: 20e9d9f8b1e35c462d4ef9fdeb5e94e81019c88504135b7ce83814f3d13e2a1c
+FileChecksum: MD5: 53010e753ae6f322bc97a4981d0386e9
+LicenseConcluded: LicenseRef-fossology-BSD AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> © 2010 by Svenska kraftnät, licensed under CC BY-SA 4.0 </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/.gitignore
+SPDXID: SPDXRef-item6658492
+FileChecksum: SHA1: 377b0143d8a85e5be7ed41cbf4a360328640439c
+FileChecksum: SHA256: 8bdbd8c0dc50b920b408731166d7dff7f672bd9fae46d46ec29574f3cbd87c77
+FileChecksum: MD5: e2281e4b454a4498e122e58a278fcd65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/requirements.txt
+SPDXID: SPDXRef-item6658494
+FileChecksum: SHA1: 4e9b97b0670b57ca688172fa32b98aae30459b76
+FileChecksum: SHA256: cdf9afc1f57973f8f258e13a227cea5b5ee23beb3f8396067528d94a38fca522
+FileChecksum: MD5: f8f343d4d25611ec16a7ba1de99137d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/README.md
+SPDXID: SPDXRef-item6658496
+FileChecksum: SHA1: aea6d6f965f01c5c6a301bb458720a4b7a128752
+FileChecksum: SHA256: c3f7eedfaf3d3e2d4363dbe2969f3f2c06f19448b81f470cac158e2266872eac
+FileChecksum: MD5: bda4979ff6eaa7e846f8bc25905c88fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Contigency.ipynb
+SPDXID: SPDXRef-item6658498
+FileChecksum: SHA1: 043a4a9b6956718d447797b9b5f91472e233fd74
+FileChecksum: SHA256: 7a2da204c6e1bd486cbd342eb5ea9e6bc9d84471cb6e2bd25feed3433e3068d7
+FileChecksum: MD5: d9c1ea61d6b96865f32125778545cd2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Demo grid object.ipynb
+SPDXID: SPDXRef-item6658499
+FileChecksum: SHA1: 4bbc5e1db97b473ef76c65265c9f75956de8a85e
+FileChecksum: SHA256: a7e57e8f42e315676f615da94914b9ad0f5181e16b401ed3562657d9d082d0c1
+FileChecksum: MD5: e8879ca603cd61dcc94aee3508f5866f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Import PSSE .ipynb
+SPDXID: SPDXRef-item6658500
+FileChecksum: SHA1: 6bf6c60e7a256a8169b76f4e96064c7674b83ee2
+FileChecksum: SHA256: 88d23810f6d87e53253d8985735de61fb817ee6013f333165d595f821b04f9c7
+FileChecksum: MD5: a73f39851d7e3669af745650e493b52c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/trafo_to_test.json
+SPDXID: SPDXRef-item6658503
+FileChecksum: SHA1: 9847d80b0764266511f1468caff48d4272abe257
+FileChecksum: SHA256: 93a84f81a525a42250f0aad597d226360ecda55c6a6578e692091080fb879831
+FileChecksum: MD5: ffc95f91135aa0e4df87165c4a3d08b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/line_ratings.json
+SPDXID: SPDXRef-item6658504
+FileChecksum: SHA1: 66837af06c64ff65ff10b64411348d2dc38e8ade
+FileChecksum: SHA256: e0d3db73b508d2da82d0653f22620afaa646ea6e9d42433fa77aadfd3b56c9c6
+FileChecksum: MD5: 39ad9cf8cde644c5bfac9afc3f33d870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/line_to_test.json
+SPDXID: SPDXRef-item6658505
+FileChecksum: SHA1: 181cd2cd7c66770d5fa3f43b22d8df61a3daec81
+FileChecksum: SHA256: 45e499bce1399ffedde5312fcd670c00c3f089ac345988844ae5db8afea5e762
+FileChecksum: MD5: 00c89d68928ed27df5a2958076b24bf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/Svedala2021-09.raw
+SPDXID: SPDXRef-item6658506
+FileChecksum: SHA1: 5b2cc31ba25a52d9cb42bbb5342ff911a8e19e3c
+FileChecksum: SHA256: f392b7694490efab4bcde7469ceda0c40a157d4910d149e60f7cc98b0ed861cc
+FileChecksum: MD5: 53f21cab9b011e723d76d98450d0f851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/svedala_headroom.json
+SPDXID: SPDXRef-item6658507
+FileChecksum: SHA1: dd08d03370e4acb5120484006758e9f60012cd9f
+FileChecksum: SHA256: bb626680d9f466f5bafcdcf118a35d8e17fe220446dfcfb956d152ee2481184f
+FileChecksum: MD5: 2c2739026a82a903698e446743eed187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/svedala_headroom_sgen.json
+SPDXID: SPDXRef-item6658508
+FileChecksum: SHA1: e45c176d663f62ffaa2b96429347119c3e13167d
+FileChecksum: SHA256: 2f33b582ebbb090d96e19c74d4659bc28af733c2efdd2621a371cabbe2f7cdee
+FileChecksum: MD5: 418c33d44c894365bd1980dbfe9f0376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/svedala.json
+SPDXID: SPDXRef-item6658510
+FileChecksum: SHA1: 6d8a389a7c47a2d548e6d4be465d6db406245c65
+FileChecksum: SHA256: 1d5be26acc1944b652891503d3cb3353ddfd778720294d2ac68ba5b7c5d22521
+FileChecksum: MD5: e25cc79a6348cbad5c2a66c0ea2dc41c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/tapcontrolldata.json
+SPDXID: SPDXRef-item6658511
+FileChecksum: SHA1: 79693bec0a3c42919d928875404431daf95602e6
+FileChecksum: SHA256: 91c97cd2efe862bbee5023802e80a9d0591a08167045e5265da10e1a33ebab26
+FileChecksum: MD5: 3c3b00e1969bdc46c1f62bcc55bf7bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/svedala/svedala_headroom_load.json
+SPDXID: SPDXRef-item6658512
+FileChecksum: SHA1: af776b24ee332962bf9bdf06b30065181ae0f518
+FileChecksum: SHA256: 3cccccc9d8e94ee6d8fa82c5700c7d392dd8a05efdd06d7e36e2231981027657
+FileChecksum: MD5: 0cc234805dd29e0e51116595608672b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/data/.DS_Store
+SPDXID: SPDXRef-item6658513
+FileChecksum: SHA1: 966896e9a0954734152060b9bc38883d18c50034
+FileChecksum: SHA256: eb9b2b1332796617f7e447546aa8a5fa754b34ec34a2d0fa4edfdfbab6f322c7
+FileChecksum: MD5: 60bec1c3e01d6d862d1273e9b46cba56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Calculate capacity headroom.ipynb
+SPDXID: SPDXRef-item6658514
+FileChecksum: SHA1: 496afc8b99e10fe91b7c54a59a40731776e3a7cb
+FileChecksum: SHA256: 1c7d4ab816f8e001e95a0c18e9794a06c5b087e33d46f71630dc32a569de179b
+FileChecksum: MD5: cc01044dfe01586fce935938071ab513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/.DS_Store
+SPDXID: SPDXRef-item6658515
+FileChecksum: SHA1: e1c72a5519fb753dbe9318d973c372aabd807884
+FileChecksum: SHA256: e85b766c4dc68758411961ecf500baa06c5b67863938fbbcd070912148314b2c
+FileChecksum: MD5: dd7a1449ac7e9ef79093ce133e1b593a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Connection Requests.ipynb
+SPDXID: SPDXRef-item6658516
+FileChecksum: SHA1: 0a9e5714ef739621c8f04c7cc67b5938ed36a9b1
+FileChecksum: SHA256: 3d6533f9dcdd550394e6eb1e9d92a0b7b970e27c00ab965a904925d1e8ef05d5
+FileChecksum: MD5: 9161a8590c83b6534c2832c187831c7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright%5C%22%5Cu003eOpenStreetMap%5Cu003c/a%5Cu003e%20contributors%20%5Cu0026copy%3B%20%5Cu003ca%20href%3D%5C%22http%3A//cartodb.com/attributions%5C%22%5Cu003eCartoDB%5Cu003c/a%5Cu003e%2C%20CartoDB%20%5Cu003ca%20href%20%3D%5C%22http%3A//cartodb.com/attributions%5C%22%5Cu003eattributions%5Cu003c/a
+copyright%5C%22%5Cu003eOpenStreetMap%5Cu003c/a%5Cu003e%20contributors%20%5Cu0026copy%3B%20%5Cu003ca%20href%3D%5C%22http%3A//cartodb.com/attributions%5C%22%5Cu003eCartoDB%5Cu003c/a%5Cu003e%2C%20CartoDB%20%5Cu003ca%20href%20%3D%5C%22http%3A//cartodb.com/attributions%5C%22%5Cu003eattributions%5Cu003c/a </text>
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/Grid model and calculate capacity headroom.ipynb
+SPDXID: SPDXRef-item6658517
+FileChecksum: SHA1: bf72f38cada47bc5d39a9095713ae6d5009571a4
+FileChecksum: SHA256: e4f5dac147416ac82bfc31b2472f27b2968a8c9d929bed334976ae3901e02dca
+FileChecksum: MD5: c79bac54b6fa6debd6eead7847ff7bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/under development/timeseries.ipynb
+SPDXID: SPDXRef-item6658521
+FileChecksum: SHA1: 06c5b65640f7bb3010e26e34d5dbe50bbd747166
+FileChecksum: SHA256: 6a741774fb1227ec8877558ef9401ceedad63df86f2858c9b4dfc02986853f4f
+FileChecksum: MD5: fd1ac54403c998fc54d99a8039a530d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacitymap/tutorials/under development/Dev - Analysis over time.ipynb
+SPDXID: SPDXRef-item6658522
+FileChecksum: SHA1: 967fd0d4679de44d7e1aa93d0e0ab6bcdb9921ae
+FileChecksum: SHA256: 3e9941d51a7064c12d87df3130d03ffc7c31483275eac869e588f16bb3938fc0
+FileChecksum: MD5: f6a95f5ccfd459f1270fec957e067805
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/sample_data/savnw.json
+SPDXID: SPDXRef-item6658525
+FileChecksum: SHA1: 82e32359033a746ef3d4f273ca30868a1f94526a
+FileChecksum: SHA256: cb344bd4a50be64d7904b38230aec9e05f674620e8fc5ae668e2f305a787c5a3
+FileChecksum: MD5: df0ae0a1c08f74e597793299e860536b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/pyproject.toml
+SPDXID: SPDXRef-item6658533
+FileChecksum: SHA1: a591d6dfacc93adf1c99f6135ffac42c0254a28c
+FileChecksum: SHA256: 25529d95ef2fc9ac89ca37326a9e2aa7d36da334b91da6ae129a45e8e9f9a2ab
+FileChecksum: MD5: e6ae2fce88fc779aca0738de981e2ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/.github/workflows/python-app.yml
+SPDXID: SPDXRef-item6658536
+FileChecksum: SHA1: d8b8867e24fcdeb42f1a1b10906686100ce72aa7
+FileChecksum: SHA256: f11a9370f01fa4b9fe10bdda00bda7d0170c8aa8e925695b2a3725e18949e157
+FileChecksum: MD5: 7655c455e5e0e8b752a7b1cda80afde4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/.gitignore
+SPDXID: SPDXRef-item6658537
+FileChecksum: SHA1: aa9f2172ea7111b96bf618aca587081ddd784062
+FileChecksum: SHA256: de34a5e78d32f446a06c2c7d09217f2df73bfab725c0e71788d1a03fd4763a34
+FileChecksum: MD5: 9f89893724a69d2ebe91cc0506dca78a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/.editorconfig
+SPDXID: SPDXRef-item6658539
+FileChecksum: SHA1: 593a844907bb3830050307adc0cd51979109de30
+FileChecksum: SHA256: d15a72c07c7240e70f0ffd9ec20c3abdfea14aa8798b3379f109715dbfbc76b6
+FileChecksum: MD5: d831a38a363da4f7f0898b9dced03904
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/Dockerfile
+SPDXID: SPDXRef-item6658540
+FileChecksum: SHA1: a7215da2a037e9ecd3f8f29b54b74279bf9e1e4b
+FileChecksum: SHA256: c24f9af7ed353e39324aac65f48e88c8439c044cf44aa9ae4b1e5b24e01c6872
+FileChecksum: MD5: d6670bd76d35dfeeed1f89ad6e7b556e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/envs.py
+SPDXID: SPDXRef-item6658542
+FileChecksum: SHA1: 909c84ecd0c2918493833025a45a95c30c724407
+FileChecksum: SHA256: 0cbb755c5f29330dd6e97497f1db67fbf33cca5f34df3a0c6ae4e06f50d28885
+FileChecksum: MD5: 88acb2446819c84782d06da4fc9fcac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/gridcapacity/console.py
+SPDXID: SPDXRef-item6658543
+FileChecksum: SHA1: 18a7dd930f20dd0aae9636ad16905f93d00a4bce
+FileChecksum: SHA256: 52932a789d02f22d2992e7b50079e7cb25f46c527dcd9789ec7051eb286e03c0
+FileChecksum: MD5: f00443082a2103475157f1dae77f6411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/README.md
+SPDXID: SPDXRef-item6658575
+FileChecksum: SHA1: b512f6d140ef6716701a41f40ef9deac62aa41c0
+FileChecksum: SHA256: 4382d4ad97f388a87fa98a1a519055ab1a2112a170867a6fb173a704e5405e2d
+FileChecksum: MD5: cb99bef8253593d3f1e8a00f4a90a944
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/Pipfile
+SPDXID: SPDXRef-item6658576
+FileChecksum: SHA1: 1396522aa65a9075212b1642f22d701219bdc98f
+FileChecksum: SHA256: d87c84cd92055deb1f11b5331c2d459142a2872f9d0ec6be8786fba7c9d90190
+FileChecksum: MD5: a3892a6fd3a5baedce1b7662912737b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridcapacitymap-2023-12-23.zip/gridcapacity/sample_config.json
+SPDXID: SPDXRef-item6658577
+FileChecksum: SHA1: f3aff4e3f3be746d157ca9af2ad807bd5fb38e94
+FileChecksum: SHA256: 433a63ef75eb9eecb1a24cc2803a01c6f317496c7945cc7690e6ac597b70225a
+FileChecksum: MD5: ba3d0b11b9993e005e799fac4c8db46b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
