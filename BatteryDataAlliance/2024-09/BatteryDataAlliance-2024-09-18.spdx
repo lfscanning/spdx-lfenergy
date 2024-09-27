@@ -1,0 +1,1742 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_BatteryDataAlliance-2024-09-18.zip_1727231612.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-09-25T02:33:32Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: BatteryDataAlliance-2024-09-18.zip
+PackageFileName: BatteryDataAlliance-2024-09-18.zip
+SPDXID: SPDXRef-upload1517
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 347e48ea9123f401c0665b0537bf0a02b1a51f4b
+PackageChecksum: SHA1: 3ad90aa2e31509c8b8d0a71b46649bbffb5103ae
+PackageChecksum: SHA256: 08adc06b9bdcf2bcbf9e36016fd805251d0c1f68bdabe0793aacc7a2ce6b8175
+PackageChecksum: MD5: 13146c33ecb75808a512caf69820a490
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1517
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/setup.py
+SPDXID: SPDXRef-item9936813
+FileChecksum: SHA1: 1c9ad3400b121722796f2fa9c8c86b382b4a1381
+FileChecksum: SHA256: a87dff8cfabd1ca42baaaccbb7c1006202ef567b64cd8a6669c1db68f81d8dca
+FileChecksum: MD5: ff25bb39c696fc9471838c6711d21007
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Python
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BDAOntology/LICENSE
+SPDXID: SPDXRef-item9936832
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/LICENSE
+SPDXID: SPDXRef-item9936714
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyadmiral/LICENSE
+SPDXID: SPDXRef-item9936633
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/LICENSE
+SPDXID: SPDXRef-item9936700
+FileChecksum: SHA1: 87c295aebbfc7e3dc15ce98682aa057141be745a
+FileChecksum: SHA256: f4afa71dd478c3609d78728c9b70882055588af008aec3f5a58b3a8f1ac752d7
+FileChecksum: MD5: f962c5776894adabe64219ec69a3b529
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2024 BattGenie Inc. </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/LICENSE
+SPDXID: SPDXRef-item9936802
+FileChecksum: SHA1: 87c295aebbfc7e3dc15ce98682aa057141be745a
+FileChecksum: SHA256: f4afa71dd478c3609d78728c9b70882055588af008aec3f5a58b3a8f1ac752d7
+FileChecksum: MD5: f962c5776894adabe64219ec69a3b529
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2024 BattGenie Inc. </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/CONTRIBUTING.md
+SPDXID: SPDXRef-item9936702
+FileChecksum: SHA1: d5220beba7c4233f4a9b76ab570280f65257079a
+FileChecksum: SHA256: 7ec2a3b8ae3d81707a0bf6a88d8316d13c302b067cadeb77e09b5b9705663e84
+FileChecksum: MD5: 44ba79111c77738c45fe7eefb740a603
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/CONTRIBUTING.md
+SPDXID: SPDXRef-item9936805
+FileChecksum: SHA1: 4b06b9cf6e5ba59b5f433429975fc76246e4a0d7
+FileChecksum: SHA256: 30434ad5395678665562eedf5693f1a82ef787fa5712e7a2a8c0b993f5d3231e
+FileChecksum: MD5: e2bd69483094a38476771666909ce75a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/setup.py
+SPDXID: SPDXRef-item9936708
+FileChecksum: SHA1: 217395f415d7988a610da68f105a676a4f0a541b
+FileChecksum: SHA256: ee6d895347e14f75d801a4aa8911cb06c62da98c966a30a317cf264af77e38a2
+FileChecksum: MD5: 84845ce5b47700bec65846913b35cef6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyadmiral/README.md
+SPDXID: SPDXRef-item9936634
+FileChecksum: SHA1: f59e6b8fdf14f940b3a8d158ef76b6fcdd44dc29
+FileChecksum: SHA256: a02178dcc77cb729a3e19c148ae8e043d40d624040916f8d5c7561307e81bd25
+FileChecksum: MD5: 5d7949d432c36d2cc96ebd6b78e3612c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_cycler_interface.py
+SPDXID: SPDXRef-item9936637
+FileChecksum: SHA1: 4217d3f793c9ad46a955e649cdf67c5953c7c8b0
+FileChecksum: SHA256: 74ecbc564912495f5a5285ebc1b467e99c78224f813186f00f13df4f08a591e9
+FileChecksum: MD5: 51b43fd434fda400c603895837853194
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_stop_schedule_msg.bin
+SPDXID: SPDXRef-item9936639
+FileChecksum: SHA1: 738659a74037a291ac93bdad0f57c7b4ce05b3a0
+FileChecksum: SHA256: 56c72430c040fe1781ebaed7a1d70d851afb11f3d4d0983aba704ced01592971
+FileChecksum: MD5: 7f2ca9d27429f3bd6f91039e5cb0032d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_assign_schedule_msg.bin
+SPDXID: SPDXRef-item9936640
+FileChecksum: SHA1: 763f02a2ebda590379e4d1d3430dca04afafac94
+FileChecksum: SHA256: 60ca2dce5eacc07730842ce83d54b51ce8bccd587606598247f45b4a5734f128
+FileChecksum: MD5: 97b59fc9927e88197423cd00645dd3cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_assign_schedule_msg.bin
+SPDXID: SPDXRef-item9936641
+FileChecksum: SHA1: f3c9115aaa7a3ca0fff7492cd6c8a547a6401eba
+FileChecksum: SHA256: 776cf8cd33c2e989b2c6fe0ecdd348c0fec7cd67dde27bba623e135013d7aafd
+FileChecksum: MD5: 00502503eb876660cdbe3f0ea46a3540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_channel_info_msg.json
+SPDXID: SPDXRef-item9936642
+FileChecksum: SHA1: 80abbb3879fd7cc29e19268ced706065df2f1deb
+FileChecksum: SHA256: f95ce09094af715f7c00f19321b7585e0dc13e804fb2ab8bd5dc36cf1937690c
+FileChecksum: MD5: eb948feab7099fa978c2b8aaaf2aabb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_set_meta_variable_msg.bin
+SPDXID: SPDXRef-item9936643
+FileChecksum: SHA1: 70250e015071d9b761d3cdf66c016f49c4766266
+FileChecksum: SHA256: d498f85613e7af0169df2125ff03549a5604635fd3b3be042ad1e40b71a10533
+FileChecksum: MD5: 46af5f742763612398747612ba21e05b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_channel_info_msg.bin
+SPDXID: SPDXRef-item9936644
+FileChecksum: SHA1: 04fa496e93333e985c3094c02cf315ae4739b358
+FileChecksum: SHA256: 0d91eeb0693bb8b50885d07570ebe7148f979b0784bfe395182e84b53c2bdd9f
+FileChecksum: MD5: 0085e1ee7500e21b142841c5ecf2d9c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_login_msg.bin
+SPDXID: SPDXRef-item9936645
+FileChecksum: SHA1: ae8ec09bd4d630ef12812d06c147f45872e99f43
+FileChecksum: SHA256: 3828797fd8006ba53d24ae6b48cfefd8e18126f9dbc57d73d3345f178e72c890
+FileChecksum: MD5: 06991fc030708ce29f93154c2b532204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_assign_schedule_msg.json
+SPDXID: SPDXRef-item9936646
+FileChecksum: SHA1: bd5fda297c42506cc85c2eff4d61cbe7fe803ce3
+FileChecksum: SHA256: a3cc42f9422549dcd3768664c54f40478187b05531b0948a9a49e849b2f15107
+FileChecksum: MD5: 3af290f521f6fe66e4189796a3140a72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_channel_info_msg.bin
+SPDXID: SPDXRef-item9936647
+FileChecksum: SHA1: 7172b96a834497645aaa263df288dd72a7ba66f3
+FileChecksum: SHA256: 3d37440758ec73d1740d8cab28cd7bea86f73cc1888b4bec4f0e256345ae5d7b
+FileChecksum: MD5: 8d54f0d8a5eb08d0cffc3a2426aded2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_channel_info_msg.json
+SPDXID: SPDXRef-item9936648
+FileChecksum: SHA1: 1ee26c0648528df4377320e07ce0ef88da1386d5
+FileChecksum: SHA256: c62875fec90eb1907e8ea91b7998a7fc3c3bb798a2de4050b0a9f7f069a2a340
+FileChecksum: MD5: 56ef5eb1b7e544df08bcff4152cc9463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_set_meta_variable_msg.bin
+SPDXID: SPDXRef-item9936649
+FileChecksum: SHA1: df30499aca9c06321244c166cf2c1aa5d1d1681c
+FileChecksum: SHA256: c456337ad9900bae6922ebd40467a237452bbb862d5d4ee64ce97465ec5f3ff6
+FileChecksum: MD5: 6c08abcc99586e60b098d795f5059718
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_set_meta_variable_msg.json
+SPDXID: SPDXRef-item9936650
+FileChecksum: SHA1: d90f83a181985583e2175c83b4106f7636d2967f
+FileChecksum: SHA256: 7b472aa2535dc80bc40cd33a737e16f2e3be786d307c3d0f2b9228e2d804b250
+FileChecksum: MD5: 8c82537345df306a0df0f9d2853d74fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_start_schedule_msg.bin
+SPDXID: SPDXRef-item9936651
+FileChecksum: SHA1: 5899faaec62f1dbbfab82082d2fde3a6afd47ff0
+FileChecksum: SHA256: d7d559ab13180d7f037cc51e4fdc0f3ec86f1c67f737c86aba98301eb6025949
+FileChecksum: MD5: 3c1756e3eb0f27e45381c9f40c5f789c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_login_msg.json
+SPDXID: SPDXRef-item9936652
+FileChecksum: SHA1: 43746b49cd4c7818dc3dea97978fc6a6319d64a0
+FileChecksum: SHA256: 379d022bf51e28646843758c9cddac590e77e113b487b0bf0ead52ef7cb1aebb
+FileChecksum: MD5: a3291bab6aaa6bbb5bdfdcabd0cdc043
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_start_schedule_msg.bin
+SPDXID: SPDXRef-item9936653
+FileChecksum: SHA1: 2fd081f57b0fdee385a310c69581dd4bbf51246f
+FileChecksum: SHA256: 67ca00c1460ddfa5ff01df7df37591119da02b60da46b471841d936ff5795199
+FileChecksum: MD5: cb3c12ba356c9c12490abdfedc37a8af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_stop_schedule_msg.json
+SPDXID: SPDXRef-item9936654
+FileChecksum: SHA1: b0ea5a302c22619500e1fa93360ce65958f324b1
+FileChecksum: SHA256: 4293ec3f760ed667bfd2f8405e7eec9005ec8ff1e595e2eca6c3dab3051b7699
+FileChecksum: MD5: 20524fbc7cb07d4404dd4d8fd4f65096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_set_meta_variable_msg.json
+SPDXID: SPDXRef-item9936655
+FileChecksum: SHA1: 86c0dd22473bb887c8402aced256356e5b72e1db
+FileChecksum: SHA256: 84e708e7471f793dfd5c0b401737614f599e72e6bfc625d4d9db3d1f21d3061a
+FileChecksum: MD5: 50cfabdbce2e9da0f9e69d93d08fe758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_login_msg.bin
+SPDXID: SPDXRef-item9936656
+FileChecksum: SHA1: 7a1bb898f981722763b84d63dc950d3881eaac53
+FileChecksum: SHA256: 12fa21dae8471c5ba22b7126aa10a9a61cf3f0a1cf2f2dc8da67ed783b624d28
+FileChecksum: MD5: 3678cb396dc10aef9acbfa487fd8f823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_stop_schedule_msg.bin
+SPDXID: SPDXRef-item9936657
+FileChecksum: SHA1: fe6445718b0bc1e18498e38d2ea42c5db731ed68
+FileChecksum: SHA256: 3c2e5aecbe8516230da4d6651e9d17aaab040c16387169c751273e0d03b255d9
+FileChecksum: MD5: d4c0e2b85a110953929524e90af67e6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_start_schedule_msg.json
+SPDXID: SPDXRef-item9936658
+FileChecksum: SHA1: a3ab2977fd3c4c935b25de86e25fc87599efce13
+FileChecksum: SHA256: a94ac0569debe8fd485c12f3725f6191571a287d167fa111221dab1bd618c4d1
+FileChecksum: MD5: 9beedacafa7974f70e2bcd9df3cf1144
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_assign_schedule_msg.json
+SPDXID: SPDXRef-item9936659
+FileChecksum: SHA1: 814485a386f0cbd2c25d263ae60dbfc73c117f78
+FileChecksum: SHA256: fcad4ff82b2b278b8f79a184cb01fa220378d45870055dbb5c7b13d4ea3944ab
+FileChecksum: MD5: 1e162a46232004dd49da5c472bb5c30e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_start_schedule_msg.json
+SPDXID: SPDXRef-item9936660
+FileChecksum: SHA1: 74c3d008b78ff4eadb82fc61d4f7247c13dc8cfe
+FileChecksum: SHA256: b332f9dc9741d1f2fa07898cc5b37e5631673f1ad388b91880376de2494f7c81
+FileChecksum: MD5: 8557f8e86935d12ea6d0753014a0e2ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/client_login_msg.json
+SPDXID: SPDXRef-item9936661
+FileChecksum: SHA1: 11ceb2ba006701095be13d42560caf0de1b67315
+FileChecksum: SHA256: 6b3459dc15736745f70619f62ac90fa89b828b52028444bd2db393c08bcb5f31
+FileChecksum: MD5: a0c396a978b6b9a7b994476f61535121
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/example_messages/server_stop_schedule_msg.json
+SPDXID: SPDXRef-item9936662
+FileChecksum: SHA1: c0e3448cb13bcf6960addc80c8f3a4933837e18d
+FileChecksum: SHA256: 9a81b33d35271b05d31502e2b3e896709ee412bfc6950a289ac0bd214b6c9bb6
+FileChecksum: MD5: 4de0cd9b9f62d6e3fbfd4788ee1cbf4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_message_abc_methods.py
+SPDXID: SPDXRef-item9936663
+FileChecksum: SHA1: 9c50387e14a69e20547f291d832e0d92e2f4aace
+FileChecksum: SHA256: fca45ffc8bd06b17e93a697467952dc8b79651aa278099e88a22f5095b886664
+FileChecksum: MD5: 5a38094be25817ca9eb529a1525eb9ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_set_meta_variable_message.py
+SPDXID: SPDXRef-item9936664
+FileChecksum: SHA1: e292175734e62d2800c239b0302e3315e0a1192f
+FileChecksum: SHA256: c13818b130259ec19c5b7ec322022cc524d76e1116e4d174a7aaea9ae40b4aa5
+FileChecksum: MD5: 36e1e2a4203640eea80b0d2c409a9d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_channel_interface.py
+SPDXID: SPDXRef-item9936665
+FileChecksum: SHA1: 309cdc875ac5c6aa944a974274ae3010331878f1
+FileChecksum: SHA256: 1258f38fd1349b286b78284903cc5aa159e639f28326b3fc05409b071ab80473
+FileChecksum: MD5: 2517d52d279fae9daf9dbc8077650fe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_channel_info_message.py
+SPDXID: SPDXRef-item9936666
+FileChecksum: SHA1: 620811366bf18158b28b0f2f03cfb85662d11b18
+FileChecksum: SHA256: a3ba0836c4dfaed0306fa22495171aa8a46e23c4faedc394a2adcc985ca0f8e8
+FileChecksum: MD5: e6577cfdd95c6abf72963c463e9996f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_assign_schedule_message.py
+SPDXID: SPDXRef-item9936667
+FileChecksum: SHA1: be7f67cc8a02fb178e6c9de6d972a6615174c08e
+FileChecksum: SHA256: abc836b9a2aa7357c347be0e4dbcaf733cf48670bed34dc2a9984125e1da2b53
+FileChecksum: MD5: 76d4e478b236afc3f468201beed09f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_arbinspoofer.py
+SPDXID: SPDXRef-item9936668
+FileChecksum: SHA1: d5989c616b555e245363d9628c4508d6de6f62da
+FileChecksum: SHA256: b8e5f4afc823150995e43fabc80b13c93a136244c878ae93a588db48b3613d24
+FileChecksum: MD5: 1015651695b0fcbda9ed2e7d536a7dc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/helper_test_utils.py
+SPDXID: SPDXRef-item9936669
+FileChecksum: SHA1: e3813f4289be71e68aa1d659a08d9522c2bf1180
+FileChecksum: SHA256: 5b247c7bd57062d2f915964c9e7f25d558db6b1326afbdf7dde866ff9b1a8aa3
+FileChecksum: MD5: effeaa9891a3be366b8175311afbe248
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_stop_schedule_message.py
+SPDXID: SPDXRef-item9936670
+FileChecksum: SHA1: 0bbb4af9c574b90c17cec1cac895bfc6f8da93f6
+FileChecksum: SHA256: d569c2bd92b5840bd62b755a4c6b84d709851754c091b58ad8b0799620ca5d79
+FileChecksum: MD5: da39500060066f0cd42c4f6adbcbeb90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_login_message.py
+SPDXID: SPDXRef-item9936671
+FileChecksum: SHA1: 7d0b4e17068ffaab030f31127ea40d4716fe54b8
+FileChecksum: SHA256: a524867bf63ffc8ae51e3cba019c376cf4814ff82e21f146410279506d288db2
+FileChecksum: MD5: 3ca63894e998cf07699b103d4f18b219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/tests/test_start_schedule_message.py
+SPDXID: SPDXRef-item9936672
+FileChecksum: SHA1: 29a6be3c6868e12f9d96557cba1cf260c788fa63
+FileChecksum: SHA256: 02e851d354bfe69431e8bb7dd810c52ddbaf0f47735298d9e5763d45a1912c69
+FileChecksum: MD5: 24b1ebbba414c363c246e8970db5f1db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9936673
+FileChecksum: SHA1: 73711fbc5c27b23b028013410d43f9fc563afb3b
+FileChecksum: SHA256: ed468c43ba554d29de177a1f96750cc924526001c60f5298df5e04a93204567f
+FileChecksum: MD5: b3b75cff0f281a6838646bd1042d5f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pyctiarbin/channel_interface.py
+SPDXID: SPDXRef-item9936675
+FileChecksum: SHA1: 6a1879198da0d29c39983da603adcc358d47cdd5
+FileChecksum: SHA256: b94acb2395940578c5a53a080522a116cf3618a28635f2efeb0c1f923eab0ce4
+FileChecksum: MD5: ad537b630e51574b954c95925db4b027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pyctiarbin/cycler_interface.py
+SPDXID: SPDXRef-item9936676
+FileChecksum: SHA1: 1cd86cb99e54decb17cd36ff84dbeeba111ecba2
+FileChecksum: SHA256: cf900ab0f3c92249be2e2e5e8b6609784fbb7ff311830a0da22ff066796cabc2
+FileChecksum: MD5: 7c748ea354a79f9f9e25a8b16c4d8010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pyctiarbin/arbinspoofer/__init__.py
+SPDXID: SPDXRef-item9936678
+FileChecksum: SHA1: 5a15261cfebc9b928cff4b33bd397e55ddb3fbd1
+FileChecksum: SHA256: 83b02518d631e226355f0564eb37e37a546e7571d0932bb879b20ec8ddb238e1
+FileChecksum: MD5: 4a788d83b9ad2b117f71803f694bae03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pyctiarbin/arbinspoofer/arbin_spoofer.py
+SPDXID: SPDXRef-item9936679
+FileChecksum: SHA1: f02b3a5e90ab5fabda2ab2e46c4096692b348527
+FileChecksum: SHA256: d713defddb330986508ea1fbdc414805524cf715287b814bc50b708a030e9c92
+FileChecksum: MD5: 474955ca2bd89d7dbf1f21a5fffecd0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pyctiarbin/__init__.py
+SPDXID: SPDXRef-item9936680
+FileChecksum: SHA1: 98343bbc62eb9b60b2af392ef01a75d060ce1393
+FileChecksum: SHA256: f2b9b207ebe8cf456e917348755ac74c0c1930a35f288c900caa971ba549554e
+FileChecksum: MD5: 7ba542fb57321f361c2e30a4a19c0222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pyctiarbin/messages.py
+SPDXID: SPDXRef-item9936681
+FileChecksum: SHA1: f6cb511caa9072ff91f964c2add93b9b3dfb60b2
+FileChecksum: SHA256: 379099ec5b07e9450576ce1e2b53369a30df66eff1649e9a2fde91b0821f25b3
+FileChecksum: MD5: 9b6a5252d36ab9d39a28c54e32d10fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/Arbin CTI Instructions v4.5.pdf/Arbin CTI Instructions v4.5
+SPDXID: SPDXRef-item9936685
+FileChecksum: SHA1: b7e47cb8f1589d9d2ebd2744563f7c2dce056582
+FileChecksum: SHA256: 4f075e389f74b24b1a23155dd6417e00b866b830c97bfdea8cb03ff90d0f1c02
+FileChecksum: MD5: b171511e4b50b303d3b0d27953768e43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-file
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/ArbinCTI_Protocol v1.1.pdf/ArbinCTI_Protocol v1.1
+SPDXID: SPDXRef-item9936688
+FileChecksum: SHA1: 1891f5503699a54046f90f58a9674d25b66401c0
+FileChecksum: SHA256: f1c1d8599696a36c476e337019f47bcad0409f1a0c45af2b1dc0d8bf3965942c
+FileChecksum: MD5: 79cba239ff7d1d2d10852adf6f945ce4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/pycti/cycler_interface.html
+SPDXID: SPDXRef-item9936690
+FileChecksum: SHA1: f952284e35fd09c2369d2bd47ef4e834a098d8d1
+FileChecksum: SHA256: ec75bde96bba9a5dd11eefffeb295314f07764e63fd5e06426710086ca8b5e1a
+FileChecksum: MD5: 426467cef63f79e37638c4bab589a84c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/pycti/channel_interface.html
+SPDXID: SPDXRef-item9936691
+FileChecksum: SHA1: 54465418158dda32718e160ac0040aaba0312d8e
+FileChecksum: SHA256: 393a961398a89cb468ca11751c2399990c1a5248fc1f32aea4c5b3694efbc931
+FileChecksum: MD5: 8dfc6d441222d6ec67482dc3657507f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/pycti/arbinspoofer/arbin_spoofer.html
+SPDXID: SPDXRef-item9936693
+FileChecksum: SHA1: 13b6a45eeda935e1f814dab8102ecbe84cfe0615
+FileChecksum: SHA256: 9002a6abbe30dc1e6e395178f29a3a7a6bbd125b28207f3ede334568123b6627
+FileChecksum: MD5: c7ae7760b714fa4d7fbcc023da8228d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/pycti/arbinspoofer/index.html
+SPDXID: SPDXRef-item9936694
+FileChecksum: SHA1: 35b28474f985240cd2459a7d0f249c63d2bab1c2
+FileChecksum: SHA256: 7507f6897c9c0e41096f3707dcc0cdae38d180e98c624017970c96a46c4b3115
+FileChecksum: MD5: 2e87ed591ce77a27d8ba33ad47a880af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/pycti/messages.html
+SPDXID: SPDXRef-item9936695
+FileChecksum: SHA1: 7509989797024b9fb12cfc662ab7213f593c8d4d
+FileChecksum: SHA256: 203d5dfc698b95a4bb521666020969ffc71d14c407c0e8d1cc4f5d6cb191f8de
+FileChecksum: MD5: 701d20c1335a46fc0f44aa370ac60a7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/pycti/index.html
+SPDXID: SPDXRef-item9936696
+FileChecksum: SHA1: 2743a9795e8d50376f9908d615b16888a60790b1
+FileChecksum: SHA256: 881745792560ccc93df0ae0f3f5c4e24f09a4e6abbbbeb8fff9bb1ffbef699bf
+FileChecksum: MD5: 7327018f38b426ccccfe2f131a9f6475
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/docs/Brief introduction of Arbin CTI Protocol.pdf/Brief introduction of Arbin CTI Protocol
+SPDXID: SPDXRef-item9936699
+FileChecksum: SHA1: 90993955c8aeb9349be98f63906b0bca14956b8b
+FileChecksum: SHA256: ecdba0321b8f33510ddb297817a3167205daf9f0dfe67e06937fac9ec2ffbad1
+FileChecksum: MD5: 90fdb034d04999c07405ac52b931fa7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/MANIFEST.in
+SPDXID: SPDXRef-item9936701
+FileChecksum: SHA1: 3719206eeaae4bab0a41208a253a5df9c4dfa774
+FileChecksum: SHA256: ecb012ebb3eb716a4aec4f684a8be98b27dcb75dfe55625fc6daf67756f5c2b7
+FileChecksum: MD5: 8f2a0e6dba6a9d81b4c5c3aa2b9d3789
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/pytest.ini
+SPDXID: SPDXRef-item9936703
+FileChecksum: SHA1: 742f022709a2893d62757b43dd8f035afed593c2
+FileChecksum: SHA256: 65a722402333aa5d7748ed49978dab31e1bd5f236e2ae19ad2d9d77325112cb8
+FileChecksum: MD5: f154ce160f5f1ba2938fcd4f16a56a4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/.github/workflows/pycti.yml
+SPDXID: SPDXRef-item9936706
+FileChecksum: SHA1: 37bda9990d6211b9ab166c44cffb637d5472bac1
+FileChecksum: SHA256: 543238031e593fa77f7b12a2b71923d220f12dd096645d9f698230235521d163
+FileChecksum: MD5: 40d063d0a36b4829eee691714360b73f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/.github/workflows/Release.yml
+SPDXID: SPDXRef-item9936707
+FileChecksum: SHA1: 2e75308c2fa63df565ff78b2971d1a8a1535a1bf
+FileChecksum: SHA256: 274ac30ec99f8de40156c74531d436b118bcd0334e10533c9d265c40c989eda4
+FileChecksum: MD5: e793ab60e3cb112c8a6a5b30fbeb4381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/.gitignore
+SPDXID: SPDXRef-item9936709
+FileChecksum: SHA1: 9e55458cdb3daea8d2956d6e0f4e0dc51baeadc1
+FileChecksum: SHA256: 2d7913dce651f473871c09cc5d28ca937f1579871b53cced3bbc848b54090726
+FileChecksum: MD5: ef1ca22360fd5ba9b687fd345f704370
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/requirements.txt
+SPDXID: SPDXRef-item9936710
+FileChecksum: SHA1: 428f0e9452aac7efd0d07207700c56b5a7049437
+FileChecksum: SHA256: 602f8fd784727549df5874f1ec228fa3b464edd99ae0303193d343776d0f9226
+FileChecksum: MD5: c6daf7981fcdd566f63fb86544fa02b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/demo_notebook.ipynb
+SPDXID: SPDXRef-item9936711
+FileChecksum: SHA1: a16e426ba3eab5f437a739ff2e1cb6687f174bdd
+FileChecksum: SHA256: 42fe8a7aba81bea361482de563270c213f3d74744db19f77f0546404bacb6f0a
+FileChecksum: MD5: 89e73a8118a6dc40b180061206961c9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pyctiarbin/README.md
+SPDXID: SPDXRef-item9936712
+FileChecksum: SHA1: 95285d317dd258b599b5d6b2e5a8c38f80ca2c32
+FileChecksum: SHA256: 771518d3c18120f1bd7678be0a84ce53edbf617394557480a611ad4ddafab0b5
+FileChecksum: MD5: 8b7b16e7dfa69d5552b4979cf41c4d1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/sampleConfig.yaml
+SPDXID: SPDXRef-item9936715
+FileChecksum: SHA1: 3feea9e3d4bb5c5eb3ed64548bbb33208bcb6e4b
+FileChecksum: SHA256: ffaab7b0e71a689bfee15dec9877730b06595dc9fcfe880260d6787ee15c7533
+FileChecksum: MD5: 4cc28cc5a177185cdeb17d647af24071
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/schematic.drawio.png
+SPDXID: SPDXRef-item9936716
+FileChecksum: SHA1: 6b767adc5f1a5f49b85e66c1352d30b1d955648d
+FileChecksum: SHA256: ee0282d394e927061c2c9deef002a2a2759d682188e98d9fa1013085b9fbac32
+FileChecksum: MD5: 296e00a2950adaec06197798cc81514f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/.gitignore
+SPDXID: SPDXRef-item9936717
+FileChecksum: SHA1: b4b330331a7857bd450f405091e22e29366e7672
+FileChecksum: SHA256: 008a6d3162d3f40d11cc9dc68c80eeb370bdefd6d082cc361bdd6fd9f1948e42
+FileChecksum: MD5: e5a6882ba762ffec9606cfc8c058b246
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/requirements.txt
+SPDXID: SPDXRef-item9936718
+FileChecksum: SHA1: d79552a3636ded07559f96b5ef6e9175a4238771
+FileChecksum: SHA256: 57e2dcf981e97c7345b1d541ea589493fa5938a8c97c02666e40fcacd2eb8a46
+FileChecksum: MD5: bf24429fab977f84d0cb662a98c96c36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/main.py
+SPDXID: SPDXRef-item9936719
+FileChecksum: SHA1: 17f8a2bc1a19f8881a76cdcff8905f4e493a5aa3
+FileChecksum: SHA256: 5b9aeed3e2cee13728339dc756e3244eba89a7975f5c68af9e22f412319c61d0
+FileChecksum: MD5: 61d4d34c98190fd685c7f52c1cd70369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/modules/configurator.py
+SPDXID: SPDXRef-item9936721
+FileChecksum: SHA1: abad0df87c19d746bb2d06de81f1feff70579562
+FileChecksum: SHA256: 0d8a13b559f2e05e62e0c95f77e3ac0edb3c7093354d2c6f276f3fce9ccb7c17
+FileChecksum: MD5: 8539e833b264a8824056a16bef0cc12a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/modules/drivers/pymacnet.py
+SPDXID: SPDXRef-item9936723
+FileChecksum: SHA1: 04250856e47aca31260ea8099bc6971875f828a7
+FileChecksum: SHA256: 2f3e1f8d14b55dab2c7d0fa09c2aa2eadb89812437941ec5e5e452f7c1344b56
+FileChecksum: MD5: dd6323244f380f94e84ef0ba1b6bc68e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/modules/drivers/pybaam.py
+SPDXID: SPDXRef-item9936724
+FileChecksum: SHA1: dfe8ee13b110165bd3a8d20c992e1725ae11ae2c
+FileChecksum: SHA256: 759ddfc117a0fdd31332a202e12a79a3ff010aa10808f98964b2a33ae822411f
+FileChecksum: MD5: 9ed8a300434b51682a4ded83e74d2dd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/modules/cyclerConfig.py
+SPDXID: SPDXRef-item9936725
+FileChecksum: SHA1: 47a4f64778698ba9bb514b973e977d2d39a4e836
+FileChecksum: SHA256: 2ce2a0f365e424d84dbed3896fef5703744816708fa4318f387c5ab203e2af72
+FileChecksum: MD5: fbaf55cf7611e4bbf99ab83ea32b1457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/README.md
+SPDXID: SPDXRef-item9936726
+FileChecksum: SHA1: 8fffa3a2e2a654f0e04a839433450a280efbc65f
+FileChecksum: SHA256: 0d24f7ae2e1b159e5f2f3f92ae40be896a6cb64044e41416f2f93a0a074adfee
+FileChecksum: MD5: c210a61dbaf5fb4b2c2b34e8c14d61da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataInterface/test.py
+SPDXID: SPDXRef-item9936727
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/mat_to_vdf.m
+SPDXID: SPDXRef-item9936730
+FileChecksum: SHA1: ecae8d2e54803b685fd27acd47933f4b5176c3b4
+FileChecksum: SHA256: e010646f2def79b65b7039a2baafd672350de82a9ed2e646cc1a2f3702145c50
+FileChecksum: MD5: 31b1eb779496b551bc2e543faeceabec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/example_echem_data.mat
+SPDXID: SPDXRef-item9936731
+FileChecksum: SHA1: 47db20b19f2f479c02110ebf78fad042604f57aa
+FileChecksum: SHA256: 9f630d0109938c6f92a3bea49f35f41eca1f0e6355e27c2b3962cd682803d121
+FileChecksum: MD5: ce83f8fca8b7a5840883b882e0850a27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 2t§Þ5?Gëåzc¿©©ÝÚZ'ï©?eñXµx?ؘ݃´B£näý@ûÈ^.p÷ ©?®?¨ØK,cú?Õâ7vÛ_þç~?;o¼ߧ±«?E&>ǎ?NS </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/[Content_Types].xml
+SPDXID: SPDXRef-item9936735
+FileChecksum: SHA1: be0025a1322951457b1e79f4df54ae5a5a86b378
+FileChecksum: SHA256: 4090a495e8260a9f23ba7dd4ca899b9d7a51027d14f0ab76b6c6b2fabcd864de
+FileChecksum: MD5: c740046b03185ce1455361ab16084fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/metadata/mwcorePropertiesExtension.xml
+SPDXID: SPDXRef-item9936737
+FileChecksum: SHA1: 1d5422af0bcb33c896f358d9c74383ed2540940b
+FileChecksum: SHA256: 4bd8387aef405a6f799b2d7f1ccbc60b47b70935b7f046a350b0a28a6e87cd46
+FileChecksum: MD5: 13c4dabc0029b77eb9cc0b58dd9d7fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/metadata/mwcoreProperties.xml
+SPDXID: SPDXRef-item9936738
+FileChecksum: SHA1: 16ea2cbcf7c48840446c19082aed2979d2510a00
+FileChecksum: SHA256: ea88cda2260e5afb753c9f2cd660f03f089a1f225919ed09c60f1897102c443a
+FileChecksum: MD5: 7e8939b6dac4f398a8cd8599d0e14b49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/metadata/coreProperties.xml
+SPDXID: SPDXRef-item9936739
+FileChecksum: SHA1: f57dc37ec83d426f4c226b2e2eb8fd07105931ce
+FileChecksum: SHA256: 3556c04304536393f2f25fd6b971789d7b8cd4273afc5e96238216a7fb72cad3
+FileChecksum: MD5: b01375f7c493d0342deb29893e65f732
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/metadata/mwcorePropertiesReleaseInfo.xml
+SPDXID: SPDXRef-item9936740
+FileChecksum: SHA1: 88ac24dc658b6a64c68abdf8bf380f4cdf515881
+FileChecksum: SHA256: b9ebf00aa3f1564103ed945f285af4d11015f21e3f70aafd6e0587e03b5cd954
+FileChecksum: MD5: bc9a19253f557ca2ef2f9417575a1897
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/matlab/document.xml
+SPDXID: SPDXRef-item9936742
+FileChecksum: SHA1: 8895c2e0e642a5861f8da7d68c0891f8f1a01b4a
+FileChecksum: SHA256: ef1a2f09cd1523b9e14cb852b658d0d1cd60f87d8f58019d6fcffa7418a08e51
+FileChecksum: MD5: 557cb909e13a3afbc28cb16889c4b063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/matlab/output.xml
+SPDXID: SPDXRef-item9936743
+FileChecksum: SHA1: 16d042bd632aa66d4071d6e9b9b20e6dadb3898f
+FileChecksum: SHA256: c907139b0d148a0b6dc53e1fdbe0a0bf70b289785e4981192d08f7a8687d4659
+FileChecksum: MD5: ffa3add94a9b26679c9d2fb029cd80b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.mlx/_rels/.rels
+SPDXID: SPDXRef-item9936745
+FileChecksum: SHA1: 988b41a6b4dc4e29904e9ffc94d4f10f517e20ae
+FileChecksum: SHA256: 94c749e7a09b67dfa8d5095a11ffe077f077bfe61617cd6ee601b8c2ec4649db
+FileChecksum: MD5: fd3723615ecf6403b7d977a7526a3637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/mat_to_vdf.asv
+SPDXID: SPDXRef-item9936746
+FileChecksum: SHA1: ecae8d2e54803b685fd27acd47933f4b5176c3b4
+FileChecksum: SHA256: e010646f2def79b65b7039a2baafd672350de82a9ed2e646cc1a2f3702145c50
+FileChecksum: MD5: 31b1eb779496b551bc2e543faeceabec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/mat_to_vdf_config.asv
+SPDXID: SPDXRef-item9936747
+FileChecksum: SHA1: 2c510b75f6215adc3e43b125e1fabcc70fa0edfa
+FileChecksum: SHA256: 04a416996966159a4d1cba1ab10ffd5dff0b39d76525f1286fb67968be25c20b
+FileChecksum: MD5: ab7e79383a482bf2af04840d1b028bfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/mat_to_vdf_config.json
+SPDXID: SPDXRef-item9936748
+FileChecksum: SHA1: 2c510b75f6215adc3e43b125e1fabcc70fa0edfa
+FileChecksum: SHA256: 04a416996966159a4d1cba1ab10ffd5dff0b39d76525f1286fb67968be25c20b
+FileChecksum: MD5: ab7e79383a482bf2af04840d1b028bfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/mat -_ vdf conversion/README.md
+SPDXID: SPDXRef-item9936749
+FileChecksum: SHA1: ceab0075baf8e797fe3d336facfcb3e2416ec3f9
+FileChecksum: SHA256: ecf99c7718b2864cd3967410c9190c90b6774737e61718fd9923d3d89908971b
+FileChecksum: MD5: 2ce835638de24ff3bee055c7af1d6e3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/VDFMetadata_Voltaiq_EV_HPPC_Cell01-72.csv
+SPDXID: SPDXRef-item9936750
+FileChecksum: SHA1: 0b9b05311a7e9e0d255d0e16b716908e9e8c1d98
+FileChecksum: SHA256: 1588976f28d8747cb91036e3e62e2048508ecf1e39001dfd2ca4da377165f51f
+FileChecksum: MD5: ee8e841b532bfda35b29581bd868c858
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/example_vdf_conversion.ipynb
+SPDXID: SPDXRef-item9936752
+FileChecksum: SHA1: 067a1bafcee654185e73f95eae3e9d151cd90ba4
+FileChecksum: SHA256: 2ecc011dab3f4622b7f5aa9c68e629784cec791e55add534a8fb3b95afefee80
+FileChecksum: MD5: 793ff38868e6dc42706a09c22b9c9722
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/example_convert_config.yaml
+SPDXID: SPDXRef-item9936753
+FileChecksum: SHA1: bde34b96f95dacbb4ea7283327da2d91489b5437
+FileChecksum: SHA256: bf66f2a8758dae036b2539023fff1a97931969808e6fe98d395c795af9e18f40
+FileChecksum: MD5: b0472a2fb7862f9d569c581c65b05cd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/util/units.csv
+SPDXID: SPDXRef-item9936755
+FileChecksum: SHA1: 43fd9fc3751266749f1d3eb41d7b3cedb16be6d7
+FileChecksum: SHA256: 089a069e65a7db0d338ab350c45912f28ba4b7e5d64ef348143248e4422c1fa6
+FileChecksum: MD5: 33ef6ff2535ca9d95d6a18535a036020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/util/generic_vdf_convert.py
+SPDXID: SPDXRef-item9936756
+FileChecksum: SHA1: 15f6544185ddc3b300c370972e2f589b763b529d
+FileChecksum: SHA256: 6e95346aa73af78169c094800c8249da64f834031e1174f356485a7ac1410dee
+FileChecksum: MD5: 77dc4f3aed2c72418895a9f83e40bc36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/sample_files/example1_HDF5.h5
+SPDXID: SPDXRef-item9936758
+FileChecksum: SHA1: 6f1b9ca66b7736e519e323488ac5b6e95792814e
+FileChecksum: SHA256: 983e2abe1887ef111d4796117d31b37525d859f2e8386db8cab6abc1cba3e4d9
+FileChecksum: MD5: f4378514dfcec2fcfd314b125fe959d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/sample_files/example_file.csv
+SPDXID: SPDXRef-item9936759
+FileChecksum: SHA1: 3a92fe708fa6747937400f7b98c79493cfdee174
+FileChecksum: SHA256: 997ba9f4ecf3b10f20f6846d4018585832e492c843c2b5982ea67614df576aa2
+FileChecksum: MD5: 48a38a997382eb49cb2141837456ab51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/sample_files/example_HDF5.h5
+SPDXID: SPDXRef-item9936760
+FileChecksum: SHA1: 6fb11d8a94d196abf3296b2b88e907383475fe82
+FileChecksum: SHA256: aa2166cffda32afecaee571f478542365a6fe7b5abb6c23892a328e7c7f5f7a3
+FileChecksum: MD5: 0c8e398490af7079ed684284f3ae5bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/excel, .csv, and .rtf - vdf conversion/README.md
+SPDXID: SPDXRef-item9936761
+FileChecksum: SHA1: bc0370ee7dcf8c26b1cebbe42c0d8b6bef05b0a8
+FileChecksum: SHA256: fc4e307e4e33cb11e74e17a823cceb8d3b28a70d28793c97205458f5580652c4
+FileChecksum: MD5: 180903f482ee892d43cd6a2c00377c54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/Voltaiq Data Format.pdf/Voltaiq Data Format
+SPDXID: SPDXRef-item9936764
+FileChecksum: SHA1: 4d6b2dd660ada590b92d5745ecebf0dd60a7545c
+FileChecksum: SHA256: 807a5539f753ea00e798a8628548095f84e4b9b4a10d124804a095b0b7cef158
+FileChecksum: MD5: bb2677f8e331158856a43de4bc830a3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/README.md
+SPDXID: SPDXRef-item9936765
+FileChecksum: SHA1: 3d8e61c4b00d6d374f18a9a924cde2e3c296198b
+FileChecksum: SHA256: e2339497522d8dd5dc028ccc07359a644965b965da29302c56988110068acacf
+FileChecksum: MD5: 420b5f88bcece074664e7fd0ee688a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/VDF_Voltaiq_EV_HPPC_Cell01.xlsx
+SPDXID: SPDXRef-item9936766
+FileChecksum: SHA1: 9c2cf4bc8f2a1f0d8c332d457ab36d9a8fad8fb8
+FileChecksum: SHA256: c93afa39376ae6c9813982b2aa18e10d583ac07834e5e2e5b7c9b995fbdcc793
+FileChecksum: MD5: 7a537eedff17c190fbb4617e48abbef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	ZV=Òsîo?5é@M¼Þïý;ßÕÈëyÇâP¸tJMü{NïТ|Ïé?5é?5±Ý ö·þZ8°ԼÒí<ÁYФw?®É?æCï\i<?· WÜ?Mô?T8Wzµn®ɔ»-LV#¢Ûj@t{áf`ääÌÂjqÓm³M/}Q¿?#?Ùj	¥t?dk±]õ8?²ùY6ÊLôQ[¶ó^͵AË~Õc5¢º?Ì䅛¡rµ¸ë?MïÒÇC?3*ø`h"\KA?¨MpçÒP·0ëFIð^ôX͛ë2ånûîՈêf??n?NÆÉÕâ®?X¶Ø|=?X0*ø`h¢[?¡g}èºì/ӜCáâ, &!$zÑc5×?-ûEՈ
+© hr?êms8ã¼Ló"?4]?.?Í?Û?ÜE½1FÅ} h!?WØ6ÍL·ÍíLӦ É!¨¯Í hÕT2 éBÐt!h ­Ôp?õÆ?o?!èÇ;Ú? \AÚCÐv¦iSAÐä?4Úæ>³6ÙIӅ éBÐ,XæÂMÔ?côv §?éBéy ASAÐä?4Öæf hµô¼9!mº?4]?҉ç??î¢Þ?ãm §?´éBé·y
+© hr?ZC8?M V#?4]?.?éD2n£Þ?ãm §?´éBé·y ASAФ?4®¼¸?L Z#?4]?.?éÄÛæÀmÔ?c¼Í?ᴃ6]?23ý6O!h*??Ƶ?t V'?4]?®?éD§?ÜD½1ÆßÐ h W.Ã?´]r ¡?4?ám
+© hq?z>?p?ZA½¥«Ï'˅ åBNõ4¨7Æ襹 Ó?Út!ÈÌôÛ< ¥ hq?eq?ZŴÙ? åBÐr!H'Þ6'n¢Þ?ã×fV?p?i3Aۙ¦M?ACМCÐ ê=]@Ðr!h¹?¤?Ͽ_©à&ê1´+A+A¸´? íLӦ Å!HêÅ!h!?õ?Â?Æx.?éÄ[æÄ=Ô?c¼Ì?­0?á Rf?¶3M ? Ì!h!?t A˅ åBNURÁ]Ô?cü6A+A¸´? íLӦ Å!h=ÿ?Þ&BÐH} Z.?-?tâmsâ.ê1Þfà?A+A¸´? íLӦ Å!
+© hßÔ5?4®æjR?z~«_b"?ÍÔÈ7øs<¦ Øxc?òxF?ǌCж?© hßÔ1?4®îbR?²kV
+© mÍÔq	ta7ìÒÖ:+·Èe.k  ­?¤­?£­?£­rD[e¡­ÂiˤrÚ*H[3?®.Ìñ]ÚZg½?K?R±K[8j[q¶J¶J¶Ê?m¶
+©	hjrfj²¦ÖèýÃ&mk»]ï/yöä¤ïÚÔÄ|ßÚÃó°ÚÔ?05AMM@S?ÐÔäÌÔd55	M­?sv?6·ºÍ//yöä¤îÚÔęÚ;1?áïò?Õ?@5AQM@T ÕäÕtE5Qí'çaz»ºû5üògOëÖZÕôöu«?Vüß6.®[½ªý£nEQMATS?ÕôÕtE5Q9{D¶­nó«K=9©»Fµ5Û;/ô/ûÛÆ%u?¨¦(ª)j ¢¡®¨¦1ªɝL˵»¶Ç5üڒg?NڮMmùµ­?-nÐÚÔ?05EMMASSÐÔôÌÔt55Míý¡ÉÚ [Ýæ?<{rRwmjk·vuÖ6hmj
+©	HjrFjêIMSR??ëò¸5ڼ$?sý@jº'5¤&?1%qëÔ 5EIMARSÔôÔԓ¦¤6?Â4]-Ý¨?DM÷¢¦-¦Íéf@݋FQû×ów?%5?IMARÓ3RSOjÚø{"Kw$5»$Ý¨?HM÷¤¦ÔôºÓ̀º'5?HMQRSÔ?$5=#5õ¤¦)©¿i¡"î`jt_-Ý¨?LM÷¦¦?ãæt3 îMM?SSÔÔ?45?MMÏLM½©ijjãï EÜc[Ò̀úÁÔtoj?Lí=?¦?uoj </text>
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/example_HDF5_to_vdf_conversion.ipynb
+SPDXID: SPDXRef-item9936768
+FileChecksum: SHA1: bd964cc52e617cda8e246a99d6c913b5f5593766
+FileChecksum: SHA256: 6b5b4d0e8d54b94f58fd0d13501a867b84a7697089d1f6470fbce111d68ae56d
+FileChecksum: MD5: 9ad82b5ac17a8dd30b0b76770788eefa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/util/units.csv
+SPDXID: SPDXRef-item9936770
+FileChecksum: SHA1: 43fd9fc3751266749f1d3eb41d7b3cedb16be6d7
+FileChecksum: SHA256: 089a069e65a7db0d338ab350c45912f28ba4b7e5d64ef348143248e4422c1fa6
+FileChecksum: MD5: 33ef6ff2535ca9d95d6a18535a036020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/util/HDF5_vdf_convert.py
+SPDXID: SPDXRef-item9936771
+FileChecksum: SHA1: 6f9dc64b0b31b1574a3096ce0c2f08dd9345dff2
+FileChecksum: SHA256: 33110cd2b1eb6d8dd3750a7fc869191b9be305c122fcb00d8b4ca707f28e69c3
+FileChecksum: MD5: ebf92402ab6fd9d99ba09d8d3954744a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/example_HDF5_times.csv
+SPDXID: SPDXRef-item9936772
+FileChecksum: SHA1: c0eea013d9fe1327cc3a1944609653fef79bf0d8
+FileChecksum: SHA256: eb9e8c56f954b91cfc45568f41a7749005ca4ca7be98a9d8238220c2afc0496e
+FileChecksum: MD5: 7863ddd399a125b9d71274cc3bf9d394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/example_HDF5_config.yaml
+SPDXID: SPDXRef-item9936773
+FileChecksum: SHA1: a724835509aa9b98be6edd9b783c1d1c883143e3
+FileChecksum: SHA256: 2e924dfcb80d59596d52d3f3692fc52ce9e6b095ae59109030687539e2786f3b
+FileChecksum: MD5: d5760b50f2040eadf0c350e14856e9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/sample_files/VDF/example1_HDF5_VDF.csv
+SPDXID: SPDXRef-item9936776
+FileChecksum: SHA1: c6e44bdd5cc2418011d62c91987ce8bfe0b054b9
+FileChecksum: SHA256: 7b5ef58e8955859ab8405b314da83f2da9783715f7a23fe0a8be84bd267c3aa1
+FileChecksum: MD5: 38db2b58ca2fbe3e18dea54df747300b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/sample_files/VDF/example_HDF5_VDF.csv
+SPDXID: SPDXRef-item9936777
+FileChecksum: SHA1: b11934016f963698cdc158424fc813d23030dcba
+FileChecksum: SHA256: 4644ec171be2612c94c39d50af489bf4041ffb09f693bdc7dfb511fb3dace9be
+FileChecksum: MD5: 60bd3fd222034884f0847b03f3935f97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/sample_files/example1_HDF5.h5
+SPDXID: SPDXRef-item9936778
+FileChecksum: SHA1: 6f1b9ca66b7736e519e323488ac5b6e95792814e
+FileChecksum: SHA256: 983e2abe1887ef111d4796117d31b37525d859f2e8386db8cab6abc1cba3e4d9
+FileChecksum: MD5: f4378514dfcec2fcfd314b125fe959d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/sample_files/example_HDF5.h5
+SPDXID: SPDXRef-item9936779
+FileChecksum: SHA1: 6fb11d8a94d196abf3296b2b88e907383475fe82
+FileChecksum: SHA256: aa2166cffda32afecaee571f478542365a6fe7b5abb6c23892a328e7c7f5f7a3
+FileChecksum: MD5: 0c8e398490af7079ed684284f3ae5bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BatteryDataFormat/HDF5 - vdf conversion/README.md
+SPDXID: SPDXRef-item9936780
+FileChecksum: SHA1: aacef8f8bbe927b430b397cd751422c589e1f59f
+FileChecksum: SHA256: 3f3c5218f36050880ada0b0b0e927b51ae4efaa73f8ecb297a0a4a14c86a9ca4
+FileChecksum: MD5: 17541582c347ae083d25a42780b87f33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/tests/test_cycler_interface.py
+SPDXID: SPDXRef-item9936783
+FileChecksum: SHA1: 6ea0336aed71c351789f995145772ce0bebe77fa
+FileChecksum: SHA256: ed29b27a164e09f9c2b1003912cbba6e8e5460b306639b9cf001393073a3d344
+FileChecksum: MD5: ebe4945c7a5122c8277f23cd28d83cd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/tests/test_maccor_spoofer.py
+SPDXID: SPDXRef-item9936784
+FileChecksum: SHA1: 1f9000e01dbc7b91530e06d8dbb8a083d150c1e9
+FileChecksum: SHA256: 766b4c9b9ec06270358e948a2b40dcffca3d772ff19ef635ba6bd347bb755249
+FileChecksum: MD5: 46081162fe420684def52f4b32ad32fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/tests/test_channel_interface.py
+SPDXID: SPDXRef-item9936785
+FileChecksum: SHA1: 99cb8042be66f36ec545f272e2442bd55c01c90f
+FileChecksum: SHA256: 7d0848cb9eb8bff60f02665f0ad7f5e1f6977e7fd985cf4f977d7acde62f7638
+FileChecksum: MD5: c11497bae910c7e3b3ca798e6051bbd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9936786
+FileChecksum: SHA1: 73711fbc5c27b23b028013410d43f9fc563afb3b
+FileChecksum: SHA256: ed468c43ba554d29de177a1f96750cc924526001c60f5298df5e04a93204567f
+FileChecksum: MD5: b3b75cff0f281a6838646bd1042d5f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/macnet_from_maccor_help.pdf/macnet_from_maccor_help
+SPDXID: SPDXRef-item9936790
+FileChecksum: SHA1: 02b776a1ae6139c00f02972f007e477051db472f
+FileChecksum: SHA256: d16e424b2e1e8375568b49267d4e03812477bee28aa870733f2d74b08df18a9d
+FileChecksum: MD5: 9630c41bd195417cf4712aae26f3572b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/maccorspoofer/MaccorSpoofer.html
+SPDXID: SPDXRef-item9936793
+FileChecksum: SHA1: c447103ad583ee3f27ccb4bf8ead3791d7714499
+FileChecksum: SHA256: edf59c682ee98a73708f9da9a064f908dacb9cf894704d5366cea1af5150615f
+FileChecksum: MD5: 04f95c0db20fab6b5111c8dda3d8b8ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/maccorspoofer/index.html
+SPDXID: SPDXRef-item9936794
+FileChecksum: SHA1: dac4c3e4e248d2127266d7bd4ba1006ec76094f8
+FileChecksum: SHA256: 99b3e342375bd9b95404c7b79fb9ec0b33e1abfa90534a0d7153df53c5954c3e
+FileChecksum: MD5: 36631900e4bab5cfa5b223c35d25e702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/cycler_interface.html
+SPDXID: SPDXRef-item9936795
+FileChecksum: SHA1: 91409478a3a0ad1e92527905b4c04290a0ef5049
+FileChecksum: SHA256: 4575ec86899fdc9ff3cc6a307299e49a34a3478bf21aa842f5ac2569c5ca3847
+FileChecksum: MD5: 2dfd62892f7c8a58a96e0dac0a0168ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/channel_interface.html
+SPDXID: SPDXRef-item9936796
+FileChecksum: SHA1: c4f3d0981f567f2630d0a771567418d4e1ba6ec4
+FileChecksum: SHA256: 7367921bc51dfba4c6cea9ce772179d1ebee219420a1c42a6e26b940e1fa2c1a
+FileChecksum: MD5: b23ea66c8bd8f6e08fdc062d6e16d9bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/messages/status_dictionary.html
+SPDXID: SPDXRef-item9936798
+FileChecksum: SHA1: 614aac7bd8b59c665b553d603c1e695f0e7099d4
+FileChecksum: SHA256: 2d80610b0e94851af6d2611bec16241c7006f0917a24b463a41fcfada976a546
+FileChecksum: MD5: 1e0ebb01f49e577cc55fc2e98dc8ea7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/messages/messages.html
+SPDXID: SPDXRef-item9936799
+FileChecksum: SHA1: 244c1a1141fbee5e2f7ef2b38b3adb8b4e6d9d77
+FileChecksum: SHA256: 1839b7d3da45c157dd4d8b945584c549579a0edd7aa3301aaa6f449469d65d48
+FileChecksum: MD5: f35d5730465bb5ab7cbbaa86f13b5b81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/messages/index.html
+SPDXID: SPDXRef-item9936800
+FileChecksum: SHA1: 8f47f635c68b9bdceb883e0dac0e9f20b67a956c
+FileChecksum: SHA256: 0ea46d2f2bdf5fd66b60ba3f8df5138b2342341c62d1f4f3e2ff1c58ddab959f
+FileChecksum: MD5: ac043afa112a647f9e812e16959e0601
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/docs/pymacnet/index.html
+SPDXID: SPDXRef-item9936801
+FileChecksum: SHA1: 538f4a2cc65dcdddbe75331ced23559a21bc181b
+FileChecksum: SHA256: 2bd9410c25737fed7b43fdf9aadc36e0423ae9ff870d609b358e3d0fc2111c5c
+FileChecksum: MD5: 673f6e0d725b2538d7215292625223a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/experiments/pymacnet_thread_experiment.ipynb
+SPDXID: SPDXRef-item9936804
+FileChecksum: SHA1: f911c52a5f3717028e8a69248aeb394444a81a83
+FileChecksum: SHA256: c178af4ec4388b10160cbcd2e647ca4c86610f0e96679f27f7d008c7450d9670
+FileChecksum: MD5: ba335d5bfd5265c372d57fc5cbd7ffc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item9936808
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: SHA256: 1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item9936809
+FileChecksum: SHA1: 810bbf8a1f89821597b18402b8d96a32236c3dc3
+FileChecksum: SHA256: 1f1906c69ff9644a07be335ba25b5794ff01aa998d25f85a2c27c3d6bc5754c9
+FileChecksum: MD5: 19d439924ac9714aff5615a613be481e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/.github/workflows/pymacnet.yml
+SPDXID: SPDXRef-item9936811
+FileChecksum: SHA1: b65ba316c78dcd231de17eaf6615d7318f41afba
+FileChecksum: SHA256: ef96ee8628ed10bf72064a47d279bfb6b92c5e5fa9ab59942b14b44db1a30278
+FileChecksum: MD5: 3e17f87639b6ce70a85f5c13c7bc524d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/.github/workflows/Release.yml
+SPDXID: SPDXRef-item9936812
+FileChecksum: SHA1: 2e75308c2fa63df565ff78b2971d1a8a1535a1bf
+FileChecksum: SHA256: 274ac30ec99f8de40156c74531d436b118bcd0334e10533c9d265c40c989eda4
+FileChecksum: MD5: e793ab60e3cb112c8a6a5b30fbeb4381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/.gitignore
+SPDXID: SPDXRef-item9936814
+FileChecksum: SHA1: 3b8b4544cf091d4077f23ff7e708b0b372d20f1a
+FileChecksum: SHA256: 7a4a1ffe4ec887f0a68b03cfe1b957ce5cb9dbb1aea70a7ff23bf9da0fdf4fd1
+FileChecksum: MD5: d882ef5983a57150c13c8d462720dab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/.gitkeep
+SPDXID: SPDXRef-item9936815
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/requirements.txt
+SPDXID: SPDXRef-item9936816
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/demo.ipynb
+SPDXID: SPDXRef-item9936817
+FileChecksum: SHA1: 49043991dafb722ff770bc32f739cf6316a24755
+FileChecksum: SHA256: b6cac4d81d7f64f397f45113032027a3a2a00f11ec3074cad71165cba9d0a09d
+FileChecksum: MD5: 802d472bf9c3bf4e2f957471ad0099f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/README.md
+SPDXID: SPDXRef-item9936818
+FileChecksum: SHA1: d1b7da2c041a98431a39c21ffc030e2ae66dbc48
+FileChecksum: SHA256: dd14213ab9944dec0f3df734705ba293d5bc7e3c6721f9ed51fc8db7aaf08eb8
+FileChecksum: MD5: 0080b36b8125a754fe773f4d56435673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/demo_maccorspoofer.ipynb
+SPDXID: SPDXRef-item9936819
+FileChecksum: SHA1: 1263eeb48d2b7d774710b3397528b9e050f6da39
+FileChecksum: SHA256: de9ae6cdebe70236ea477540a9a8b79afca15b22106da509c16df44adb67fc83
+FileChecksum: MD5: 35bcbada95ccb2f59ddbd2145f2cfac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/channel_interface.py
+SPDXID: SPDXRef-item9936821
+FileChecksum: SHA1: 6245b5238f6b485ff657b35d576c2138c553e2d0
+FileChecksum: SHA256: 7307949670b4a2d26f06ecca79cbbad954d4a4a3ca80973dfccb1ae5fcc5a2b7
+FileChecksum: MD5: d1f8372e8a33799c6fcb579d628dcc93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/cycler_interface.py
+SPDXID: SPDXRef-item9936822
+FileChecksum: SHA1: 9b874f60f9221570ce517d345c07651b4a9350e6
+FileChecksum: SHA256: 898e00ea1c4f40fa59ee8ec591a6a8505aeee0b72abfc3c7ec5f3e969459f32b
+FileChecksum: MD5: 495f8c3b40f52c999e0ee41f1009cc76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/maccorspoofer/MaccorSpoofer.py
+SPDXID: SPDXRef-item9936824
+FileChecksum: SHA1: 4e4a33fbb34d87ec1f42555b032314999042f3f1
+FileChecksum: SHA256: 9ddd0cf1414f857c08d7ea7030df8da3b73dd8c0eeffab17b862c60c9d9afa2f
+FileChecksum: MD5: 34b78cabfdf5614697a03950dfdf3742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/maccorspoofer/__init__.py
+SPDXID: SPDXRef-item9936825
+FileChecksum: SHA1: f50c2edc3b0c4c89539926bb77dc7a931f524b10
+FileChecksum: SHA256: 9620dd29231b53f41d903313cb9003c4e4e0ce5add973c246a336a0053ffa0ba
+FileChecksum: MD5: 65a2bba242bcf7ebd1fa96f8a1f96cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/__init__.py
+SPDXID: SPDXRef-item9936826
+FileChecksum: SHA1: 1c64628af9be83a64a6e1fcece806a79f486fa7b
+FileChecksum: SHA256: 08fadf41979d59516d1c1941d2498666734d5b39bf6b23479d6e9974677589c5
+FileChecksum: MD5: f3ca30e8511bc2ddf2e9f52735397f39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/messages/status_dictionary.py
+SPDXID: SPDXRef-item9936828
+FileChecksum: SHA1: 1649734f34198cda4460fb10247da6c12efa1afc
+FileChecksum: SHA256: f102a8b0b7b392636d4e3d056e5e0ea72be5c0dccbbeed2502679a6fe2cbce1c
+FileChecksum: MD5: 9ed8dfbd0d42e5fbc2e5daa396cc855e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/messages/__init__.py
+SPDXID: SPDXRef-item9936829
+FileChecksum: SHA1: f5b32ab7eae5988757d3d4eec18b0cd57e9e2128
+FileChecksum: SHA256: 24e5b7753a8ee13a9e66251327a977e06c89557be95e1a1a1864bd501d7aa37d
+FileChecksum: MD5: f1affe2ea040184d8f44ae26f5724ab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/pymacnet/pymacnet/messages/messages.py
+SPDXID: SPDXRef-item9936830
+FileChecksum: SHA1: 7321da4796e9805309ebcf70bf3df2d95f09d9e7
+FileChecksum: SHA256: 7a4529fc180d9dc7219d2bfd898f42cf47ee4af798ad6ee20f6e840199cc3f52
+FileChecksum: MD5: 59a55f96b7d0f97f97871e91e3721524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: BatteryDataAlliance-2024-09-18.zip/BDAOntology/README.md
+SPDXID: SPDXRef-item9936833
+FileChecksum: SHA1: e1a88b0f5e37e096999c3a3f9b096b668048e112
+FileChecksum: SHA256: 7f83394ce73180ec47b4bde4fe8ed7fcfb02b54862ca30e5e23a8edd32bf200b
+FileChecksum: MD5: f0ece02e692aa25705239fd5b840a977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
