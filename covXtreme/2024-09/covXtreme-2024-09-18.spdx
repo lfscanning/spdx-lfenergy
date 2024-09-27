@@ -1,0 +1,464 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_covXtreme-2024-09-18.zip_1727231738.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-09-25T02:35:38Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: covXtreme-2024-09-18.zip
+PackageFileName: covXtreme-2024-09-18.zip
+SPDXID: SPDXRef-upload1519
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 66091bc20e116c15d2acab7e4a5ddc3ba45e8091
+PackageChecksum: SHA1: d63cf488730d451a801d71ea51c5292796cdf5d6
+PackageChecksum: SHA256: aab1d92d6ca6f4093d1a3d998c4bc521b7324bb884dc358c16334660db7b1c9a
+PackageChecksum: MD5: 8ae44222e85c0844c4c34a6c9ca5d2d9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1519
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/Stage1_SimulateData.m
+SPDXID: SPDXRef-item9938244
+FileChecksum: SHA1: 7e2a79a86aa87c7645b3017bbfa04b3cc28e1d3a
+FileChecksum: SHA256: d2fc80b2ed0f7cc3e139eb0f442134d77534578bc76d439991da9fd66f3e27c2
+FileChecksum: MD5: f7ff3080ec865ffe712b450de3598b17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/CDFInterp1.m
+SPDXID: SPDXRef-item9938219
+FileChecksum: SHA1: 2a36416dc58158146df001bdabb449db2eae5d09
+FileChecksum: SHA256: 85cfd127beaf5b273f08019f46062becd2b5d36591cb80c85e70e738b871b1f1
+FileChecksum: MD5: a89eb0b856f2bc513080b34f77be18fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/ConditionalReturnValue.m
+SPDXID: SPDXRef-item9938213
+FileChecksum: SHA1: 34bccbd1504313a758315ec14a2bcf1cc8faff09
+FileChecksum: SHA256: 0241b20785d72985a65569ca27a846a370c709f0dff78b55f18f5ffe9e0ddae3
+FileChecksum: MD5: 809c920e37e67cf43a213bc8cc8ebc7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/Contour.m
+SPDXID: SPDXRef-item9938222
+FileChecksum: SHA1: 1270a6d02a5fef908a5de1c6919fb24e646f8f43
+FileChecksum: SHA256: f329a9ba4ad81120bf29bc4582831dd0fe7e860081e832f4ecfaf1fc4b2ec130
+FileChecksum: MD5: 814631482daa3005a93553cb67cd43d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/CovariateBinning.m
+SPDXID: SPDXRef-item9938220
+FileChecksum: SHA1: a9065df6c92c66e3ae19e155a77f3aa2e5fac6bf
+FileChecksum: SHA256: c4125c3db13b733d9eefca53ef3ae4a06d71dd52566a5d75dee769bd7ff32945
+FileChecksum: MD5: 86b96396f32c873664744fd369c53eff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/HeffernanTawn.m
+SPDXID: SPDXRef-item9938221
+FileChecksum: SHA1: 68d0b9fb8fdbbcf2c4dd610389ff016af82c6475
+FileChecksum: SHA256: 735ff6cc6aa9e77f616d2c108ad47baaa4006a49309adaf0bb170fe13e86623e
+FileChecksum: MD5: a905852dee4dfbd1766a02638ed72310
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/License.md
+SPDXID: SPDXRef-item9938245
+FileChecksum: SHA1: 44874cbaafdac5e4df58d22f836a2ee2ee48882c
+FileChecksum: SHA256: 3c0f004f4cee295e31a051d7ad15d8cfb574ab1a42df91840415c5765ee2413c
+FileChecksum: MD5: b1937bf1f87fed34614a92cf2165be53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved.
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must inclu </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/MarginalModel.m
+SPDXID: SPDXRef-item9938225
+FileChecksum: SHA1: 8de3ef677d796891b5f55ba28344407c64cec7e4
+FileChecksum: SHA256: 0e6ef1fce494fa437d2b88c18be9a0bb49442f35404f635ae2e64921a1400c72
+FileChecksum: MD5: 349b08bbf1d8e015f090190014c09b4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/OptionsContours.m
+SPDXID: SPDXRef-item9938223
+FileChecksum: SHA1: 13a746b09d5103416f0fd73e2debad88827b9628
+FileChecksum: SHA256: cf7a3f907dc23c3407bf22bc0bd5dcaa0abc83629753f8ee04a3f0f0bcd3590d
+FileChecksum: MD5: 8adab81ecf1b26a4264fca35e6b5d1f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/PeakPicking.m
+SPDXID: SPDXRef-item9938216
+FileChecksum: SHA1: 92779824df7156ac528958f142ff9026268240e8
+FileChecksum: SHA256: 1f3cb7695a874210f787811267c40d0584d278fab6546171d69310a49f0ac9ab
+FileChecksum: MD5: 97f9b109dbb8bb67587476b12409a39a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/PreProcessData.m
+SPDXID: SPDXRef-item9938214
+FileChecksum: SHA1: 9a95d9199bd225a9de17dff5b9563f4a72bec421
+FileChecksum: SHA256: 8b1fe2fe86bbd510a4943a9cb113d71980ee70f019c9683c737c2373eab0de97
+FileChecksum: MD5: c73b88d1ecbc7c5908e55ed0d497de93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/SimulateData.m
+SPDXID: SPDXRef-item9938215
+FileChecksum: SHA1: 6ef5455264ee01d7ea94c893db19548ec5c256c4
+FileChecksum: SHA256: 7aeb21cac01b0b9b132d2968bf3220fde39169596cbc742cd9089f9e360f9627
+FileChecksum: MD5: 9fae97c792173575183e5a1558f1a2de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/SsnDgr.m
+SPDXID: SPDXRef-item9938224
+FileChecksum: SHA1: a3e03cca1fccc4e74832c7d2609f34fc56c5a30f
+FileChecksum: SHA256: be46c2d5e8f628bb627d2f76c82ac905c5b2ade4ba28646731a5d0615b5f1616
+FileChecksum: MD5: 2b6ec2d8ce93ce40a3d45a1ffdef29d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/rndasymlgs.m
+SPDXID: SPDXRef-item9938218
+FileChecksum: SHA1: b8bacd316881348319d61766544768f142c66832
+FileChecksum: SHA256: 8c2b63e1d9e0240651ebeeb3a35af3d35cee888f2937c64654c753930ca95ee2
+FileChecksum: MD5: 77a020315052e32fc35b1e754dfe7185
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/rndsymlgs.m
+SPDXID: SPDXRef-item9938217
+FileChecksum: SHA1: 946c8a5efad145da898ead250341a643eebcf4e8
+FileChecksum: SHA256: 64461438a36e87a893f587b5167f006679a2fc322c65dc3802c4942f7cecc3dd
+FileChecksum: MD5: eec6e5595cf8a3bcd83657b9f425bc93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Code/savePics.m
+SPDXID: SPDXRef-item9938212
+FileChecksum: SHA1: e05fefe7ac64334e8aee17e3faaa774d44caf545
+FileChecksum: SHA256: 23a46d7c57d5e83f3453830db559a9a1c92e466d88e9fbe3146ad478ef177d06
+FileChecksum: MD5: 653b6e76669f0e86b39184d86c40499e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/covXtreme_UserGuide.pdf/covXtreme_UserGuide
+SPDXID: SPDXRef-item9938208
+FileChecksum: SHA1: 90bfcbc6167496205bf5d1db61749307608a4a9e
+FileChecksum: SHA256: c954d077b7753fe7f0cca9e9edf2773d37b37b1a20301da5ffbb0f9e9ed99ca9
+FileChecksum: MD5: 397bf0d14a5509e3666c891b87b5c527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Governance.md
+SPDXID: SPDXRef-item9938209
+FileChecksum: SHA1: 74b6c9b55d7ae88df895306acac2112d290f4616
+FileChecksum: SHA256: a067292db2f0ba56feb8183516dbd6bc179bbe97c85641fb98d0be1383512afb
+FileChecksum: MD5: ed3b60dd7fdd202e93ee8c899487eb5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/Contributing.md
+SPDXID: SPDXRef-item9938210
+FileChecksum: SHA1: bf270cb4035f4ff3430e2aa3e3c4c309a1bb3295
+FileChecksum: SHA256: bafa1f1b3c25695bc372c4e0a7413ef15ee46e1a9c0f6268d2e8dff9045ced8f
+FileChecksum: MD5: 592b988cb21b30dfbb4693ebf5954228
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/.gitignore
+SPDXID: SPDXRef-item9938226
+FileChecksum: SHA1: 3bc964360e3bb0be4112af12f1317a68bffde329
+FileChecksum: SHA256: 9a14afef6a902f76ef6468465637acf4e78e3dea055a2085c58093bca3cb04b4
+FileChecksum: MD5: 407903ffe5acefa48f946cbd8399ade0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CNS_mo_response.mat
+SPDXID: SPDXRef-item9938228
+FileChecksum: SHA1: 6391266cf32d0ed66e287756e0fea6d8c8d0e6e0
+FileChecksum: SHA256: 13d6970d3da9abde9b364c56161648660ce8a0e6d2951e7d460f7350841945ba
+FileChecksum: MD5: d021d49099f8651cc2353cc976734437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	n?8q?M?UՂUĶT7n-?;?m2^Q?LØÁI?ë ïôW~=Ì\5ÎՄQ?µ;S>ì*¯¨?®U?¥M:újSn+¤ì$Aq*?ïM?ÿäǇß?Ï{]Æóa |pû5½K½?b?ç]?Ø?Ô?5P·ÆÁw?ֵÁêùÉ	ÎâFøaD êA9gþ]ëdzûÓ/L©?G«qÉ'«¡çû?Á?Ë??xü¶s%øÖxÓُðëQ×¥?åp[W?ÿ??í^©PôýùóJû*(p{ [£?ÃïÜÙÑóUßØ?Ò?E?wOð%yÿՌä۟7ÃÒÄ?ÕFkáâ$µö¡¡?´?=_ æ±G§;<¬íÝÒʫ
+© NÞ*põ¥JF9ÿ2HC?n?}÷F.ôµ:¬ïk¼?|sA๹èßΗϷdèÌA?óý(wæÉâ\ úzç$q?,ìóñ<Tqb?JæIο[MèC0}à|ÖÂ?>ë 긮õl°"ï?úÎ#¹2xÙe^Ö5?o­MÈS?3x~«?¾a¦ Ï?çÃöVèYs+âí_¼áú¾^?o°yù¹óB
+© q?d vgýt8?£'þó2?ۉJÉ?'ù±¥ùÂx8?B¯¹°c?ìxRã??×`ÿ,ñ:Ú#ßí?·+?#/ÇßCî4öªÀÞcķü?å<³Øç"ú> bðkð·8GïcØÛ?Ø?ßA~c_7xâB^?ö#wKå7?A#WóAô$~?B?Î?¢×1䦅??¾ ù?ìф}o>խò]y+q?à|?ä?ç?n'?àÇÛ9OüzX?%`æE?èb?û·?­ðì_ÔÆ>|ç AÞcè?ûßE¯Uö½ Öղ¯?¿ÜF¼ g?=¢¬{Êü?ÖM·ò½=.û#/ÝN<G{ø7¿GeÅ=p.?y?8¾?>??Cԓ"p?1jâXãM
+© i`DaQW?󞫮´ËhAÝ÷\òH¿?¬û|F/PðêÜàÑÕG¥ JWîK? ^?±Æ	y\'zÆ?¿Jã3Kpâ32p.«>Ø_«ËQet÷Wö£Ví¢§ FR/_íæGêëÃÞ ¬Ô÷ãÁõÈù2@~$+çüøè-sCa?©??añý2?OÿÆtE?÷¼?m²ä@{Z ¹hº±®cÈè[úX?JtYjrzò¸øráÖQ??áç?֠̤Es u®?º¯Zʸ"y.ç? `½<ìnAYÂÂJ?i'Úî:¨?¦¶ÌOq&ÆpԞeJìÑÆH9??ý"?ÿ?ÿÿÌxy0Õí߿]²?û¾?ûvìYÎ?Gö </text>
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy1/Stage5_Contour.m
+SPDXID: SPDXRef-item9938230
+FileChecksum: SHA1: 3f30a50da27ff474e210ce18325c9fa5eae802fc
+FileChecksum: SHA256: 155964e9cddf252d8a799db3132e5e504ed83e9b5973b43d2e0c60b11ec8b59e
+FileChecksum: MD5: 1ed854ad1e7622f282fd1b5e69d67c30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy1/Stage2_SetBinEdges.m
+SPDXID: SPDXRef-item9938231
+FileChecksum: SHA1: 0a2ee23b13b268cc705e8a3ad8b9031e40882ded
+FileChecksum: SHA256: 07ddbe447de7652a7dbdaeb2f2df01ed4239b76d422d648c7e8ed65353405ad9
+FileChecksum: MD5: 55ba759eca56135c15f460c66367fc2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy1/Stage3_FitMargin2.m
+SPDXID: SPDXRef-item9938232
+FileChecksum: SHA1: d0240dd99d5dd5c28578b03a6262cc5c2986a409
+FileChecksum: SHA256: a0e26b09f5a76dca087743229dd486318ebe7c18ef18c8fb180700705cd20cd1
+FileChecksum: MD5: 8246cc9cd114c112a42baa4e9a2846fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy1/Stage4_FitHeffernanTawn.m
+SPDXID: SPDXRef-item9938233
+FileChecksum: SHA1: de4221fe0efa087674bfdecf9c29b8ec8f8a058c
+FileChecksum: SHA256: a9e290ea8149484c27cb31a8f27c46f8bc26cf7d971aa746ef6de280886b5c95
+FileChecksum: MD5: 35e7f103ad3d775a975b048d5e26811e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy1/Stage3_FitMargin1.m
+SPDXID: SPDXRef-item9938234
+FileChecksum: SHA1: 91de290c937adeb35e7595ac3e849e82b47cf18b
+FileChecksum: SHA256: b73fcd7d2c3218b7e727d472e6c2555353c52c41e043d1418d77f2483ac3e55c
+FileChecksum: MD5: a316abb98bf0375d0c12f06da84ece13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy1/Stage1_PeakPicking.m
+SPDXID: SPDXRef-item9938235
+FileChecksum: SHA1: 6d4f4f82ddc6d711ef8ebd63f0919cf5c7b60ef7
+FileChecksum: SHA256: 9c5540dfc3cbe24087414aeba3ab99dbffeb246bd4d783882b193842293ca356
+FileChecksum: MD5: 25f080935410f74a3d4cf4d7bea74a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage5_Contour.m
+SPDXID: SPDXRef-item9938237
+FileChecksum: SHA1: 60c3c492cd4f572a3c7c1fb4ff3e0fe5727018c5
+FileChecksum: SHA256: 99933518a4675493ea810a20b8be8be7c61160443d5fbb084391531b36ee53dc
+FileChecksum: MD5: 999aa52f4a7a150693a921c9616e1a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage2_SetBinEdges.m
+SPDXID: SPDXRef-item9938238
+FileChecksum: SHA1: 202c03f0f5a840433f75c975ac1c19d0c89a13e6
+FileChecksum: SHA256: d49a02b30ca58c4d08dd612171760b623d083cd8f52c8754d0f4cd3869d3a2e8
+FileChecksum: MD5: 2d98d79bd06daff5a5ca4986133bc0f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin2.m
+SPDXID: SPDXRef-item9938239
+FileChecksum: SHA1: fde379f1e4a62403e0a6c1ea6b38e0b124c6478f
+FileChecksum: SHA256: f645381850e3226754cbdc7365a3b428feb22fde290e7ee74527fa3dec1d1dfd
+FileChecksum: MD5: a2498b21069626941c6a27199ebfda75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage4_FitHeffernanTawn.m
+SPDXID: SPDXRef-item9938240
+FileChecksum: SHA1: ab69a8455052dba8a857e0eefaa5dba6273008e2
+FileChecksum: SHA256: 8ba7b15c4499962000e4932a8d61112bd4cabcae0cb91a5623c43731f9f9c968
+FileChecksum: MD5: cd1d0a4c6a6292adbc0d1f5ff5119a6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin1.m
+SPDXID: SPDXRef-item9938241
+FileChecksum: SHA1: 688dc92198c12661b1346bced7c72a4adc888b06
+FileChecksum: SHA256: c6065aad71f3ac3b0677fb5f8b574d09d3dee2da07a07a1d9c4d0d254f9d522a
+FileChecksum: MD5: c3afd3050e571af5225eee37aa976bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage1_PeakPicking.m
+SPDXID: SPDXRef-item9938242
+FileChecksum: SHA1: f78aa6d05c5d0cd67259a3c438c09446cac3149e
+FileChecksum: SHA256: d922dc9147433a2fc4389c2175bfe60ea4704d60535f1c90661567f7759e9943
+FileChecksum: MD5: b4b7986eb2ba4aebeac86ac014440cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin3.m
+SPDXID: SPDXRef-item9938243
+FileChecksum: SHA1: 7a5de29647cde27ca4cbb99f332dae475e16e829
+FileChecksum: SHA256: 1652ca541560ea38f2f4520b93c7d3a6818156b7cec367ee67e50528d534b8ec
+FileChecksum: MD5: 69b64f253374af103547a35e88eab2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/README.md
+SPDXID: SPDXRef-item9938246
+FileChecksum: SHA1: 0b9788aab5d943ba740d05df3921c8253751f53c
+FileChecksum: SHA256: 11d03b4173b2a7cf18852b7179457310545c924ec06d8c278328612689acf99f
+FileChecksum: MD5: 98b6cf2e0a4c8d743e74f5c33ae11d1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2024-09-18.zip/covXtreme/snow.json
+SPDXID: SPDXRef-item9938247
+FileChecksum: SHA1: 76d9eda2f01d03e329ab8834854f2ebca0b27933
+FileChecksum: SHA256: fe31ef57b6d9f6768ca6f9a796f55e2ca0902629fe38a8c8348e24083f5dfb41
+FileChecksum: MD5: 23f2ceddd055ab57e9ac57d611c06548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Apache-2.0-or-later
+LicenseName: Apache-2.0-or-later
+ExtractedText: <text> License by OJO. </text>
+
