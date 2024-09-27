@@ -1,0 +1,1657 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_openleadr-2024-09-18.zip_1727230603.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-09-25T02:16:44Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openleadr-2024-09-18.zip
+PackageFileName: openleadr-2024-09-18.zip
+SPDXID: SPDXRef-upload1499
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 1c45003902bf8826d49ab865d55ae67fb5843744
+PackageChecksum: SHA1: 0ee6ac284b5cc1b227e8e72cbcf01702e99ed108
+PackageChecksum: SHA256: 16e7dad8a3d51f0dcccd6f5a55817db0051dd468a1ffa6e472e56acb874848f5
+PackageChecksum: MD5: 8d0332e0d2ca3d1c31f3367a128c33f5
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1499
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/setup.py
+SPDXID: SPDXRef-item9848428
+FileChecksum: SHA1: 76423084709bc7dcf8945f30c855a2858aedceb6
+FileChecksum: SHA256: baba39e0b1bc2e85a502e7e064c96463722653da18113afdd51f208af7088297
+FileChecksum: MD5: c39ac4b2b3266dc03aa2da62a7c98292
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/objects.py
+SPDXID: SPDXRef-item9848464
+FileChecksum: SHA1: d9c86674eee14b3d8e12fd77fee2daf1e6545daa
+FileChecksum: SHA256: cbb7d71eb9d45e5637a5653a1224794ebefdbbf047e1cad1a4467d1f67c608d0
+FileChecksum: MD5: 16cd347602c28646cdd9b864d82b8398
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/client.py
+SPDXID: SPDXRef-item9848525
+FileChecksum: SHA1: 5a287d2ba996e46dbee9b5b18fde344e4da26b19
+FileChecksum: SHA256: 8ba613299027243d08512771991bf08b073fdc99cfc105b1d6ccff8acc67db37
+FileChecksum: MD5: 05c5ab7b05109b71b3d84028acf40ddb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/opt_service.py
+SPDXID: SPDXRef-item9848529
+FileChecksum: SHA1: 5e4e59c9f8fd7b24009bde92d86f71f2d83a0a0b
+FileChecksum: SHA256: 8aa08d56da8d614752dc7f0ba170e48b5f25b514b7e6a16ddf299de901b120a3
+FileChecksum: MD5: da7c2f9bd8180a16c1df0ef100fe99a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/event_service.py
+SPDXID: SPDXRef-item9848531
+FileChecksum: SHA1: f4c504bd6128bc24ade74fcc37ea8330981c5747
+FileChecksum: SHA256: 3e80845a48f046351fdcc2cbdfc994f6d6d3cb2f192cede74a312a2fb15d5f45
+FileChecksum: MD5: b1b08dc06709c09922ddb2c4dc7463d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/index.rst
+SPDXID: SPDXRef-item9848404
+FileChecksum: SHA1: 93205282ae839403644ed04e9caf29e6dffc9e0b
+FileChecksum: SHA256: 1be9f9085813f444737e9953fc3106459a672efecc6838f9f2f8c25d9641e95b
+FileChecksum: MD5: 3b7b1289320c37a7f57fe87122ded804
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 97 </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/LICENSES.txt
+SPDXID: SPDXRef-item9848481
+FileChecksum: SHA1: e01164c8bbd54cd2eefdcbc8dd4a66de04d99381
+FileChecksum: SHA256: d330bd9de00fd52e53a6aea9a4ea7e8282f72fb37a680c10a82ee0d8dc64b019
+FileChecksum: MD5: a3ab843d1f06c4e4adc353e2551400b8
+LicenseConcluded: LicenseRef-fossology-OASIS-EMIX-2012 OR W3C-20150513
+LicenseInfoInFile: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-IETF-style
+LicenseInfoInFile: LicenseRef-fossology-UN-CEFACT
+FileCopyrightText: <text> © OASIS Open 2012 and contains a copyright notice. The text of that notice is copied below.
+Copyright © [YEAR] W3C® (MIT, ERCIM, Keio, Beihang)."
+COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+copyright in this work will at all times remain with copyright holders.
+Copyright © OASIS Open 2012. All Rights Reserved.
+copyright notice and this section are included on all such copies and derivative works. However, this document itself may not be modified in any way, including by
+copyrights, as set forth in the OASIS IPR Policy, must be followed) or as required to translate it into languages other than English. </text>
+FileAttributionText: <text> 97
+97
+97 </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_ISO_ISO3AlphaCurrencyCode_20100407.xsd
+SPDXID: SPDXRef-item9848486
+FileChecksum: SHA1: 04c9beb87a40a6e77dd4c4447553266ea65ecd0f
+FileChecksum: SHA256: db723d782112e1e41ddc43f9e372cf89a08d6a3e22ccd9b6680eefa3da61a910
+FileChecksum: MD5: 0b67176ff91227fccf063f41f7f0e2f3
+LicenseConcluded: LicenseRef-fossology-IETF-RFC
+LicenseInfoInFile: LicenseRef-fossology-IETF-style
+LicenseInfoInFile: LicenseRef-fossology-UN-CEFACT
+FileCopyrightText: <text> Copyright (C) UN/CEFACT (2010). All Rights Reserved.
+copyrights defined in the UN/CEFACT Intellectual Property Rights document must be followed, or as required to translate it into languages other than English. </text>
+FileAttributionText: <text> 97 </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_siscale_20b.xsd
+SPDXID: SPDXRef-item9848487
+FileChecksum: SHA1: 8a2c7c8b5932bc00bea3074f4f6102632c5c194c
+FileChecksum: SHA256: b050c37987578f414cb3dc32a0ae9d0db9271a83ab6fecd00de039a32262068c
+FileChecksum: MD5: 15736cd8f606d5bfb72622b2542dd3a8
+LicenseConcluded: LicenseRef-fossology-OASIS-EMIX-2012
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) OASIS Open 2011. All Rights Reserved. Source: http://docs.oasis-open.org/emix/emix/v1.0/csprd04/xsd/ </text>
+FileAttributionText: <text> 97 </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_xmldsig11.xsd
+SPDXID: SPDXRef-item9848478
+FileChecksum: SHA1: 9b4de73eb3c996b2870a7a04b156924c6c6cd95e
+FileChecksum: SHA256: ba2d87fa988c7a4eb2882424c9e0aa9d399fd6c9cbe1e3b5a13736706da8c3ab
+FileChecksum: MD5: e27623a0b10c56c44e30468cd2f56af6
+LicenseConcluded: W3C
+LicenseInfoInFile: W3C
+FileCopyrightText: <text> Copyright ©[2011] World Wide Web Consortium Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University). All Rights Reserved. This work is distributed under the W3C® Software License [1] in the hope that it will be useful
+copyright-software-20021231 </text>
+FileAttributionText: <text> 97 </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/__init__.py
+SPDXID: SPDXRef-item9848532
+FileChecksum: SHA1: 7b865f289e209df4a617b768ad79ef49f2e8e979
+FileChecksum: SHA256: 378d72c16e4e85b2b1d9b4955fb830cfda60debe8b0fd1ec4aea9a52275f501b
+FileChecksum: MD5: c08e6b9af3b3472778d6ea25d6a877f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/decorators.py
+SPDXID: SPDXRef-item9848534
+FileChecksum: SHA1: 095b6cb4fd5552138ecf626b6e72977f8b171852
+FileChecksum: SHA256: f8b8332e43f19103147882e4b26a052bbb7facf65adfef02f99f9ad0ec2a7420
+FileChecksum: MD5: 71310e14cf91fe6a2bfa2343f2eb32a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/poll_service.py
+SPDXID: SPDXRef-item9848528
+FileChecksum: SHA1: 39c4769f57663610cd781331dce5fa90da7065e3
+FileChecksum: SHA256: a6e19442d5412f6772c6c4fdb5bd9ede5f2a9264a387f8b82ca054e7810dadcc
+FileChecksum: MD5: dc7e525c007ba25cc29726c7a9830964
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/registration_service.py
+SPDXID: SPDXRef-item9848530
+FileChecksum: SHA1: 88f43cc8ec4a1384b8d7bec3f95181010739f07a
+FileChecksum: SHA256: 312e5786158b483019e2d75ac4c9d307958df8afc754a35c06aa429bf0f6d2f0
+FileChecksum: MD5: f68865fa8feb892dacd608810dbdf703
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/report_service.py
+SPDXID: SPDXRef-item9848533
+FileChecksum: SHA1: 776dc7a7bad2555659d0494c7982f026c5908784
+FileChecksum: SHA256: 066bd4cfafa5cf76acf7305715674f03e7e62ce2ccd26b267ff6ea71915bc97a
+FileChecksum: MD5: 53ff5c2ad2b173a3058685178bc15ccd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/service/vtn_service.py
+SPDXID: SPDXRef-item9848527
+FileChecksum: SHA1: 7c085e5c9d4f2e47b03f246692363db218144ba5
+FileChecksum: SHA256: 628517f4478b345fb61457975dcbd2133dee21581e49c3fa77920dec171c034d
+FileChecksum: MD5: 9fbf7b940eabffc2e6ccf105d5cb2ec1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/__init__.py
+SPDXID: SPDXRef-item9848467
+FileChecksum: SHA1: be56e6240efab3ad486d0d8473cd71953e00430f
+FileChecksum: SHA256: 61dbbaba1677d7d228a4a72be5692bcab673c6a174343ad79f43bda7ffcd1bf2
+FileChecksum: MD5: 72b9ae3db2b4e821e30ebabb9935a20c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/enums.py
+SPDXID: SPDXRef-item9848468
+FileChecksum: SHA1: ce3c22253cdddae922e777ce208adcf65eb7da94
+FileChecksum: SHA256: 2a952bb94b6af75a8a597a04e7aed9ad2a700ea72c735755290f0b3eace84e51
+FileChecksum: MD5: 03a2523ab605333b65282ce3069b8418
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/hooks.py
+SPDXID: SPDXRef-item9848469
+FileChecksum: SHA1: 0f6f5854cdd82734c4cbe01e7c7400d90c9c9d46
+FileChecksum: SHA256: 28640efa375074fa99542def85529b3e79bd9f3eb4371e5ab3993eee6613f631
+FileChecksum: MD5: 5a2555dff8da06af7415b503e3ebd79c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/messaging.py
+SPDXID: SPDXRef-item9848465
+FileChecksum: SHA1: fda30ef14e6a0fbb0caec13f5947a3ac76c1e545
+FileChecksum: SHA256: d8a2fc766fa626e3803aab48f754a6584f6d9b0d729ce218b43882b0c8ea644e
+FileChecksum: MD5: 4c4952fce511a30bd8066f124ba7d319
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/preflight.py
+SPDXID: SPDXRef-item9848462
+FileChecksum: SHA1: 91c771db770c6b03f11ef64db979a8bd90c18a07
+FileChecksum: SHA256: 89743eda3ac5a16faa92356779d97947b414bd01f2827b6f0323108dd9fc69be
+FileChecksum: MD5: 751c83c92e39a7f1d38ef5c7d392ffea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/server.py
+SPDXID: SPDXRef-item9848463
+FileChecksum: SHA1: 7aa16c3e550b530fbcadcb52c212c342a248a3b6
+FileChecksum: SHA256: 5d7478e617970812bd670239ade249a9d3d5167ecca9cf676f99f8b07adff5ee
+FileChecksum: MD5: b53905748a071c726a774c2e195e78c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/utils.py
+SPDXID: SPDXRef-item9848535
+FileChecksum: SHA1: 985956b3e7e8e56d0b4dc06224db706061e5724f
+FileChecksum: SHA256: b1dcd90bb0e109721879e560280ab32342c0ebe8237fa80c9566eb6e496d6a55
+FileChecksum: MD5: 0632428aacffbaf39c1562a2ed40b8d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_001.py
+SPDXID: SPDXRef-item9848449
+FileChecksum: SHA1: 21f17408c3be7bf7ea94fe9cd4529c1d035099ab
+FileChecksum: SHA256: 766fd2f9f14d0c29a47fc48a5fb92717b28488a43d6ae610b225cc3a5dc6f403
+FileChecksum: MD5: d0703557f992552cd08add30a68b5936
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_002.py
+SPDXID: SPDXRef-item9848454
+FileChecksum: SHA1: 6073cead1285ff0463ee1c05caa86a58d3450ae9
+FileChecksum: SHA256: 1fd43b6a9ede85d0c7eb954d699e3d62639aedc16ace74e977e78c5bc4ffb079
+FileChecksum: MD5: 3f13a28ee884415d8f13344c6d67f4c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_006.py
+SPDXID: SPDXRef-item9848450
+FileChecksum: SHA1: 393915222f3cc2df2f6d075285ade5bbdab3a219
+FileChecksum: SHA256: 911aa2c955fe5bb933e36e58317c100f3306aa0af54813b9523a996f5104e269
+FileChecksum: MD5: b732e67961ed43f96673a2ba3e07b611
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_008.py
+SPDXID: SPDXRef-item9848453
+FileChecksum: SHA1: 2f98fd0e1e2251374bca46650067ef23685df06b
+FileChecksum: SHA256: 157a04a54faa375091e765d9bb0e9462ad2467b43d9bc67733cb09adfed2bb63
+FileChecksum: MD5: c0c395eb2cf84cd6dead6f24f8ae150a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_009.py
+SPDXID: SPDXRef-item9848451
+FileChecksum: SHA1: 0b6cd1b1fbccacbccb9dfcec9499d67dc9d80351
+FileChecksum: SHA256: 1987de0955b47f9d5aff4cffdc542770a5454860ae0361784e164768a571e49a
+FileChecksum: MD5: 9360a5e4c6c58f383f4ee3221e8d7c38
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_014.py
+SPDXID: SPDXRef-item9848452
+FileChecksum: SHA1: a6436d1f4b49bc88928e340af11a1791d66c5381
+FileChecksum: SHA256: f71858326fc888b84f921c948fad3d34f1ad406d1d11a9cf71f363ae5fc8c3d2
+FileChecksum: MD5: 7bbaeb89531f14f56f19485a9fcbf456
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/conformance/test_conformance_021.py
+SPDXID: SPDXRef-item9848448
+FileChecksum: SHA1: d459e5f5af478f2e55f80242a5f672c7f0fe48ff
+FileChecksum: SHA256: 7521ff64fc82dec8d42f9b97eeb884560e65714d21e9cce523048569b95c885d
+FileChecksum: MD5: f6cbc203be21f2651ece7b8c6195d103
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/fixtures/simple_server.py
+SPDXID: SPDXRef-item9848458
+FileChecksum: SHA1: 0dcb2e2ed0fba647f40977feeafa16ea2436fe43
+FileChecksum: SHA256: b3d456130b76bab4726cac402224191b89e195e6c8537bfc2d864c2bc5f86142
+FileChecksum: MD5: c451ecdbefe535b3e51b97b353b46a2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/integration_tests/test_client_registration.py
+SPDXID: SPDXRef-item9848444
+FileChecksum: SHA1: 36cee75564568cbaa128e8d78cb81af2d651c1c0
+FileChecksum: SHA256: d2a2221f0e81810a11fd07bb83a19a74f14089cf21704cff4e0ce84f48f736de
+FileChecksum: MD5: 56432d3778f0a9aeb41919a2ceca5c26
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/__init__.py
+SPDXID: SPDXRef-item9848438
+FileChecksum: SHA1: ba6681be93b72394deeffc42b8825c4e93552f9f
+FileChecksum: SHA256: b9c8dc62b96102bde7f21c2bc7f2bd5064992e224a7413aa70ccdd8d994623fd
+FileChecksum: MD5: 90f8fc82a681bfadb25cddace9d3c178
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_message_conversion.py
+SPDXID: SPDXRef-item9848439
+FileChecksum: SHA1: 85b456f29945fd699ca7311e29f57ba892957559
+FileChecksum: SHA256: 95d05963602548e2476f7cd1497092ca1baf51bc52858cdfcbff532893c7abd1
+FileChecksum: MD5: 3885bbb4977e95cb37950d5850cbaf81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_schema.py
+SPDXID: SPDXRef-item9848440
+FileChecksum: SHA1: 497e90867cb1a162cb0d7eac3a1f0a78f6d07c82
+FileChecksum: SHA256: 9ca5b7dffa402b0b2e30f09f93157065d38dc00f0af75301d6643321b34a5077
+FileChecksum: MD5: 29f94f92e4abbd35803a234ea7265d11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_signatures.py
+SPDXID: SPDXRef-item9848437
+FileChecksum: SHA1: 4121c520eb35acee6adca40fd5ee088cc9d713f0
+FileChecksum: SHA256: 602953fb848fa3573e632d3795c25cc1a2841294bfe5926699f80c12c6ccaa05
+FileChecksum: MD5: 701aeedd181d74f2825ee9172f0d3d03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 Contributors to OpenLEADR </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/LICENSE
+SPDXID: SPDXRef-item9848421
+FileChecksum: SHA1: 736872921ab5596e857b333eb7854a53212dbab1
+FileChecksum: SHA256: 0cec06e0e55fbc3dc5cee4fca9b607f66cb8f4e4dbcf3b3c013594dd156732e9
+FileChecksum: MD5: a832eda17114b48ae16cda6a500941c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and </text>
+FileAttributionText: <text> 97 </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-example-ven/README.md
+SPDXID: SPDXRef-item9848398
+FileChecksum: SHA1: 7e62cdbef8c65af0f4bd9d9993194b444f218a3e
+FileChecksum: SHA256: 6814470078f627ebfe43c8b3e72cc4f737f6221b7d582e98a83bdabd9827199d
+FileChecksum: MD5: 51c5e3f02ce9d6a8c329ebf4c49d272d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9848400
+FileChecksum: SHA1: a78e4201fb6520c09bd4688ab73eef3346b8b3fa
+FileChecksum: SHA256: 07a0e5fc4ee99b944c5fc19ae61fbe5f4b99b278c853c1fc40e09a07491eaebc
+FileChecksum: MD5: 945d6f899cc412656c8797c37dce2db3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/reporting.rst
+SPDXID: SPDXRef-item9848402
+FileChecksum: SHA1: 7c630ade31e8abbf4d8836cfa4ac4d7d5f5ee724
+FileChecksum: SHA256: 0e0db1a0f0b68f9701d373c25c81e826a8c1732a0be94f50602f9cf333d253e0
+FileChecksum: MD5: f716dea7025c59054fe1853437cc5674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/Makefile
+SPDXID: SPDXRef-item9848403
+FileChecksum: SHA1: b09cbf7d696d0bb45f8686019a17616a24e29c9a
+FileChecksum: SHA256: 0f3ea42cbd16dfe23b827787ee85ef1ad128013fced8a35cf54e8ed31fcb4f9f
+FileChecksum: MD5: 29b34acdc2f6f7c73a89e144fb07acb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/features.rst
+SPDXID: SPDXRef-item9848405
+FileChecksum: SHA1: f56db70817287b51052b70eb29801a8f4bf64b0b
+FileChecksum: SHA256: 7a0669d7878a52060725ef728aeba1a1c8ad87b75e715b1d042b67f057ae517f
+FileChecksum: MD5: 26e3bce5e6a5ce301251e46d400e0e9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/make.bat
+SPDXID: SPDXRef-item9848406
+FileChecksum: SHA1: f72c4dc479344275c2644bf578418dde9cba8eb9
+FileChecksum: SHA256: b593cd1da19314a43db9a0854f6f92f2c59217571502da3321f9498c02fa16c8
+FileChecksum: MD5: c0d3dd97c33fb8cd9d395542307fd10c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/message_signing.rst
+SPDXID: SPDXRef-item9848407
+FileChecksum: SHA1: 6b27bb5525c6b2acee4b6c1616c495f36bda5e81
+FileChecksum: SHA256: 4ee66e48ddfa7f850753bfffdad8506d59c8d3e409aa68447e9b24a4b2009c10
+FileChecksum: MD5: 5893bab442ca77c124dcf4a7aa97fe97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/client.rst
+SPDXID: SPDXRef-item9848408
+FileChecksum: SHA1: d652db1d096e9017efbb9e9b34759291b4688399
+FileChecksum: SHA256: 845195929b39e05ebc44eb0385c52f2baa7092fa68a3d8dc6948ddd9217f1741
+FileChecksum: MD5: 15f6787b3d7e7f9f40b350d88121e5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/roadmap.rst
+SPDXID: SPDXRef-item9848409
+FileChecksum: SHA1: 8756c675b59d4660880c80f30208db28cfc21e43
+FileChecksum: SHA256: bba985fdba0eb2565e2000c92166866cc735ee2968dd95bd2114aeb99c3b6a71
+FileChecksum: MD5: 5933821d3b8c02e7ff8a61972fdec5ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/logging.rst
+SPDXID: SPDXRef-item9848410
+FileChecksum: SHA1: 83ea3ee88c4ea48c635cc5e93674c7d4b1c32048
+FileChecksum: SHA256: d0dde9aadef0bf26d35b6ac0a5932af8622a44ca6db637d0e6f53718d029362c
+FileChecksum: MD5: dc8c53d746accb9d28542bcc8cd72048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/server.rst
+SPDXID: SPDXRef-item9848411
+FileChecksum: SHA1: 606421902c9418379e84ea9612fb94ccaaf8f5ba
+FileChecksum: SHA256: 93d0942e82d5c85a1577a9bebcd3fe0129fc60ea6c3a43cfa043978193264760
+FileChecksum: MD5: 32c830ae02ad549702c03bc2d9d5e8a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/representations.rst
+SPDXID: SPDXRef-item9848412
+FileChecksum: SHA1: a38d467c954e5291d33dd91b4a7f0c87fe7cebf7
+FileChecksum: SHA256: b1681d7f70b75959e9117c43797dd1638ffd68b51393bb0af96841df0fc28917
+FileChecksum: MD5: 9ae14f94468cb9ab17a8ff0725a9c2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/api/openleadr.rst
+SPDXID: SPDXRef-item9848414
+FileChecksum: SHA1: 322c5059b4ca1060378bf96637b8626976a754e7
+FileChecksum: SHA256: 70668daac2f92fe88269a8a03f072d840cb87462bd29a5d01b7cf7010e71cd8d
+FileChecksum: MD5: 9b40ef9eef88d21017de4ccf6a61d1a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/api/modules.rst
+SPDXID: SPDXRef-item9848415
+FileChecksum: SHA1: a44dd5e03b9cde60ffc54005165e8b543f320f46
+FileChecksum: SHA256: 69e1e80f4edfcae712bbafad65304a096d7e1cb838602504922116549993ff1d
+FileChecksum: MD5: f9b5061b49e179ca961e52cdf61a2da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/_static/css/custom.css
+SPDXID: SPDXRef-item9848418
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/_static/logo-tall.png
+SPDXID: SPDXRef-item9848419
+FileChecksum: SHA1: eda28abe545cb3756387bcb7d6353705a2ff2a85
+FileChecksum: SHA256: 3409052a83460d15489001b59a9d0c0f2b9399977737b2b634adb0dd1e931d0b
+FileChecksum: MD5: 5c459675b47dee662f284af6a08f931e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/docs/conf.py
+SPDXID: SPDXRef-item9848420
+FileChecksum: SHA1: 0c954ec27a11efd3211c319e60c43996134a3a27
+FileChecksum: SHA256: 13a8932294f4053cb43c813b24ad72c670ebbb6ec31de57b5cb5467a48bb4156
+FileChecksum: MD5: 30bce43540a95b2c05c2fc5edaf7a44e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: <text> copyright = '2020, OpenLEADR Contributors' author = 'Stan Janssen' </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/MANIFEST.in
+SPDXID: SPDXRef-item9848422
+FileChecksum: SHA1: 8d7b23e6c3ce4d7b473f0b07078f518575ec4758
+FileChecksum: SHA256: d5fd3e2892244dfbf42e4a11d723e20ad7496a6daf3cd328d87293985dd47e87
+FileChecksum: MD5: b0ba612c1cd0bc149721462bc8a631c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/CONTRIBUTING.md
+SPDXID: SPDXRef-item9848423
+FileChecksum: SHA1: 6d9bc7fe94a20433425728c868f549038f6870a5
+FileChecksum: SHA256: 53a0a460f8eccb279580aa16013c5f98936eba73554d267632f5ea83d8e890b1
+FileChecksum: MD5: e59ab8d56e1112527e696ad021bf5faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: <text> Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 1 Letterman Drive Suite D4700 San Francisco, CA, 94129
+(c) The contribution was provided directly to me by some other
+(c) and I have not modified it. </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/pytest.ini
+SPDXID: SPDXRef-item9848424
+FileChecksum: SHA1: b972cb21f0f25c86a8468cb824b50235e163ffcb
+FileChecksum: SHA256: ca5edd595690861dc8df1a493c815d36783a723c7807c4607907d58c1d439b25
+FileChecksum: MD5: 5e39f5a4123447fd6ba0ecda87204c6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/.github/workflows/test-suite.yml
+SPDXID: SPDXRef-item9848427
+FileChecksum: SHA1: 4998ea88a6cd61922156f5ec8c7c0a686cd4640f
+FileChecksum: SHA256: 20b29eaab65d9495288f41108193053b615a5a6ac8caf41c83f5a5a0f7de3b27
+FileChecksum: MD5: 5813f3a9d47c205c505197bd9457c591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/.gitignore
+SPDXID: SPDXRef-item9848429
+FileChecksum: SHA1: fae71f7db2fbcbfb9614be0d4536dfb4cbc5cd5f
+FileChecksum: SHA256: 192305892433e68e5944ff0cf3ad300e67f22187c13de4d06f28d368bb90a19e
+FileChecksum: MD5: fbe40a94ed0e289fdaaefa845bdc9131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/dev_requirements.txt
+SPDXID: SPDXRef-item9848430
+FileChecksum: SHA1: 7896717df005c703dc839ec5cd015dab3f9608d7
+FileChecksum: SHA256: 6a4582ee8e6e4cadc130968fc03c14f326c8ddc2319899578e68093dc4c6c241
+FileChecksum: MD5: 93e215d305404be162f9cae16538a231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_event_distribution.py
+SPDXID: SPDXRef-item9848432
+FileChecksum: SHA1: b6112c664eb84d9f08aa8cb6ec082f00fc3d2be4
+FileChecksum: SHA256: 6e363f5035c12d3ca2fd3638a1a44a48053265c109e1532ee688af6ffdac6488
+FileChecksum: MD5: 92eadb66904176f09a7feea189f8bb6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_poll_responses.py
+SPDXID: SPDXRef-item9848433
+FileChecksum: SHA1: b5f39b1aa34f782aad0736540aed387345577e70
+FileChecksum: SHA256: adc319e61a19a256a4b5d1d616a06d49fe20faf12a97e9ab34913273d23ffa88
+FileChecksum: MD5: d1dd4a19acf3f175fcbb8e121c00919f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_objects.py
+SPDXID: SPDXRef-item9848434
+FileChecksum: SHA1: ba0a10466e7730bc6cde5f4f4cea0c6b581734c2
+FileChecksum: SHA256: 0b57a99f60848b74d4c4874eaa058e565f7acd459c28e817ca1148bf2d7c26b6
+FileChecksum: MD5: 3eff2538458aee32fd6623fd8ecf6aa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_utils.py
+SPDXID: SPDXRef-item9848435
+FileChecksum: SHA1: 484a826e5ea9f8a09b1bce40479174bf83ce899b
+FileChecksum: SHA256: c64a9ed03104baa2203d2a13c927b30425c7ccde3a8b73c20453ffeb1cbe7fcb
+FileChecksum: MD5: a98a1f5b1bb15bb49e035b298a9103ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_certificates.py
+SPDXID: SPDXRef-item9848436
+FileChecksum: SHA1: a1a0d0aca7802755602952a3ab9899fe72cff566
+FileChecksum: SHA256: 4fbcbad2b5b130d2a5c2fbdff5c18f85e8f0c9800afae17bb85f88584789ed9d
+FileChecksum: MD5: 8c79074c7e7b1c4a327182342c858f94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_errors.py
+SPDXID: SPDXRef-item9848441
+FileChecksum: SHA1: 9c4570911f83126af7fd4763053d7624e911bf5b
+FileChecksum: SHA256: 8db1e3da69d39c74807863d752c47c4fc2a41696e42a8e196d617f47f0cb1eab
+FileChecksum: MD5: e15bcf1e479c57ac2e0897c8630e60f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/integration_tests/test_event_warnings_errors.py
+SPDXID: SPDXRef-item9848443
+FileChecksum: SHA1: 15acd361a943858520bee63e07303de18380edad
+FileChecksum: SHA256: 983bf4abd4bd6e5044706da0d142dc4e401577f33f4c64068ca75a28f7a59c71
+FileChecksum: MD5: 01440bf569de32080ed9fc63d8da9728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_failures.py
+SPDXID: SPDXRef-item9848445
+FileChecksum: SHA1: 5b279cdd843b3d49e360b60d8225854d520a69ba
+FileChecksum: SHA256: c8fdb5d41e2aa9ff5f452e68c30a19f1f8b591cbda3e4345bb66ee90a91d1edb
+FileChecksum: MD5: 4c5953c8ad281f9622d0b01ce4f311fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_client_misc.py
+SPDXID: SPDXRef-item9848446
+FileChecksum: SHA1: cf7cf4e10a98a8768f4652cea11e6aa5a4463f24
+FileChecksum: SHA256: 562b1fbd7bdcff7ceed665af5f47d0baaeaf494cd48f97ba6bf7262fb620d9f6
+FileChecksum: MD5: b687f26dba5647396c63206220f7106b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_registrations.py
+SPDXID: SPDXRef-item9848455
+FileChecksum: SHA1: baad333d05a0a1daa2788a7059459627e94640d3
+FileChecksum: SHA256: 81a6b82b566333d2fdf1d6a53da5d77468f152e621ff9acf08afcacd7be5004b
+FileChecksum: MD5: 992bd5239790824aa85e82fdbb707a7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/fixtures/__init__.py
+SPDXID: SPDXRef-item9848457
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/test/test_reports.py
+SPDXID: SPDXRef-item9848459
+FileChecksum: SHA1: d0147001c8ebdb44b2c1bdf7820187480fb8a600
+FileChecksum: SHA256: cdb173be0cfe68ada15209267f1dde5bdcae3c41f0bd504d055d629d056b11b7
+FileChecksum: MD5: 0d1245635eb2b4eba50c11a07310191f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/errors.py
+SPDXID: SPDXRef-item9848461
+FileChecksum: SHA1: f5345c7310e82fa5e588bb58c0f4ada9ad6ab60e
+FileChecksum: SHA256: 9a40f98cb48c87584ca9a221c9365c8f723fc30cb508dde5c9ac23b5b489c8f3
+FileChecksum: MD5: d4b69fd5644511b22452ad159a71c88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/fingerprint.py
+SPDXID: SPDXRef-item9848466
+FileChecksum: SHA1: 7426df96ceeac83b56c515dd5eabc6be20f8a2a2
+FileChecksum: SHA256: 4eca88d30a5d83cc64c50ae5fcf0c7dba5a3967b34e5610ff27233d6efd46211
+FileChecksum: MD5: 5dfcf84d20b0c2e2ee11d52dbf543705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_20b.xsd
+SPDXID: SPDXRef-item9848471
+FileChecksum: SHA1: 82a836d5e9c0161ca7b0f278b698e0a31314ab8a
+FileChecksum: SHA256: e0a805eb00904e7d1e24f8f5ac357af8188728626744e6e583f32906c4da5f38
+FileChecksum: MD5: aef3d5adf91654f087796924291e7f2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_ei_20b.xsd
+SPDXID: SPDXRef-item9848472
+FileChecksum: SHA1: 0bdfc3db531c35b6bc9ff68048f61eba02dafbf6
+FileChecksum: SHA256: a7a36814448eaf45725b9504de97a50a307b0b5730e8aecee6b5a6a39113a6a6
+FileChecksum: MD5: 74c327c397a9584f245ff0f1a2dd7f06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_xmldsig-properties-schema.xsd
+SPDXID: SPDXRef-item9848473
+FileChecksum: SHA1: 77f0c0205f159f663378c844a61d15dfa8738da7
+FileChecksum: SHA256: 593dc230b1de8e47ba51559c2e9e33d2e881f4cca5b6145d0ce3d8c5a35688dc
+FileChecksum: MD5: 3d7a8752d38f7702b5e16648b862e32f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_xml.xsd
+SPDXID: SPDXRef-item9848474
+FileChecksum: SHA1: 9f7da688f60f4f0e2bc16f7120e33a3441f81232
+FileChecksum: SHA256: 5ffc04c6cece79004676c8d08f1acc51878cfa30586356e858d343e17020e451
+FileChecksum: MD5: d58e389ddbfda19ddddaa0cf188cda2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_emix_20b.xsd
+SPDXID: SPDXRef-item9848475
+FileChecksum: SHA1: 23895f9fd5e710bd4749b77673fa7e2e3e88b4e3
+FileChecksum: SHA256: 23fb67f06e90fdc97c11652914bb3947328c25f1d1e288b740ae16f393261180
+FileChecksum: MD5: 1371869d6cccf70129c605de282b3fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_strm_20b.xsd
+SPDXID: SPDXRef-item9848476
+FileChecksum: SHA1: e2cdb1e8855afee6549b3b63e683730955461e75
+FileChecksum: SHA256: ab9dd466ef530f6b8601b623cd065d3788e349514a22501b6c0cc648f358fca1
+FileChecksum: MD5: 21663ee450c801715a644602f1cf8aaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_xcal_20b.xsd
+SPDXID: SPDXRef-item9848477
+FileChecksum: SHA1: cf2e0ed1017fa74c006318609bf04309f53f8d00
+FileChecksum: SHA256: 7936dc01319eca5be01ce6b0603526d6db4e558632b0495290c51a6ea57e3f2d
+FileChecksum: MD5: 5f296534e3b73255c37486e265037f76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_power_20b.xsd
+SPDXID: SPDXRef-item9848479
+FileChecksum: SHA1: 5759df82a185973d5e8f03122a8aa511e5eaa0a8
+FileChecksum: SHA256: 580519d1382e302629a2ec97d025338d88ea58fa7cee7608d82acc9f9be0c2da
+FileChecksum: MD5: 618a2d2aba6076597cfe6a5aeb3a4a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_gml_20b.xsd
+SPDXID: SPDXRef-item9848480
+FileChecksum: SHA1: bb3a783655c747006e0dfc7c4a6c081046f3a84e
+FileChecksum: SHA256: 52c460c35e5ef88b3310ec511a1927e1ff117d99a35c72f0012b99ab4ec59ba3
+FileChecksum: MD5: 8d405f0f6cecf27f3146071b14ee2922
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_atom.xsd
+SPDXID: SPDXRef-item9848482
+FileChecksum: SHA1: 638938359157bf6c7cb7392c7e4578e52767999a
+FileChecksum: SHA256: 632c034d6f759727eb80d7c1092542e807b47714a83b1903c18f5b931e47b948
+FileChecksum: MD5: 076637155fc4467a968cc9ccaa974291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_greenbutton.xsd
+SPDXID: SPDXRef-item9848483
+FileChecksum: SHA1: bf1e5173b163d7a9613ca7f431831d9253123192
+FileChecksum: SHA256: 98634e64b787482d047771e1543db61b2fb09878a22eb4452b36ff1d4e888e60
+FileChecksum: MD5: 4563154af51efc405bfddabd76233dc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_pyld_20b.xsd
+SPDXID: SPDXRef-item9848484
+FileChecksum: SHA1: 740f8e7368eca5f7931a26db2a1efa74a6e9b378
+FileChecksum: SHA256: 8179a761b3d501b7d904a08c71bd1a31eac508cc95d4e374f1c832103bdcf053
+FileChecksum: MD5: 3f64174a0bc67b30cffb83ff51f0e650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/schema/oadr_xmldsig.xsd
+SPDXID: SPDXRef-item9848485
+FileChecksum: SHA1: 5a53fdc88903b78743f8c0e2b02279f5a38caae9
+FileChecksum: SHA256: 0a1c72881eee256a8cc80bfcb5d98b309760a368c886ef26eda65df546f4cf76
+FileChecksum: MD5: 035c029c8b5f3ef5873cc65d04dd6dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrQueryRegistration.xml
+SPDXID: SPDXRef-item9848489
+FileChecksum: SHA1: 4b13118a7bde905060ad57a4ad60ac2acf5ad3f9
+FileChecksum: SHA256: d48b78c2b6eeda8a95fbed3296c3924a009a13dbbe8a0bbfb6cfd5e90d7905ea
+FileChecksum: MD5: 3ed7fab709200071e4a25608a7311b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrRequestReregistration.xml
+SPDXID: SPDXRef-item9848490
+FileChecksum: SHA1: 4a6199255e45da2fc1291835d369938a56ff9e06
+FileChecksum: SHA256: 268d195618bec0bc2eb750a7dca723954bc072bbc57168c34182af88d1ef9e60
+FileChecksum: MD5: 75c6d0a695c5d5c6f1a4064655105a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrUpdatedReport.xml
+SPDXID: SPDXRef-item9848491
+FileChecksum: SHA1: f7ce6aabf8e45866cd8763915d2e745c3f66d8b4
+FileChecksum: SHA256: a67478f0a893c91086e161d33ba8bfd6ae614023d3d2d5316269db523faef2da
+FileChecksum: MD5: 186c31250a3912e0f6809665923c72a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCancelPartyRegistration.xml
+SPDXID: SPDXRef-item9848492
+FileChecksum: SHA1: 3f0cfdfa12f72ad54f68e514a250cbb503252cf8
+FileChecksum: SHA256: b153090f757b6d58356c5368f60f11adc616346e32b784850c47cbe0688eaa78
+FileChecksum: MD5: 3c695f55c16c45615f710e723ea853f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCancelOpt.xml
+SPDXID: SPDXRef-item9848493
+FileChecksum: SHA1: eab9dafa4fc6b7d199b7a04a393dafffa065ec21
+FileChecksum: SHA256: 983ca4dcffc1b279865103cbb8566278f15601a4fc574a555be665f2cc609a23
+FileChecksum: MD5: e3444fbb64fbff4cb80943ecfbb4e11f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreatedReport.xml
+SPDXID: SPDXRef-item9848494
+FileChecksum: SHA1: 6b5cd339af80113edf853fcac6026ed1aeaf9204
+FileChecksum: SHA256: 9fcfb2012ed88bc481910f82cd6532acf9d403d097cb47a6d3ea4b140c3a4fd8
+FileChecksum: MD5: d4e9fab6ec631cf3c0f074a45f9eacfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCanceledReport.xml
+SPDXID: SPDXRef-item9848495
+FileChecksum: SHA1: bd52e56ea8b1b7ec8516969c5e0c4247cd137884
+FileChecksum: SHA256: a58054c51e440e522e0305957c8a0af62451fb8f04cf957b1acc95ea4bdf552d
+FileChecksum: MD5: ba50435a04cf2589ed0f6507cc01d5f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrRegisteredReport.xml
+SPDXID: SPDXRef-item9848496
+FileChecksum: SHA1: 8d851734594dfe6bf7176b7d48df7f0c5764b000
+FileChecksum: SHA256: 4be50a8d48fc2fa3295abfffbccd62608d49eadc900286f16cff3521a5d19ae1
+FileChecksum: MD5: 6d49db198c9357e4141028e0885a3058
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreatedOpt.xml
+SPDXID: SPDXRef-item9848497
+FileChecksum: SHA1: a6a762a31cd2719a83fd9128d6ea3d3b6293fba4
+FileChecksum: SHA256: 52767fa3b77e83193c8f238985e6db3da245acf2b9454ef242d846a8dc1e42e2
+FileChecksum: MD5: da6b6ab5eef1d99efa57008f1b222278
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrUpdateReport.xml
+SPDXID: SPDXRef-item9848498
+FileChecksum: SHA1: 52de2e607b4c1efa7470d2e3018f0a95421fc4c8
+FileChecksum: SHA256: c6bda3d6deb492c60e3ae2bb6e913dc8d341671717d85b3a5ea8ba224d2a2f3d
+FileChecksum: MD5: 0f60c1555b60e69ba724707c501377f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreateReport.xml
+SPDXID: SPDXRef-item9848499
+FileChecksum: SHA1: d2828866e562b68e3b547379b3ebdd5b5e3bbc2e
+FileChecksum: SHA256: c4bb009c5669d33bf10fc69be4fb8af01ce4acb483b46555ef0909fee9bb61cb
+FileChecksum: MD5: b691e420548c3a57f1e424235d1eec79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrPayload.xml
+SPDXID: SPDXRef-item9848500
+FileChecksum: SHA1: ca290a88a269c536316efeed5eb5d35c9c659c4b
+FileChecksum: SHA256: be16262d499ecba5706629aaa6f483d512f57a591d8a9ed24a480a85d1d798cf
+FileChecksum: MD5: 2405af626c19371790431ae263c00e7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrRegisterReport.xml
+SPDXID: SPDXRef-item9848501
+FileChecksum: SHA1: 5465e8ce7dbe7494a17dedc2b1017c2bc42a9e4c
+FileChecksum: SHA256: 0d87b017059ba3422e0d46de059b8ba3c404675ccdcb17ae2896d371d180feed
+FileChecksum: MD5: a4d9da380ea236d03e78936666eda898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/reportDescriptionEmix.xml
+SPDXID: SPDXRef-item9848503
+FileChecksum: SHA1: 64d78a1e0bd6eef0d76ce1926006d72401fbbdf9
+FileChecksum: SHA256: f494e2d5b269dd51b71d613ce4b02022884118844664d13fdc867aad8a05e1e2
+FileChecksum: MD5: d1b2a3f5105d1c861b49f949ac50d659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eiEventTarget.xml
+SPDXID: SPDXRef-item9848504
+FileChecksum: SHA1: 5bec8f50ac3af2e3aeaea8056e2a603f39260750
+FileChecksum: SHA256: c7e5523a8d17192a7c51a388dbb043213b695d49e9358f59118edb00761778bf
+FileChecksum: MD5: a6265f3d03d0dbfd43dc583a196a0f5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/emixInterface.xml
+SPDXID: SPDXRef-item9848505
+FileChecksum: SHA1: 1274956028e5ada20b08fc61b05e461d9f65fdfd
+FileChecksum: SHA256: 7c9cb4b4548d45d429899e711ff7de3c265e165c41fb52af49097017f8d033aa
+FileChecksum: MD5: e4e216ed7fc18000f61c9fca8d7763a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/oadrReportRequest.xml
+SPDXID: SPDXRef-item9848506
+FileChecksum: SHA1: 86c2597e9273e49ac93a1ef2fe0599f62d1e2e59
+FileChecksum: SHA256: 3662998b62a6091f5f0622e3797885bca6ceb0baf5ce0f8c12999312ebc5bc33
+FileChecksum: MD5: 4ebc1bf096ffd03b7fbfc592782b4257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eiEventDescriptor.xml
+SPDXID: SPDXRef-item9848507
+FileChecksum: SHA1: 7add791492aa68e0cdace8b84948a42d800ef66b
+FileChecksum: SHA256: c425cafffed0c6aadcb95ec600288ba38d30d0c26651ba50b36587eedeb47be3
+FileChecksum: MD5: 14dfae5102db1f8dddb5efa50dbe7930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eiActivePeriod.xml
+SPDXID: SPDXRef-item9848508
+FileChecksum: SHA1: 122fff002647441a30940f74d9cbd0a53688f42b
+FileChecksum: SHA256: 7f231ec60f9b46a619ea5667882639282e8a3221e8a9116ac8c4ddb3668b0511
+FileChecksum: MD5: ee7773475adf62e97e3d6493c292f7a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eventSignalEmix.xml
+SPDXID: SPDXRef-item9848509
+FileChecksum: SHA1: 389b23377f25dedf8891937e5a46c307c464d1b3
+FileChecksum: SHA256: 2d50e94d17bcb21d8d14d32ce3d44306078005fddaf9a3c6a46649b312309b45
+FileChecksum: MD5: 70db04167eb660f4f3232318499e5e4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/oadrReportDescription.xml
+SPDXID: SPDXRef-item9848510
+FileChecksum: SHA1: e5c71a41cd1a7fd7890bda58e3472bb293a269a3
+FileChecksum: SHA256: 7f2877f64bf8e4092d43ff70b45b1d43bc66cb053d6efacd84f04121eb081c47
+FileChecksum: MD5: d2320f9e9968476d4d03cebd846a518e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eiEvent.xml
+SPDXID: SPDXRef-item9848511
+FileChecksum: SHA1: df1b4fc6a4c80187c937c6fffdd257fb172200b2
+FileChecksum: SHA256: 2037a60a7fe956976417ad33d73bc9b501233c4e43f6b9bbd0b5bfd042bdb7fa
+FileChecksum: MD5: c6b33025c19098ca8aa26441b88d0e69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eiEventSignal.xml
+SPDXID: SPDXRef-item9848512
+FileChecksum: SHA1: 6ca36c220f8aab75041be5bf8d31bdff37a3788f
+FileChecksum: SHA256: d205092c743b89685bcaf7e2531b0b18ccdff0782f1648d67ccf4c66324af5ba
+FileChecksum: MD5: fa1d459c4eb46009a054e2c6a4366762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/parts/eiTarget.xml
+SPDXID: SPDXRef-item9848513
+FileChecksum: SHA1: 2a361ae893dbdb6ecbb1f52767150263748e52be
+FileChecksum: SHA256: 793fdbe6fe023bc9cef30a8fcbbd10c72452e04cab0bfb9d6484fb2384f27d82
+FileChecksum: MD5: 0b9a87acd6f8d7e834c450d4f1c9c0b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreateOpt.xml
+SPDXID: SPDXRef-item9848514
+FileChecksum: SHA1: 841e26215ee93b90623f4fa2fba4bf3816f7d310
+FileChecksum: SHA256: 5bc34c7442f664bae8244b315481ca562a77fa1ba1b7b5af067d8c7736f3f1d3
+FileChecksum: MD5: e19072d4085fb4bf9b7e759f4bdf9ea3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCanceledOpt.xml
+SPDXID: SPDXRef-item9848515
+FileChecksum: SHA1: 9914e6fd73364a617735be17a0f87ee48f1f1e6d
+FileChecksum: SHA256: ddf30e60514e711c164bb2012519b41d043e35847249c12f4b8cdc6f3c392ad5
+FileChecksum: MD5: 5584f1d4962536749ea1bcc9193f57aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCanceledPartyRegistration.xml
+SPDXID: SPDXRef-item9848516
+FileChecksum: SHA1: ea2c276d0d4321be8fe5c12300d96f0ae2776fe2
+FileChecksum: SHA256: bf9e6f5b72d436abf317722b6b6f522681abdd67986aafa76246bf7021a49524
+FileChecksum: MD5: 884a3ddde51de34218407c7d0a28b0c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrPoll.xml
+SPDXID: SPDXRef-item9848517
+FileChecksum: SHA1: 73eea56632bbe925539f02594de7f57da27f1f66
+FileChecksum: SHA256: 6202ac672321abd672be3efae14b7549feca11517a08d59956d98cb1956a9934
+FileChecksum: MD5: b80371c7b196402776f66ce735539a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreatePartyRegistration.xml
+SPDXID: SPDXRef-item9848518
+FileChecksum: SHA1: 112631901f89cefb958704d853c976c3244dc655
+FileChecksum: SHA256: 0c808594bbef2af3fd8f6c1763c47dee7e7456ebf38cab6d56c5d2ef573f770c
+FileChecksum: MD5: 5374384e357363018b70c1b9ac9945f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrDistributeEvent.xml
+SPDXID: SPDXRef-item9848519
+FileChecksum: SHA1: 6b378b962dd1306727d7ba720f1811db11b29862
+FileChecksum: SHA256: a1625ef1e0bb66c8c4f44b426af351e49e7a9d1c0617d854e42b4218cc625cc9
+FileChecksum: MD5: 28d24466d29aed9ac7656a0754889851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreatedEvent.xml
+SPDXID: SPDXRef-item9848520
+FileChecksum: SHA1: 24ab59900945032d6316d0f6f0fc992dbfdefb4d
+FileChecksum: SHA256: d04588e24d66fc0c948a18659dc58f0a6b58842ab1c39d0e3830d3c96d138e20
+FileChecksum: MD5: 5119e5070dc18b6d6ac4f989520ee32b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrResponse.xml
+SPDXID: SPDXRef-item9848521
+FileChecksum: SHA1: 49c7693f1c3930c130ac4dfe67b4c95409dbce91
+FileChecksum: SHA256: aa60a515b2b1690a5a852cdabca5f951a6e992dee6a11adf50453f86f0950f5b
+FileChecksum: MD5: 8cfe3d66d2117c00e83e737f80340dae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCancelReport.xml
+SPDXID: SPDXRef-item9848522
+FileChecksum: SHA1: 022a08c4a7ee5cc186ae8c0886326e83177bab9a
+FileChecksum: SHA256: 9fe9dc8c46ae0979c9d356f136d5f024e2ed1c4024f76ed98c71f084d52c6b32
+FileChecksum: MD5: f5b0439d30f685220009896c6c8ad546
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrRequestEvent.xml
+SPDXID: SPDXRef-item9848523
+FileChecksum: SHA1: 9fcf917773c0abc930a0a40699a70d65caa51cb4
+FileChecksum: SHA256: 42286038e247f96845de2ae05e575ea69f450a43e3e419d82bdafb362a3d54c1
+FileChecksum: MD5: a13cc676756f872b435af20e5a0d8522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/openleadr/templates/oadrCreatedPartyRegistration.xml
+SPDXID: SPDXRef-item9848524
+FileChecksum: SHA1: 9fb15bdd8fad7cc1357907959e8b530516a54019
+FileChecksum: SHA256: ec666af11b33c4aede2566391bb9228a0b181926af66bf65b78a76e2dad244b6
+FileChecksum: MD5: 646c332ee3fd00f8e1bacb59c2f09e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_ca.srl
+SPDXID: SPDXRef-item9848537
+FileChecksum: SHA1: 4a90a79cde3c2ad8d7ff12bf5bd735ab05629ba1
+FileChecksum: SHA256: def2105bf3786ddfde6af7b2f246b717141dcef9933b811f7716b6c3aeb91976
+FileChecksum: MD5: a58afca602bd5e29b77c9d148814a80f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_ca.key
+SPDXID: SPDXRef-item9848538
+FileChecksum: SHA1: 0124037b87b9851d62334f5ca86900c19b1b2913
+FileChecksum: SHA256: f6d530bf243e7035aafe1f1f4149acfd56a27ccd2ba40b284b8edb0e79302446
+FileChecksum: MD5: bf5b2b935645ba069ca7aad1619c13fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_ven.key
+SPDXID: SPDXRef-item9848539
+FileChecksum: SHA1: fe96be466cd32b1ee1c224f122f56dc4bb9754e4
+FileChecksum: SHA256: 969c84fa8f8de6ab1e15d25853f5f721de646898c20d7f0406fef891f8efa59d
+FileChecksum: MD5: 6b61b7ba51bbcd1d530e7bb4cd7f90a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/generate_certificates.sh
+SPDXID: SPDXRef-item9848540
+FileChecksum: SHA1: 25cfc637a87da04fd8e49016f42aa00a42c1af96
+FileChecksum: SHA256: cf1edcb6a4947d96e618d9a81a86f5033d3da3c4ccf74095fb2939080ced1adf
+FileChecksum: MD5: d4394af723dac8fa62683ee893b1b66c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_vtn.key
+SPDXID: SPDXRef-item9848541
+FileChecksum: SHA1: 6fbd6f54c17690b20ef4992740d4a5f8c0db2794
+FileChecksum: SHA256: de0e8211e62a84e801a9966e10f5fad88885ff5ed83a560d3aae8a272f438aa5
+FileChecksum: MD5: f9bbdfced5d2ed0db12f4b07f1b7bcb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_ven.crt
+SPDXID: SPDXRef-item9848542
+FileChecksum: SHA1: 55f536129c20dbd9a048efc83dc1212b717054bb
+FileChecksum: SHA256: 6a057fd435279af04830adb665ff2bc243c6b2e5cde3aa52c75e8b3da009d060
+FileChecksum: MD5: df7224fc117a155a43178c98951a2871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_vtn.csr
+SPDXID: SPDXRef-item9848543
+FileChecksum: SHA1: 93c434b08bf0b9ba1a7e67e240c627fc7f21b582
+FileChecksum: SHA256: 0cc162693f60952f9b730b175318a8732530c6a21c9681f53a9b48dc527f3f54
+FileChecksum: MD5: f2f23f6f94c7f67a20d0a7484d0e5c9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_vtn.crt
+SPDXID: SPDXRef-item9848544
+FileChecksum: SHA1: 5605de6dde07bba4b06f5e80887082b5f2a0f18f
+FileChecksum: SHA256: 8d085ba5ad8601e9bcd886f5eb36d74b048e5bd1a4ba3b57091c5f9cb3fbde94
+FileChecksum: MD5: af4d75a1693fcdb516e1527dc5b829dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_ven.csr
+SPDXID: SPDXRef-item9848545
+FileChecksum: SHA1: 0d7acd486d1c0c0f690b89de7b4ff8b874fffca6
+FileChecksum: SHA256: ba8d1d52b4de52b7dd9d744549aae1b1cdd1e47a7323e0ef4c7379d71df4e34a
+FileChecksum: MD5: ad80a4b870a922d28787f7b0ab7227ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/certificates/dummy_ca.crt
+SPDXID: SPDXRef-item9848546
+FileChecksum: SHA1: 633f41380b0365f389c456137a3b8850d767556f
+FileChecksum: SHA256: d723dc66046736a59c008754c4d4b87d71fca9745bf7765746d32b09c3a1d738
+FileChecksum: MD5: a267ecbfc73f81ead96cfec368f392af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/logo.png
+SPDXID: SPDXRef-item9848547
+FileChecksum: SHA1: 56296c159798f016e386101528dfd0b1e5ac317d
+FileChecksum: SHA256: c7346a248c2e14ad0c6a5f96379afe02abf5492ccc9f9cf2e836dc941f44bf90
+FileChecksum: MD5: d78238b845b4a58dbac73bb69fd21df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/README.md
+SPDXID: SPDXRef-item9848548
+FileChecksum: SHA1: 10c8a14c533b4fecef8a265e33fd5f7121eaa561
+FileChecksum: SHA256: 35249f5b3d44397327cb90e67d8f18a617260a5786b17f39c23cff35b946d104
+FileChecksum: MD5: 491aae8ff85be5f5be96ff494ae254e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright. </text>
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-python/VERSION
+SPDXID: SPDXRef-item9848549
+FileChecksum: SHA1: eefccce18dd8e387d7d953d24ed8044841f6216e
+FileChecksum: SHA256: 8cb58d6c66413913f13af5427fd6c3fa73dbeabd963d0405845fdc008f5262ef
+FileChecksum: MD5: 66e67efcfa34928945c5635c761d42fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: openleadr-2024-09-18.zip/openleadr-example-vtn/README.md
+SPDXID: SPDXRef-item9848551
+FileChecksum: SHA1: 7e62cdbef8c65af0f4bd9d9993194b444f218a3e
+FileChecksum: SHA256: 6814470078f627ebfe43c8b3e72cc4f737f6221b7d582e98a83bdabd9827199d
+FileChecksum: MD5: 51c5e3f02ce9d6a8c329ebf4c49d272d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-OASIS-EMIX-2012
+LicenseName: OASIS EMIX notice 2012
+ExtractedText: <text> Copyright © OASIS Open 2012. All Rights Reserved.
+
+All capitalized terms in the following text have the meanings assigned to them in the OASIS Intellectual Property Rights Policy (the "OASIS IPR Policy"). The full Policy may be found at the OASIS website.
+
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published, and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this section are included on all such copies and derivative works. However, this document itself may not be modified in any way, including by removing the copyright notice or references to OASIS, except as needed for the purpose of developing any document or deliverable produced by an OASIS Technical Committee (in which case the rules applicable to copyrights, as set forth in the OASIS IPR Policy, must be followed) or as required to translate it into languages other than English.
+
+The limited permissions granted above are perpetual and will not be revoked by OASIS or its successors or assigns.
+
+This document and the information contained herein is provided on an "AS IS" basis and OASIS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY OWNERSHIP RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+OASIS requests that any OASIS Party or any other party that believes it has patent claims that would necessarily be infringed by implementations of this OASIS Committee Specification or OASIS Standard, to notify OASIS TC Administrator and provide an indication of its willingness to grant patent licenses to such patent claims in a manner consistent with the IPR Mode of the OASIS Technical Committee that produced this specification.
+
+OASIS invites any party to contact the OASIS TC Administrator if it is aware of a claim of ownership of any patent claims that would necessarily be infringed by implementations of this specification by a patent holder that is not willing to provide a license to such patent claims in a manner consistent with the IPR Mode of the OASIS Technical Committee that produced this specification. OASIS may include such claims on its website, but disclaims any obligation to do so.
+
+OASIS takes no position regarding the validity or scope of any intellectual property or other rights that might be claimed to pertain to the implementation or use of the technology described in this document or the extent to which any license under such rights might or might not be available; neither does it represent that it has made any effort to identify any such rights. Information on OASIS' procedures with respect to rights in any document or deliverable produced by an OASIS Technical Committee can be found on the OASIS website. Copies of claims of rights made available for publication and any assurances of licenses to be made available, or the result of an attempt made to obtain a general license or permission for the use of such proprietary rights by implementers or users of this OASIS Committee Specification or OASIS Standard, can be obtained from the OASIS TC Administrator. OASIS makes no representation that any information or list of intellectual property rights will at any time be complete, or that any claims in such list are, in fact, Essential Claims.
+
+The name "OASIS" is a trademark of OASIS, the owner and developer of this specification, and should be used only to refer to the organization and its official outputs. OASIS welcomes reference to, and implementation and use of, specifications, while reserving the right to enforce its marks against misleading uses. Please see http://www.oasis-open.org/who/trademark.php for above guidance. </text>
+
+LicenseID: LicenseRef-fossology-UN-CEFACT
+LicenseName: UN-CEFACT No Modifications
+ExtractedText: <text> Copyright (C) UN/CEFACT (2010). All Rights Reserved.
+
+This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to UN/CEFACT, except as needed for the purpose of developing UN/CEFACT specifications, in which case the procedures for copyrights defined in the UN/CEFACT Intellectual Property Rights document must be followed, or as required to translate it into languages other than English.
+
+The limited permissions granted above are perpetual and will not be revoked by UN/CEFACT or its successors or assigns.
+
+This document and the information contained herein is provided on an "AS IS" basis and UN/CEFACT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-fossology-IETF-style
+LicenseName: IETF-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-IETF-RFC
+LicenseName: IETF RFC Permissions Statement
+ExtractedText: <text> Copyright (C) The Internet Society (2003). All Rights Reserved.
+
+This document and translations of it may be copied and furnished to
+others, and derivative works that comment on or otherwise explain it
+or assist in its implementation may be prepared, copied, published
+and distributed, in whole or in part, without restriction of any
+kind, provided that the above copyright notice and this paragraph are
+included on all such copies and derivative works. However, this
+document itself may not be modified in any way, such as by removing
+the copyright notice or references to the Internet Society or other
+Internet organizations, except as needed for the purpose of
+developing Internet standards in which case the procedures for
+copyrights defined in the Internet Standards process must be
+followed, or as required to translate it into languages other than
+English.
+
+The limited permissions granted above are perpetual and will not be
+revoked by the Internet Society or its successors or assigns.
+
+This document and the information contained herein is provided on an
+"AS IS" basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING
+TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION
+HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
