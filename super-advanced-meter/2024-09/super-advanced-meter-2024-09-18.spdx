@@ -1,0 +1,454 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_super-advanced-meter-2024-09-18.zip_1727232049.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-09-25T02:40:49Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: super-advanced-meter-2024-09-18.zip
+PackageFileName: super-advanced-meter-2024-09-18.zip
+SPDXID: SPDXRef-upload1524
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 8f3f47644f0e43be606d4185235d77c6b16cf964
+PackageChecksum: SHA1: 11d6168e5e105b85a8b7b975f7651192b3340517
+PackageChecksum: SHA256: 3cb10a1bbc1e16648394c87b21afa4b0b5c2f307a7b22c61d7ac02d2b3b60fa7
+PackageChecksum: MD5: ce6ab5aab85dbbb7d40abee56846a7b8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1524
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/4._License.md
+SPDXID: SPDXRef-item9974156
+FileChecksum: SHA1: 3a4dcc35bb6f8dbdbd805d90f2542a24f4d74283
+FileChecksum: SHA256: bb04af7a87207638fc9a4c79cff07e25cd5c70fd3eb35ed1cd549ee7e800e8fb
+FileChecksum: MD5: 2b746fff88dde5b05727635d4aeba76a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/1._Community_Specification_License-v1.md
+SPDXID: SPDXRef-item9974154
+FileChecksum: SHA1: 7fe54a000c09b90dacfb538cd120ca575f12cf4b
+FileChecksum: SHA256: cecaddefd005112c15940b1ded89c3b77335b03faea6af1cc4d3fdaaa47a711f
+FileChecksum: MD5: 2dd786bc8d7d18a2590f67087d225aac
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/4._License.md
+SPDXID: SPDXRef-item9974165
+FileChecksum: SHA1: 3a4dcc35bb6f8dbdbd805d90f2542a24f4d74283
+FileChecksum: SHA256: bb04af7a87207638fc9a4c79cff07e25cd5c70fd3eb35ed1cd549ee7e800e8fb
+FileChecksum: MD5: 2b746fff88dde5b05727635d4aeba76a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/1._Community_Specification_License-v1.md
+SPDXID: SPDXRef-item9974163
+FileChecksum: SHA1: 7fe54a000c09b90dacfb538cd120ca575f12cf4b
+FileChecksum: SHA256: cecaddefd005112c15940b1ded89c3b77335b03faea6af1cc4d3fdaaa47a711f
+FileChecksum: MD5: 2dd786bc8d7d18a2590f67087d225aac
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/4._License.md
+SPDXID: SPDXRef-item9974174
+FileChecksum: SHA1: 3a4dcc35bb6f8dbdbd805d90f2542a24f4d74283
+FileChecksum: SHA256: bb04af7a87207638fc9a4c79cff07e25cd5c70fd3eb35ed1cd549ee7e800e8fb
+FileChecksum: MD5: 2b746fff88dde5b05727635d4aeba76a
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-fossology-Dual-license
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/1._Community_Specification_License-v1.md
+SPDXID: SPDXRef-item9974172
+FileChecksum: SHA1: 7fe54a000c09b90dacfb538cd120ca575f12cf4b
+FileChecksum: SHA256: cecaddefd005112c15940b1ded89c3b77335b03faea6af1cc4d3fdaaa47a711f
+FileChecksum: MD5: 2dd786bc8d7d18a2590f67087d225aac
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/1._Community_Specification_License-v1.md
+SPDXID: SPDXRef-item9974146
+FileChecksum: SHA1: 7fe54a000c09b90dacfb538cd120ca575f12cf4b
+FileChecksum: SHA256: cecaddefd005112c15940b1ded89c3b77335b03faea6af1cc4d3fdaaa47a711f
+FileChecksum: MD5: 2dd786bc8d7d18a2590f67087d225aac
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/Readme.md
+SPDXID: SPDXRef-item9974143
+FileChecksum: SHA1: d585643c3b8dfed685bd4c4713024a82b942aad4
+FileChecksum: SHA256: c0bb338336963bbcab4a5887aef478d705541428bf55b7e53598854672a3dceb
+FileChecksum: MD5: 56651603a0f9e6cbc81ea4cc8ad47451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/5._Governance.md
+SPDXID: SPDXRef-item9974144
+FileChecksum: SHA1: b12a1ba6d15605f240b61b35180f271bd9695e60
+FileChecksum: SHA256: 813234cd03e32f9030b932645a50419a03c409ee6ac8359d2dcee294d1c4147f
+FileChecksum: MD5: e08a4c051199fb0039377617c87d50ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/8._Code_of_Conduct.md
+SPDXID: SPDXRef-item9974145
+FileChecksum: SHA1: c4d92232c12474064bcf2e2df2dfaa14e313bec7
+FileChecksum: SHA256: 844d7c527db091f03aa59bbb33d65a4e45ae88a811cffd3eb477e5db91b5d02e
+FileChecksum: MD5: b38d46c300b8973076a4fdbf2f1ac890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/2.2_Design Principles.md
+SPDXID: SPDXRef-item9974147
+FileChecksum: SHA1: dd27b6e21aeeb37412e852b384dda9afa5a6eb1c
+FileChecksum: SHA256: 9a0136322e108444d8fa97693c1719346d7e0fa3efbb9d32530a8f8c9d5c1305
+FileChecksum: MD5: 560fa0c1fc0c2c77aa874901c3a9c2e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain-ref
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/9._Dictionary
+SPDXID: SPDXRef-item9974148
+FileChecksum: SHA1: ff0f863fcea9a61c3f00013a9b30bdfefe4de4f5
+FileChecksum: SHA256: 854cbec5d4bb67981be409f62acc334623e78fb3344714a534d178b3cfed9924
+FileChecksum: MD5: 06a63daf87fc7913536d787e3d0ed4d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/SAMeter/2._Scope.md
+SPDXID: SPDXRef-item9974149
+FileChecksum: SHA1: 71021d96d4a0e69a7c96e8986598f0fe57846c62
+FileChecksum: SHA256: a1a67c09634671fd81ed4902514b1a6bf41d6adc189016369dea0f80856271d7
+FileChecksum: MD5: 8747711c2fc0b83a1136fac3c610af07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/LFE-SAM-UseCases-2023-04-01.xlsx
+SPDXID: SPDXRef-item9974151
+FileChecksum: SHA1: a1c07a9e430aaf7a174fdd0b6b7cd567deccfeae
+FileChecksum: SHA256: 6dfc72c87909d58be5b423cc3225c7cc327d37eb38e7a09c1549d5971b62bc88
+FileChecksum: MD5: 7b346fabf1d6829a7e14f965b4c4f24c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/Readme.md
+SPDXID: SPDXRef-item9974152
+FileChecksum: SHA1: d585643c3b8dfed685bd4c4713024a82b942aad4
+FileChecksum: SHA256: c0bb338336963bbcab4a5887aef478d705541428bf55b7e53598854672a3dceb
+FileChecksum: MD5: 56651603a0f9e6cbc81ea4cc8ad47451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/7._CS_Template.md
+SPDXID: SPDXRef-item9974153
+FileChecksum: SHA1: 721ebd1feeb23cfbced9bc69aa1547f57ba1586a
+FileChecksum: SHA256: 0a25b9cdb3abd8a6efe41905e35cec06ab0be6d1835f6d14e0e81520e9da0bcf
+FileChecksum: MD5: 461a22dddf34453a1433e86e09ac99d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/3._Notices.md
+SPDXID: SPDXRef-item9974155
+FileChecksum: SHA1: e378e92f2ad33f73f1f195fe066e3e21134d9a19
+FileChecksum: SHA256: c8e8cdb6205db615e28fa1154c17691636b6276e4641965d65bd11a5323be4c1
+FileChecksum: MD5: c80c4fef0e86780639ecc2326d6291a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/6._Contributing.md
+SPDXID: SPDXRef-item9974157
+FileChecksum: SHA1: 6069c83ae6b22d317a5bdacd8881a72bf90f1b50
+FileChecksum: SHA256: a76a12eae4542d61e29a35c83798fadf7233c1139e801c40941f5d7173c359d2
+FileChecksum: MD5: 1c60bad176ec59f1fa13719a0b158706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases-Framework/2._Scope.md
+SPDXID: SPDXRef-item9974158
+FileChecksum: SHA1: fd72ee3649e76feb8486a53d51bcf32812cf8357
+FileChecksum: SHA256: 9027b2e48c025270b50da12a20969887cb3d8c3c2d43d4391998c517be99ff97
+FileChecksum: MD5: 977605889018fdf20362c319a9fbb94d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/Readme.md
+SPDXID: SPDXRef-item9974160
+FileChecksum: SHA1: d585643c3b8dfed685bd4c4713024a82b942aad4
+FileChecksum: SHA256: c0bb338336963bbcab4a5887aef478d705541428bf55b7e53598854672a3dceb
+FileChecksum: MD5: 56651603a0f9e6cbc81ea4cc8ad47451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/LFE-SAM-UseCases-2023-09-14.xlsx
+SPDXID: SPDXRef-item9974161
+FileChecksum: SHA1: ce6f1fae51fcc9b2dcc6f73cc05c5253961954a9
+FileChecksum: SHA256: 78a3101e5e22c9fb62b4f9719c9114950e2f40861a0e3106c12e2fc3100d2606
+FileChecksum: MD5: fbcdb2bac49a30517ff355656e4edd2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/7._CS_Template.md
+SPDXID: SPDXRef-item9974162
+FileChecksum: SHA1: 721ebd1feeb23cfbced9bc69aa1547f57ba1586a
+FileChecksum: SHA256: 0a25b9cdb3abd8a6efe41905e35cec06ab0be6d1835f6d14e0e81520e9da0bcf
+FileChecksum: MD5: 461a22dddf34453a1433e86e09ac99d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/3._Notices.md
+SPDXID: SPDXRef-item9974164
+FileChecksum: SHA1: e378e92f2ad33f73f1f195fe066e3e21134d9a19
+FileChecksum: SHA256: c8e8cdb6205db615e28fa1154c17691636b6276e4641965d65bd11a5323be4c1
+FileChecksum: MD5: c80c4fef0e86780639ecc2326d6291a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/LFE-SAM-Use Case Groupings_2023-09-14.docx
+SPDXID: SPDXRef-item9974166
+FileChecksum: SHA1: 6c26736a8b236a164d6e4bb0d8d7fe89a267b0d7
+FileChecksum: SHA256: 74a994193f6401f12273c932ee3a601117b83f823980520e238573ce88c7b551
+FileChecksum: MD5: a350ac1fe1324a71014639191244cdff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/6._Contributing.md
+SPDXID: SPDXRef-item9974167
+FileChecksum: SHA1: 6069c83ae6b22d317a5bdacd8881a72bf90f1b50
+FileChecksum: SHA256: a76a12eae4542d61e29a35c83798fadf7233c1139e801c40941f5d7173c359d2
+FileChecksum: MD5: 1c60bad176ec59f1fa13719a0b158706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-UseCases/2._Scope.md
+SPDXID: SPDXRef-item9974168
+FileChecksum: SHA1: fd72ee3649e76feb8486a53d51bcf32812cf8357
+FileChecksum: SHA256: 9027b2e48c025270b50da12a20969887cb3d8c3c2d43d4391998c517be99ff97
+FileChecksum: MD5: 977605889018fdf20362c319a9fbb94d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/Readme.md
+SPDXID: SPDXRef-item9974170
+FileChecksum: SHA1: d585643c3b8dfed685bd4c4713024a82b942aad4
+FileChecksum: SHA256: c0bb338336963bbcab4a5887aef478d705541428bf55b7e53598854672a3dceb
+FileChecksum: MD5: 56651603a0f9e6cbc81ea4cc8ad47451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/7._CS_Template.md
+SPDXID: SPDXRef-item9974171
+FileChecksum: SHA1: 721ebd1feeb23cfbced9bc69aa1547f57ba1586a
+FileChecksum: SHA256: 0a25b9cdb3abd8a6efe41905e35cec06ab0be6d1835f6d14e0e81520e9da0bcf
+FileChecksum: MD5: 461a22dddf34453a1433e86e09ac99d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/3._Notices.md
+SPDXID: SPDXRef-item9974173
+FileChecksum: SHA1: e378e92f2ad33f73f1f195fe066e3e21134d9a19
+FileChecksum: SHA256: c8e8cdb6205db615e28fa1154c17691636b6276e4641965d65bd11a5323be4c1
+FileChecksum: MD5: c80c4fef0e86780639ecc2326d6291a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/6._Contributing.md
+SPDXID: SPDXRef-item9974175
+FileChecksum: SHA1: 6069c83ae6b22d317a5bdacd8881a72bf90f1b50
+FileChecksum: SHA256: a76a12eae4542d61e29a35c83798fadf7233c1139e801c40941f5d7173c359d2
+FileChecksum: MD5: 1c60bad176ec59f1fa13719a0b158706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: super-advanced-meter-2024-09-18.zip/WG-Architecture/2._Scope.md
+SPDXID: SPDXRef-item9974176
+FileChecksum: SHA1: 704cc999dea26dd26e5e8a400318e46030bd103c
+FileChecksum: SHA256: 056d4b7527581af10245f1b9610c17596e4e872642d3edf4dce06dd3cc032130
+FileChecksum: MD5: 7fe91ac7432dab885d52af5e0fc07586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
