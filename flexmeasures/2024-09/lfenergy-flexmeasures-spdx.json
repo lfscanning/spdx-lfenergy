@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2024-10-20T03:30:46Z",
+        "created": "2024-10-25T00:35:59Z",
         "creators": [
             "Organization: aquasecurity",
             "Tool: trivy-dev",
@@ -37,21 +37,21 @@
             "licenseId": "LicenseRef-MIT-License"
         }
     ],
-    "name": "/tmp/tmpx84i155t/code",
+    "name": "/tmp/tmp0z_lb32q/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpx84i155t/code-13ea37c1-b850-46ea-8493-d2f787a18c3b",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmp0z_lb32q/code-19e1689c-fe01-4128-b01c-9ac3466c25f6",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-43eaa81d9e7cd923",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "Class: lang-pkgs"
                 },
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "Type: pip"
@@ -66,7 +66,7 @@
             "SPDXID": "SPDXRef-Package-631d4135d67fe7a4",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -88,14 +88,14 @@
             "name": "alembic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: SQLAlchemy",
             "versionInfo": "1.13.1"
         },
         {
             "SPDXID": "SPDXRef-Package-1aa356d863790d3b",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -116,14 +116,14 @@
             "name": "altair",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Vega",
             "versionInfo": "5.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-289170cb8d37a752",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -144,14 +144,14 @@
             "name": "arrow",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Arrow",
             "versionInfo": "1.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-f59d02fb7a5294e1",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -172,14 +172,14 @@
             "name": "attrs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: The attrs Cabal",
             "versionInfo": "23.2.0"
         },
         {
             "SPDXID": "SPDXRef-Package-83089ea34c88078a",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -201,14 +201,14 @@
             "name": "babel",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: python-babel",
             "versionInfo": "2.14.0"
         },
         {
             "SPDXID": "SPDXRef-Package-51ba85f7aaf20ecb",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -229,14 +229,14 @@
             "name": "bcrypt",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python Cryptographic Authority",
             "versionInfo": "4.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-967781f84a298797",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -257,14 +257,14 @@
             "name": "blinker",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets Ecosystem",
             "versionInfo": "1.7.0"
         },
         {
             "SPDXID": "SPDXRef-Package-5bf717a05f753eb5",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -286,14 +286,14 @@
             "name": "certifi",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Certifi",
             "versionInfo": "2024.2.2"
         },
         {
             "SPDXID": "SPDXRef-Package-f5a696aaa44b8509",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -315,14 +315,14 @@
             "name": "charset-normalizer",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: TAHRI Ahmed R.",
             "versionInfo": "3.3.2"
         },
         {
             "SPDXID": "SPDXRef-Package-127ee326bf824e27",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -344,14 +344,14 @@
             "name": "click",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets",
             "versionInfo": "8.1.7"
         },
         {
             "SPDXID": "SPDXRef-Package-599fafa20d11bfca",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -372,14 +372,14 @@
             "name": "click-default-group",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: click-contrib",
             "versionInfo": "1.2.4"
         },
         {
             "SPDXID": "SPDXRef-Package-a23127a31780fc64",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -401,14 +401,14 @@
             "name": "colour",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Valentin Lab",
             "versionInfo": "0.1.5"
         },
         {
             "SPDXID": "SPDXRef-Package-5d66a5373a7f8637",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -430,14 +430,14 @@
             "name": "contourpy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: contourpy",
             "versionInfo": "1.2.1"
         },
         {
             "SPDXID": "SPDXRef-Package-a443ea63142ecdc0",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -459,14 +459,14 @@
             "name": "convertdate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Neil Freeman",
             "versionInfo": "2.4.0"
         },
         {
             "SPDXID": "SPDXRef-Package-e233914f23b92c86",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -487,14 +487,14 @@
             "name": "cycler",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Matplotlib Developers",
             "versionInfo": "0.12.1"
         },
         {
             "SPDXID": "SPDXRef-Package-59dfab9bca6fb7a6",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -516,14 +516,14 @@
             "name": "dill",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: The UQ Foundation",
             "versionInfo": "0.3.8"
         },
         {
             "SPDXID": "SPDXRef-Package-8ec3100555ecae1e",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -544,14 +544,14 @@
             "name": "dnspython",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Bob Halley",
             "versionInfo": "2.6.1"
         },
         {
             "SPDXID": "SPDXRef-Package-cb99290896c0a9ec",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -573,14 +573,14 @@
             "name": "email-validator",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Joshua Tauberer",
             "versionInfo": "2.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-7535cc888943635",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -602,14 +602,14 @@
             "name": "filelock",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: tox development team",
             "versionInfo": "3.13.3"
         },
         {
             "SPDXID": "SPDXRef-Package-d68e2db2d9a9ace",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -630,14 +630,14 @@
             "name": "flask",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets",
             "versionInfo": "2.2.5"
         },
         {
             "SPDXID": "SPDXRef-Package-9d0ecd03a22b4472",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -658,14 +658,14 @@
             "name": "flask-classful",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets Ecosystem",
             "versionInfo": "0.16.0"
         },
         {
             "SPDXID": "SPDXRef-Package-801e940ed7eb367b",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -687,14 +687,14 @@
             "name": "flask-cors",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Cory Dolphin",
             "versionInfo": "4.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-ed28ad0d4ec13c8",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -716,14 +716,14 @@
             "name": "flask-json",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Sergey Kozlov",
             "versionInfo": "0.4.0"
         },
         {
             "SPDXID": "SPDXRef-Package-3b64ed9476bac044",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -745,14 +745,14 @@
             "name": "flask-login",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Max Countryman",
             "versionInfo": "0.6.3"
         },
         {
             "SPDXID": "SPDXRef-Package-8270886c7f00fefb",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -773,14 +773,14 @@
             "name": "flask-mail",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets Ecosystem",
             "versionInfo": "0.9.1"
         },
         {
             "SPDXID": "SPDXRef-Package-22435580d015923f",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -801,14 +801,14 @@
             "name": "flask-marshmallow",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: marshmallow-code",
             "versionInfo": "1.2.1"
         },
         {
             "SPDXID": "SPDXRef-Package-fd32c48945e25f7c",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -830,14 +830,14 @@
             "name": "flask-migrate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Miguel Grinberg",
             "versionInfo": "4.0.7"
         },
         {
             "SPDXID": "SPDXRef-Package-28ac1609e14de192",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -859,14 +859,14 @@
             "name": "flask-principal",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets Ecosystem",
             "versionInfo": "0.4.0"
         },
         {
             "SPDXID": "SPDXRef-Package-62036fe9e2fd3240",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -888,14 +888,14 @@
             "name": "flask-security-too",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets Ecosystem",
             "versionInfo": "5.1.2"
         },
         {
             "SPDXID": "SPDXRef-Package-a32375be94e7360e",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -916,14 +916,14 @@
             "name": "flask-sqlalchemy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets Ecosystem",
             "versionInfo": "3.1.1"
         },
         {
             "SPDXID": "SPDXRef-Package-abfd00acda1b55ca",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -945,14 +945,14 @@
             "name": "flask-sslify",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Kenneth Reitz",
             "versionInfo": "0.1.5"
         },
         {
             "SPDXID": "SPDXRef-Package-714802cbad0dcf9e",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -973,14 +973,14 @@
             "name": "flask-wtf",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: WTForms",
             "versionInfo": "1.2.1"
         },
         {
             "SPDXID": "SPDXRef-Package-50c067e445186986",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1002,14 +1002,14 @@
             "name": "fonttools",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: FontTools",
             "versionInfo": "4.51.0"
         },
         {
             "SPDXID": "SPDXRef-Package-dd39f1d705987e7f",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1031,14 +1031,14 @@
             "name": "greenlet",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: python-greenlet",
             "versionInfo": "3.0.3"
         },
         {
             "SPDXID": "SPDXRef-Package-72fdaf3736c3b8a4",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1060,14 +1060,14 @@
             "name": "humanize",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: python-humanize",
             "versionInfo": "4.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-2b6bd9efd2517efd",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1088,14 +1088,14 @@
             "name": "idna",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Kim Davies",
             "versionInfo": "3.6"
         },
         {
             "SPDXID": "SPDXRef-Package-8523ee5b877ae1ef",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1116,14 +1116,14 @@
             "name": "importlib-metadata",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python",
             "versionInfo": "7.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-fa84af594afd1e64",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1144,14 +1144,14 @@
             "name": "inflect",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Jason R. Coombs",
             "versionInfo": "6.0.2"
         },
         {
             "SPDXID": "SPDXRef-Package-c5fed862708d5a08",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1173,14 +1173,14 @@
             "name": "inflection",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Janne Vanhala",
             "versionInfo": "0.5.1"
         },
         {
             "SPDXID": "SPDXRef-Package-86c72056c71d701b",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1202,14 +1202,14 @@
             "name": "iso8601",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Michael Twomey",
             "versionInfo": "2.1.0"
         },
         {
             "SPDXID": "SPDXRef-Package-764a03e85b85b202",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1238,7 +1238,7 @@
             "SPDXID": "SPDXRef-Package-56b2317ea885d000",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1259,14 +1259,14 @@
             "name": "itsdangerous",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets",
             "versionInfo": "2.1.2"
         },
         {
             "SPDXID": "SPDXRef-Package-2dd6c801105c0dcf",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1287,14 +1287,14 @@
             "name": "jinja2",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets",
             "versionInfo": "3.1.3"
         },
         {
             "SPDXID": "SPDXRef-Package-e14ce469aa4cfd85",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1316,14 +1316,14 @@
             "name": "joblib",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: joblib",
             "versionInfo": "1.3.2"
         },
         {
             "SPDXID": "SPDXRef-Package-e75e2eec7ca3358d",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1345,14 +1345,14 @@
             "name": "jsonschema",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python + JSON Schema",
             "versionInfo": "4.21.1"
         },
         {
             "SPDXID": "SPDXRef-Package-89a1dec14b10d39a",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1374,14 +1374,14 @@
             "name": "jsonschema-specifications",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python + JSON Schema",
             "versionInfo": "2023.12.1"
         },
         {
             "SPDXID": "SPDXRef-Package-39e015e9e56533e4",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1402,14 +1402,14 @@
             "name": "kiwisolver",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: nucleic",
             "versionInfo": "1.4.5"
         },
         {
             "SPDXID": "SPDXRef-Package-a1f4ea3e4663ba24",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1431,14 +1431,14 @@
             "name": "lunardate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: LI Daobing",
             "versionInfo": "0.2.2"
         },
         {
             "SPDXID": "SPDXRef-Package-40712ea47ac223e7",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1460,14 +1460,14 @@
             "name": "mako",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: SQLAlchemy",
             "versionInfo": "1.3.2"
         },
         {
             "SPDXID": "SPDXRef-Package-1013fcf1427d3656",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1488,14 +1488,14 @@
             "name": "markupsafe",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets",
             "versionInfo": "2.1.5"
         },
         {
             "SPDXID": "SPDXRef-Package-4226bed2ef8f56d3",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1516,14 +1516,14 @@
             "name": "marshmallow",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: marshmallow-code",
             "versionInfo": "3.21.1"
         },
         {
             "SPDXID": "SPDXRef-Package-de96f6ed1b58ed62",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1545,14 +1545,14 @@
             "name": "marshmallow-polyfield",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Matt Bachmann",
             "versionInfo": "5.11"
         },
         {
             "SPDXID": "SPDXRef-Package-bc9893341026b2d2",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1573,14 +1573,14 @@
             "name": "marshmallow-sqlalchemy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: marshmallow-code",
             "versionInfo": "1.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-2ce1bf928b9d4548",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1602,14 +1602,14 @@
             "name": "matplotlib",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Matplotlib Developers",
             "versionInfo": "3.8.4"
         },
         {
             "SPDXID": "SPDXRef-Package-e5ac77762c05bad3",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1631,14 +1631,14 @@
             "name": "numpy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: NumPy",
             "versionInfo": "1.24.4"
         },
         {
             "SPDXID": "SPDXRef-Package-7bb5870ffb850039",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1667,7 +1667,7 @@
             "SPDXID": "SPDXRef-Package-2a41fda579de0c77",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1688,14 +1688,14 @@
             "name": "packaging",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python Packaging Authority",
             "versionInfo": "24.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c521e4f3e7d4a90c",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1717,14 +1717,14 @@
             "name": "pandas",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: pandas",
             "versionInfo": "2.2.1"
         },
         {
             "SPDXID": "SPDXRef-Package-597acd6dd31389fa",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1753,7 +1753,7 @@
             "SPDXID": "SPDXRef-Package-4c163690195c3026",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1775,14 +1775,14 @@
             "name": "patsy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python for Data",
             "versionInfo": "0.5.6"
         },
         {
             "SPDXID": "SPDXRef-Package-ac904904b7e2f5da",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1804,14 +1804,14 @@
             "name": "pillow",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pillow",
             "versionInfo": "10.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-fd287ed9495737c",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1833,14 +1833,14 @@
             "name": "pint",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Hernan Grecco",
             "versionInfo": "0.23"
         },
         {
             "SPDXID": "SPDXRef-Package-a98652f2e7d8a282",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1869,7 +1869,7 @@
             "SPDXID": "SPDXRef-Package-e71911844391a244",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1891,14 +1891,14 @@
             "name": "properscoring",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: properscoring",
             "versionInfo": "0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-7fcf1d0a090f4dde",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1927,7 +1927,7 @@
             "SPDXID": "SPDXRef-Package-1cb33f0d5d64d1a7",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1949,14 +1949,14 @@
             "name": "psutil",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Giampaolo Rodola",
             "versionInfo": "5.9.8"
         },
         {
             "SPDXID": "SPDXRef-Package-76cb23ac7093211a",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -1978,14 +1978,14 @@
             "name": "psycopg2-binary",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: The Psycopg Team",
             "versionInfo": "2.9.9"
         },
         {
             "SPDXID": "SPDXRef-Package-c55930913578058f",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2014,7 +2014,7 @@
             "SPDXID": "SPDXRef-Package-a3a3656f2e978c73",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2036,14 +2036,14 @@
             "name": "pydantic",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pydantic",
             "versionInfo": "1.10.15"
         },
         {
             "SPDXID": "SPDXRef-Package-557dfefc21cd386d",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2064,14 +2064,14 @@
             "name": "pyluach",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Meir S. List",
             "versionInfo": "2.2.0"
         },
         {
             "SPDXID": "SPDXRef-Package-7c46541efb63b5cd",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2100,7 +2100,7 @@
             "SPDXID": "SPDXRef-Package-9773dea163d30a4e",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2122,14 +2122,14 @@
             "name": "pyomo",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pyomo",
             "versionInfo": "6.7.1"
         },
         {
             "SPDXID": "SPDXRef-Package-3fe3945e674c4fed",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2151,14 +2151,14 @@
             "name": "pyparsing",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pyparsing",
             "versionInfo": "3.1.2"
         },
         {
             "SPDXID": "SPDXRef-Package-78ef154f0973e23d",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2180,14 +2180,14 @@
             "name": "python-dateutil",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: dateutil",
             "versionInfo": "2.9.0.post0"
         },
         {
             "SPDXID": "SPDXRef-Package-3a6fcc4a31bb89e7",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2209,14 +2209,14 @@
             "name": "python-dotenv",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Saurabh Kumar",
             "versionInfo": "1.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-7b28469dfa0d51a6",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2238,14 +2238,14 @@
             "name": "pytz",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Stub",
             "versionInfo": "2024.1"
         },
         {
             "SPDXID": "SPDXRef-Package-e959f465c0595df2",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2267,14 +2267,14 @@
             "name": "pyyaml",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: The YAML Project",
             "versionInfo": "6.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-66787839607ba49b",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2296,14 +2296,14 @@
             "name": "redis",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Redis",
             "versionInfo": "4.6.0"
         },
         {
             "SPDXID": "SPDXRef-Package-dbe3a853181cc89d",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2325,14 +2325,14 @@
             "name": "redis-sentinel-url",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Exponea",
             "versionInfo": "1.0.1"
         },
         {
             "SPDXID": "SPDXRef-Package-eb5745afa88e25a",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2354,14 +2354,14 @@
             "name": "referencing",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python + JSON Schema",
             "versionInfo": "0.34.0"
         },
         {
             "SPDXID": "SPDXRef-Package-6a702494b7a3fb6c",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2383,14 +2383,14 @@
             "name": "requests",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python Software Foundation",
             "versionInfo": "2.31.0"
         },
         {
             "SPDXID": "SPDXRef-Package-994c45ea85e45b24",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2412,14 +2412,14 @@
             "name": "requests-file",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: David Shea",
             "versionInfo": "2.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-432e24624603dc9a",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2441,14 +2441,14 @@
             "name": "rpds-py",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: crate-py",
             "versionInfo": "0.18.0"
         },
         {
             "SPDXID": "SPDXRef-Package-6b189378fc55dd81",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2469,14 +2469,14 @@
             "name": "rq",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: RQ",
             "versionInfo": "1.16.1"
         },
         {
             "SPDXID": "SPDXRef-Package-47ede5f074b1867f",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2498,14 +2498,14 @@
             "name": "rq-dashboard",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Parallels, Inc.",
             "versionInfo": "0.8.0.2"
         },
         {
             "SPDXID": "SPDXRef-Package-e08a752a2010be8d",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2526,14 +2526,14 @@
             "name": "scikit-base",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: sktime",
             "versionInfo": "0.7.5"
         },
         {
             "SPDXID": "SPDXRef-Package-61364510c17e4f81",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2555,14 +2555,14 @@
             "name": "scikit-learn",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: scikit-learn",
             "versionInfo": "1.4.1.post1"
         },
         {
             "SPDXID": "SPDXRef-Package-d1075160c89caebe",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2584,14 +2584,14 @@
             "name": "scipy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: SciPy",
             "versionInfo": "1.13.0"
         },
         {
             "SPDXID": "SPDXRef-Package-10451ac5987a9f60",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2613,14 +2613,14 @@
             "name": "sentry-sdk",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Sentry",
             "versionInfo": "1.44.1"
         },
         {
             "SPDXID": "SPDXRef-Package-f1af510d23614118",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2642,14 +2642,14 @@
             "name": "six",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Benjamin Peterson",
             "versionInfo": "1.16.0"
         },
         {
             "SPDXID": "SPDXRef-Package-42e60673121a6a7f",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2671,14 +2671,14 @@
             "name": "sktime",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: sktime",
             "versionInfo": "0.28.0"
         },
         {
             "SPDXID": "SPDXRef-Package-91083adb8dd42b08",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2700,14 +2700,14 @@
             "name": "sqlalchemy",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: SQLAlchemy",
             "versionInfo": "2.0.29"
         },
         {
             "SPDXID": "SPDXRef-Package-115082ba824716bf",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2729,14 +2729,14 @@
             "name": "statsmodels",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: statsmodels",
             "versionInfo": "0.14.1"
         },
         {
             "SPDXID": "SPDXRef-Package-4bf9fea77df74978",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2758,14 +2758,14 @@
             "name": "tabulate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Sergey Astanin",
             "versionInfo": "0.9.0"
         },
         {
             "SPDXID": "SPDXRef-Package-2ef8dc64d6b0e36c",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2787,14 +2787,14 @@
             "name": "threadpoolctl",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: joblib",
             "versionInfo": "3.4.0"
         },
         {
             "SPDXID": "SPDXRef-Package-f5cf51a49ebd3c80",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2815,14 +2815,14 @@
             "name": "timely-beliefs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Seita BV",
             "versionInfo": "3.0.2"
         },
         {
             "SPDXID": "SPDXRef-Package-bd4f4677b1c389e5",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2844,14 +2844,14 @@
             "name": "timetomodel",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Seita BV",
             "versionInfo": "0.7.3"
         },
         {
             "SPDXID": "SPDXRef-Package-ef95bd0ba741e485",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2873,14 +2873,14 @@
             "name": "tldextract",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: John Kurkowski",
             "versionInfo": "5.1.2"
         },
         {
             "SPDXID": "SPDXRef-Package-fc8d63e02c7f64a5",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2902,14 +2902,14 @@
             "name": "toolz",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: pytoolz",
             "versionInfo": "0.12.1"
         },
         {
             "SPDXID": "SPDXRef-Package-70ffa949307a1789",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2931,14 +2931,14 @@
             "name": "types-python-dateutil",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: typeshed-internal",
             "versionInfo": "2.9.0.20240316"
         },
         {
             "SPDXID": "SPDXRef-Package-4d71f7fa9909b73c",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2960,14 +2960,14 @@
             "name": "typing-extensions",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python",
             "versionInfo": "4.11.0"
         },
         {
             "SPDXID": "SPDXRef-Package-1af2597751bc35a8",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -2989,14 +2989,14 @@
             "name": "tzdata",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Python",
             "versionInfo": "2024.1"
         },
         {
             "SPDXID": "SPDXRef-Package-a097dac4616ba60e",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3018,14 +3018,14 @@
             "name": "uniplot",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Olav Stetter",
             "versionInfo": "0.12.5"
         },
         {
             "SPDXID": "SPDXRef-Package-b1b8362d8fc96f52",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3046,14 +3046,14 @@
             "name": "urllib3",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: urllib3",
             "versionInfo": "2.2.1"
         },
         {
             "SPDXID": "SPDXRef-Package-4f1769d0abb01282",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3075,14 +3075,14 @@
             "name": "vl-convert-python",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Vega",
             "versionInfo": "1.3.0"
         },
         {
             "SPDXID": "SPDXRef-Package-dd6ed171e6b7903b",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3103,14 +3103,14 @@
             "name": "webargs",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: marshmallow-code",
             "versionInfo": "8.4.0"
         },
         {
             "SPDXID": "SPDXRef-Package-4846701a47765619",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3131,14 +3131,14 @@
             "name": "werkzeug",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Pallets",
             "versionInfo": "2.2.3"
         },
         {
             "SPDXID": "SPDXRef-Package-9cf26685c88b73cf",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3160,14 +3160,14 @@
             "name": "workalendar",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: workalendar",
             "versionInfo": "17.0.0"
         },
         {
             "SPDXID": "SPDXRef-Package-c4b4587ff5d922b4",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3188,14 +3188,14 @@
             "name": "wtforms",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: WTForms",
             "versionInfo": "3.1.2"
         },
         {
             "SPDXID": "SPDXRef-Package-3f04624aedf92a5b",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3224,7 +3224,7 @@
             "SPDXID": "SPDXRef-Package-6751110d1f9e23a7",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "PkgType: pip"
@@ -3245,14 +3245,14 @@
             "name": "zipp",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "NOASSERTION",
+            "supplier": "Organization: Jason R. Coombs",
             "versionInfo": "3.18.1"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-d19c0b8170a44a01",
+            "SPDXID": "SPDXRef-Filesystem-553b975543d95618",
             "annotations": [
                 {
-                    "annotationDate": "2024-10-20T03:30:46Z",
+                    "annotationDate": "2024-10-25T00:35:59Z",
                     "annotationType": "OTHER",
                     "annotator": "Tool: Trivy",
                     "comment": "SchemaVersion: 2"
@@ -3905,7 +3905,7 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-d19c0b8170a44a01",
+            "relatedSpdxElement": "SPDXRef-Filesystem-553b975543d95618",
             "relationshipType": "DESCRIBES"
         },
         {
@@ -3914,22 +3914,22 @@
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-d19c0b8170a44a01",
+            "spdxElementId": "SPDXRef-Filesystem-553b975543d95618",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-d19c0b8170a44a01",
+            "spdxElementId": "SPDXRef-Filesystem-553b975543d95618",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-client",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-d19c0b8170a44a01",
+            "spdxElementId": "SPDXRef-Filesystem-553b975543d95618",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-ha-integration",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-d19c0b8170a44a01",
+            "spdxElementId": "SPDXRef-Filesystem-553b975543d95618",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-plugin-template",
             "relationshipType": "CONTAINS"
         }
