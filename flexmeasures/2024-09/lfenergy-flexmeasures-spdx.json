@@ -1,9 +1,9 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2025-02-06T21:17:37Z",
+        "created": "2025-03-13T18:51:43Z",
         "creators": [
-            "Tool: protobom-devel",
+            "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
             "Tool: trivy-dev",
             "Organization: aquasecurity",
             "Organization: Linux Foundation",
@@ -13,48 +13,12 @@
         "licenseListVersion": "3.20"
     },
     "dataLicense": "CC0-1.0",
-    "hasExtractedLicensingInfos": [
-        {
-            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
-            "extractedText": "NOASSERTION",
-            "licenseId": "LicenseRef-NOASSERTION"
-        },
-        {
-            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
-            "extractedText": "GPL-3.0",
-            "licenseId": "LicenseRef-GPL-3.0"
-        },
-        {
-            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
-            "extractedText": "Other",
-            "licenseId": "LicenseRef-Other"
-        },
-        {
-            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
-            "extractedText": "LGPL-3.0",
-            "licenseId": "LicenseRef-LGPL-3.0"
-        }
-    ],
-    "name": "/tmp/tmp84e7wmp9/code",
+    "name": "/tmp/tmpmr_vz1f2/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmp84e7wmp9/code-2e75cc47-8e33-404e-a4c1-fb60b4b4f751",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpmr_vz1f2/code-75b5157e-cc4d-4545-9556-5d259100837f",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-43eaa81d9e7cd923",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "Class: lang-pkgs"
-                },
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "Type: pip"
-                }
-            ],
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "name": "flexmeasures/requirements.txt",
@@ -64,14 +28,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-631d4135d67fe7a4",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A database migration tool for SQLAlchemy.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -93,14 +49,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1aa356d863790d3b",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Vega-Altair: A declarative statistical visualization library for Python.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -121,14 +69,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-289170cb8d37a752",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Better dates & times for Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -149,14 +89,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-f59d02fb7a5294e1",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Classes Without Boilerplate",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -177,14 +109,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-83089ea34c88078a",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Internationalization utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -196,7 +120,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://babel.pocoo.org/",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND CC0-1.0 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND CC0-1.0 AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "babel",
             "primaryPackagePurpose": "LIBRARY",
@@ -206,14 +130,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-51ba85f7aaf20ecb",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Modern password hashing for your software and your servers",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -234,14 +150,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-967781f84a298797",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Fast, simple object-to-object and broadcast signaling",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -262,14 +170,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5bf717a05f753eb5",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python package for providing Mozilla's CA Bundle.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -291,14 +191,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-f5a696aaa44b8509",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -309,7 +201,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "CC-BY-SA-3.0 AND LGPL-2.1-only AND LGPL-2.1-only AND MIT AND MIT AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "CC-BY-SA-3.0 AND LGPL-2.1-only AND LGPL-2.1-only AND MIT AND MIT AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "charset-normalizer",
             "primaryPackagePurpose": "LIBRARY",
@@ -319,14 +211,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-127ee326bf824e27",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Composable command line interface toolkit",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -347,14 +231,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-599fafa20d11bfca",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "click_default_group",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -365,7 +241,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-3-Clause",
             "name": "click-default-group",
             "primaryPackagePurpose": "LIBRARY",
@@ -375,14 +251,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a23127a31780fc64",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "converts and manipulates various color representation (HSL, RVB, web, X11, ...)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -394,7 +262,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://github.com/vaab/colour",
-            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "colour",
             "primaryPackagePurpose": "LIBRARY",
@@ -404,14 +272,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-5d66a5373a7f8637",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python library for calculating contours of 2D quadrilateral grids",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -433,14 +293,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a443ea63142ecdc0",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Converts between Gregorian dates and other calendar systems",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -462,14 +314,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e233914f23b92c86",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Composable style cycles",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -490,14 +334,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-59dfab9bca6fb7a6",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "serialize all of Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -509,7 +345,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/uqfoundation/dill",
-            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "dill",
             "primaryPackagePurpose": "LIBRARY",
@@ -519,14 +355,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8ec3100555ecae1e",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "DNS toolkit",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -537,7 +365,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "ISC AND ISC AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "ISC AND ISC AND NOASSERTION",
             "licenseDeclared": "ISC",
             "name": "dnspython",
             "primaryPackagePurpose": "LIBRARY",
@@ -547,14 +375,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-cb99290896c0a9ec",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A robust email address syntax and deliverability validation library.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -566,7 +386,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/JoshData/python-email-validator",
-            "licenseConcluded": "CC0-1.0 AND LicenseRef-NOASSERTION AND Unlicense AND LicenseRef-NOASSERTION AND Unlicense",
+            "licenseConcluded": "CC0-1.0 AND NOASSERTION AND Unlicense AND NOASSERTION AND Unlicense",
             "licenseDeclared": "Unlicense",
             "name": "email-validator",
             "primaryPackagePurpose": "LIBRARY",
@@ -576,14 +396,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7535cc888943635",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A platform independent file lock.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -595,7 +407,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/tox-dev/py-filelock",
-            "licenseConcluded": "LicenseRef-NOASSERTION AND Unlicense",
+            "licenseConcluded": "NOASSERTION AND Unlicense",
             "licenseDeclared": "Unlicense",
             "name": "filelock",
             "primaryPackagePurpose": "LIBRARY",
@@ -605,14 +417,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-d68e2db2d9a9ace",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A simple framework for building complex web applications.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -633,14 +437,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-9d0ecd03a22b4472",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Class based views for Flask",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -661,15 +457,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-801e940ed7eb367b",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
-            "description": "A Flask extension adding a decorator for CORS support",
+            "description": "A Flask extension simplifying CORS support",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -679,7 +467,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "https://github.com/corydolphin/flask-cors",
+            "homepage": "https://corydolphin.github.io/flask-cors/",
             "licenseConcluded": "MIT",
             "licenseDeclared": "MIT",
             "name": "flask-cors",
@@ -690,14 +478,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-ed28ad0d4ec13c8",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Better JSON support for Flask",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -719,14 +499,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3b64ed9476bac044",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "User authentication and session management for Flask.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -738,7 +510,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/maxcountryman/flask-login",
-            "licenseConcluded": "BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "flask-login",
             "primaryPackagePurpose": "LIBRARY",
@@ -748,14 +520,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8270886c7f00fefb",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Flask extension for sending email",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -766,7 +530,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "flask-mail",
             "primaryPackagePurpose": "LIBRARY",
@@ -776,14 +540,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-22435580d015923f",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Flask + marshmallow for beautiful APIs",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -794,7 +550,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "flask-marshmallow",
             "primaryPackagePurpose": "LIBRARY",
@@ -804,14 +560,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-fd32c48945e25f7c",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "SQLAlchemy database migrations for Flask applications using Alembic.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -833,14 +581,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-28ac1609e14de192",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Identity management for flask",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -862,14 +602,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-62036fe9e2fd3240",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Quickly add security features to your Flask application.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -881,7 +613,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pallets-eco/flask-security",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "flask-security-too",
             "primaryPackagePurpose": "LIBRARY",
@@ -891,14 +623,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a32375be94e7360e",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Add SQLAlchemy support to your Flask application.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -919,14 +643,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-abfd00acda1b55ca",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Force SSL on your Flask app.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -948,14 +664,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-714802cbad0dcf9e",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Form rendering, validation, and CSRF protection for Flask with WTForms.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -976,14 +684,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-50c067e445186986",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Tools to manipulate font files",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1005,14 +705,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-dd39f1d705987e7f",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Lightweight in-process concurrent programming",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1024,7 +716,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://greenlet.readthedocs.io/",
-            "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION AND MIT AND Python-2.0 AND PSF-2.0",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND PSF-2.0",
             "licenseDeclared": "MIT AND PSF-2.0",
             "name": "greenlet",
             "primaryPackagePurpose": "LIBRARY",
@@ -1034,14 +726,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-72fdaf3736c3b8a4",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python humanize utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1053,7 +737,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/python-humanize/humanize",
-            "licenseConcluded": "MIT AND MIT AND Python-2.0 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0 AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "humanize",
             "primaryPackagePurpose": "LIBRARY",
@@ -1063,14 +747,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2b6bd9efd2517efd",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Internationalized Domain Names in Applications (IDNA)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1081,7 +757,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "idna",
             "primaryPackagePurpose": "LIBRARY",
@@ -1091,14 +767,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-8523ee5b877ae1ef",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Read metadata from Python packages",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1119,14 +787,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-fa84af594afd1e64",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Correctly generate plurals, singular nouns, ordinals, indefinite articles",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1147,14 +807,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-c5fed862708d5a08",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A port of Ruby on Rails inflector to Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1176,14 +828,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-86c72056c71d701b",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Simple module to parse ISO 8601 dates",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1205,14 +849,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-764a03e85b85b202",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "An ISO 8601 date/time/duration parser and formatter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1233,14 +869,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-56b2317ea885d000",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Safely pass data to untrusted environments and back.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1261,14 +889,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2dd6c801105c0dcf",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A very fast and expressive template engine.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1279,7 +899,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "jinja2",
             "primaryPackagePurpose": "LIBRARY",
@@ -1289,14 +909,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e14ce469aa4cfd85",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Lightweight pipelining with Python functions",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1318,14 +930,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e75e2eec7ca3358d",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "An implementation of JSON Schema validation for Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1347,14 +951,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-89a1dec14b10d39a",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "The JSON Schema meta-schemas and vocabularies, exposed as a Registry",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1376,14 +972,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-39e015e9e56533e4",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A fast implementation of the Cassowary constraint solver",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1394,7 +982,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND MIT AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause",
             "name": "kiwisolver",
             "primaryPackagePurpose": "LIBRARY",
@@ -1404,14 +992,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a1f4ea3e4663ba24",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A Chinese Calendar Library in Pure Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1423,8 +1003,8 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/lidaobing/python-lunardate",
-            "licenseConcluded": "GPL-1.0-or-later AND LicenseRef-GPL-3.0-only AND GPL-2.0-only AND GPL-3.0-only AND LicenseRef-GPL-3.0-only",
-            "licenseDeclared": "GPL-1.0-or-later AND GPL-3.0-only AND LicenseRef-GPL-3.0-only AND GPL-3.0-or-later",
+            "licenseConcluded": "GPL-1.0-or-later AND GPL-3.0-only AND GPL-2.0-only AND GPL-3.0 AND GPL-3.0-only",
+            "licenseDeclared": "GPL-1.0-or-later AND GPL-3.0 AND GPL-3.0-only AND GPL-3.0-or-later",
             "name": "lunardate",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
@@ -1433,14 +1013,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-40712ea47ac223e7",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A super-fast templating language that borrows the best ideas from the existing templating languages.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1452,7 +1024,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://www.makotemplates.org/",
-            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND LicenseRef-NOASSERTION AND MIT AND Python-2.0",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0",
             "licenseDeclared": "MIT",
             "name": "mako",
             "primaryPackagePurpose": "LIBRARY",
@@ -1462,14 +1034,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1013fcf1427d3656",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Safely add untrusted strings to HTML/XML markup.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1490,14 +1054,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4226bed2ef8f56d3",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A lightweight library for converting complex datatypes to and from native Python datatypes.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1518,14 +1074,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-de96f6ed1b58ed62",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "An unofficial extension to Marshmallow to allow for polymorphic fields",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1547,14 +1095,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-bc9893341026b2d2",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "SQLAlchemy integration with the marshmallow (de)serialization library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1575,14 +1115,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2ce1bf928b9d4548",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python plotting package",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1594,7 +1126,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://matplotlib.org",
-            "licenseConcluded": "AGPL-3.0-or-later AND APAFML AND Apache-2.0 AND Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-NOASSERTION AND Python-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Bitstream-Charter AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND CC-BY-3.0 AND CC-PDDC AND CC0-1.0 AND MIT AND MPL-1.1 AND LicenseRef-NOASSERTION AND OFL-1.1 AND Python-2.0 AND Qhull AND TCL AND xlock",
+            "licenseConcluded": "AGPL-3.0-or-later AND APAFML AND Apache-2.0 AND Apache-2.0 AND MIT AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND LGPL-2.0-or-later AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND NOASSERTION AND Bitstream-Charter AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND CC-BY-3.0 AND CC-PDDC AND CC0-1.0 AND MIT AND MPL-1.1 AND NOASSERTION AND OFL-1.1 AND Python-2.0 AND Qhull AND TCL AND xlock",
             "licenseDeclared": "PSF-2.0",
             "name": "matplotlib",
             "primaryPackagePurpose": "LIBRARY",
@@ -1604,14 +1136,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e5ac77762c05bad3",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Fundamental package for array computing in Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1622,7 +1146,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND LicenseRef-NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND BSD-3-Clause AND NCSA AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND LicenseRef-NOASSERTION AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-NOASSERTION AND GPL-3.0-only AND LicenseRef-NOASSERTION AND MIT AND MIT AND LicenseRef-NOASSERTION AND Zlib AND MIT AND Zlib AND LicenseRef-NOASSERTION AND SunPro AND Zlib",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
             "licenseDeclared": "BSD-2-Clause",
             "name": "numpy",
             "primaryPackagePurpose": "LIBRARY",
@@ -1632,14 +1156,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7bb5870ffb850039",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Uncertainty treatment library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1651,8 +1167,6 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.openturns.org",
-            "licenseConcluded": "LicenseRef-Other",
-            "licenseDeclared": "LicenseRef-Other",
             "name": "openturns",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
@@ -1660,14 +1174,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2a41fda579de0c77",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Core utilities for Python packages",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1688,14 +1194,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-c521e4f3e7d4a90c",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Powerful data structures for data analysis, time series, and statistics",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1707,7 +1205,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://pandas.pydata.org",
-            "licenseConcluded": "(0BSD AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND (LicenseRef-NOASSERTION OR LicenseRef-NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND BSD-3-Clause AND TCL AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND Python-2.0)",
+            "licenseConcluded": "(0BSD AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND TCL AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND NOASSERTION AND Python-2.0)",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "pandas",
             "primaryPackagePurpose": "LIBRARY",
@@ -1717,14 +1215,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-597acd6dd31389fa",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "comprehensive password hashing framework supporting over 30 schemes",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1736,7 +1226,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://passlib.readthedocs.io",
-            "licenseConcluded": "BSD-3-Clause AND Beerware AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND ISC AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND Beerware AND NOASSERTION AND NOASSERTION AND ISC AND NOASSERTION",
             "licenseDeclared": "BSD-3-Clause",
             "name": "passlib",
             "primaryPackagePurpose": "LIBRARY",
@@ -1745,14 +1235,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4c163690195c3026",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A Python package for describing statistical models and for building design matrices.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1764,7 +1246,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pydata/patsy",
-            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-2-Clause AND LicenseRef-NOASSERTION AND BSD-2-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND MIT AND Python-2.0",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND NOASSERTION AND BSD-2-Clause AND NOASSERTION AND Python-2.0 AND MIT AND Python-2.0",
             "licenseDeclared": "BSD-2-Clause",
             "name": "patsy",
             "primaryPackagePurpose": "LIBRARY",
@@ -1774,14 +1256,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-ac904904b7e2f5da",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python Imaging Library (Fork)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1793,7 +1267,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://python-pillow.github.io",
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND GPL-3.0-only AND LGPL-2.1-only AND MIT AND LicenseRef-NOASSERTION AND OFL-1.1 AND Bitstream-Vera AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0-only AND LGPL-2.0-or-later AND Zlib AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-3.0-only AND HPND AND HPND AND LicenseRef-NOASSERTION AND MIT AND MIT-Modern-Variant AND LicenseRef-NOASSERTION AND OFL-1.1 AND TCL",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND GPL-3.0-only AND LGPL-2.1-only AND MIT AND NOASSERTION AND OFL-1.1 AND Bitstream-Vera AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0-only AND LGPL-2.0-or-later AND Zlib AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-3.0-only AND HPND AND HPND AND NOASSERTION AND MIT AND MIT-Modern-Variant AND NOASSERTION AND OFL-1.1 AND TCL",
             "licenseDeclared": "MIT-CMU",
             "name": "pillow",
             "primaryPackagePurpose": "LIBRARY",
@@ -1803,14 +1277,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-fd287ed9495737c",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Physical quantities module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1832,14 +1298,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a98652f2e7d8a282",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python Lex & Yacc",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1860,14 +1318,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e71911844391a244",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Proper scoring rules in Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1889,14 +1339,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7fcf1d0a090f4dde",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python to JavaScript compiler.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1917,15 +1359,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1cb33f0d5d64d1a7",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
-            "description": "Cross-platform lib for process and system monitoring in Python.",
+            "description": "Cross-platform lib for process and system monitoring in Python.  NOTE: the syntax of this script MUST be kept compatible with Python 2.7.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1946,14 +1380,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-76cb23ac7093211a",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "psycopg2 - Python-PostgreSQL Database Adapter",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -1965,7 +1391,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://psycopg.org/",
-            "licenseConcluded": "LGPL-2.0-or-later AND LicenseRef-LGPL-3.0-or-later AND LicenseRef-NOASSERTION AND LGPL-2.0-or-later AND LicenseRef-NOASSERTION AND LicenseRef-LGPL-3.0 AND LicenseRef-LGPL-3.0-only AND LicenseRef-LGPL-3.0-or-later AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND PSF-2.0 AND LicenseRef-NOASSERTION AND Zlib",
+            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-3.0-or-later AND NOASSERTION AND LGPL-2.0-or-later AND NOASSERTION AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND NOASSERTION AND NOASSERTION AND PSF-2.0 AND NOASSERTION AND Zlib",
             "licenseDeclared": "LGPL-3.0-or-later WITH openvpn-openssl-exception",
             "name": "psycopg2-binary",
             "primaryPackagePurpose": "LIBRARY",
@@ -1975,14 +1401,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-c55930913578058f",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Provides Currency and Money classes for use in your Python code.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2003,14 +1421,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a3a3656f2e978c73",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Data validation using Python type hints",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2032,14 +1442,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-557dfefc21cd386d",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A Python package for dealing with Hebrew (Jewish) calendar dates.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2050,7 +1452,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "pyluach",
             "primaryPackagePurpose": "LIBRARY",
@@ -2060,14 +1462,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7c46541efb63b5cd",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python implementation of Jean Meeus astronomical routines",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2079,7 +1473,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/architest/pymeeus",
-            "licenseConcluded": "BSD-3-Clause AND GPL-3.0-only AND LicenseRef-GPL-3.0-only AND LGPL-2.1-or-later AND LLicenseRef-GPL-3.0-only AND LLicenseRef-GPL-3.0 AND LLicenseRef-GPL-3.0-only AND LLicenseRef-GPL-3.0-only AND LLicenseRef-GPL-3.0-only AND LLicenseRef-GPL-3.0-or-later AND LLicenseRef-GPL-3.0-only AND LicenseRef-NOASSERTION AND LLicenseRef-GPL-3.0-or-later AND MIT AND OFL-1.1 AND OFL-1.1 AND MIT",
+            "licenseConcluded": "BSD-3-Clause AND GPL-3.0 AND GPL-3.0-only AND LGPL-2.1-or-later AND LGPL-3.0-only AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-3.0-or-later AND LGPL-3.0-only AND NOASSERTION AND LGPL-3.0-or-later AND MIT AND OFL-1.1 AND OFL-1.1 AND MIT",
             "licenseDeclared": "LGPL-3.0-or-later",
             "name": "pymeeus",
             "primaryPackagePurpose": "LIBRARY",
@@ -2088,14 +1482,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-9773dea163d30a4e",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Pyomo: Python Optimization Modeling Objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2116,14 +1502,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3fe3945e674c4fed",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "pyparsing module - Classes and methods to define and execute parsing grammars",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2135,7 +1513,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pyparsing/pyparsing/",
-            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND GPL-3.0-only AND MIT AND MIT AND MIT AND LicenseRef-NOASSERTION AND MIT AND Python-2.0 AND MIT-CMU AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND GPL-3.0-only AND MIT AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND MIT-CMU AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "pyparsing",
             "primaryPackagePurpose": "LIBRARY",
@@ -2145,14 +1523,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-78ef154f0973e23d",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Extensions to the standard Python datetime module",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2174,14 +1544,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3a6fcc4a31bb89e7",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Read key-value pairs from a .env file and set them as environment variables",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2203,14 +1565,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-7b28469dfa0d51a6",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "World timezone definitions, modern and historical",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2222,7 +1576,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://pythonhosted.org/pytz",
-            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "pytz",
             "primaryPackagePurpose": "LIBRARY",
@@ -2232,14 +1586,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e959f465c0595df2",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "YAML parser and emitter for Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2261,14 +1607,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-66787839607ba49b",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python client for Redis database and key-value store",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2290,14 +1628,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-dbe3a853181cc89d",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A factory for redis connection that supports using Redis Sentinel",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2319,14 +1649,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-eb5745afa88e25a",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "JSON Referencing + Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2348,14 +1670,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6a702494b7a3fb6c",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python HTTP for Humans.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2367,7 +1681,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://requests.readthedocs.io",
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND NOASSERTION AND NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "requests",
             "primaryPackagePurpose": "LIBRARY",
@@ -2377,14 +1691,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-994c45ea85e45b24",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "File transport adapter for Requests",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2406,14 +1712,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-432e24624603dc9a",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python bindings to Rust's persistent data structures (rpds)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2435,14 +1733,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6b189378fc55dd81",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "RQ is a simple, lightweight, library for creating background jobs, and processing them.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2453,7 +1743,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "rq",
             "primaryPackagePurpose": "LIBRARY",
@@ -2463,14 +1753,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-47ede5f074b1867f",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "rq-dashboard is a general purpose, lightweight, web interface to monitor your RQ queues, jobs, and workers in realtime.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2492,14 +1774,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-e08a752a2010be8d",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Base classes for sklearn-like parametric objects",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2520,14 +1794,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-61364510c17e4f81",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A set of python modules for machine learning and data mining",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2538,7 +1804,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION AND Python-2.0",
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "scikit-learn",
             "primaryPackagePurpose": "LIBRARY",
@@ -2548,14 +1814,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-d1075160c89caebe",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Fundamental algorithms for scientific computing in Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2566,7 +1824,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND LicenseRef-NOASSERTION AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSL-1.0 AND LicenseRef-NOASSERTION AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Qhull AND Zlib",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND NOASSERTION AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND BSL-1.0 AND NOASSERTION AND EPL-1.0 AND MIT AND NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Qhull AND Zlib",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "scipy",
             "primaryPackagePurpose": "LIBRARY",
@@ -2576,14 +1834,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-10451ac5987a9f60",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python client for Sentry (https://sentry.io)",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2595,7 +1845,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/getsentry/sentry-python",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND MIT AND MIT AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Python-2.0",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Python-2.0",
             "licenseDeclared": "BSD-2-Clause AND MIT",
             "name": "sentry-sdk",
             "primaryPackagePurpose": "LIBRARY",
@@ -2605,14 +1855,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-f1af510d23614118",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Python 2 and 3 compatibility utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2634,14 +1876,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-42e60673121a6a7f",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "A unified framework for machine learning with time series",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2663,14 +1897,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-91083adb8dd42b08",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Database Abstraction Library",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2692,14 +1918,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-115082ba824716bf",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Statistical computations and models for Python",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2711,7 +1929,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://www.statsmodels.org/",
-            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND MIT AND MIT) OR (GPL-1.0-or-later AND LicenseRef-NOASSERTION)",
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND MIT AND MIT) OR (GPL-1.0-or-later AND NOASSERTION)",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "statsmodels",
             "primaryPackagePurpose": "LIBRARY",
@@ -2721,14 +1939,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4bf9fea77df74978",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Pretty-print tabular data",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2750,14 +1960,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-2ef8dc64d6b0e36c",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "threadpoolctl",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2779,14 +1981,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-f5cf51a49ebd3c80",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Data modelled as beliefs (at a certain time) about events (at a certain time).",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2807,14 +2001,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-bd4f4677b1c389e5",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Sane handling of time series data for forecast modelling - with production usage in mind.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2836,14 +2022,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-ef95bd0ba741e485",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Accurately separates a URL's subdomain, domain, and public suffix, using the Public Suffix List (PSL). By default, this includes the public ICANN TLDs and their exceptions. You can optionally support the Public Suffix List's private domains as well.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2865,14 +2043,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-fc8d63e02c7f64a5",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "List processing tools and functional utilities",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2884,7 +2054,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pytoolz/toolz/",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND CC0-1.0 AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND CC0-1.0 AND NOASSERTION AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "toolz",
             "primaryPackagePurpose": "LIBRARY",
@@ -2894,14 +2064,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-70ffa949307a1789",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Typing stubs for python-dateutil",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2923,14 +2085,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4d71f7fa9909b73c",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Backported and Experimental Type Hints for Python 3.8+",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2952,14 +2106,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-1af2597751bc35a8",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Provider of IANA time zone data",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -2971,7 +2117,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/python/tzdata",
-            "licenseConcluded": "Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "tzdata",
             "primaryPackagePurpose": "LIBRARY",
@@ -2981,14 +2127,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-a097dac4616ba60e",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Lightweight plotting to the terminal. 4x resolution via Unicode.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3010,14 +2148,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-b1b8362d8fc96f52",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "HTTP library with thread-safe connection pooling, file post, and more.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3038,14 +2168,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4f1769d0abb01282",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Convert Vega-Lite chart specifications to SVG, PNG, or Vega",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3067,14 +2189,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-dd6ed171e6b7903b",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Declarative parsing and validation of HTTP request objects, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, Falcon, and aiohttp.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3095,14 +2209,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-4846701a47765619",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "The comprehensive WSGI web application library.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3123,14 +2229,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-9cf26685c88b73cf",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Worldwide holidays and working days helper and toolkit.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3152,14 +2250,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-c4b4587ff5d922b4",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Form validation and rendering for Python web development.",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3170,7 +2260,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "wtforms",
             "primaryPackagePurpose": "LIBRARY",
@@ -3180,14 +2270,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-3f04624aedf92a5b",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3199,7 +2281,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.python-excel.org/",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause",
             "name": "xlrd",
             "primaryPackagePurpose": "LIBRARY",
@@ -3208,14 +2290,6 @@
         },
         {
             "SPDXID": "SPDXRef-Package-6751110d1f9e23a7",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "PkgType: pip"
-                }
-            ],
             "description": "Backport of pathlib-compatible object wrapper for zip files",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
@@ -3235,15 +2309,7 @@
             "versionInfo": "3.18.1"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-46c8863474afbb80",
-            "annotations": [
-                {
-                    "annotationDate": "2025-02-06T21:17:37Z",
-                    "annotationType": "OTHER",
-                    "annotator": "Tool: Trivy",
-                    "comment": "SchemaVersion: 2"
-                }
-            ],
+            "SPDXID": "SPDXRef-Filesystem-4270925c473ac568",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
@@ -3897,26 +2963,26 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-46c8863474afbb80",
+            "relatedSpdxElement": "SPDXRef-Filesystem-4270925c473ac568",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-46c8863474afbb80",
+            "spdxElementId": "SPDXRef-Filesystem-4270925c473ac568",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-46c8863474afbb80",
+            "spdxElementId": "SPDXRef-Filesystem-4270925c473ac568",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-client",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-46c8863474afbb80",
+            "spdxElementId": "SPDXRef-Filesystem-4270925c473ac568",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-ha-integration",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-46c8863474afbb80",
+            "spdxElementId": "SPDXRef-Filesystem-4270925c473ac568",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-plugin-template",
             "relationshipType": "CONTAINS"
         }
