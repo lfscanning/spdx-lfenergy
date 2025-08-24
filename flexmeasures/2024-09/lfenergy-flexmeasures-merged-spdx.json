@@ -1,7 +1,7 @@
 {
     "SPDXID": "SPDXRef-DOCUMENT",
     "creationInfo": {
-        "created": "2025-06-25T14:57:36Z",
+        "created": "2025-08-24T17:44:25Z",
         "creators": [
             "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
             "Tool: trivy-dev",
@@ -16,46 +16,6 @@
     },
     "dataLicense": "CC0-1.0",
     "hasExtractedLicensingInfos": [
-        {
-            "comment": "This license text represents a NOASSERTION on a license component found within the scope of this license expression.",
-            "extractedText": "This component contains no assertion license",
-            "licenseId": "LicenseRef-NOASSERTION"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-other-permissive",
-            "licenseId": "LicenseRef-scancode-other-permissive"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-proprietary-license",
-            "licenseId": "LicenseRef-scancode-proprietary-license"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-unicode",
-            "licenseId": "LicenseRef-scancode-unicode"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-unknown-license-reference",
-            "licenseId": "LicenseRef-scancode-unknown-license-reference"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-warranty-disclaimer",
-            "licenseId": "LicenseRef-scancode-warranty-disclaimer"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-public-domain",
-            "licenseId": "LicenseRef-scancode-public-domain"
-        },
-        {
-            "comment": "This license text represents a LicenseRef generated from one of the scanning tools - the text can be found in the referenced tool",
-            "extractedText": "LicenseRef-scancode-free-unknown",
-            "licenseId": "LicenseRef-scancode-free-unknown"
-        },
         {
             "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
             "licenseId": "LicenseRef-fossology-GPL",
@@ -82,9 +42,9 @@
             "name": "See-doc.OTHER"
         }
     ],
-    "name": "/tmp/tmp0n1hy6gk/code",
+    "name": "/tmp/tmp9x3ql7k3/code",
     "spdxVersion": "SPDX-2.3",
-    "documentNamespace": "https://github.com/lfscanning/spdx-lfenergy/flexmeasures/2024-09/lfenergy-flexmeasures-full/db49c660-b56d-44a4-b7dc-6a2fe6794d56",
+    "documentNamespace": "https://github.com/lfscanning/spdx-lfenergy/flexmeasures/2024-09/lfenergy-flexmeasures-full/30f42a4c-f37d-41df-a194-fca13fc79d5e",
     "packages": [
         {
             "SPDXID": "SPDXRef-Application-43eaa81d9e7cd923",
@@ -155,7 +115,6 @@
             "name": "arrow",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
-            "supplier": "Organization: Arrow",
             "versionInfo": "1.3.0"
         },
         {
@@ -191,7 +150,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://babel.pocoo.org/",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND CC0-1.0 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND CC0-1.0 AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "babel",
             "primaryPackagePurpose": "LIBRARY",
@@ -272,7 +231,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "CC-BY-SA-3.0 AND LGPL-2.1-only AND LGPL-2.1-only AND MIT AND MIT AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "CC-BY-SA-3.0 AND LGPL-2.1-only AND LGPL-2.1-only AND MIT AND MIT AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "charset-normalizer",
             "primaryPackagePurpose": "LIBRARY",
@@ -312,7 +271,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-3-Clause",
             "name": "click-default-group",
             "primaryPackagePurpose": "LIBRARY",
@@ -333,7 +292,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://github.com/vaab/colour",
-            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "colour",
             "primaryPackagePurpose": "LIBRARY",
@@ -416,7 +375,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/uqfoundation/dill",
-            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "dill",
             "primaryPackagePurpose": "LIBRARY",
@@ -436,7 +395,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "ISC AND ISC AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "ISC AND ISC AND NOASSERTION",
             "licenseDeclared": "ISC",
             "name": "dnspython",
             "primaryPackagePurpose": "LIBRARY",
@@ -457,7 +416,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/JoshData/python-email-validator",
-            "licenseConcluded": "CC0-1.0 AND LicenseRef-NOASSERTION AND Unlicense AND LicenseRef-NOASSERTION AND Unlicense",
+            "licenseConcluded": "CC0-1.0 AND NOASSERTION AND Unlicense AND NOASSERTION AND Unlicense",
             "licenseDeclared": "Unlicense",
             "name": "email-validator",
             "primaryPackagePurpose": "LIBRARY",
@@ -478,7 +437,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/tox-dev/py-filelock",
-            "licenseConcluded": "LicenseRef-NOASSERTION AND Unlicense",
+            "licenseConcluded": "NOASSERTION AND Unlicense",
             "licenseDeclared": "Unlicense",
             "name": "filelock",
             "primaryPackagePurpose": "LIBRARY",
@@ -581,7 +540,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/maxcountryman/flask-login",
-            "licenseConcluded": "BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "flask-login",
             "primaryPackagePurpose": "LIBRARY",
@@ -601,7 +560,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "flask-mail",
             "primaryPackagePurpose": "LIBRARY",
@@ -621,7 +580,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "flask-marshmallow",
             "primaryPackagePurpose": "LIBRARY",
@@ -684,7 +643,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pallets-eco/flask-security",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "flask-security-too",
             "primaryPackagePurpose": "LIBRARY",
@@ -787,7 +746,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://greenlet.readthedocs.io/",
-            "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION AND MIT AND Python-2.0 AND PSF-2.0",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND PSF-2.0",
             "licenseDeclared": "MIT AND PSF-2.0",
             "name": "greenlet",
             "primaryPackagePurpose": "LIBRARY",
@@ -808,7 +767,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/python-humanize/humanize",
-            "licenseConcluded": "MIT AND MIT AND Python-2.0 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0 AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "humanize",
             "primaryPackagePurpose": "LIBRARY",
@@ -828,7 +787,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "idna",
             "primaryPackagePurpose": "LIBRARY",
@@ -970,7 +929,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "jinja2",
             "primaryPackagePurpose": "LIBRARY",
@@ -1053,7 +1012,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND MIT AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause",
             "name": "kiwisolver",
             "primaryPackagePurpose": "LIBRARY",
@@ -1095,7 +1054,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://www.makotemplates.org/",
-            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND LicenseRef-NOASSERTION AND MIT AND Python-2.0",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0",
             "licenseDeclared": "MIT",
             "name": "mako",
             "primaryPackagePurpose": "LIBRARY",
@@ -1197,7 +1156,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://matplotlib.org",
-            "licenseConcluded": "AGPL-3.0-or-later AND APAFML AND Apache-2.0 AND Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-NOASSERTION AND Python-2.0 AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Bitstream-Charter AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND CC-BY-3.0 AND CC-PDDC AND CC0-1.0 AND MIT AND MPL-1.1 AND LicenseRef-NOASSERTION AND OFL-1.1 AND Python-2.0 AND Qhull AND TCL AND xlock",
+            "licenseConcluded": "AGPL-3.0-or-later AND APAFML AND Apache-2.0 AND Apache-2.0 AND MIT AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND LGPL-2.0-or-later AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND NOASSERTION AND Bitstream-Charter AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND CC-BY-3.0 AND CC-PDDC AND CC0-1.0 AND MIT AND MPL-1.1 AND NOASSERTION AND OFL-1.1 AND Python-2.0 AND Qhull AND TCL AND xlock",
             "licenseDeclared": "PSF-2.0",
             "name": "matplotlib",
             "primaryPackagePurpose": "LIBRARY",
@@ -1217,7 +1176,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND LicenseRef-NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND BSD-3-Clause AND NCSA AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND LicenseRef-NOASSERTION AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-NOASSERTION AND GPL-3.0-only AND LicenseRef-NOASSERTION AND MIT AND MIT AND LicenseRef-NOASSERTION AND Zlib AND MIT AND Zlib AND LicenseRef-NOASSERTION AND SunPro AND Zlib",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
             "licenseDeclared": "BSD-2-Clause",
             "name": "numpy",
             "primaryPackagePurpose": "LIBRARY",
@@ -1277,7 +1236,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "(0BSD AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND (LicenseRef-NOASSERTION OR LicenseRef-NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND BSD-3-Clause AND TCL AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND Python-2.0)",
+            "licenseConcluded": "(0BSD AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND TCL AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND NOASSERTION AND Python-2.0)",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "pandas",
             "primaryPackagePurpose": "LIBRARY",
@@ -1318,7 +1277,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pydata/patsy",
-            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-2-Clause AND LicenseRef-NOASSERTION AND BSD-2-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND MIT AND Python-2.0",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND NOASSERTION AND BSD-2-Clause AND NOASSERTION AND Python-2.0 AND MIT AND Python-2.0",
             "licenseDeclared": "BSD-2-Clause",
             "name": "patsy",
             "primaryPackagePurpose": "LIBRARY",
@@ -1339,7 +1298,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://python-pillow.github.io",
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND GPL-3.0-only AND LGPL-2.1-only AND MIT AND LicenseRef-NOASSERTION AND OFL-1.1 AND Bitstream-Vera AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0-only AND LGPL-2.0-or-later AND Zlib AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-3.0-only AND HPND AND HPND AND LicenseRef-NOASSERTION AND MIT AND MIT-Modern-Variant AND LicenseRef-NOASSERTION AND OFL-1.1 AND TCL",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND GPL-3.0-only AND LGPL-2.1-only AND MIT AND NOASSERTION AND OFL-1.1 AND Bitstream-Vera AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0-only AND LGPL-2.0-or-later AND Zlib AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-3.0-only AND HPND AND HPND AND NOASSERTION AND MIT AND MIT-Modern-Variant AND NOASSERTION AND OFL-1.1 AND TCL",
             "licenseDeclared": "MIT-CMU",
             "name": "pillow",
             "primaryPackagePurpose": "LIBRARY",
@@ -1464,7 +1423,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://psycopg.org/",
-            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-3.0-or-later AND LicenseRef-NOASSERTION AND LGPL-2.0-or-later AND LicenseRef-NOASSERTION AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND PSF-2.0 AND LicenseRef-NOASSERTION AND Zlib",
+            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-3.0-or-later AND NOASSERTION AND LGPL-2.0-or-later AND NOASSERTION AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND NOASSERTION AND NOASSERTION AND PSF-2.0 AND NOASSERTION AND Zlib",
             "licenseDeclared": "LGPL-3.0-or-later WITH openvpn-openssl-exception",
             "name": "psycopg2-binary",
             "primaryPackagePurpose": "LIBRARY",
@@ -1525,7 +1484,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "pyluach",
             "primaryPackagePurpose": "LIBRARY",
@@ -1546,7 +1505,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/architest/pymeeus",
-            "licenseConcluded": "BSD-3-Clause AND GPL-3.0 AND GPL-3.0-only AND LGPL-2.1-or-later AND LGPL-3.0-only AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-3.0-or-later AND LGPL-3.0-only AND LicenseRef-NOASSERTION AND LGPL-3.0-or-later AND MIT AND OFL-1.1 AND OFL-1.1 AND MIT",
+            "licenseConcluded": "BSD-3-Clause AND GPL-3.0 AND GPL-3.0-only AND LGPL-2.1-or-later AND LGPL-3.0-only AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-3.0-or-later AND LGPL-3.0-only AND NOASSERTION AND LGPL-3.0-or-later AND MIT AND OFL-1.1 AND OFL-1.1 AND MIT",
             "licenseDeclared": "LGPL-3.0-or-later",
             "name": "pymeeus",
             "primaryPackagePurpose": "LIBRARY",
@@ -1555,7 +1514,7 @@
         },
         {
             "SPDXID": "SPDXRef-Package-9773dea163d30a4e",
-            "description": "Pyomo: Python Optimization Modeling Objects",
+            "description": "The Pyomo optimization modeling framework",
             "downloadLocation": "NOASSERTION",
             "externalRefs": [
                 {
@@ -1565,7 +1524,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "homepage": "http://pyomo.org",
+            "homepage": "https://www.pyomo.org",
             "licenseConcluded": "NONE",
             "licenseDeclared": "BSD-2-Clause",
             "name": "pyomo",
@@ -1587,7 +1546,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pyparsing/pyparsing/",
-            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND GPL-3.0-only AND MIT AND MIT AND MIT AND LicenseRef-NOASSERTION AND MIT AND Python-2.0 AND MIT-CMU AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND GPL-3.0-only AND MIT AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND MIT-CMU AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "pyparsing",
             "primaryPackagePurpose": "LIBRARY",
@@ -1650,7 +1609,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://pythonhosted.org/pytz",
-            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND NOASSERTION",
             "licenseDeclared": "MIT",
             "name": "pytz",
             "primaryPackagePurpose": "LIBRARY",
@@ -1755,7 +1714,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://requests.readthedocs.io",
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND NOASSERTION AND NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "requests",
             "primaryPackagePurpose": "LIBRARY",
@@ -1817,7 +1776,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "rq",
             "primaryPackagePurpose": "LIBRARY",
@@ -1878,7 +1837,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION AND Python-2.0",
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "scikit-learn",
             "primaryPackagePurpose": "LIBRARY",
@@ -1898,7 +1857,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND LicenseRef-NOASSERTION AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSL-1.0 AND LicenseRef-NOASSERTION AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Qhull AND Zlib",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND NOASSERTION AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND BSL-1.0 AND NOASSERTION AND EPL-1.0 AND MIT AND NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Qhull AND Zlib",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "scipy",
             "primaryPackagePurpose": "LIBRARY",
@@ -1919,7 +1878,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/getsentry/sentry-python",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND MIT AND MIT AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Python-2.0",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Python-2.0",
             "licenseDeclared": "BSD-2-Clause AND MIT",
             "name": "sentry-sdk",
             "primaryPackagePurpose": "LIBRARY",
@@ -2003,7 +1962,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://www.statsmodels.org/",
-            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND MIT AND MIT) OR (GPL-1.0-or-later AND LicenseRef-NOASSERTION)",
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND MIT AND MIT) OR (GPL-1.0-or-later AND NOASSERTION)",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "statsmodels",
             "primaryPackagePurpose": "LIBRARY",
@@ -2128,7 +2087,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/pytoolz/toolz/",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND CC0-1.0 AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND CC0-1.0 AND NOASSERTION AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "toolz",
             "primaryPackagePurpose": "LIBRARY",
@@ -2171,7 +2130,7 @@
             "filesAnalyzed": false,
             "homepage": "https://github.com/python/typing_extensions",
             "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
-            "licenseDeclared": "Python-2.0 AND Python-2.0 AND BSD-3-Clause AND Python-2.0 AND BSD-3-Clause AND 0BSD",
+            "licenseDeclared": "Python-2.0.1",
             "name": "typing-extensions",
             "primaryPackagePurpose": "LIBRARY",
             "sourceInfo": "package found in: flexmeasures/requirements.txt",
@@ -2191,7 +2150,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "https://github.com/python/tzdata",
-            "licenseConcluded": "Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
             "licenseDeclared": "Apache-2.0",
             "name": "tzdata",
             "primaryPackagePurpose": "LIBRARY",
@@ -2334,7 +2293,7 @@
                 }
             ],
             "filesAnalyzed": false,
-            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
             "name": "wtforms",
             "primaryPackagePurpose": "LIBRARY",
@@ -2355,7 +2314,7 @@
             ],
             "filesAnalyzed": false,
             "homepage": "http://www.python-excel.org/",
-            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION",
             "licenseDeclared": "BSD-2-Clause",
             "name": "xlrd",
             "primaryPackagePurpose": "LIBRARY",
@@ -2383,7 +2342,7 @@
             "versionInfo": "3.18.1"
         },
         {
-            "SPDXID": "SPDXRef-Filesystem-76bb64051a23551b",
+            "SPDXID": "SPDXRef-Filesystem-639f8cb102a6071f",
             "downloadLocation": "NOASSERTION",
             "filesAnalyzed": false,
             "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
@@ -17532,26 +17491,26 @@
         },
         {
             "spdxElementId": "SPDXRef-DOCUMENT",
-            "relatedSpdxElement": "SPDXRef-Filesystem-76bb64051a23551b",
+            "relatedSpdxElement": "SPDXRef-Filesystem-639f8cb102a6071f",
             "relationshipType": "DESCRIBES"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-76bb64051a23551b",
+            "spdxElementId": "SPDXRef-Filesystem-639f8cb102a6071f",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-76bb64051a23551b",
+            "spdxElementId": "SPDXRef-Filesystem-639f8cb102a6071f",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-client",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-76bb64051a23551b",
+            "spdxElementId": "SPDXRef-Filesystem-639f8cb102a6071f",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-ha-integration",
             "relationshipType": "CONTAINS"
         },
         {
-            "spdxElementId": "SPDXRef-Filesystem-76bb64051a23551b",
+            "spdxElementId": "SPDXRef-Filesystem-639f8cb102a6071f",
             "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-plugin-template",
             "relationshipType": "CONTAINS"
         },
