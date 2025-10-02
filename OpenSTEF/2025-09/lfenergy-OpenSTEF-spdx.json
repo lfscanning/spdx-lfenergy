@@ -1,0 +1,1991 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T17:39:42Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "(Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND 0BSD AND 0BSD OR (0BSD AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND 0BSD AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-only WITH eCos-exception-2.0 AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x3407a55d0896dd6b"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference) AND (Python-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND MIT AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-other-permissive) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND TCL AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (LicenseRef-scancode-other-permissive AND BSD-2-Clause) AND (BSD-3-Clause AND (LicenseRef-scancode-public-domain OR LicenseRef-scancode-other-permissive) AND MIT) AND LicenseRef-scancode-musl-exception AND MPL-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseId": "LicenseRef-fixed-0x26727f8cde0a16e8"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0) AND (BSD-3-Clause AND GPL-1.0-or-later) AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer) AND BSD-3-Clause AND (BSD-3-Clause-Attribution AND BSD-3-Clause) AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND (BSD-3-Clause-Attribution AND BSD-3-Clause) AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND (BSL-1.0 AND LicenseRef-scancode-unknown-license-reference) AND BSL-1.0 AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND (MIT AND BSL-1.0 AND BSD-3-Clause) AND (Qhull AND BSD-3-Clause) AND (BSD-3-Clause AND MIT) AND (LicenseRef-scancode-dhb-lbnl-bsd-2007 AND BSD-3-Clause) AND MIT AND BSL-1.0 AND (Apache-2.0 AND Apache-2.0 WITH LLVM-exception) AND BSD-2-Clause AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND MIT AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause AND GPL-1.0-or-later) AND (CC-BY-SA-3.0 AND BSD-3-Clause) AND GPL-1.0-or-later AND BSD-3-Clause AND Apache-2.0 AND bzip2-1.0.6 AND BSD-2-Clause AND MIT AND (GPL-2.0-or-later AND GPL-3.0-only) AND LGPL-2.1-only AND LGPL-2.1-or-later AND GPL-2.0-or-later AND Python-2.0 AND PSF-2.0 AND BSD-3-Clause AND BSD-3-Clause-LBNL AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-other-permissive AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND BSD-3-Clause AND Minpack AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND CC0-1.0 AND LicenseRef-scancode-public-domain AND GPL-1.0-or-later AND GPL-1.0-or-later AND BSL-1.0 AND LGPL-2.0-or-later AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-proprietary-license AND (LGPL-2.1-or-later AND LicenseRef-scancode-proprietary-license) AND BSL-1.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (EPL-1.0 AND LicenseRef-scancode-free-unknown) AND MIT AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Qhull AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x4850e53513773d63"
+        }
+    ],
+    "name": "/tmp/tmpsfyuavx2/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpsfyuavx2/code-259135c7-b718-4d4f-a921-983d2749f0ec",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-eaf1047d1749d2da",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-offline-example/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "dff747a2312584bfd1f949df1b9bb25a241635b4"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2f377085d9e74423",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-reference/mlflow/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2d35e253cd173e79",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/1/c965569dde5d4923b1b3e819a4bbadde/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e77498d0c9da624b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/2/bf4efe2b515141a6bf7b3be59aaa8e4c/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-840d5c3442c1b4ef",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/3/67fa42898635471e8c789c78180ab7a8/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-409bc8f8ef7fd8e7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/4/b11bb3f34ddc48f78c68e79c943f46ed/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-32c7820b8168ee41",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-reference/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-fdb7a7025a4775b3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-workshop/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d8a4293302b1652e283d2c57b7caa3b86a9dbb73"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d1e0029c25331ad",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d8a4293302b1652e283d2c57b7caa3b86a9dbb73"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d8a4293302b1652e283d2c57b7caa3b86a9dbb73"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5700634d1eb87bc4",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "027d9a4a125673d25c64b22e2225fe45b8b143e2"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-993ee6e926cce28f",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "027d9a4a125673d25c64b22e2225fe45b8b143e2"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9b77aaf9334142b8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "027d9a4a125673d25c64b22e2225fe45b8b143e2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9388f777a37c5a41",
+            "description": "Pure Python MySQL Driver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymysql@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "PyMySQL",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/mlflow/requirements.txt",
+            "supplier": "Organization: PyMySQL",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ca6a584f5ebb5dc",
+            "description": "Database Abstraction Library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sqlalchemy@1.4.52",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sqlalchemy.org",
+            "licenseConcluded": "BSD-3-Clause AND LGPL-2.0-only AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "SQLAlchemy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/requirements.txt",
+            "supplier": "Organization: SQLAlchemy",
+            "versionInfo": "1.4.52"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-414a38ff822b733",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-63463032645030db",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/4/b11bb3f34ddc48f78c68e79c943f46ed/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8efc56fb5ad5520d",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@2.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/3/67fa42898635471e8c789c78180ab7a8/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "2.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9cc12537908116f3",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@2.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/2/bf4efe2b515141a6bf7b3be59aaa8e4c/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "2.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a119794cfd48f981",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@3.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "3.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b6fc63f8973dd737",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-db4270c0ae60fbc",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/1/c965569dde5d4923b1b3e819a4bbadde/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-db8df8db45fd45a0",
+            "description": "Pickler class to extend the standard pickle.Pickler functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cloudpickle@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cloudpipe/cloudpickle",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cloudpickle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: cloudpipe",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2c3d12f0778d095b",
+            "description": "Open World Holidays Framework",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/holidays@0.21",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "holidays",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/requirements.txt",
+            "supplier": "Organization: vacanza",
+            "versionInfo": "0.21"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bc2ab08e1403d977",
+            "description": "Lightweight pipelining with Python functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/joblib@1.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://joblib.readthedocs.io",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND Python-2.0 AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "joblib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/requirements.txt",
+            "supplier": "Organization: joblib",
+            "versionInfo": "1.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5b0766dbe35fc584",
+            "description": "Jupyter metapackage. Install all the Jupyter components in one go.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jupyter@1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jupyter.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jupyter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/requirements.txt",
+            "versionInfo": "1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e425269a8177ae76",
+            "description": "Jupyter metapackage. Install all the Jupyter components in one go.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jupyter@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jupyter.org",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "jupyter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-offline-example/requirements.txt",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1e0496bee889474d",
+            "description": "MLflow is an open source platform for the complete machine learning lifecycle",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mlflow@2.21.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((AGPL-3.0-or-later OR LicenseRef-scancode-commercial-license) AND GPL-1.0-or-later AND TMate) AND (GPL-1.0-or-later AND Noweb) AND (LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-unknown-license-reference) AND (GPL-1.0-or-later AND MPL-1.1 AND AGPL-3.0-or-later) AND (LicenseRef-scancode-proprietary-license AND AGPL-3.0-or-later AND Python-2.0 AND Apache-2.0 AND LGPL-2.0-or-later AND AGPL-3.0-only) AND (GPL-1.0-or-later AND MPL-1.1) AND (LicenseRef-scancode-unknown-license-reference AND MIT) AND MIT AND Apache-2.0 AND Apache-2.0 AND CC0-1.0 AND MIT AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND CC0-1.0 AND JSON AND MIT AND MIT AND (BSD-3-Clause AND MIT) AND BSD-3-Clause AND Apache-2.0 AND MIT AND (MIT AND BSD-3-Clause) AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND MIT) AND MIT AND 0BSD AND BSD-2-Clause AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-facebook-patent-rights-2) AND LicenseRef-scancode-public-domain-disclaimer AND LicenseRef-scancode-json-pd AND Apache-2.0 AND MIT AND BSD-2-Clause AND ODbL-1.0 AND (CC-BY-3.0 AND ODbL-1.0) AND Apache-2.0 AND MIT AND BSD-3-Clause AND Apache-2.0 AND ODbL-1.0 AND (CC-BY-3.0 AND ODbL-1.0) AND ODbL-1.0 AND ODbL-1.0 AND CC-BY-3.0 AND CC-BY-SA-3.0 AND OFL-1.1 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "mlflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: MLflow",
+            "versionInfo": "2.21.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-53276d18e155c292",
+            "description": "MLflow is an open source platform for the complete machine learning lifecycle",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mlflow@2.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mlflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: MLflow",
+            "versionInfo": "2.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d892d84aa8ab0877",
+            "description": "MLflow is an open source platform for the complete machine learning lifecycle",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mlflow@2.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mlflow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: MLflow",
+            "versionInfo": "2.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a503f799d3836e6c",
+            "description": "MessagePack serializer",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/msgpack@1.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://msgpack.org/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "msgpack",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/requirements.txt",
+            "supplier": "Organization: MessagePack",
+            "versionInfo": "1.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4c534c1ca11f54ba",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x3407a55d0896dd6b",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4eb63a081f77603a",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.26.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND CC-BY-SA-4.0 AND CC0-1.0 AND NOASSERTION AND Apache-2.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND Apache-2.0 AND GPL-2.0-only AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND MIT AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND FSFAP AND FSFAP AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.26.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7381029603269930",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.23.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.23.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fce7f670f167eb84",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.26.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND CC-BY-SA-4.0 AND CC0-1.0 AND NOASSERTION AND Apache-2.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND Apache-2.0 AND GPL-2.0-only AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND MIT AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND FSFAP AND FSFAP AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.26.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ec2bff0c5566e7e",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.4.68",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "(MPL-2.0 AND LicenseRef-scancode-unknown-license-reference) AND MPL-2.0 AND (BSD-2-Clause AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference) AND LicenseRef-scancode-unknown-license-reference AND MPL-2.0 AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference AND MPL-2.0 AND MIT AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "LicenseRef-scancode-unknown-license-reference AND MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.4.68"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6c9d8b1ebb07d37a",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.2.69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND NOASSERTION AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/2/bf4efe2b515141a6bf7b3be59aaa8e4c/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.2.69"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8c205229a0d851da",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.2.69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND NOASSERTION AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/1/c965569dde5d4923b1b3e819a4bbadde/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.2.69"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-977748c942b847ac",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.2.69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND NOASSERTION AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/3/67fa42898635471e8c789c78180ab7a8/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.2.69"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b161735225d7e7d3",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.2.69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND NOASSERTION AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/4/b11bb3f34ddc48f78c68e79c943f46ed/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.2.69"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b679d004d3b3a74b",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.4.72",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference AND MPL-2.0 AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "LicenseRef-scancode-unknown-license-reference AND MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.4.72"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d14a864dc2c93965",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.4.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.4.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d5bbeb23359228ff",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.4.21",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.4.21"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f995510fb1564ebf",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.4.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.4.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fe7168749c0ccef3",
+            "description": "Open short term energy forecaster",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef@3.4.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenSTEF/openstef",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MIT AND MPL-2.0 AND MPL-2.0 AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-offline-example/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.4.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4ad69b372f16c10c",
+            "description": "Database Connection for OpenSTEF",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openstef-dbc@3.7.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/openstef/openstef-dbc",
+            "licenseConcluded": "Apache-2.0 AND MPL-2.0 AND NOASSERTION AND MPL-2.0 AND MPL-2.0 AND NOASSERTION AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "openstef_dbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/requirements.txt",
+            "supplier": "Organization: OpenSTEF",
+            "versionInfo": "3.7.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-12cdbee4e94835c1",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-2-Clause OR Apache-2.0) AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-944ea82e76261c32",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-2-Clause OR Apache-2.0) AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3428941f0cde5a92",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@1.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause) OR (Apache-2.0 AND CC0-1.0 AND NOASSERTION AND MIT AND MPL-1.1 AND NOASSERTION AND Python-2.0)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "1.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-38f1891f2c60ea78",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND MPL-1.1 AND NOASSERTION AND Python-2.0)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55604f870bb7791c",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND MIT AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND NOASSERTION AND Python-2.0)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b0a5af2fd29f1cc9",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x26727f8cde0a16e8",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-38f4f85ffad440db",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/protobuf@4.21.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://developers.google.com/protocol-buffers/",
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "protobuf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/mlflow/requirements.txt",
+            "versionInfo": "4.21.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b10d219c210072f",
+            "description": "Cross-platform lib for process and system monitoring.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psutil@5.9.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/giampaolo/psutil",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "psutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: Giampaolo Rodola",
+            "versionInfo": "5.9.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4edb2c01fddce95c",
+            "description": "Cross-platform lib for process and system monitoring.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psutil@5.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/giampaolo/psutil",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "psutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: Giampaolo Rodola",
+            "versionInfo": "5.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82caa480ca539b65",
+            "description": "Cross-platform lib for process and system monitoring.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psutil@5.9.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/giampaolo/psutil",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "psutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: Giampaolo Rodola",
+            "versionInfo": "5.9.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f578c917ddf608d0",
+            "description": "Cross-platform lib for process and system monitoring.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psutil@7.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/giampaolo/psutil",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "psutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: Giampaolo Rodola",
+            "versionInfo": "7.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3f5b40218748cf18",
+            "description": "psycopg2 - Python-PostgreSQL Database Adapter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psycopg2-binary@2.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://psycopg.org/",
+            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-3.0-or-later AND NOASSERTION AND LGPL-2.0-or-later AND NOASSERTION AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND NOASSERTION AND NOASSERTION AND PSF-2.0 AND NOASSERTION AND Zlib",
+            "licenseDeclared": "GPL-3.0-or-later AND NOASSERTION AND Zlib",
+            "name": "psycopg2-binary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/mlflow/requirements.txt",
+            "supplier": "Organization: The Psycopg Team",
+            "versionInfo": "2.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c43c4ab58bfc76c2",
+            "description": "A set of functions and classes for simulating the performance of photovoltaic energy systems.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pvlib@0.10.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pvlib/pvlib-python",
+            "licenseConcluded": "AGPL-3.0-or-later AND BSD-3-Clause AND NOASSERTION AND OGL-Canada-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pvlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/requirements.txt",
+            "supplier": "Organization: pvlib",
+            "versionInfo": "0.10.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-16733e9312492f25",
+            "description": "Settings management using Pydantic",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pydantic-settings@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pydantic/pydantic-settings",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pydantic-settings",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/requirements.txt",
+            "supplier": "Organization: Pydantic",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-189ff4706880a124",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-81d49bb1d7684259",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-43202eb81e810191",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-60688ce53c3ba172",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/1/c965569dde5d4923b1b3e819a4bbadde/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-86d3d9b5480de5c8",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/3/67fa42898635471e8c789c78180ab7a8/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-90a6cfb64f5cd8b1",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/4/b11bb3f34ddc48f78c68e79c943f46ed/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a0c909582c95fd2f",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ac1a6be63065c0ee",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b9ab473e791e434d",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd52234a348b3f7a",
+            "description": "A set of python modules for machine learning and data mining",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-learn@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "AGPL-3.0-or-later AND GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.0 AND LGPL-2.0-or-later AND MIT AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-learn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-reference/nginx/volumes/data/icarus/visuals/trained_models/mlruns/2/bf4efe2b515141a6bf7b3be59aaa8e4c/artifacts/model/requirements.txt",
+            "supplier": "Organization: scikit-learn",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1dc771078a81f444",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSL-1.0 AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND (NCSA OR MIT) AND BSL-1.0 AND (NOASSERTION OR NOASSERTION) AND BSL-1.0 AND MIT AND BSL-1.0 AND MIT AND NOASSERTION AND BSL-1.0 AND MPL-1.1 AND BSL-1.0 AND NOASSERTION AND BSL-1.0 AND Zlib AND EPL-1.0 AND MIT AND NOASSERTION AND GPL-1.0-or-later AND GPL-2.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND LPPL-1.3a AND MIT AND MIT AND NOASSERTION AND MPL-1.1 AND NOASSERTION AND Qhull AND Zlib AND dtoa",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9922d2ea6213eb6",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.15.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x4850e53513773d63",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.15.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e89a9f9468b63b02",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND (BSD-2-Clause OR MIT OR BSL-1.0) AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND BSL-1.0 AND NOASSERTION AND EPL-1.0 AND MIT AND NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Qhull AND Zlib AND dtoa",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/96b6f0bf4d68460dbe66a2b1167dba8d/artifacts/model/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f47d1c7e809d7089",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND (BSD-2-Clause OR MIT OR BSL-1.0) AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND BSL-1.0 AND NOASSERTION AND EPL-1.0 AND MIT AND NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Qhull AND Zlib AND dtoa",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts/model/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-66b85362556daccd",
+            "description": "XGBoost Python Package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xgboost@2.1.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(MIT AND Zlib) AND Zlib AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND LicenseRef-scancode-warranty-disclaimer AND BSD-2-Clause AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xgboost",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/245086199943716459/de3f1dae27204c4f94462a19f0ea0a99/artifacts/model/requirements.txt",
+            "supplier": "Organization: Distributed (Deep) Machine Learning Community",
+            "versionInfo": "2.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ef38ef83062192b",
+            "description": "XGBoost Python Package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xgboost@1.7.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND BSD-2-Clause AND BSD-2-Clause AND Zlib AND BSD-3-Clause AND MIT AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "xgboost",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: openstef/test/unit/trained_models/mlruns/893156335105023143/2ca1d126e8724852b303b256e64a6c4f/artifacts/model/requirements.txt",
+            "supplier": "Organization: Distributed (Deep) Machine Learning Community",
+            "versionInfo": "1.7.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "licenseDeclared": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "name": "lfenergy.OpenSTEF",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenSTEF-openstef",
+            "comment": "This package was added to the Trivy analysis for the openstef by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openstef/openstef/archive/027d9a4a125673d25c64b22e2225fe45b8b143e2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openstef/openstef@027d9a4a125673d25c64b22e2225fe45b8b143e2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "licenseDeclared": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "name": "openstef",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "027d9a4a125673d25c64b22e2225fe45b8b143e2"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenSTEF-openstef-dbc",
+            "comment": "This package was added to the Trivy analysis for the openstef-dbc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openstef/openstef-dbc/archive/f70f0eba5d50392cd0b69f003e12dd9c5a1b1da8.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openstef/openstef-dbc@f70f0eba5d50392cd0b69f003e12dd9c5a1b1da8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "licenseDeclared": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "name": "openstef-dbc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f70f0eba5d50392cd0b69f003e12dd9c5a1b1da8"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenSTEF-openstef-offline-example",
+            "comment": "This package was added to the Trivy analysis for the openstef-offline-example by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openstef/openstef-offline-example/archive/dff747a2312584bfd1f949df1b9bb25a241635b4.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openstef/openstef-offline-example@dff747a2312584bfd1f949df1b9bb25a241635b4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "licenseDeclared": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "name": "openstef-offline-example",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "dff747a2312584bfd1f949df1b9bb25a241635b4"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "comment": "This package was added to the Trivy analysis for the openstef-reference by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openstef/openstef-reference/archive/b4a2dac1d20f19e26e2b7acd3112c691d9453e8e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openstef/openstef-reference@b4a2dac1d20f19e26e2b7acd3112c691d9453e8e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "licenseDeclared": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "name": "openstef-reference",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b4a2dac1d20f19e26e2b7acd3112c691d9453e8e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenSTEF-openstef-workshop",
+            "comment": "This package was added to the Trivy analysis for the openstef-workshop by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openstef/openstef-workshop/archive/d8a4293302b1652e283d2c57b7caa3b86a9dbb73.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openstef/openstef-workshop@d8a4293302b1652e283d2c57b7caa3b86a9dbb73",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "licenseDeclared": "MPL-2.0 AND (MIT AND MPL-2.0) AND MIT",
+            "name": "openstef-workshop",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d8a4293302b1652e283d2c57b7caa3b86a9dbb73"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-2d35e253cd173e79",
+            "relatedSpdxElement": "SPDXRef-Package-60688ce53c3ba172",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2d35e253cd173e79",
+            "relatedSpdxElement": "SPDXRef-Package-8c205229a0d851da",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2d35e253cd173e79",
+            "relatedSpdxElement": "SPDXRef-Package-db4270c0ae60fbc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2f377085d9e74423",
+            "relatedSpdxElement": "SPDXRef-Package-38f4f85ffad440db",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2f377085d9e74423",
+            "relatedSpdxElement": "SPDXRef-Package-3f5b40218748cf18",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2f377085d9e74423",
+            "relatedSpdxElement": "SPDXRef-Package-9388f777a37c5a41",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-32c7820b8168ee41",
+            "relatedSpdxElement": "SPDXRef-Package-16733e9312492f25",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-32c7820b8168ee41",
+            "relatedSpdxElement": "SPDXRef-Package-4ad69b372f16c10c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-32c7820b8168ee41",
+            "relatedSpdxElement": "SPDXRef-Package-7ca6a584f5ebb5dc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-32c7820b8168ee41",
+            "relatedSpdxElement": "SPDXRef-Package-a503f799d3836e6c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-32c7820b8168ee41",
+            "relatedSpdxElement": "SPDXRef-Package-d5bbeb23359228ff",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-409bc8f8ef7fd8e7",
+            "relatedSpdxElement": "SPDXRef-Package-63463032645030db",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-409bc8f8ef7fd8e7",
+            "relatedSpdxElement": "SPDXRef-Package-90a6cfb64f5cd8b1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-409bc8f8ef7fd8e7",
+            "relatedSpdxElement": "SPDXRef-Package-b161735225d7e7d3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5700634d1eb87bc4",
+            "relatedSpdxElement": "SPDXRef-Package-2c3d12f0778d095b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5700634d1eb87bc4",
+            "relatedSpdxElement": "SPDXRef-Package-bc2ab08e1403d977",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5700634d1eb87bc4",
+            "relatedSpdxElement": "SPDXRef-Package-c43c4ab58bfc76c2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-840d5c3442c1b4ef",
+            "relatedSpdxElement": "SPDXRef-Package-86d3d9b5480de5c8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-840d5c3442c1b4ef",
+            "relatedSpdxElement": "SPDXRef-Package-8efc56fb5ad5520d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-840d5c3442c1b4ef",
+            "relatedSpdxElement": "SPDXRef-Package-977748c942b847ac",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-1e0496bee889474d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-3ec2bff0c5566e7e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-4c534c1ca11f54ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-66b85362556daccd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-a119794cfd48f981",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-b0a5af2fd29f1cc9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-b9ab473e791e434d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-c9922d2ea6213eb6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-993ee6e926cce28f",
+            "relatedSpdxElement": "SPDXRef-Package-f578c917ddf608d0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-1dc771078a81f444",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-38f1891f2c60ea78",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-4edb2c01fddce95c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-6ef38ef83062192b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-7381029603269930",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-a0c909582c95fd2f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9b77aaf9334142b8",
+            "relatedSpdxElement": "SPDXRef-Package-db8df8db45fd45a0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-189ff4706880a124",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-1b10d219c210072f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-4eb63a081f77603a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-55604f870bb7791c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-944ea82e76261c32",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-ac1a6be63065c0ee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-b6fc63f8973dd737",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-d892d84aa8ab0877",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-e89a9f9468b63b02",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relatedSpdxElement": "SPDXRef-Package-f995510fb1564ebf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-12cdbee4e94835c1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-3428941f0cde5a92",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-414a38ff822b733",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-43202eb81e810191",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-53276d18e155c292",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-81d49bb1d7684259",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-82caa480ca539b65",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-d14a864dc2c93965",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-f47d1c7e809d7089",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d1e0029c25331ad",
+            "relatedSpdxElement": "SPDXRef-Package-fce7f670f167eb84",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e77498d0c9da624b",
+            "relatedSpdxElement": "SPDXRef-Package-6c9d8b1ebb07d37a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e77498d0c9da624b",
+            "relatedSpdxElement": "SPDXRef-Package-9cc12537908116f3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e77498d0c9da624b",
+            "relatedSpdxElement": "SPDXRef-Package-cd52234a348b3f7a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-eaf1047d1749d2da",
+            "relatedSpdxElement": "SPDXRef-Package-e425269a8177ae76",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-eaf1047d1749d2da",
+            "relatedSpdxElement": "SPDXRef-Package-fe7168749c0ccef3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fdb7a7025a4775b3",
+            "relatedSpdxElement": "SPDXRef-Package-5b0766dbe35fc584",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fdb7a7025a4775b3",
+            "relatedSpdxElement": "SPDXRef-Package-b679d004d3b3a74b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relatedSpdxElement": "SPDXRef-Application-2d35e253cd173e79",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relatedSpdxElement": "SPDXRef-Application-2f377085d9e74423",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relatedSpdxElement": "SPDXRef-Application-32c7820b8168ee41",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relatedSpdxElement": "SPDXRef-Application-409bc8f8ef7fd8e7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef",
+            "relatedSpdxElement": "SPDXRef-Application-5700634d1eb87bc4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relatedSpdxElement": "SPDXRef-Application-840d5c3442c1b4ef",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef",
+            "relatedSpdxElement": "SPDXRef-Application-993ee6e926cce28f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef",
+            "relatedSpdxElement": "SPDXRef-Application-9b77aaf9334142b8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-workshop",
+            "relatedSpdxElement": "SPDXRef-Application-ad4864b71ab5b2cd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-workshop",
+            "relatedSpdxElement": "SPDXRef-Application-d1e0029c25331ad",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relatedSpdxElement": "SPDXRef-Application-e77498d0c9da624b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-offline-example",
+            "relatedSpdxElement": "SPDXRef-Application-eaf1047d1749d2da",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenSTEF-openstef-workshop",
+            "relatedSpdxElement": "SPDXRef-Application-fdb7a7025a4775b3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenSTEF-openstef",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenSTEF-openstef-dbc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenSTEF-openstef-offline-example",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenSTEF-openstef-reference",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-15a8b9f1c0788ec7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenSTEF-openstef-workshop",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
