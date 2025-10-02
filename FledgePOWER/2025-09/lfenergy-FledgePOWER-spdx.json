@@ -1,0 +1,739 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T17:06:51Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpmvvouw21/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpmvvouw21/code-95a756ff-e531-4127-a910-bdf763eaf39c",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "lfenergy.FledgePOWER",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-north-auditsnmp",
+            "comment": "This package was added to the Trivy analysis for the fledge-north-auditsnmp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-north-auditsnmp/archive/bb2de1f97e730454308fc39bf4ef9b8f53b68b3e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-north-auditsnmp@bb2de1f97e730454308fc39bf4ef9b8f53b68b3e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-north-auditsnmp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "bb2de1f97e730454308fc39bf4ef9b8f53b68b3e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-north-hnz",
+            "comment": "This package was added to the Trivy analysis for the fledge-north-hnz by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-north-hnz/archive/e60204ea597a9a123c74db10d94c022dd446bb9b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-north-hnz@e60204ea597a9a123c74db10d94c022dd446bb9b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-north-hnz",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "e60204ea597a9a123c74db10d94c022dd446bb9b"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-north-iec104",
+            "comment": "This package was added to the Trivy analysis for the fledge-north-iec104 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-north-iec104/archive/c3ef573184a68d1e92321bbe057bcf36b72658e0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-north-iec104@c3ef573184a68d1e92321bbe057bcf36b72658e0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-north-iec104",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "c3ef573184a68d1e92321bbe057bcf36b72658e0"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-north-s2opcua",
+            "comment": "This package was added to the Trivy analysis for the fledge-north-s2opcua by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-north-s2opcua/archive/27c74c1877084ca43e23613e5f59f1358656f2ae.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-north-s2opcua@27c74c1877084ca43e23613e5f59f1358656f2ae",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-north-s2opcua",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "27c74c1877084ca43e23613e5f59f1358656f2ae"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-north-sysinfosnmp",
+            "comment": "This package was added to the Trivy analysis for the fledge-north-sysinfosnmp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-north-sysinfosnmp/archive/b64ef26861a4a7038041c23a6384ae0bf2973ea4.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-north-sysinfosnmp@b64ef26861a4a7038041c23a6384ae0bf2973ea4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-north-sysinfosnmp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b64ef26861a4a7038041c23a6384ae0bf2973ea4"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-north-tase2",
+            "comment": "This package was added to the Trivy analysis for the fledge-north-tase2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-north-tase2/archive/50da37839d5cf076aeb607380dfe7d7c4184972c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-north-tase2@50da37839d5cf076aeb607380dfe7d7c4184972c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-north-tase2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "50da37839d5cf076aeb607380dfe7d7c4184972c"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-south-hnz",
+            "comment": "This package was added to the Trivy analysis for the fledge-south-hnz by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-south-hnz/archive/8c8abbbd28fd1983d8d75c76d0dabaa48ef0eec1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-south-hnz@8c8abbbd28fd1983d8d75c76d0dabaa48ef0eec1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-south-hnz",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "8c8abbbd28fd1983d8d75c76d0dabaa48ef0eec1"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-south-iec104",
+            "comment": "This package was added to the Trivy analysis for the fledge-south-iec104 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-south-iec104/archive/17346cd2f551c3cf7d64b72d0a0468d263146866.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-south-iec104@17346cd2f551c3cf7d64b72d0a0468d263146866",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-south-iec104",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "17346cd2f551c3cf7d64b72d0a0468d263146866"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-south-iec61850",
+            "comment": "This package was added to the Trivy analysis for the fledge-south-iec61850 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-south-iec61850/archive/a35eae88826f378a9ddf2e01c18b5b523f065832.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-south-iec61850@a35eae88826f378a9ddf2e01c18b5b523f065832",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-south-iec61850",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "a35eae88826f378a9ddf2e01c18b5b523f065832"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledge-south-tase2",
+            "comment": "This package was added to the Trivy analysis for the fledge-south-tase2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledge-south-tase2/archive/e90c37646c439d708e74aaf38cdf042a50494549.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledge-south-tase2@e90c37646c439d708e74aaf38cdf042a50494549",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledge-south-tase2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "e90c37646c439d708e74aaf38cdf042a50494549"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-ci",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-ci by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-ci/archive/abc8c28906685c814363bbdd0f5af6b66fce1a04.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-ci@abc8c28906685c814363bbdd0f5af6b66fce1a04",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-ci",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "abc8c28906685c814363bbdd0f5af6b66fce1a04"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-deployment",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-deployment by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-deployment/archive/68b2fe29022fdd98245a54b65ab36508f0d26fb0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-deployment@68b2fe29022fdd98245a54b65ab36508f0d26fb0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-deployment",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "68b2fe29022fdd98245a54b65ab36508f0d26fb0"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-der-scheduler",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-der-scheduler by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-der-scheduler/archive/51c20c29db1f83fbee3ae285546e2fc4c5a7dde1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-der-scheduler@51c20c29db1f83fbee3ae285546e2fc4c5a7dde1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-der-scheduler",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "51c20c29db1f83fbee3ae285546e2fc4c5a7dde1"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-hnztopivot",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-hnztopivot by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-hnztopivot/archive/95fc3166f67671d7f9305cf2effd0227054ea997.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-hnztopivot@95fc3166f67671d7f9305cf2effd0227054ea997",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-hnztopivot",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "95fc3166f67671d7f9305cf2effd0227054ea997"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-iec104topivot",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-iec104topivot by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-iec104topivot/archive/b6d8bb3afb28150b310eff34809d981dde4b9a47.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-iec104topivot@b6d8bb3afb28150b310eff34809d981dde4b9a47",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-iec104topivot",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b6d8bb3afb28150b310eff34809d981dde4b9a47"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-mvcyclingcheck",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-mvcyclingcheck by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-mvcyclingcheck/archive/2b66cb308df413f48132e67fe128f1dc3a60ead5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-mvcyclingcheck@2b66cb308df413f48132e67fe128f1dc3a60ead5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-mvcyclingcheck",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2b66cb308df413f48132e67fe128f1dc3a60ead5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-mvscale",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-mvscale by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-mvscale/archive/c13b5b922cf60449b17937621f53e3d9919e9017.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-mvscale@c13b5b922cf60449b17937621f53e3d9919e9017",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-mvscale",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "c13b5b922cf60449b17937621f53e3d9919e9017"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-opcuatopivot",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-opcuatopivot by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-opcuatopivot/archive/af83608d311cfec3e2df518866d9d26ac18c9c91.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-opcuatopivot@af83608d311cfec3e2df518866d9d26ac18c9c91",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-opcuatopivot",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "af83608d311cfec3e2df518866d9d26ac18c9c91"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-spoperators",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-spoperators by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-spoperators/archive/2a3940514c90ece63106a7a8ea44dbec11f9efa5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-spoperators@2a3940514c90ece63106a7a8ea44dbec11f9efa5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-spoperators",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2a3940514c90ece63106a7a8ea44dbec11f9efa5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-stamp",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-stamp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-stamp/archive/ebabb9ae47dd6434fe38038c515efe062dd8038a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-stamp@ebabb9ae47dd6434fe38038c515efe062dd8038a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-stamp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "ebabb9ae47dd6434fe38038c515efe062dd8038a"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-tase2topivot",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-tase2topivot by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-tase2topivot/archive/6d37181d1c6885f98b33b980b9edd2f989ffc58d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-tase2topivot@6d37181d1c6885f98b33b980b9edd2f989ffc58d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-tase2topivot",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6d37181d1c6885f98b33b980b9edd2f989ffc58d"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-transientsp",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-filter-transientsp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-filter-transientsp/archive/b1484e39bfbbc2b273ad0505b952b7bff7dd8851.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-filter-transientsp@b1484e39bfbbc2b273ad0505b952b7bff7dd8851",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-filter-transientsp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b1484e39bfbbc2b273ad0505b952b7bff7dd8851"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-notify-systemsp",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-notify-systemsp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-notify-systemsp/archive/aae39c5a586eb631815b79470b0c0fa0babf5988.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-notify-systemsp@aae39c5a586eb631815b79470b0c0fa0babf5988",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-notify-systemsp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "aae39c5a586eb631815b79470b0c0fa0babf5988"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-perf-testing",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-perf-testing by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-perf-testing/archive/c4e0487691eb469e3622ce1bc5098860463e2505.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-perf-testing@c4e0487691eb469e3622ce1bc5098860463e2505",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-perf-testing",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "c4e0487691eb469e3622ce1bc5098860463e2505"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-pivot-model",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-pivot-model by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-pivot-model/archive/c00cbf776c90a3e0d0ffdeee4e6659508ba1d2cb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-pivot-model@c00cbf776c90a3e0d0ffdeee4e6659508ba1d2cb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-pivot-model",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "c00cbf776c90a3e0d0ffdeee4e6659508ba1d2cb"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-fledgepower-rule-systemsp",
+            "comment": "This package was added to the Trivy analysis for the fledgepower-rule-systemsp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/fledgepower-rule-systemsp/archive/5123e9aeb006ec6988fac56ba3cc0dfcf8bb491a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/fledgepower-rule-systemsp@5123e9aeb006ec6988fac56ba3cc0dfcf8bb491a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "fledgepower-rule-systemsp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "5123e9aeb006ec6988fac56ba3cc0dfcf8bb491a"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-libhnz",
+            "comment": "This package was added to the Trivy analysis for the libhnz by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/libhnz/archive/84f2e97279cd5921f84f4d07dabfdc0553507159.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/libhnz@84f2e97279cd5921f84f4d07dabfdc0553507159",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "libhnz",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "84f2e97279cd5921f84f4d07dabfdc0553507159"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FledgePOWER-powerconf",
+            "comment": "This package was added to the Trivy analysis for the powerconf by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fledge-power/powerconf/archive/55f597e8ba573275e98672ca372a3ef1c925d236.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fledge-power/powerconf@55f597e8ba573275e98672ca372a3ef1c925d236",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT",
+            "name": "powerconf",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "55f597e8ba573275e98672ca372a3ef1c925d236"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-north-auditsnmp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-north-hnz",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-north-iec104",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-north-s2opcua",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-north-sysinfosnmp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-north-tase2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-south-hnz",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-south-iec104",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-south-iec61850",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledge-south-tase2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-ci",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-deployment",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-der-scheduler",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-hnztopivot",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-iec104topivot",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-mvcyclingcheck",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-mvscale",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-opcuatopivot",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-spoperators",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-stamp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-tase2topivot",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-filter-transientsp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-notify-systemsp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-perf-testing",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-pivot-model",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-fledgepower-rule-systemsp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-libhnz",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1c45023420ba68ae",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FledgePOWER-powerconf",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
