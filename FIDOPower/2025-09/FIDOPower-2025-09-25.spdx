@@ -1,0 +1,504 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_fidopower-2025-09-25.zip_1759323986.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-10-01T13:06:26Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: fidopower-2025-09-25.zip
+PackageFileName: fidopower-2025-09-25.zip
+SPDXID: SPDXRef-upload1980
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 2d3fd727ed537cfd052097eac974bb6fd3122472
+PackageChecksum: SHA1: bfeef3a2658c29680260291c9de5b11066a5cf8a
+PackageChecksum: SHA256: 50aaf0d546be52cc30e2ec84020855b9d1f0045d07d90ee0e62742117e8e6849
+PackageChecksum: MD5: f82a373a6806daf088aa22556fbab97d
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1980
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/LICENSE
+SPDXID: SPDXRef-item11291334
+FileChecksum: SHA1: 59b84fab37b51da53c611bb7a32b8c05912b9fea
+FileChecksum: SHA256: 66de33ab9b636116ea61ed03f0fff2f1320c76eb4934df533b5632cd3e6d3cf2
+FileChecksum: MD5: 530c92eacfdff7fb491bd72501a24d02
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2025 David P. Chassin </text>
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case4.py
+SPDXID: SPDXRef-item11291350
+FileChecksum: SHA1: e7f8694053b52da50d36d7e5eb18abe5f906d29c
+FileChecksum: SHA256: 269b7700ac69cf8f1fdc546126a746acac848ed9474a9da363ebfc3b98884f53
+FileChecksum: MD5: 4b7a8fe2aeca8875e92fc26b4c69e4a9
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright (c) 1996-2015 PSERC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+
+##File
+
+FileName: fidopower-2025-09-25.zip/model_viewer/LICENSE
+SPDXID: SPDXRef-item11291329
+FileChecksum: SHA1: 881a4374efb8718343195ade3a17171479145dca
+FileChecksum: SHA256: 152d5881a8a37a5cc43c566730421960c046ff4a854ae16cf33802c90631f0e6
+FileChecksum: MD5: 6b482dd906037474c3128ef638306538
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2025, FIDOpower </text>
+
+##File
+
+FileName: fidopower-2025-09-25.zip/model_viewer/notebook.py
+SPDXID: SPDXRef-item11291330
+FileChecksum: SHA1: b1b621224be32e3e2cc5afe9b9dbdc59bfa82819
+FileChecksum: SHA256: 6d83cb0049eba8f29ac08d96427aaca94b1c6107ca8a4791539f672d9c2968de
+FileChecksum: MD5: a652f7a1c0dd9e8a2571944865f36c1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/model_viewer/.gitignore
+SPDXID: SPDXRef-item11291331
+FileChecksum: SHA1: 03be57be9c2ce1697e2c52e38dad549c3eb26480
+FileChecksum: SHA256: 605915eaeeec6b0680f28426d46a99d6bb824f219f01632eb0166bcba3505a91
+FileChecksum: MD5: be85f81e6cc8066629a0464226450c3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/model_viewer/README.md
+SPDXID: SPDXRef-item11291332
+FileChecksum: SHA1: d1a7d17aee5f4f6981f329fc27410a948dfbc40e
+FileChecksum: SHA256: eb29c68cabdafc12293dcf5532e0a79238d7207dfc631dffce4aa2ffd80148bc
+FileChecksum: MD5: 328324bd424b9c26f9fc98b95205b89b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/notebook.py
+SPDXID: SPDXRef-item11291335
+FileChecksum: SHA1: f60de7f7abfe4bfbcca3b2dd0f11579d3846032f
+FileChecksum: SHA256: 76fe2113493729134f1eaef01377f6364248883a954f0ede05a1eeb701b7453b
+FileChecksum: MD5: 7defb14e1bae8b8ac903b8054894e03b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/.DS_Store
+SPDXID: SPDXRef-item11291336
+FileChecksum: SHA1: 181c3d9c4a1d8d145c850bc3fb7d2001515f2e76
+FileChecksum: SHA256: 532db7c2dd6cc7930a9c228a7bcfa420b0e743907afe6073e2dd9762cd87765c
+FileChecksum: MD5: 86dc65c1d7e2eef482a30e2a36fe6d15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/gld_pypower_old.py
+SPDXID: SPDXRef-item11291337
+FileChecksum: SHA1: 34be3f142bd608e0b87aa4d50d1cce7675a208e2
+FileChecksum: SHA256: fd10651108653d00c78a042ef3514b4c0ff971c2c835da62473c4bb3e7571f31
+FileChecksum: MD5: 5a7cdd7962e9de72cf77afae850821b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/example.json
+SPDXID: SPDXRef-item11291338
+FileChecksum: SHA1: 2c3e58d3714e788180fc71f9cd619a361bd9b517
+FileChecksum: SHA256: 087b9fa217c1bede5cd30a8900e4dc3626f6c06de825b9d667ad37a03dad3307
+FileChecksum: MD5: 1751317962f5d648802d2afce235f3fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/.gitignore
+SPDXID: SPDXRef-item11291339
+FileChecksum: SHA1: f963294124d1c06e5f72065147d941d2bdfab930
+FileChecksum: SHA256: 8f83b144e8002c2296a9e1b88036d3c92604cbab5be09b3b3358e02ee6c6e874
+FileChecksum: MD5: 9399362f0b30d0c2e269e110c95eddcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case30.json
+SPDXID: SPDXRef-item11291341
+FileChecksum: SHA1: b8dc64a5ea36ffcfb62ecff25f1661e670075f58
+FileChecksum: SHA256: eb3952eddc824a360fc66cfe8fa64ba9fc35d73e6ffb2acf626bceff862448a5
+FileChecksum: MD5: e24a3ce7dd8014151cc22b3bd32ad97a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case4.json
+SPDXID: SPDXRef-item11291342
+FileChecksum: SHA1: f4ca23c8a1b26e080a2b89152c78aa7a2490bdee
+FileChecksum: SHA256: a6171a4687fc31ebbd767fdc1e5488a1764cf001d352b18b7d5cf99340e84872
+FileChecksum: MD5: 1c2ab88bfff583050b24d38acfcd9b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case4.glm
+SPDXID: SPDXRef-item11291343
+FileChecksum: SHA1: fe023bcc38e70a7e29adf64c1bd96cf680ad1cb6
+FileChecksum: SHA256: c9a1f663bb005e7e4880906e16a47686c583f60bd35c055200730c8fc50eb365
+FileChecksum: MD5: 21f94d447cebea424fa760efca7cf5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case57.glm
+SPDXID: SPDXRef-item11291344
+FileChecksum: SHA1: 63a1f5b77ca9fe634b261316d4832edbf9786ea9
+FileChecksum: SHA256: ea9230e7991569c0276c242ee9dc90d1aa718232f21f236649e6272d2430dee5
+FileChecksum: MD5: ce3a5c3f00e07e162b817ac1d2960a0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case9.glm
+SPDXID: SPDXRef-item11291345
+FileChecksum: SHA1: 4b2989e58844c57c6ca69741ac06497b2d69ad81
+FileChecksum: SHA256: bd7ab90a54a3f5d3e8f00ab85c1313a0ba2c509835ab2c7e3ce551c9b19985d7
+FileChecksum: MD5: 518961a4c3b62f5e8803d4451c710267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case118.json
+SPDXID: SPDXRef-item11291346
+FileChecksum: SHA1: 176165b95c66c605a62cddac5fe0b1e081e25467
+FileChecksum: SHA256: 4a36c7ce577392df97b42559ff5e2527dcbfae79f04756d6455d6a4457596058
+FileChecksum: MD5: 9fe26445a0b67a04430b18b6c5036101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case57.json
+SPDXID: SPDXRef-item11291347
+FileChecksum: SHA1: 04e342a633dfe3cf6322b5480362a1fe5b486ef4
+FileChecksum: SHA256: e215eb7b88178cd912746012b9e9437755bf97a68541f5477abe82a458629a33
+FileChecksum: MD5: a1be5ec09bf49d0d0f51d2409474f796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case118.glm
+SPDXID: SPDXRef-item11291348
+FileChecksum: SHA1: 5a60904cbf32abc896a6e54972a5a009d28d4950
+FileChecksum: SHA256: f8694a6c88f17d5a3aa4918d3d50e2932b0e05d68f76c97bbf5b9d202077e0da
+FileChecksum: MD5: 832b73231e8eb59df29bdbc237338018
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case57.glm
+SPDXID: SPDXRef-item11291349
+FileChecksum: SHA1: e0f6b38970744eb9bdd0f280ed44f76193bb52eb
+FileChecksum: SHA256: 17438333cb975e81ddf703f18e39950241359e6268840a3b1ca0f7b0f57f03fe
+FileChecksum: MD5: 610f8d4a3b5b47e41246767d99ddb1e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case39.json
+SPDXID: SPDXRef-item11291351
+FileChecksum: SHA1: b058901574b78fd0f92568712864e1b2a2076d2b
+FileChecksum: SHA256: c17a7af69f183aa32ced3fe6dc446c0333aa6caee8d102bec57e3e457e0b3a9b
+FileChecksum: MD5: 86e075fad0abd2a7bd7b6f011c7d95da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case14.glm
+SPDXID: SPDXRef-item11291352
+FileChecksum: SHA1: 892ef6e7150fee7344a848022faacc08c62f23cc
+FileChecksum: SHA256: 06ae4270662e65ff274d5084f3d54ecd4be3bbb1233d3baac3d9587c3b2ec3b6
+FileChecksum: MD5: 56ba20a2212546ee3ae1add3015c28ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case39.glm
+SPDXID: SPDXRef-item11291353
+FileChecksum: SHA1: dd0353b058e453da0d795642bcbcf8792232d573
+FileChecksum: SHA256: afefdb69569cfd553d42e65787f023c716404e37f3117ea757fb24d385dcdf74
+FileChecksum: MD5: 01d5d3c99dd2f378fe8b76c0385c36d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case14.json
+SPDXID: SPDXRef-item11291354
+FileChecksum: SHA1: f11e89a0b628ab9452798c1b9a11511ca9f233ca
+FileChecksum: SHA256: db4f228a48e6d5df859981b290a317a9775e2aa30baeefbb177ed1c06e38ddcb
+FileChecksum: MD5: 9f4c4700315d31eddc624b88cc2bbcae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case39.glm
+SPDXID: SPDXRef-item11291355
+FileChecksum: SHA1: 01cf34d5da1854a690d73b5c844e78873e86d103
+FileChecksum: SHA256: 4c5da5b9b2c7268920be7ed7243b797e46a927b702d9d19dffdad8025c3ac7b9
+FileChecksum: MD5: 981e94237688b3f7fc68c4642c5f05d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case14.glm
+SPDXID: SPDXRef-item11291356
+FileChecksum: SHA1: 14d9a55a0e26203e94f81491946a8027cf944479
+FileChecksum: SHA256: 8465c0f7b943a848a199c69a90ee52ee1c8517146fbfd27c4a05d0aa28b42d1a
+FileChecksum: MD5: dcf444d4095a7c2c0dca0f204aef2aee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case118.glm
+SPDXID: SPDXRef-item11291357
+FileChecksum: SHA1: 40e8c8e2780ae812c11ae888732e93a4c374f319
+FileChecksum: SHA256: c0bb8c5511b3787c706a8484baad991d1a0622a9d981353b6418c25d7ccba1de
+FileChecksum: MD5: e1c5a5ade3d0a5c582ff68d734ab8743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case30.glm
+SPDXID: SPDXRef-item11291358
+FileChecksum: SHA1: dac70a1eb98f00562f2b066fc25babe87e818580
+FileChecksum: SHA256: 23f1a1d872c28e002f64079e7e886a834157aa500b3e6d4d70fe54729449b03e
+FileChecksum: MD5: abf54596d6d1c1a6ac65591c9927dd33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case9.json
+SPDXID: SPDXRef-item11291359
+FileChecksum: SHA1: b8a2c98f6ba42ed635d69f5a78f0411076a307c3
+FileChecksum: SHA256: 25b969829a9cc8111ff434f58dd4b49b31f66bbb61bde608d2477936c9e7a7b4
+FileChecksum: MD5: df8f2666258ed138bf7ae70df4c83c81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case30.glm
+SPDXID: SPDXRef-item11291360
+FileChecksum: SHA1: 6fc8c3ee3bfd173391cf33a37d264ef944e2b0cc
+FileChecksum: SHA256: 4e7b975827357635c7cdde3f8514d8f8d8ce9e7246685b9962d25972bfadb51c
+FileChecksum: MD5: dce53388284191cda6aa58e4fa5ea318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/refresh.sh
+SPDXID: SPDXRef-item11291361
+FileChecksum: SHA1: 22a9874a10be067937ef85e39547d3bdadb363b1
+FileChecksum: SHA256: 45d582425b18d12e81c6ef03a67a1fad2a9930b1f25276748d8f9029409ad786
+FileChecksum: MD5: 656e54ec212fdaa0e30387724f524538
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case4gs.glm
+SPDXID: SPDXRef-item11291362
+FileChecksum: SHA1: 32fc5af31872e2b3d75a1882278896685dad4bd3
+FileChecksum: SHA256: 8229976476cdca0857751e784d8da20019bbbd249d6f47565bc77417129b7c08
+FileChecksum: MD5: d76f330511485a31b5f20224e3505472
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/case9.glm
+SPDXID: SPDXRef-item11291363
+FileChecksum: SHA1: 1e25e18f754f875cd7dd58df3bb98be9a8310461
+FileChecksum: SHA256: 8405c479829b94654f1a711ba2627e5cdb5c54828e229d3959753e08b6224b1f
+FileChecksum: MD5: 5070e4504b17d9442a8d7de9f927ec0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/test/py_case4.glm
+SPDXID: SPDXRef-item11291364
+FileChecksum: SHA1: fccb5bd44662813d873d7a3db294449af9b08fc9
+FileChecksum: SHA256: 5588fcda35718b9703b0dc83d34cdd36d14715b394c03b5e7ebe47c535516337
+FileChecksum: MD5: d83a68493c3cfc9e2a3a330b211f3200
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/requirements.txt
+SPDXID: SPDXRef-item11291365
+FileChecksum: SHA1: 1f2b8c47fb38fd34e8d6b3f8bb6e9f07fba5ac83
+FileChecksum: SHA256: 58523a6793bed3c07ff7e33c7d332ea2a2cc1a390237f0ecc3e931fcf8e1e1a3
+FileChecksum: MD5: e50106c0ab09a6cfe794b29ff0132b76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/.gitattributes
+SPDXID: SPDXRef-item11291366
+FileChecksum: SHA1: ba3dfe345280bdcc5e817bb02cf49b8b8d8e1c4c
+FileChecksum: SHA256: 1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b
+FileChecksum: MD5: 05bdb783ee6514c8c072e47680af8ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/example.glm
+SPDXID: SPDXRef-item11291367
+FileChecksum: SHA1: 7b391afd9ad58ee421e94c459a4f32a2df7a8fa0
+FileChecksum: SHA256: 3abb9b255443eacc14fe423c289fcf33d872c4a45420b3b6a53c2627ec62a445
+FileChecksum: MD5: 1e09a35444d7addd709b52f980240e10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/NOTES.md
+SPDXID: SPDXRef-item11291368
+FileChecksum: SHA1: 791cb0da05ab43cb799920234fefe565357331c3
+FileChecksum: SHA256: bcfc721bc4d92f12135bdbd9f2d852a0e81dbc3b0dfd240110c337b6892776f6
+FileChecksum: MD5: c9198bcce1018928a2ef885c85eb4a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/README.md
+SPDXID: SPDXRef-item11291369
+FileChecksum: SHA1: c2ee2c9b64521bdbd4f35def10ad419e4b755856
+FileChecksum: SHA256: c83b6ee85a0caa53ab8b76dd10ec59bcaffea3782a1ebdd26f8c5261f0b84fec
+FileChecksum: MD5: 44f25c1b814f0b54de1ba5ffa3cbf552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: fidopower-2025-09-25.zip/optimal_sizing_placement/gld_pypower.py
+SPDXID: SPDXRef-item11291370
+FileChecksum: SHA1: 49a4ea1207a0ef8bad4500c210e3fc7568746a68
+FileChecksum: SHA256: 6409850ee9df3652a039c8afb2a3aa306d4a374e7a821af12064b7f8a74786b1
+FileChecksum: MD5: 74e1688e5e1dae87970496439181f94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
