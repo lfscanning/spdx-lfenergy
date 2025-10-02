@@ -1,0 +1,2318 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T16:48:33Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "(Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND 0BSD AND 0BSD OR (0BSD AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND 0BSD AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-only WITH eCos-exception-2.0 AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x3407a55d0896dd6b"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference) AND (Python-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND MIT AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-other-permissive) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND TCL AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (LicenseRef-scancode-other-permissive AND BSD-2-Clause) AND (BSD-3-Clause AND (LicenseRef-scancode-public-domain OR LicenseRef-scancode-other-permissive) AND MIT) AND LicenseRef-scancode-musl-exception AND MPL-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseId": "LicenseRef-fixed-0x26727f8cde0a16e8"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0) AND (BSD-3-Clause AND GPL-1.0-or-later) AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer) AND BSD-3-Clause AND (BSD-3-Clause-Attribution AND BSD-3-Clause) AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND (BSD-3-Clause-Attribution AND BSD-3-Clause) AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND (BSL-1.0 AND LicenseRef-scancode-unknown-license-reference) AND BSL-1.0 AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND (MIT AND BSL-1.0 AND BSD-3-Clause) AND (Qhull AND BSD-3-Clause) AND (BSD-3-Clause AND MIT) AND (LicenseRef-scancode-dhb-lbnl-bsd-2007 AND BSD-3-Clause) AND MIT AND BSL-1.0 AND (Apache-2.0 AND Apache-2.0 WITH LLVM-exception) AND BSD-2-Clause AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND MIT AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause AND GPL-1.0-or-later) AND (CC-BY-SA-3.0 AND BSD-3-Clause) AND GPL-1.0-or-later AND BSD-3-Clause AND Apache-2.0 AND bzip2-1.0.6 AND BSD-2-Clause AND MIT AND (GPL-2.0-or-later AND GPL-3.0-only) AND LGPL-2.1-only AND LGPL-2.1-or-later AND GPL-2.0-or-later AND Python-2.0 AND PSF-2.0 AND BSD-3-Clause AND BSD-3-Clause-LBNL AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-other-permissive AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND BSD-3-Clause AND Minpack AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND CC0-1.0 AND LicenseRef-scancode-public-domain AND GPL-1.0-or-later AND GPL-1.0-or-later AND BSL-1.0 AND LGPL-2.0-or-later AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-proprietary-license AND (LGPL-2.1-or-later AND LicenseRef-scancode-proprietary-license) AND BSL-1.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (EPL-1.0 AND LicenseRef-scancode-free-unknown) AND MIT AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Qhull AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x4850e53513773d63"
+        }
+    ],
+    "name": "/tmp/tmp98waicnt/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp98waicnt/code-4655b7f3-5b61-4414-80d9-6bb21c05cda1",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-218448fe74fb8973",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "eeweather/Pipfile.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7420d7229b4161fd2d7178231decece2f3591623"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a0a1ce949e67960b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "opendsm-website-prerelease/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "90b2dfc94f0d1ff858b3fb673f1ba540f59e3566"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9a36d471c6ab0c43",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "opendsm-website/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "8a4a4eb4cc7a96ca71359a5139a635740bd42a03"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-1b281b008ea694eb",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "opendsm/Pipfile.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "338b9b1fa2d739d6fdbbbec2596a39b651ba2108"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9d2cf3d1beea36",
+            "description": "Reusable constraint types to use with typing.Annotated",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/annotated-types@0.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/annotated-types/annotated-types",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "annotated-types",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: annotated-types",
+            "versionInfo": "0.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a452e1df0586007",
+            "description": "Classes Without Boilerplate",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/attrs@24.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: The attrs Cabal",
+            "versionInfo": "24.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-778fbaa350b64668",
+            "description": "Screen-scraping library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/beautifulsoup4@4.13.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.crummy.com/software/BeautifulSoup/bs4/",
+            "licenseConcluded": "BSD-3-Clause AND GPL-1.0-or-later AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "beautifulsoup4",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "versionInfo": "4.13.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-35590e95ed1c0a66",
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2025.1.31",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0 AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2025.1.31"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3895e1084b3bc354",
+            "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@3.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-SA-3.0 AND LicenseRef-scancode-public-domain AND LGPL-2.1-only AND MPL-1.1 AND MIT AND MIT AND (LGPL-2.1-only AND MPL-1.1) AND MIT AND LicenseRef-scancode-unknown-license-reference AND (LGPL-2.1-only AND MPL-1.1) AND MIT AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer",
+            "licenseDeclared": "MIT",
+            "name": "charset-normalizer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: TAHRI Ahmed R.",
+            "versionInfo": "3.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a4be9829c0fd841",
+            "description": "Composable command line interface toolkit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/click@8.1.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "click",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "8.1.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-468f1e6ab554f65",
+            "description": "Python library for calculating contours of 2D quadrilateral grids",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/contourpy@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/contourpy/contourpy",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "contourpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: contourpy",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5c6792f5ce17c97c",
+            "description": "Python library for calculating contours of 2D quadrilateral grids",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/contourpy@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/contourpy/contourpy",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "contourpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: contourpy",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b52930235117e734",
+            "description": "Composable style cycles",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cycler@0.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cycler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "0.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ce57c54302bb3f6e",
+            "description": "Composable style cycles",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cycler@0.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "cycler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "0.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-115f08161f2cb7df",
+            "description": "The Cython compiler for writing C extensions in the Python language.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cython@3.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cython.org/",
+            "licenseConcluded": "(LGPL-2.0-only AND LGPL-2.0-or-later) AND LGPL-2.0-or-later AND Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer AND MIT AND Python-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "cython",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: cython",
+            "versionInfo": "3.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e783463dfe7fa08b",
+            "description": "Tools to manipulate font files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fonttools@4.55.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/fonttools/fonttools",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-4.0 AND CC-BY-SA-4.0 AND GPL-1.0-or-later AND (GPL-1.0-or-later AND OFL-1.1) AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-unicode AND MIT AND MIT AND LicenseRef-scancode-unknown-license-reference AND OFL-1.1 AND OFL-1.1 AND (OFL-1.1 AND BSD-3-Clause) AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND OFL-1.1",
+            "name": "fonttools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: FontTools",
+            "versionInfo": "4.55.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e82e69dda105d680",
+            "description": "Tools to manipulate font files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fonttools@4.56.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/fonttools/fonttools",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-4.0 AND CC-BY-SA-4.0 AND GPL-1.0-or-later AND (GPL-1.0-or-later AND OFL-1.1) AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-unicode AND MIT AND MIT AND LicenseRef-scancode-unknown-license-reference AND OFL-1.1 AND OFL-1.1 AND (OFL-1.1 AND BSD-3-Clause) AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND OFL-1.1",
+            "name": "fonttools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: FontTools",
+            "versionInfo": "4.56.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-25022ba2b959e88a",
+            "description": "Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/griffe@0.47.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/griffe",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "griffe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "0.47.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5df7984856c1cc25",
+            "description": "Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/griffe@1.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/griffe",
+            "licenseConcluded": "ISC AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "ISC",
+            "name": "griffe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ba95f20d4662d82f",
+            "description": "Internationalized Domain Names in Applications (IDNA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/idna@3.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "idna",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Kim Davies",
+            "versionInfo": "3.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1cb870f73a3712e",
+            "description": "A fast implementation of the Cassowary constraint solver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/kiwisolver@1.4.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND MIT AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "kiwisolver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: nucleic",
+            "versionInfo": "1.4.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d8f0b0e00b0c3127",
+            "description": "A fast implementation of the Cassowary constraint solver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/kiwisolver@1.4.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-mit-old-style AND MIT",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "kiwisolver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: nucleic",
+            "versionInfo": "1.4.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca29dc76616005f8",
+            "description": "lightweight wrapper around basic LLVM functionality",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/llvmlite@0.43.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://llvmlite.readthedocs.io",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "llvmlite",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Numba",
+            "versionInfo": "0.43.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8b5526f99d6d7e12",
+            "description": "Python plotting package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib@3.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://matplotlib.org",
+            "licenseConcluded": "((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND Bitstream-Vera AND (LicenseRef-scancode-free-unknown AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-scancode-other-permissive) AND (GPL-1.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND Python-2.0) AND BSD-3-Clause AND (Python-2.0 AND BSD-3-Clause AND GPL-1.0-or-later) AND LicenseRef-scancode-other-permissive AND (LicenseRef-scancode-free-unknown AND LicenseRef-scancode-other-permissive AND LGPL-2.0-or-later) AND LicenseRef-scancode-unknown-license-reference AND AGPL-3.0-or-later AND APAFML AND Adobe-Glyph AND Apache-2.0 AND Apache-2.0 AND (LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unknown-license-reference) AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-llnl AND Bitstream-Charter AND CC-BY-3.0 AND CC-BY-4.0 AND LicenseRef-scancode-proprietary-license AND CC-PDDC AND CC0-1.0 AND FTL AND FTL AND GPL-2.0-or-later AND BSD-3-Clause AND Zlib AND GPL-2.0-only AND LicenseRef-scancode-bakoma-fonts-1995 AND LicenseRef-scancode-boost-original AND LicenseRef-scancode-free-unknown AND OFL-1.1 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND ((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND LicenseRef-scancode-public-domain AND ((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND Bitstream-Vera AND OFL-1.1 AND LicenseRef-scancode-public-domain AND PSF-2.0 AND CC0-1.0 AND OFL-1.1 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-secret-labs-2011 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND MIT AND MPL-1.1 AND MPL-2.0 AND OFL-1.1 AND PSF-2.0 AND PSF-2.0 AND Python-2.0 AND Python-2.0 AND Qhull AND TCL AND Zlib",
+            "licenseDeclared": "CAL-1.0 AND LicenseRef-scancode-unknown AND PSF-2.0 AND Python-2.0",
+            "name": "matplotlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "3.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d75b6dfbd6e3b032",
+            "description": "Python plotting package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib@3.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://matplotlib.org",
+            "licenseConcluded": "((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND Bitstream-Vera AND (LicenseRef-scancode-free-unknown AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-scancode-other-permissive) AND (GPL-1.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND Python-2.0) AND BSD-3-Clause AND (Python-2.0 AND BSD-3-Clause AND GPL-1.0-or-later) AND LicenseRef-scancode-other-permissive AND (LicenseRef-scancode-free-unknown AND LicenseRef-scancode-other-permissive AND LGPL-2.0-or-later) AND LicenseRef-scancode-unknown-license-reference AND AGPL-3.0-or-later AND APAFML AND Adobe-Glyph AND Apache-2.0 AND Apache-2.0 AND (LicenseRef-scancode-other-permissive AND LicenseRef-scancode-unknown-license-reference) AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-llnl AND Bitstream-Charter AND CC-BY-3.0 AND CC-BY-4.0 AND LicenseRef-scancode-proprietary-license AND CC-PDDC AND CC0-1.0 AND FTL AND FTL AND GPL-2.0-or-later AND BSD-3-Clause AND Zlib AND GPL-2.0-only AND LicenseRef-scancode-bakoma-fonts-1995 AND LicenseRef-scancode-boost-original AND LicenseRef-scancode-free-unknown AND OFL-1.1 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND ((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND LicenseRef-scancode-public-domain AND ((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND Bitstream-Vera AND OFL-1.1 AND LicenseRef-scancode-public-domain AND PSF-2.0 AND CC0-1.0 AND OFL-1.1 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-secret-labs-2011 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND MIT AND MPL-1.1 AND MPL-2.0 AND OFL-1.1 AND PSF-2.0 AND PSF-2.0 AND Python-2.0 AND Python-2.0 AND Qhull AND TCL AND Zlib",
+            "licenseDeclared": "CAL-1.0 AND LicenseRef-scancode-unknown AND PSF-2.0 AND Python-2.0",
+            "name": "matplotlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "3.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-46d25181d65a58c1",
+            "description": "Project documentation with Markdown.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs@1.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND CC0-1.0 AND MIT AND MIT AND OFL-1.1 AND MIT AND MIT) OR (GPL-2.0-only AND NOASSERTION AND OFL-1.1 AND MIT)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "mkdocs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "1.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d3785839fcbbf905",
+            "description": "Project documentation with Markdown.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs@1.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND CC0-1.0 AND MIT AND MIT AND OFL-1.1 AND MIT AND MIT) OR (GPL-2.0-only AND NOASSERTION AND OFL-1.1 AND MIT)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "mkdocs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "1.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-92c53178bcbc4d86",
+            "description": "Automatically link across pages in MkDocs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-autorefs@1.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/autorefs",
+            "licenseConcluded": "ISC AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "ISC",
+            "name": "mkdocs-autorefs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f04808289c494fa5",
+            "description": "Automatically link across pages in MkDocs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-autorefs@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/autorefs",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "mkdocs-autorefs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b346f3fca9bff72c",
+            "description": "A plugin for customizing the navigation structure of your MkDocs site.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-awesome-nav@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-awesome-nav",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Lukas Geiter",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-49e44f6b49e40b78",
+            "description": "MkDocs extension that lists all dependencies according to a mkdocs.yml file",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-get-deps@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-get-deps",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-52c3662582a10bb8",
+            "description": "MkDocs extension that lists all dependencies according to a mkdocs.yml file",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-get-deps@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-get-deps",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3b06abee7516e37d",
+            "description": "Mkdocs plugin that enables displaying the localized date of the last git modification of a markdown file.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-git-revision-date-localized-plugin@1.4.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/timvink/mkdocs-git-revision-date-localized-plugin",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-git-revision-date-localized-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Tim Vink",
+            "versionInfo": "1.4.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8ea3b46c8449e0f",
+            "description": "Mkdocs plugin that enables displaying the localized date of the last git modification of a markdown file.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-git-revision-date-localized-plugin@1.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/timvink/mkdocs-git-revision-date-localized-plugin",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-git-revision-date-localized-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Tim Vink",
+            "versionInfo": "1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b3df5ecad15f121",
+            "description": "Unleash the power of MkDocs with macros and variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-macros-plugin@1.3.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/fralau/mkdocs_macros_plugin",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-macros-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Laurent Franceschetti",
+            "versionInfo": "1.3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-203f27333ec3a991",
+            "description": "Unleash the power of MkDocs with macros and variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-macros-plugin@1.3.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/fralau/mkdocs_macros_plugin",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-macros-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Laurent Franceschetti",
+            "versionInfo": "1.3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ea0d98d3ce6bc85",
+            "description": "Documentation that simply works",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material@9.6.20",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(MIT AND OFL-1.1 AND CC-BY-4.0) AND CC-BY-4.0 AND (OFL-1.1 AND (CC-BY-4.0 AND OFL-1.1 AND MIT) AND MIT AND (MIT AND OFL-1.1 AND CC-BY-4.0)) AND BSD-3-Clause AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND (GPL-1.0-or-later AND Apache-2.0 AND MIT) AND MIT AND MIT AND 0BSD",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Martin Donath",
+            "versionInfo": "9.6.20"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f66f244b11c24e16",
+            "description": "Documentation that simply works",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material@9.5.29",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "0BSD AND MIT AND Apache-2.0 AND MIT AND NOASSERTION AND BSD-3-Clause AND CC-BY-4.0 AND MIT AND OFL-1.1 AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Martin Donath",
+            "versionInfo": "9.5.29"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af381c54e0635f2a",
+            "description": "Extension pack for Python Markdown and MkDocs Material.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material-extensions@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/mkdocs-material-extensions",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d544faf009ab14ba",
+            "description": "Extension pack for Python Markdown and MkDocs Material.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material-extensions@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/mkdocs-material-extensions",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-387460eabb9f80a8",
+            "description": "MkDocs plugin to allow clickable sections that lead to an index page",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-section-index@0.3.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-section-index",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Oleh Prypin",
+            "versionInfo": "0.3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e9cf48a077de6713",
+            "description": "MkDocs plugin to allow clickable sections that lead to an index page",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-section-index@0.3.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(MIT AND LicenseRef-scancode-unknown-license-reference) AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-section-index",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Oleh Prypin",
+            "versionInfo": "0.3.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2e71dc7501c419b7",
+            "description": "A MkDocs plugin that adds support for site-relative URLs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-site-urls@0.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OctoPrint/mkdocs-site-urls",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-site-urls",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: OctoPrint",
+            "versionInfo": "0.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b4b7863960ff6733",
+            "description": "A MkDocs plugin that adds support for site-relative URLs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-site-urls@0.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OctoPrint/mkdocs-site-urls",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-site-urls",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: OctoPrint",
+            "versionInfo": "0.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75e942745b95815f",
+            "description": "Automatic documentation from sources, for MkDocs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocstrings@0.25.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "mkdocstrings",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "0.25.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d4efde95c1d9325a",
+            "description": "Automatic documentation from sources, for MkDocs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocstrings@0.30.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io",
+            "licenseConcluded": "ISC AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "ISC",
+            "name": "mkdocstrings",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "0.30.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8984120e5c505d0",
+            "description": "A Python handler for mkdocstrings.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocstrings-python@1.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/python",
+            "licenseConcluded": "ISC AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "ISC",
+            "name": "mkdocstrings-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8ca0aa9434ff2d16",
+            "description": "A Python handler for mkdocstrings.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocstrings-python@1.10.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/python",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "mkdocstrings-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.10.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-437a71f7ff41fdae",
+            "description": "Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/nlopt@2.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "nlopt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: DannieB",
+            "versionInfo": "2.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a5444539ae09c8a5",
+            "description": "compiling Python code using LLVM",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numba@0.60.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://numba.pydata.org",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND Python-2.0 AND CC-BY-SA-4.0 AND MIT AND NOASSERTION AND NOASSERTION AND Unlicense",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "numba",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "versionInfo": "0.60.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0789be4318c09ae",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x3407a55d0896dd6b",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f004c994faf866ea",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND BSD-3-Clause AND NOASSERTION AND Apache-2.0 AND CC-BY-SA-4.0 AND CC0-1.0 AND NOASSERTION AND Apache-2.0 AND GPL-2.0-only AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND MIT AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND FSFAP AND FSFAP AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7cf3cb2d2b6328c0",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@24.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause) AND LicenseRef-scancode-proprietary-license AND (Apache-2.0 AND (MIT OR Apache-2.0) AND BSD-3-Clause AND MPL-2.0) AND (MIT AND CC0-1.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause OR Apache-2.0) AND (BSD-2-Clause OR Apache-2.0) AND (MIT AND LicenseRef-scancode-public-domain) AND LicenseRef-scancode-proprietary-license AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause) OR (Apache-2.0 AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "24.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dd963724158c6ebd",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@24.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause) AND LicenseRef-scancode-proprietary-license AND (Apache-2.0 AND (MIT OR Apache-2.0) AND BSD-3-Clause AND MPL-2.0) AND (MIT AND CC0-1.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause OR Apache-2.0) AND (BSD-2-Clause OR Apache-2.0) AND (MIT AND LicenseRef-scancode-public-domain) AND LicenseRef-scancode-proprietary-license AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause) OR (Apache-2.0 AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "24.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61c7ad44b1b94143",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x26727f8cde0a16e8",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e09875be991501e",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x26727f8cde0a16e8",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-94c6d6b97b542092",
+            "description": "A Python package for describing statistical models and for building design matrices.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/patsy@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pydata/patsy",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND (BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference) AND BSD-3-Clause AND BSD-2-Clause AND (BSD-2-Clause AND Python-2.0) AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND Python-2.0 AND MIT AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND Python-2.0",
+            "name": "patsy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Python for Data",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-47a2a8e171f6a22a",
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@11.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "0BSD AND Apache-2.0 AND Apache-2.0 AND GPL-3.0-only AND LGPL-2.1-only AND MIT AND NOASSERTION AND OFL-1.1 AND Bitstream-Vera AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND NOASSERTION AND NOASSERTION AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0-only AND LGPL-2.0-or-later AND Zlib AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-3.0-only AND HPND AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND MIT-Modern-Variant AND NOASSERTION AND OFL-1.1 AND TCL",
+            "licenseDeclared": "MIT-CMU",
+            "name": "pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "11.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9a8fc4a3f17fd98",
+            "description": "Python Imaging Library (Fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@11.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.github.io",
+            "licenseConcluded": "((Bitstream-Vera AND Bitstream-Vera AND LicenseRef-scancode-public-domain) AND LicenseRef-scancode-public-domain AND Bitstream-Vera) AND Bitstream-Vera AND (Apache-2.0 AND AGPL-3.0-only) AND GPL-1.0-or-later AND LGPL-2.0-or-later AND 0BSD AND BSD-3-Clause AND Apache-2.0 AND CC-BY-4.0 AND CC0-1.0 AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later WITH Font-exception-2.0 AND LicenseRef-scancode-other-permissive AND HPND AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND ((Bitstream-Vera AND LicenseRef-scancode-public-domain) AND Bitstream-Vera) AND LicenseRef-scancode-secret-labs-2011 AND LicenseRef-scancode-secret-labs-2011 AND MIT-CMU AND LicenseRef-scancode-srgb AND MIT AND MIT-CMU AND MIT-CMU AND (LicenseRef-scancode-secret-labs-2011 AND MIT-CMU) AND MIT-CMU AND LicenseRef-scancode-unknown-license-reference AND MIT-Modern-Variant AND OFL-1.1 AND OFL-1.1 AND GPL-3.0-only WITH Font-exception-2.0 AND Apache-2.0 AND MIT AND LGPL-2.1-only AND LGPL-2.1-or-later AND GPL-3.0-only AND LicenseRef-scancode-public-domain AND TCL",
+            "licenseDeclared": "LicenseRef-scancode-secret-labs-2011 AND MIT-CMU",
+            "name": "pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "11.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-81bdd77b33b2d5b5",
+            "description": "Data validation using Python type hints",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pydantic@2.10.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pydantic/pydantic",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pydantic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Pydantic",
+            "versionInfo": "2.10.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-737fc3d39fa1d4c2",
+            "description": "Core functionality for Pydantic validation and serialization",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pydantic-core@2.27.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pydantic/pydantic-core",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pydantic-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Pydantic",
+            "versionInfo": "2.27.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-64c400817d5735e4",
+            "description": "Extension pack for Python Markdown.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymdown-extensions@10.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/pymdown-extensions",
+            "licenseConcluded": "(MIT AND LicenseRef-scancode-unknown-license-reference) AND MIT AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND MIT AND BSD-3-Clause AND MIT AND CC-BY-4.0",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "name": "pymdown-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website/requirements.txt",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "10.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cdfabcb422b7c672",
+            "description": "Extension pack for Python Markdown.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymdown-extensions@10.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/pymdown-extensions",
+            "licenseConcluded": "(MIT AND LicenseRef-scancode-unknown-license-reference) AND MIT AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND MIT AND BSD-3-Clause AND MIT AND CC-BY-4.0",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "name": "pymdown-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "10.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8b30c05abce2a592",
+            "description": "pyparsing - Classes and methods to define and execute parsing grammars",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyparsing@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyparsing/pyparsing/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND GPL-3.0-only AND MIT AND GPL-1.0-or-later AND MIT AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND MIT-CMU AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pyparsing",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Pyparsing",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a7cc19968b1e9300",
+            "description": "pyparsing - Classes and methods to define and execute parsing grammars",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyparsing@3.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyparsing/pyparsing/",
+            "licenseConcluded": "(GPL-1.0-or-later AND MIT) AND MIT AND GPL-3.0-only AND (MIT AND LicenseRef-scancode-proprietary-license) AND MIT AND BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-proprietary-license AND MIT AND MIT AND Python-2.0 AND MIT-CMU AND Python-2.0 AND MIT",
+            "licenseDeclared": "MIT AND Python-2.0",
+            "name": "pyparsing",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Pyparsing",
+            "versionInfo": "3.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-45f8fb345d35fe62",
+            "description": "Python interface to PROJ (cartographic projections and coordinate transformations library)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyproj@3.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyproj4/pyproj",
+            "licenseConcluded": "(LicenseRef-scancode-unknown-license-reference AND CC0-1.0) AND CC0-1.0 AND (LicenseRef-scancode-us-govt-public-domain AND MIT) AND MIT AND MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "LicenseRef-scancode-us-govt-public-domain AND MIT",
+            "name": "pyproj",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: pyproj4",
+            "versionInfo": "3.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-39a2a1b33d71e32a",
+            "description": "Extensions to the standard Python datetime module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND (Python-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "name": "python-dateutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: dateutil",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6871960853384a10",
+            "description": "Extensions to the standard Python datetime module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND (Python-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "name": "python-dateutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: dateutil",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9280f1c702316745",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2025.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "LicenseRef-scancode-public-domain AND MIT AND MIT AND (MIT AND ZPL-2.1) AND MIT AND LicenseRef-scancode-unknown-license-reference AND (MIT AND ZPL-2.1) AND MIT AND ZPL-2.1",
+            "licenseDeclared": "MIT AND ZPL-2.1",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2025.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cc6b165761fa35c",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2024.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2024.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-171807264185519d",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.32.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://requests.readthedocs.io",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.32.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7d34abd0d3be2906",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.14.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND NOASSERTION AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND BSL-1.0 AND NOASSERTION AND EPL-1.0 AND MIT AND NOASSERTION AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LPPL-1.3a AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Qhull AND Zlib",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.14.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9eaa7ec9dff91ed9",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.15.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x4850e53513773d63",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.15.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ed662094e0e79b6c",
+            "description": "Manipulation and analysis of geometric objects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/shapely@2.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(LicenseRef-scancode-public-domain AND Unlicense) AND LicenseRef-scancode-public-domain AND BSD-3-Clause AND BSD-3-Clause AND LGPL-2.1-only AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LGPL-2.1-only AND CC-BY-3.0 AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "shapely",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: shapely",
+            "versionInfo": "2.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-71d0745693ebe29e",
+            "description": "Simple, fast, extensible JSON encoder/decoder for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/simplejson@3.20.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/simplejson/simplejson",
+            "licenseConcluded": "((MIT OR AFL-2.1 OR Python-2.0) AND MIT) AND (MIT AND AFL-2.1) AND AFL-2.1 AND (MIT AND AFL-3.0) AND ((MIT OR AFL-2.1 OR Python-2.0) AND MIT AND AFL-2.1) AND (MIT AND AFL-3.0) AND LicenseRef-scancode-unknown-license-reference AND (MIT AND AFL-3.0) AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "(AFL-2.1 AND MIT AND Python-2.0) OR (AFL-2.1 AND MIT)",
+            "name": "simplejson",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: simplejson",
+            "versionInfo": "3.20.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-11cec7891e58d9c3",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d5328f9af105a17",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-854b502bff1a8399",
+            "description": "A modern CSS selector implementation for Beautiful Soup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/soupsieve@2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/soupsieve",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "soupsieve",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ef3f61fd12fdbe67",
+            "description": "Database Abstraction Library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sqlalchemy@2.0.39",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sqlalchemy.org",
+            "licenseConcluded": "BSD-3-Clause AND LGPL-2.0-only AND MIT AND MIT AND (MIT OR GPL-1.0-or-later) AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "sqlalchemy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: SQLAlchemy",
+            "versionInfo": "2.0.39"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fa062f81d53495f7",
+            "description": "Statistical computations and models for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/statsmodels@0.14.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.statsmodels.org/",
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND MIT AND MIT) OR (GPL-1.0-or-later AND NOASSERTION)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "statsmodels",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: statsmodels",
+            "versionInfo": "0.14.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-28875bd4edaed01",
+            "description": "Backported and Experimental Type Hints for Python 3.9+",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/typing-extensions@4.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/typing_extensions",
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseDeclared": "Python-2.0.1",
+            "name": "typing-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "4.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-85d2fb15c0678cda",
+            "description": "Backported and Experimental Type Hints for Python 3.9+",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/typing-extensions@4.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/typing_extensions",
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseDeclared": "Python-2.0.1",
+            "name": "typing-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "4.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cc4f5a6cbc15f929",
+            "description": "Provider of IANA time zone data",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tzdata@2024.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/tzdata",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tzdata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm/Pipfile.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "2024.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fc7d52a7f1bc133d",
+            "description": "Provider of IANA time zone data",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tzdata@2025.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/tzdata",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-public-domain",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tzdata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "2025.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c49c4fdb87af055e",
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@2.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: eeweather/Pipfile.lock",
+            "supplier": "Organization: urllib3",
+            "versionInfo": "2.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "name": "lfenergy.OpenDSM",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-caltrack",
+            "comment": "This package was added to the Trivy analysis for the caltrack by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/caltrack/archive/6b630eeefd6d3a7b1249f3d26548aced65b98b17.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/caltrack@6b630eeefd6d3a7b1249f3d26548aced65b98b17",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "name": "caltrack",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6b630eeefd6d3a7b1249f3d26548aced65b98b17"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-eeweather",
+            "comment": "This package was added to the Trivy analysis for the eeweather by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/eeweather/archive/7420d7229b4161fd2d7178231decece2f3591623.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/eeweather@7420d7229b4161fd2d7178231decece2f3591623",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "name": "eeweather",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7420d7229b4161fd2d7178231decece2f3591623"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-opendsm",
+            "comment": "This package was added to the Trivy analysis for the opendsm by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/opendsm/archive/338b9b1fa2d739d6fdbbbec2596a39b651ba2108.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/opendsm@338b9b1fa2d739d6fdbbbec2596a39b651ba2108",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "name": "opendsm",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "338b9b1fa2d739d6fdbbbec2596a39b651ba2108"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-opendsm-website",
+            "comment": "This package was added to the Trivy analysis for the opendsm-website by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/opendsm-website/archive/8a4a4eb4cc7a96ca71359a5139a635740bd42a03.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/opendsm-website@8a4a4eb4cc7a96ca71359a5139a635740bd42a03",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "name": "opendsm-website",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "8a4a4eb4cc7a96ca71359a5139a635740bd42a03"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-opendsm-website-prerelease",
+            "comment": "This package was added to the Trivy analysis for the opendsm-website-prerelease by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/opendsm-website-prerelease/archive/90b2dfc94f0d1ff858b3fb673f1ba540f59e3566.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/opendsm-website-prerelease@90b2dfc94f0d1ff858b3fb673f1ba540f59e3566",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND CC0-1.0",
+            "name": "opendsm-website-prerelease",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "90b2dfc94f0d1ff858b3fb673f1ba540f59e3566"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-437a71f7ff41fdae",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-47a2a8e171f6a22a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-5c6792f5ce17c97c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-5d5328f9af105a17",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-6871960853384a10",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-6a452e1df0586007",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-6a4be9829c0fd841",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-737fc3d39fa1d4c2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-7cf3cb2d2b6328c0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-7d34abd0d3be2906",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-81bdd77b33b2d5b5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-85d2fb15c0678cda",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-8b30c05abce2a592",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-8b5526f99d6d7e12",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-94c6d6b97b542092",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-9d2cf3d1beea36",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-a5444539ae09c8a5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-b1cb870f73a3712e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-b52930235117e734",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-ca29dc76616005f8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-cc4f5a6cbc15f929",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-cc6b165761fa35c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-e09875be991501e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-e783463dfe7fa08b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-f004c994faf866ea",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-1b281b008ea694eb",
+            "relatedSpdxElement": "SPDXRef-Package-fa062f81d53495f7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-115f08161f2cb7df",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-11cec7891e58d9c3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-171807264185519d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-28875bd4edaed01",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-35590e95ed1c0a66",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-3895e1084b3bc354",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-39a2a1b33d71e32a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-45f8fb345d35fe62",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-468f1e6ab554f65",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-61c7ad44b1b94143",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-71d0745693ebe29e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-778fbaa350b64668",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-854b502bff1a8399",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-9280f1c702316745",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-9eaa7ec9dff91ed9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-a7cc19968b1e9300",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-ba95f20d4662d82f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-c49c4fdb87af055e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-c9a8fc4a3f17fd98",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-ce57c54302bb3f6e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-d0789be4318c09ae",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-d75b6dfbd6e3b032",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-d8f0b0e00b0c3127",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-dd963724158c6ebd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-e82e69dda105d680",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-ed662094e0e79b6c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-ef3f61fd12fdbe67",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-218448fe74fb8973",
+            "relatedSpdxElement": "SPDXRef-Package-fc7d52a7f1bc133d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-203f27333ec3a991",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-2e71dc7501c419b7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-3b06abee7516e37d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-49e44f6b49e40b78",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-5df7984856c1cc25",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-64c400817d5735e4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-8984120e5c505d0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-92c53178bcbc4d86",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-9ea0d98d3ce6bc85",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-af381c54e0635f2a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-b346f3fca9bff72c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-d3785839fcbbf905",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-d4efde95c1d9325a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relatedSpdxElement": "SPDXRef-Package-e9cf48a077de6713",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-1b3df5ecad15f121",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-25022ba2b959e88a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-387460eabb9f80a8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-46d25181d65a58c1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-52c3662582a10bb8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-75e942745b95815f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-8ca0aa9434ff2d16",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-b4b7863960ff6733",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-cdfabcb422b7c672",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-d544faf009ab14ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-e8ea3b46c8449e0f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-f04808289c494fa5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-f66f244b11c24e16",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenDSM-opendsm",
+            "relatedSpdxElement": "SPDXRef-Application-1b281b008ea694eb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenDSM-eeweather",
+            "relatedSpdxElement": "SPDXRef-Application-218448fe74fb8973",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenDSM-opendsm-website",
+            "relatedSpdxElement": "SPDXRef-Application-9a36d471c6ab0c43",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenDSM-opendsm-website-prerelease",
+            "relatedSpdxElement": "SPDXRef-Application-a0a1ce949e67960b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-caltrack",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-eeweather",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-opendsm",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-opendsm-website",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-34fee146c1ed1b44",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-opendsm-website-prerelease",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
