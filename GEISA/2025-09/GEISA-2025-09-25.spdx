@@ -1,0 +1,1781 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_geisa-2025-09-25.zip_1759324049.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-10-01T13:07:29Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: geisa-2025-09-25.zip
+PackageFileName: geisa-2025-09-25.zip
+SPDXID: SPDXRef-upload1981
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: be3a73c4f089c47956aa1842dd28d9c2c40b0f9b
+PackageChecksum: SHA1: 9750c3dcb960212498998093d66b1fbb5638088c
+PackageChecksum: SHA256: aed579cdc923deddc51e50f8248509d8d7f98a904b406e61b218530e7d7823fe
+PackageChecksum: MD5: 170c57bcf17b0e6d2333f23885f7e0e3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1981
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/LICENSE.md
+SPDXID: SPDXRef-item11291485
+FileChecksum: SHA1: 470f75995b2891eda79067fd88b99cb5d8fe8937
+FileChecksum: SHA256: f40b1d00369c21b963293189b4617b5de439a11858541c07c620984634fb63b7
+FileChecksum: MD5: fec4ad0a534873671f9b6d24b8d7937d
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/license.rst
+SPDXID: SPDXRef-item11291537
+FileChecksum: SHA1: 8cf9bfdc3efb9fb100fa56fe8689dd71e7961752
+FileChecksum: SHA256: a33a930e80751f6bd29106d08b57b8026aff72cbdd998b0a808e70819ce36a95
+FileChecksum: MD5: 5cf60d81c27ece15d80f529679a0c825
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/LICENSE
+SPDXID: SPDXRef-item11291425
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/LICENSE
+SPDXID: SPDXRef-item11291437
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/LICENSE
+SPDXID: SPDXRef-item11291376
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/LICENSE
+SPDXID: SPDXRef-item11291387
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/LICENSE
+SPDXID: SPDXRef-item11291411
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/schemas/LICENSE
+SPDXID: SPDXRef-item11291435
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/README.md
+SPDXID: SPDXRef-item11291482
+FileChecksum: SHA1: 3e85fea9d5d02aa6f739a0a636c5775c58f17c9e
+FileChecksum: SHA256: 496e91f094cad2c55b211a99289eb2858a6ba2ca67a1bde5bc57277e228903f4
+FileChecksum: MD5: 924d668dd8a0f1215ed1bd04bf4cd050
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.github/workflows/ci-conformance-on-target-serial.yml
+SPDXID: SPDXRef-item11291476
+FileChecksum: SHA1: 9dcabf20ca4bb44eb1644c2343a8879539f4ba1c
+FileChecksum: SHA256: 907cf1acef90e0a41f04e8aa497583b2d2eabe826450802e389283d8b6a80519
+FileChecksum: MD5: db770084715817978e9525ba29426ed3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.github/workflows/ci-conformance-on-target-ssh.yml
+SPDXID: SPDXRef-item11291475
+FileChecksum: SHA1: b9b2531f4c88329b10e889dd1f5ba051445468b4
+FileChecksum: SHA256: b0da60b90c32ddba41b9698124811e09ab071077fcaf621dfbce686576f8bfcd
+FileChecksum: MD5: 8300107c912b419e400f2142c206628c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.github/workflows/ci-conformance.yml
+SPDXID: SPDXRef-item11291474
+FileChecksum: SHA1: f4ad80e1b638069a238b7364282dc8f58643c092
+FileChecksum: SHA256: 560748e6beb1a8b3ccaf06cbdb6514fd36c83d21eeba86059d90586f8abd8fb8
+FileChecksum: MD5: 7ba4dde1af4f98e7e4ddf03e75a0f1e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/conformance.rst
+SPDXID: SPDXRef-item11291492
+FileChecksum: SHA1: cc0c3bebbba4c55fb1e1eaafdd73a71937ef8ea2
+FileChecksum: SHA256: 20d2a9108d023215f41accad07eda5ee039002a4b6d74235398408a2b3293633
+FileChecksum: MD5: 253eca1f781cb8dc7e58a49eee283cbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/launch_conformance_tests.sh
+SPDXID: SPDXRef-item11291438
+FileChecksum: SHA1: 31a652e82dbc83b6c70e7c12bc03fe6dd5f53197
+FileChecksum: SHA256: b7deedcb8643e5c670891ec0e8171eb2194572fd531554b3587ec67d7671ae79
+FileChecksum: MD5: 49954437d2158adfc569de7fb0660b70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/launch_gadm_conformance_tests.sh
+SPDXID: SPDXRef-item11291456
+FileChecksum: SHA1: e162c01dec1a06cbf9a0d086b7d95715cfb58b38
+FileChecksum: SHA256: 10ca51f2ea1b1bdf260e21faf058b98e73eacb791dbda17198c0408a07681528
+FileChecksum: MD5: 6e146abfc566c4ebe4e11e5f11b38078
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/launch_gapi_conformance_tests.sh
+SPDXID: SPDXRef-item11291440
+FileChecksum: SHA1: ee105c58ab3c79fa52a1e9023945b42905e8b507
+FileChecksum: SHA256: 77fcca04ec5133bbc0129a07d48903a71d3bb13598adde2a921f07186a738717
+FileChecksum: MD5: 7e822c3a9cf7ad9d9887d151b25d1707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/launch_glee_conformance_tests_serial.py
+SPDXID: SPDXRef-item11291449
+FileChecksum: SHA1: 51516f19b96e4ef3f0734f38bf0d37dbe1ddf21e
+FileChecksum: SHA256: e917929d263591fd6b3686e25503e937ef6fee71c6bc0a699f80ccff35c0ef24
+FileChecksum: MD5: a165486140d6afc60416e238fa0c1a9a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/launch_glee_conformance_tests_ssh.sh
+SPDXID: SPDXRef-item11291455
+FileChecksum: SHA1: 97e868c0d601f9297dce108d82e48a385bdf1d29
+FileChecksum: SHA256: 75d762f0d4898ebc9fa5a9c59f8024813928ded057e17e6fb1a73d31d971fbb3
+FileChecksum: MD5: 54233802f43e67b1040007a10e3daa6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/dbusmemcpy.c
+SPDXID: SPDXRef-item11291375
+FileChecksum: SHA1: 93f90e5c09f1ba6e65d140a42a5012ebbc02c0de
+FileChecksum: SHA256: 6e4f5be2cb496385044c99a504edb95165635089f3755c4a86e55ca08dbdc5ac
+FileChecksum: MD5: 9f08c1745649015cdb0e2673c93c1e90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/GEISA-IPC-Timings-2025-06-24.pdf/GEISA-IPC-Timings-2025-06-24
+SPDXID: SPDXRef-item11291379
+FileChecksum: SHA1: acc1aafba13277c584a4dee89efd4d8b05c7a4ad
+FileChecksum: SHA256: 8d148d3abf33de08344070779e432bf87d02ecc7d668afe652c13c263ea2d0e3
+FileChecksum: MD5: 4c7e4a1c37ef2715d305759ee329e5b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/zmqmemcpy.c
+SPDXID: SPDXRef-item11291380
+FileChecksum: SHA1: fc9f71bfc63ecf372e9423e7385e3bc0c1e932ad
+FileChecksum: SHA256: de530652c7cf7869a8508b850010431db335cd4413aa750b2add21452ef1d8a4
+FileChecksum: MD5: 01bfe3fecfa9aecbb84e556955e0a672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/udpmemcpy.c
+SPDXID: SPDXRef-item11291381
+FileChecksum: SHA1: 06bfee0ba0c8766e7c363ee271752353a345fa93
+FileChecksum: SHA256: 76b05a2576605b22bf144265e20ccf14970e2382d5981aa4c172237cfca57150
+FileChecksum: MD5: a6a0c47c59958d4eb377ffe5aa0017b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/tcpmemcpy.c
+SPDXID: SPDXRef-item11291382
+FileChecksum: SHA1: dbb334766e43ca033e3e7c64e29bfb8cd41185f4
+FileChecksum: SHA256: 95778200f8995653938796d07e355d6f3518a6c54b3c1edc14a27355589f36d7
+FileChecksum: MD5: 950d77366dde5069b737847e21fab255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/README.md
+SPDXID: SPDXRef-item11291383
+FileChecksum: SHA1: 9fe0c4e3d2a817f447a06f2ecd8c2925140d771c
+FileChecksum: SHA256: 915a9d636b43102f09745708db51f74994eb6e6a8861971dee054af07488579b
+FileChecksum: MD5: c7c6e15a90007599305be0b5ea40b1eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/memcpy.c
+SPDXID: SPDXRef-item11291384
+FileChecksum: SHA1: 6d36c90245aed90ff880c778191eb1b006b65f0a
+FileChecksum: SHA256: 154685d4c5cd436780eec95bc9e83db08c6d87aaaa57083dba3eb47a0e29700b
+FileChecksum: MD5: 18452602a771b2bd2224f182e8045c8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/ipc-timings/shmemcpy.c
+SPDXID: SPDXRef-item11291385
+FileChecksum: SHA1: 3d3a9976bacb443ee8ce2f7cf9eb7aed36b0bfe8
+FileChecksum: SHA256: 76466b8b27dfbed24e8c6f8971fd756905acebefacca2db91ef164007c12cd91
+FileChecksum: MD5: b9ee4d9bb948df9213989e02f42cca26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqsub/.cargo/config.toml
+SPDXID: SPDXRef-item11291390
+FileChecksum: SHA1: 0bfaac1af750c66ba9550b74e2a57b3dc671f0b3
+FileChecksum: SHA256: cd85a75e17453753c4790dfff97683f1d645b963bd0e9ca03deca445ec3b84af
+FileChecksum: MD5: d89d7dd9e419bbfaa1cbcc7403f02128
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqsub/src/main.rs
+SPDXID: SPDXRef-item11291392
+FileChecksum: SHA1: da5b3fe0a8c967ed942458dbd77a513f80c3e50b
+FileChecksum: SHA256: d0a37e499b074e46845aaed8b1ea458ac23635315f465b12d800c865d640d7c0
+FileChecksum: MD5: baf832b420d7e9c38758a701bad983bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqsub/Cargo.toml
+SPDXID: SPDXRef-item11291393
+FileChecksum: SHA1: aac0a1efd8eac6bde17e1da9d761a5318ae450c1
+FileChecksum: SHA256: cb00bd055ea479f0b9c47f36dbc8ee556c716176a25852c5194c6a02137f554b
+FileChecksum: MD5: 11fb8669cd8e86a0c5bcee5b7ade5082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqsub/Cargo.lock
+SPDXID: SPDXRef-item11291394
+FileChecksum: SHA1: a4a11e03377cb978959dc7d9a18e487856f29bcf
+FileChecksum: SHA256: fd0855b92720c70fa174fa38763b655e5d131b652237800b660b133f31437cf5
+FileChecksum: MD5: b3dfcb032fa7ce346c9edc048689280a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/.gitignore
+SPDXID: SPDXRef-item11291395
+FileChecksum: SHA1: 260a79277c58a168c2cc8b5d712f14fa0b5765d3
+FileChecksum: SHA256: e824f8456490dc818b2e8643a7bd7b9120f3d0982e7afae8cc7ffff77b551ad0
+FileChecksum: MD5: 1cde970ab3d58b6be79248ec2581c9c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/README.md
+SPDXID: SPDXRef-item11291396
+FileChecksum: SHA1: e120b4dda5c87da7b09c5fe895e3eaa9ff0970ab
+FileChecksum: SHA256: 23351783d99b15bfb00e061ea5ace02c16c9ed6f6a0a82291bff61c7b8842a04
+FileChecksum: MD5: 2f703d93cc4fe4b35f11d7034b64508f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqpub/.cargo/config.toml
+SPDXID: SPDXRef-item11291399
+FileChecksum: SHA1: 21ea4fbf48fe0318aaab3c8baf48f0cc90d5cbfa
+FileChecksum: SHA256: ca9b15575071817cf385127dd4e42e43a317ad5e8c7ed2698b0e5fa9eb139467
+FileChecksum: MD5: ab4f7563ceddab4df1b2fc55aafd3a8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqpub/src/main.rs
+SPDXID: SPDXRef-item11291401
+FileChecksum: SHA1: b649d68fdac1ccb3139dc7c62ad1f2308b078cfe
+FileChecksum: SHA256: d88eaef9b8bcb89da477e5b16773b8e0a6b5b77ce38073a5a13a4f544e7c68d6
+FileChecksum: MD5: 7972b449812d62cf105ec3e48fc3b224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqpub/Cargo.toml
+SPDXID: SPDXRef-item11291402
+FileChecksum: SHA1: 70b28b16f60442966780a47714a4d071ca34f2fb
+FileChecksum: SHA256: 823d817425d2fcbbc6e9dd7a07dd54522d1d87ececab0f48ce5dd53801fa2204
+FileChecksum: MD5: 4579020bfdfd048a539bfb3174f34893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/perf-eval-zeromq/zmqpub/Cargo.lock
+SPDXID: SPDXRef-item11291403
+FileChecksum: SHA1: 42facd0dcbbb41b918d028956dbe847b05ddea18
+FileChecksum: SHA256: afdc79b28c50a37e40292e0b30fd34b21b05c19f2d066794dffa08df227d7717
+FileChecksum: MD5: 47644667f8e8a3500ba32ab913103f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/msgpack-vs-protobuf/requirements.txt
+SPDXID: SPDXRef-item11291406
+FileChecksum: SHA1: 10235dece6255fcaef8ee07ff086678f4721479b
+FileChecksum: SHA256: 5d235dcddbe0f19bec053eaca8915f87e049118da7ead0306de0bf964c6487e5
+FileChecksum: MD5: a76299f0242f84ce19587066e2412f7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/msgpack-vs-protobuf/main.py
+SPDXID: SPDXRef-item11291407
+FileChecksum: SHA1: 228700741f164f02dda47a6dccd0c5604e20fd70
+FileChecksum: SHA256: fb7426bd4bbf52382041069fee07a231e571d09dbfbd277ef2acb19bbd92685e
+FileChecksum: MD5: 2dabc56babe1e6f4f585c8d0061bedd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/msgpack-vs-protobuf/waveform.proto
+SPDXID: SPDXRef-item11291408
+FileChecksum: SHA1: d5ff47f86e4da7e5777d6a71511d52db3ec113b8
+FileChecksum: SHA256: e97a139b118c47d0cc5b2058164ec182548df1433947e8bccf12eb3e7ec4232e
+FileChecksum: MD5: f43558c6fc6877f276b9c40c61f24ba7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/msgpack-vs-protobuf/README.md
+SPDXID: SPDXRef-item11291409
+FileChecksum: SHA1: 562aea58825b1ec916b5da345d5e0f58020ecb7b
+FileChecksum: SHA256: 0a3343b4ded83c0f20a08a47109d765aac731fdf56a9990f066f59b0c978b9f8
+FileChecksum: MD5: 60d453865a5339a05ded98575c11733e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/msgpack-vs-protobuf/waveform_pb2.py
+SPDXID: SPDXRef-item11291410
+FileChecksum: SHA1: b8fdb6a326d75ac97f4b7b15b92c5057dbe4898b
+FileChecksum: SHA256: 62a4b37641e95eafd0265630de05fd517d1b70c9924c4ce86eda00e904677201
+FileChecksum: MD5: f8bff834f3a9f465f1c5957809d1f5db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/.gitignore
+SPDXID: SPDXRef-item11291412
+FileChecksum: SHA1: b24ae32103d320a5effb06ba5efed637fcf86000
+FileChecksum: SHA256: 48b33f9f89ef24f8a66f461ea9278e7ecf21b4660c26088989d231e53c578724
+FileChecksum: MD5: 64ade73f4586bbd5612782b751e67950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/README.md
+SPDXID: SPDXRef-item11291413
+FileChecksum: SHA1: 0e372ece726b0d2350b07235c3446da7efa14fb3
+FileChecksum: SHA256: a97f9f5a89ca0f141d7c9c703cbe3f5e9dfcd6781d2d61b850f9aae7055d0192
+FileChecksum: MD5: 928b74039c9cc45900df24fc6bdb975e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/v1.py
+SPDXID: SPDXRef-item11291415
+FileChecksum: SHA1: e8522dd80c10a43f1e87f721998be931a2aae16d
+FileChecksum: SHA256: ad7aa6df68dfcd93f4e5c044aacb2ca133a1abc81ec500dd257c5fa0bf819416
+FileChecksum: MD5: 4ddf691bbc71d96bec012b62ae95cfbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/v1_pb2.py
+SPDXID: SPDXRef-item11291416
+FileChecksum: SHA1: 9c29969d8bf4041f94476af465319a0da99351c8
+FileChecksum: SHA256: 381f38f32aa2dbf431f3dfc2f2bc199f90e2069fffcc1c15d846be9f13c5f390
+FileChecksum: MD5: 6263ebfb16a054a04973e03a3943159b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/v2.proto
+SPDXID: SPDXRef-item11291417
+FileChecksum: SHA1: 5b3247901c304840e969b0ef113804a720db6647
+FileChecksum: SHA256: 029092d299e5ed3322fa71fcd378a6b6c6d4681b3bfd1de69dc1ca597667adba
+FileChecksum: MD5: 13f2b7de753e435e0570060f45ce430f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/v2_pb2.py
+SPDXID: SPDXRef-item11291418
+FileChecksum: SHA1: 780aac08c4f82265f734284dd97e76f26911ea15
+FileChecksum: SHA256: 4e16f2a0071adf25a818de13b53188bb9b90dfe2d0001c3d2fbedfbd163ea89c
+FileChecksum: MD5: 2279e54976396532baddcb4fad6825b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/.gitignore
+SPDXID: SPDXRef-item11291419
+FileChecksum: SHA1: b16458dd8c7e11a7154af266bc3309fb0a68537c
+FileChecksum: SHA256: 0d26bd270b65314ccf01fd49f3eaf7cd195b93136e2174d561de06a3152747d9
+FileChecksum: MD5: 30c3366c544728a8af6d8d71eb21a814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/requirements.txt
+SPDXID: SPDXRef-item11291420
+FileChecksum: SHA1: 44520d637fd9d3ea6e1850296ffbf907a03f28de
+FileChecksum: SHA256: 5c233798c66e8347228bd08199a3974866aeb461b2ff3d292c1e5ad401a7a5d4
+FileChecksum: MD5: 8f58ce23b11930d941497154f9334396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/v2.py
+SPDXID: SPDXRef-item11291421
+FileChecksum: SHA1: e1d822332dc6d761eebd7be0b8931a4f829d21f3
+FileChecksum: SHA256: fb3d3ce363dd41c6979f8826ff6dba35c060026f4eda0f6f02a7b4ff73720778
+FileChecksum: MD5: 8ed488cc87e3dfedc7986ecea07f8d2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/README.md
+SPDXID: SPDXRef-item11291422
+FileChecksum: SHA1: 85b8b4bb639d075e55ac41d4f1715c1a16104ade
+FileChecksum: SHA256: a129cfe4f325b921bde41433080031937c1148bff8e9ca1233b782ec6c056324
+FileChecksum: MD5: 2322836dca6f45b40332ab7c0df1bfd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/protobuf-demos/backwards-compatibility/v1.proto
+SPDXID: SPDXRef-item11291423
+FileChecksum: SHA1: d5ff47f86e4da7e5777d6a71511d52db3ec113b8
+FileChecksum: SHA256: e97a139b118c47d0cc5b2058164ec182548df1433947e8bccf12eb3e7ec4232e
+FileChecksum: MD5: f43558c6fc6877f276b9c40c61f24ba7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/.gitignore
+SPDXID: SPDXRef-item11291426
+FileChecksum: SHA1: 033b63174761ccecf5289a7879bc64f5b2044754
+FileChecksum: SHA256: 36d77b6f51d0eada3112b49e5be41cc239e3170e306620075ac142657a91fec6
+FileChecksum: MD5: d4b4dc6c9f5d69494c7101ab74a4d261
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/demo.py
+SPDXID: SPDXRef-item11291427
+FileChecksum: SHA1: acecac5ff5fa34b6a9b6935199a828b9f532ba10
+FileChecksum: SHA256: 7e8881ce63fb6b0e152bf7067f63bbf4b88b8aed4636f3d9fced026d62555eee
+FileChecksum: MD5: 3c2f8033910eb8763a5036b98abd291e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/demo_unsandboxed.service
+SPDXID: SPDXRef-item11291428
+FileChecksum: SHA1: 12db7908873d992ad1d5e5159878e3ab1c1aab05
+FileChecksum: SHA256: 6a1a70117ef90b97097fa3a78ed15dc1705db35e9ebb602223bb330860533028
+FileChecksum: MD5: d45572f3eb65177e04e99e0566725359
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/demo.service
+SPDXID: SPDXRef-item11291429
+FileChecksum: SHA1: aecbdd76820f6f57277c96e5e88b2dca18f9051d
+FileChecksum: SHA256: 6e25d53a6f164b0d6306ecb303ba6189e04108dd99b54af68b18a2ba7ebeeebe
+FileChecksum: MD5: e1fe5bdb342b32dfbbb3dd6ff9b7b0f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/README.md
+SPDXID: SPDXRef-item11291430
+FileChecksum: SHA1: c798d278438d99ec628aa967c95493b70990f418
+FileChecksum: SHA256: 6c14eb1fedc3ba6576f27fcafcdfa65dfcae864542e046a5269295cba92c35bb
+FileChecksum: MD5: 7b9d67f642c7c819af9b471138b57b54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/cleanup.py
+SPDXID: SPDXRef-item11291431
+FileChecksum: SHA1: f0cf7db7c7fcc3d88d3a621426d0dddcbd2ec463
+FileChecksum: SHA256: 92da750899d2c1cf210734de6d7326f5a4ba285357a231c7074fd6a5f11b4cef
+FileChecksum: MD5: a62162702526514e2cb72db3bae07820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/run.sh
+SPDXID: SPDXRef-item11291432
+FileChecksum: SHA1: b89b38d8cdfeb138b45446d53930468e42845296
+FileChecksum: SHA256: cce1028b6880e2c85fbac20050af271a41c685faa31adf1eeba30c30458b77a0
+FileChecksum: MD5: 9322c04aaebf931874338a96a8dbf2b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/application-isolation-security-systemd-demo/target.sh
+SPDXID: SPDXRef-item11291433
+FileChecksum: SHA1: bd453b67d1159698fd237bfbbba9a3d632aa0457
+FileChecksum: SHA256: b362c6c63c55bae066638b2aec1bb3bfde34e28508e815ba956ee2fd15694721
+FileChecksum: MD5: b7de1e9a4467bfa3a9923bf64a6da570
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-ADM-tests/tests.d/00-cukinia.conf
+SPDXID: SPDXRef-item11291443
+FileChecksum: SHA1: 6d4208d072db0001347c67275cb2825b7dbaddc3
+FileChecksum: SHA256: 76e409d61752a523ae829b0911b85a0007c7e71577849f55d4f73302692eefe8
+FileChecksum: MD5: baea3eaba4f3d5ad2299034ea9bd915f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-ADM-tests/tests_configuration.conf
+SPDXID: SPDXRef-item11291444
+FileChecksum: SHA1: e473eef797b65c74d12bd4496eb84cac28d09d0e
+FileChecksum: SHA256: 6b3e1f30569c70cd960cf61097fd82157c2a51bcdc2faab91f420d301d33bf1f
+FileChecksum: MD5: d6dc71fbc945b3c89bf3497815cd1e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-ADM-tests/cukinia.conf
+SPDXID: SPDXRef-item11291445
+FileChecksum: SHA1: 3cc06bf4582c73be1b48a9f9a45cac2212ff3587
+FileChecksum: SHA256: b7787b52e7f0b012acd7ad32d69de2f749837e8f36ac2dbff4eb1c41453d493e
+FileChecksum: MD5: d0dbfea1b84e679d9e045059866b6ba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/pdf_themes/lfe_geisa.svg
+SPDXID: SPDXRef-item11291447
+FileChecksum: SHA1: 706de11a761aa8b4c8a5ceabe31065ef857d6fbd
+FileChecksum: SHA256: 39ca0b5a9cb10285e606a02c1787c68d1aae73bf84b189c368eccfd5fd3631d0
+FileChecksum: MD5: 500eb9ca68b2106dce623557fd357a6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/pdf_themes/theme.yml
+SPDXID: SPDXRef-item11291448
+FileChecksum: SHA1: 8924cf5b521de038a3e6b518704ee970548b4c93
+FileChecksum: SHA256: bccc3eb671698785f8a6dc035820656e0eac340ca0a8b3da958bdc3b6eb578b1
+FileChecksum: MD5: e0979704db625594d26116a6ffad26cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison.
+Copyright © {year} Southern California Edison recto: *shared_footer title: center: content: |
+Copyright © {year} Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-API-tests/tests.d/00-cukinia.conf
+SPDXID: SPDXRef-item11291452
+FileChecksum: SHA1: 3c2bc5b9a69142d43da363e3660f0093dac877a4
+FileChecksum: SHA256: b7ec7155e09dc7341a623b19f858321b15e07532ca3722c57fd40e43469ce3ca
+FileChecksum: MD5: 9b98033f4043d9e58bfabf6629e67a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-API-tests/tests_configuration.conf
+SPDXID: SPDXRef-item11291453
+FileChecksum: SHA1: e473eef797b65c74d12bd4496eb84cac28d09d0e
+FileChecksum: SHA256: 6b3e1f30569c70cd960cf61097fd82157c2a51bcdc2faab91f420d301d33bf1f
+FileChecksum: MD5: d6dc71fbc945b3c89bf3497815cd1e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-API-tests/cukinia.conf
+SPDXID: SPDXRef-item11291454
+FileChecksum: SHA1: c2d85cb387c3e8930a2fce56211322acd2c99afc
+FileChecksum: SHA256: 2b4887ca895211a53c1af859b38f033700dc9d819aeac49edafb7735a63eb3d0
+FileChecksum: MD5: 2e531b707b1fc65825e1910ea6b7b903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/06-kernel_minimization.conf
+SPDXID: SPDXRef-item11291459
+FileChecksum: SHA1: 30e6efbfdc9a7e493518ba53bace6ec65f033fcc
+FileChecksum: SHA256: 1718f93febd24c1324ad1848e0806980a20962c8b84996856fa229b9778be576
+FileChecksum: MD5: bd89680e2b5147ccda710e03768d294a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/get_root_device_size.sh
+SPDXID: SPDXRef-item11291460
+FileChecksum: SHA1: 1c3384977fdefe58aa983f323a98c234bddca335
+FileChecksum: SHA256: dec9257ab1684dc19213c3a5957b43adfe18cb86fd848cd61ddd583a5b0dcfa8
+FileChecksum: MD5: 7c0158be734895805f1b30729369b5be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/01-basic_hardware_tests.conf
+SPDXID: SPDXRef-item11291461
+FileChecksum: SHA1: 30b014791bb3a185135f8009a56975a9c1f09b4a
+FileChecksum: SHA256: e864d3bb2de04c83a44cce1b2397d166e7038b32337e6c11fc84ab145122edaf
+FileChecksum: MD5: a570d302c876d4f8f2f606872480ac0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/check-config.sh
+SPDXID: SPDXRef-item11291462
+FileChecksum: SHA1: cfa2f051d5dd8a885fda1f138c3ca7ce198ccaeb
+FileChecksum: SHA256: 37eaf2b48be83c807b1b3c3704afeabf82b57d93662f12078cda3f032f2400fc
+FileChecksum: MD5: 7f053aadc8ebde269d84890e90b3a72a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/02-runtime_os_consumption_tests.conf
+SPDXID: SPDXRef-item11291463
+FileChecksum: SHA1: dd6cac7eb8dd4cdb9b4e3b349334bed537746f88
+FileChecksum: SHA256: 9810c6e2e37b1e1704a08a07d8961be7e8b2c274ff42b27338d579b6232d3529
+FileChecksum: MD5: fcb29585199040cdf915d28c70c975d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/05-connectivity_tests.conf
+SPDXID: SPDXRef-item11291464
+FileChecksum: SHA1: b15982b0aad33a9b17e61f4c6162af59cff26fee
+FileChecksum: SHA256: 48798cb5f09ba3fe7b20a63b697877420dbf4fb8d4257e63776a6009af6e780c
+FileChecksum: MD5: b81bd5797d1a7abd7d213bb35806d2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/03-os_requirements_tests.conf
+SPDXID: SPDXRef-item11291465
+FileChecksum: SHA1: 1b460df54296d2e7abb6b12132b1a79ce54f9a1e
+FileChecksum: SHA256: 9b5a2e65277c6a8b79373f6f011c53d9c85ed1e90048ee57359e76608b85b326
+FileChecksum: MD5: 50c1b6787e29d6c42c1dd7cbb96ee86c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/00-cukinia.conf
+SPDXID: SPDXRef-item11291466
+FileChecksum: SHA1: e8105869007ac199d20cdc94d0bd26dcc13911be
+FileChecksum: SHA256: 41fd27697064407fbe41b14aec52a30fb247811ddc65ea07276057d66a1acf1c
+FileChecksum: MD5: b7cde4a0a1b62621c6ece8fd44ca4377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests.d/04-application_isolation.conf
+SPDXID: SPDXRef-item11291467
+FileChecksum: SHA1: 79b1f84029bfa13b0e0020a17cccc4d8c431f693
+FileChecksum: SHA256: e6c30e47f2742cb2a3cf172abcd87beb675be0f304858887bf529aaccc88015b
+FileChecksum: MD5: cf91a3ca99973e307a1ff07c4d75faa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/tests_configuration.conf
+SPDXID: SPDXRef-item11291468
+FileChecksum: SHA1: 13fa8903a1376b153029120521c24925b1997c87
+FileChecksum: SHA256: 6279dfeb5106b47dab7adacc05b38416b4a7d4bc26f5f6a29fbd3f5b22750fa5
+FileChecksum: MD5: 3ac19a9f28fff203ccfb82575549a9cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/cukinia.conf
+SPDXID: SPDXRef-item11291469
+FileChecksum: SHA1: b6796f14c4206a4240d3ddbf088fdc1ffc61c31b
+FileChecksum: SHA256: 09120870b081011b950bc4cc2170edf9559a057082c1de76b1ec9e8a7e0bd038
+FileChecksum: MD5: 20ed977973685cecb62004ee1a8e9fa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/connectivity_tests_bandwidth.conf
+SPDXID: SPDXRef-item11291470
+FileChecksum: SHA1: bdf8b7aa3eb75a9a7fbdb4dad3eb5fbe4c4d431d
+FileChecksum: SHA256: b74a831d06c598f952ca4d324ab85da3ea6dec117b509c008dd5d3c6a33f1b75
+FileChecksum: MD5: 552763b31e93d25235831d5c0d398c32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/src/GEISA-LEE-tests/GEISA-LEE-matrix.csv
+SPDXID: SPDXRef-item11291471
+FileChecksum: SHA1: 127c148eea24ba53d607e7f3218fac7fa6bfc845
+FileChecksum: SHA256: 08643876d368d5e0c0129a135351192b090310a7518ae8183de5ac7bce9a3491
+FileChecksum: MD5: a2549fb27410ec3792cfdfbe9524a5e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.cqfd/docker/Dockerfile
+SPDXID: SPDXRef-item11291479
+FileChecksum: SHA1: d80b06a782bb6338dcaffd7a5fa5919c9275e6a7
+FileChecksum: SHA256: fab6ae409311d4379212721d1572f7842158dc4f60096871278f5eeb08bf2649
+FileChecksum: MD5: 8b4df218542f3723191f856ca3c8b157
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (C) 2025 Southern California Edison. </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.gitignore
+SPDXID: SPDXRef-item11291480
+FileChecksum: SHA1: 99009d38d79e2522dc6aa54576ce0db66f27540a
+FileChecksum: SHA256: 4937f16ad80800f062a749928a8731980279b13da6a668a19d5224f20d27cc86
+FileChecksum: MD5: 24a5f3d2dc16f9d87a5ef7fa24816cf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.cqfdrc
+SPDXID: SPDXRef-item11291481
+FileChecksum: SHA1: 11db56fba7defe484dca0bc7157ee44fe88c9a19
+FileChecksum: SHA256: 90e7a345e9ae1e635c4a94c7986ff1ebcb16329b26d67c33d16e0ab34cb3f951
+FileChecksum: MD5: 00c54b5105edc49f620992b965a55ff2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/conformance/.gitmodules
+SPDXID: SPDXRef-item11291483
+FileChecksum: SHA1: 3304dbeb8eabde126d592837bc773875f06d7be6
+FileChecksum: SHA256: b82df920fe42f98dd6ba677aa02136bd5eaabf1d4b2ba0bca557a586d1b1e8ad
+FileChecksum: MD5: c13d780a031d5abf2fe62595e0f4bf81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/Makefile
+SPDXID: SPDXRef-item11291486
+FileChecksum: SHA1: 544c2f2adf3fe0f0c908ebdf2943244fbbb716dd
+FileChecksum: SHA256: 18e6f90c4673f73c5290c0c48c0df2be25652c73e72dfa625fe87d992f3a5417
+FileChecksum: MD5: eb1705eb342bb5b1b373c630a6abdfe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/.gitignore
+SPDXID: SPDXRef-item11291487
+FileChecksum: SHA1: e0466a15d5e9b2f3fc33e8425a03a2b65f5d7eda
+FileChecksum: SHA256: f6edeff1cd79e6f314d5ef9d7500de377953cb2b9061c7e5847069cdecf678cf
+FileChecksum: MD5: 94134d5c8bda69d168d4687e44802f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/hardware.rst
+SPDXID: SPDXRef-item11291489
+FileChecksum: SHA1: b484ad3ec51d920e12bf97b412b3221f9287098a
+FileChecksum: SHA256: c9e901b85a61b42b729a51638532f9adb7e35985978d14fe642cf06f162f4fd1
+FileChecksum: MD5: 1b02bdd7e21a13fc150f7402eeef5336
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/security.rst
+SPDXID: SPDXRef-item11291490
+FileChecksum: SHA1: 43c06b6b5b7299d297d3774c0dcb2719dae8fe4f
+FileChecksum: SHA256: 346c19de5519e3acdc54114b831c1db573ec946f202b07dd773cfdb5758a5273
+FileChecksum: MD5: 71badce6ebbc9f8ceeae56f8f1e24594
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/introduction.rst
+SPDXID: SPDXRef-item11291491
+FileChecksum: SHA1: a68dd7e255df74206d85b84d9bfac5c9f4d31f9c
+FileChecksum: SHA256: 39f7a6a07521ccdfb9f21b19669af2514f88c447262f3a564e2874607b3e09c6
+FileChecksum: MD5: 5fbbcfe686c4d66cb7d901115a777a8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/geisa_release.txt
+SPDXID: SPDXRef-item11291493
+FileChecksum: SHA1: 77ba406cbdaa641f1f4ca09902edf5f03a0e0a1e
+FileChecksum: SHA256: 800cf1c0392b24de7c0a1c6ea6778ecb433dec71c49a150bce96a98477527b2f
+FileChecksum: MD5: ab40963ea34977175a2472d6baf24d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/app-isolation.rst
+SPDXID: SPDXRef-item11291494
+FileChecksum: SHA1: 3052473dd5ca356b41c47fb8d1542d6fb133e2c3
+FileChecksum: SHA256: e46d27bef08b1b7be01eb43cf7de87317f44cb58048941e6e36db8ea6145083f
+FileChecksum: MD5: fb7b509cc075df679ef1cbb0ec846b78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/lee/base-libraries.rst
+SPDXID: SPDXRef-item11291496
+FileChecksum: SHA1: 8fc943ce08aab9a464f479a61ba8b216c224509c
+FileChecksum: SHA256: 06eb04cc1a5e29063abca0c40cec2917e9a6d04acc67df722a80d509b4739c78
+FileChecksum: MD5: fceafa58133f51f289345364b17fea60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/lee/operating-system.rst
+SPDXID: SPDXRef-item11291497
+FileChecksum: SHA1: eaf14f04441686b53dee0cfd77a767a93e5c32e8
+FileChecksum: SHA256: 7ef2482a95b1f2b9e81563cbbac96646f7693dc6ee2de645852ac789bc55f069
+FileChecksum: MD5: 60ebde265b47666d462fcec9a065f40d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/lee/core-services.rst
+SPDXID: SPDXRef-item11291498
+FileChecksum: SHA1: dbb223831381c77fa33e7347cb4de5ce9ae0c1fb
+FileChecksum: SHA256: aad67f330e2e2fd797d2268dd871dc67956084db1e726d8be20c7d0aeaef2e27
+FileChecksum: MD5: 34bd17e9cfd504c5a9b4a0ceac470ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/lee/file-layout.rst
+SPDXID: SPDXRef-item11291499
+FileChecksum: SHA1: c44ab5d61c0d831c5662d22cff207deddf74e16e
+FileChecksum: SHA256: 0de3b7a6460b490465cb8adc2b2216ce0d831f3b7ed55ea1b9db194a793cd02b
+FileChecksum: MD5: c436b32647bfded1bed1efe23cf2f98b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-architecture.svg
+SPDXID: SPDXRef-item11291501
+FileChecksum: SHA1: 091c7b59107974c51d720c386a20a2c3ad68dd3c
+FileChecksum: SHA256: f97607cc401f51d21f383eb480606be0d2adec06aa251c82fdbe85fd1655f90d
+FileChecksum: MD5: 8b0fc6c8e4d557374dcb0a25adaba36e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-baton.svg
+SPDXID: SPDXRef-item11291502
+FileChecksum: SHA1: 78e70ad23a94cdcb8f0b81f116a5b46b7e49bc86
+FileChecksum: SHA256: 91e586111d5170da72f3b83d761ccc78206adacffe5725d348bceaf4eaf474b0
+FileChecksum: MD5: 62af927cc28dcde3f3e0d5b085cc91b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-adm-icon.svg
+SPDXID: SPDXRef-item11291503
+FileChecksum: SHA1: 3f37e5ee103537a951d2bcc46429b63d1f480fcc
+FileChecksum: SHA256: 8f3d19e2c39dd097393faf1f3415780b5b6d053978d0daa5f9c14eb014c0a2b0
+FileChecksum: MD5: 2da066229f948d5a9ddde1a5185484d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-adm-header.svg
+SPDXID: SPDXRef-item11291504
+FileChecksum: SHA1: ffafeca83ecc1d0aa819824ecdfcc78710c1c1f6
+FileChecksum: SHA256: ac47168e4fdd18dbb290b585338bb3a218502a3fdde03ff89ff8fcb82c4775d6
+FileChecksum: MD5: f063f8b443d9a87403394704704ef820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-gear-thick.svg
+SPDXID: SPDXRef-item11291505
+FileChecksum: SHA1: 62abf47573d1e42a48a4a6a6e73fd9a9c8bf9f34
+FileChecksum: SHA256: 4fbc2176fe13672b28e1f9ef3122ebabdc843658d4f378f1a2a590ddfba70548
+FileChecksum: MD5: 0487a43a549feb763084b7e8b76abed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-lee-header.svg
+SPDXID: SPDXRef-item11291506
+FileChecksum: SHA1: ec05452efd2da24a325f3a64f41142e53a13383d
+FileChecksum: SHA256: 8b1f5dd4d6d39b870b9d7ad8ae0044e549e2a6fdb0f41dd15aa6957164ba6f70
+FileChecksum: MD5: 5f629f100585260d362defb0fe1687ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-globe.svg
+SPDXID: SPDXRef-item11291507
+FileChecksum: SHA1: f55bd67523103dcbd332d86f625a8347ffbf6907
+FileChecksum: SHA256: 00d31ccbd9f01107d423c716a650747a1232e954c919250690b1ebb9af4284cc
+FileChecksum: MD5: de0ddf10e9ac2ce252ab41546116550b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-globe-thick.svg
+SPDXID: SPDXRef-item11291508
+FileChecksum: SHA1: b24bef46a297e713253bb581a6c2a41245f4ec50
+FileChecksum: SHA256: 3bc57f0001cff453754e909d8f71ce2812b3f4f71ff3445c982bd27b0a1ae764
+FileChecksum: MD5: 65d731d5704c62160e0fc76e19af5187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-vee-icon.svg
+SPDXID: SPDXRef-item11291509
+FileChecksum: SHA1: 01d9f464c31d61afb90e57cc4ad28402c28c7826
+FileChecksum: SHA256: 75373f9fb0aa2dca6e0f1f75c24032719fb9f78bdd6a98bc937c8c018827cadb
+FileChecksum: MD5: fed35ea5f260ea41c81ff44ddd261d82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-ee-icon.svg
+SPDXID: SPDXRef-item11291510
+FileChecksum: SHA1: 17689f81863a668cf15b14c3b28eebb5f7bc7866
+FileChecksum: SHA256: 28d030f93dcc6d0b04c5490d7857ab4555fe8b9722aba82a4a5c6b2d001b764b
+FileChecksum: MD5: 8b577f11919eefaae7378b66eea0f59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-coffeebot.svg
+SPDXID: SPDXRef-item11291511
+FileChecksum: SHA1: 0d672e62bf6c60bfcafd0d1a59d026b50898ecfc
+FileChecksum: SHA256: e160050e628efd0829b4762c5afa3d6039fe202208e88fd6409b8fdb77215731
+FileChecksum: MD5: 778cd12681ccdd86d1205f6eaf0da2f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-lee-icon.svg
+SPDXID: SPDXRef-item11291512
+FileChecksum: SHA1: 7a35a93702573c66eaebee5d5fc0a9ec2dcbda08
+FileChecksum: SHA256: 5723970e5edc9fcf6f216dbbfe31f8a340585aab07b801b3701ed3409d4ec716
+FileChecksum: MD5: 449cd6f36060ef8713151a4731f43516
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-print-logo.png
+SPDXID: SPDXRef-item11291513
+FileChecksum: SHA1: b7570754fabf65a6c45738a579144bc5b7d616a3
+FileChecksum: SHA256: 1dcd649b55f171b4f4f05ad6b05a2c7132999801b3a767c398fda5dc56dfa6b8
+FileChecksum: MD5: 01d15be281f8d2281c5a23454cbdd237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-tux.svg
+SPDXID: SPDXRef-item11291514
+FileChecksum: SHA1: 232e64c77133d4808a25c8023e2834403e08aabe
+FileChecksum: SHA256: 19ce9be5d00d12831acc55d4d4493f9f8a9dd6769adcf38d28ef4c68498217f1
+FileChecksum: MD5: bbafca520ee42d0f74926c9f4dfa9f59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-pyramid.svg
+SPDXID: SPDXRef-item11291515
+FileChecksum: SHA1: 92acfe71a6d6aedb9a027e75a4d00c3e26718de1
+FileChecksum: SHA256: 1509f0ab964c5ebf6d72d48ea918e1e4a702156090fedcf350ba2b0a6e078e77
+FileChecksum: MD5: 80cf7c5551929149ea25f381da86e5f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-api-icon.svg
+SPDXID: SPDXRef-item11291516
+FileChecksum: SHA1: 2ec0a78e581681dfe8d69542d004a37f4be63d34
+FileChecksum: SHA256: f2a742cf6e6fad8bce9f2c0a5b44801e2381cfc891b36c3fe75197943cac94c8
+FileChecksum: MD5: bbff9cfd61b0e96be5e2a1492a1e643e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-api-header.svg
+SPDXID: SPDXRef-item11291517
+FileChecksum: SHA1: 5f3a0f67dc1b2a12d4e6b2dd160a195accde9c44
+FileChecksum: SHA256: af36c369edefb6eb6fc4c264c4399e6e3529b921470cdd81c6ceec78ce088cbf
+FileChecksum: MD5: e47bed732ccbdd43965f2bb0a2b2fcc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-vcloud.svg
+SPDXID: SPDXRef-item11291518
+FileChecksum: SHA1: 23de0b43a5f56945ec0c090463266e8ea84a7943
+FileChecksum: SHA256: 449e52d8fcbef2ebde4ae9760567f542f19cc19582d7407b9cfd33e5572c2429
+FileChecksum: MD5: 775bbe3a6922a7626a74d414de428ead
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-ee-header.svg
+SPDXID: SPDXRef-item11291519
+FileChecksum: SHA1: 226b6a64ec527ac916285996fdab7d47b096ee24
+FileChecksum: SHA256: def9afe0ad1d8fb1d6dbdd73cef796b074ac5fa84933b55fb399a8c52efeab44
+FileChecksum: MD5: 888b171e603f4cf7486ee13e83b50a48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-baton-thick.svg
+SPDXID: SPDXRef-item11291520
+FileChecksum: SHA1: c51c016fbb3424e61a0584d938faf5d1ba539132
+FileChecksum: SHA256: 08b3cfb06c0bbe619a3172c59a158eb71e9c801c97909af708052169fd102d73
+FileChecksum: MD5: ba9c7ebc93aaa0970841aea1f1ec39f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-gear.svg
+SPDXID: SPDXRef-item11291521
+FileChecksum: SHA1: 5589776e53e22db6085b47c9e695b9d6430ad9ee
+FileChecksum: SHA256: 51e4483ba7c5c99950e4191d5b9094147c2255f1e382bfdd693daf26b44be778
+FileChecksum: MD5: e44ff646d34ef1398e462172b17fdc83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/images/geisa-vee-header.svg
+SPDXID: SPDXRef-item11291522
+FileChecksum: SHA1: 38977e5cbc2536e8e698019a415fd4c2d625b852
+FileChecksum: SHA256: fcfedf645591373a2a7ac62fa3c918e08b6d757764acc238a2a5d82bd0b30c05
+FileChecksum: MD5: dcb7907698d8cbd314bbf5c31c4b0d34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/index.rst
+SPDXID: SPDXRef-item11291523
+FileChecksum: SHA1: 256627348e731f4a6e49eadcbb68afb17affb18d
+FileChecksum: SHA256: 5073f34e16562211abc8d0c09e204eb1d386f75a2d9acaa3f54744b6e633c75d
+FileChecksum: MD5: 4b8fd35bc38560a95926616410b1234a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/system-architecture.rst
+SPDXID: SPDXRef-item11291524
+FileChecksum: SHA1: 3b5b8c815024e6c881b76bd47a7393f386b3f12c
+FileChecksum: SHA256: 712ae00c99529b8412f25c1abcc295e2a60a73bfe3daddd1e185987012d68b81
+FileChecksum: MD5: bcbd6b64a9397b62c00614759fc9cbce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/contributors.rst
+SPDXID: SPDXRef-item11291525
+FileChecksum: SHA1: 0c1666b6bafa87b4919eb0597b68a3d013abb25b
+FileChecksum: SHA256: 8d0136169959227d60cd779c74bb7daabc5d1209afaf6ca4cfd20d459299e4c0
+FileChecksum: MD5: 2070b4453f7d9dc6f01336589f6708cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/lwm2m.rst
+SPDXID: SPDXRef-item11291527
+FileChecksum: SHA1: 4caa6dfce3bf1153a5655aff0c7231f2094435d8
+FileChecksum: SHA256: 8ecdff7b93ea90b1362ba357b14b21e82ca611d4760b2d12eaebf87fbf2b18ed
+FileChecksum: MD5: e9b326b17b8594af6383b51dff944106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/device-management.rst
+SPDXID: SPDXRef-item11291528
+FileChecksum: SHA1: 62da04505c232f244a947a9b760ef51a2160e16d
+FileChecksum: SHA256: cbc05425e8a897c68a37411daf06766994bbd06df538f301825a1c4bac3505f6
+FileChecksum: MD5: 6833c91aed30f55000a497d895c34151
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/messaging.rst
+SPDXID: SPDXRef-item11291529
+FileChecksum: SHA1: 9a857ba374936d11fd59891f9b5a84a19e453d63
+FileChecksum: SHA256: dbec9eaf0d91e6a84522945ae6b08e2ebf50f3d2576596363665c50477e350e2
+FileChecksum: MD5: 67db986f301c2f16b5f69959690b245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/manifests.rst
+SPDXID: SPDXRef-item11291530
+FileChecksum: SHA1: 017b6e5a34c18cb50d10b551f0350f4a6dbaaeea
+FileChecksum: SHA256: 4dcc91ccffcebf637cd10637cf1f6cda6ff438cb87a5e7912525a12df6f4b507
+FileChecksum: MD5: 51494c400a435e8205186cd6f134dd1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/bootstrap.rst
+SPDXID: SPDXRef-item11291531
+FileChecksum: SHA1: 94537312b8b985ffcd7d7abdb93760b7ab495d94
+FileChecksum: SHA256: cf8a0e097fff7c3e66d065e11c752974457dd0bf6c74d480f5b1144095fe27fe
+FileChecksum: MD5: df546b90002579f9cdcb084209a6823a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/app-management.rst
+SPDXID: SPDXRef-item11291532
+FileChecksum: SHA1: 1cd6d80873cb7908053e9a3a49361b32e4edd3a2
+FileChecksum: SHA256: e7885253cbecb84ea704d1556af9ea165325b401c9e0408eea34e01a4ffca194
+FileChecksum: MD5: f69d05a20c7b95d9111adc33b3f70ee6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm/registration.rst
+SPDXID: SPDXRef-item11291533
+FileChecksum: SHA1: d1565fdb708528036eed8ec6f038a63d0383a0a6
+FileChecksum: SHA256: 6ac1689cd00126b1f5b3a93a0bc2e71114ae34c54b3d16d2cf7efa033ba83556
+FileChecksum: MD5: 0971015502a634d03bba497961a5def4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/vee/base-libraries.rst
+SPDXID: SPDXRef-item11291535
+FileChecksum: SHA1: 3d1d053be6fd31afebb4012ab468240854f99779
+FileChecksum: SHA256: 31b471cbf8327f0f10c7fc98a6d23af1939890d9a205d67ad088db13e12741ac
+FileChecksum: MD5: 14551afe5488434e0db736464f95c3eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/vee/core-services.rst
+SPDXID: SPDXRef-item11291536
+FileChecksum: SHA1: dbb223831381c77fa33e7347cb4de5ce9ae0c1fb
+FileChecksum: SHA256: aad67f330e2e2fd797d2268dd871dc67956084db1e726d8be20c7d0aeaef2e27
+FileChecksum: MD5: 34bd17e9cfd504c5a9b4a0ceac470ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/latex/sphinxlatexstylepage.sty
+SPDXID: SPDXRef-item11291539
+FileChecksum: SHA1: bb2f68e85c48a38c463a1bf614af14112a44d75a
+FileChecksum: SHA256: 84998adb27a593b5eeeea70ee26cce8021303f55ec292d30f623167b44ce1ea5
+FileChecksum: MD5: 92f032ea615afd9577d4864d39d4168a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright on the left
+copyright 2025 Contributors to the Grid Edge Interoperability \& Security Alliance a Series of LF Projects, LLC} fancyhead[LE,LO]{{\py@HeaderFamily \@title}} % Title on the left fancyhead[RE,RO]{{\py@HeaderFamily \py@release}} % Release on the right renewcommand{\headrulewidth}{0.4
+copyright on the left
+copyright 2025 Contributors to the Grid Edge Interoperability \& Security Alliance a Series of LF Projects, LLC} fancyhead[LE,LO]{{\py@HeaderFamily \@title}} % Title on the left fancyhead[RE,RO]{{\py@HeaderFamily \py@release}} % Release on the right renewcommand{\headrulewidth}{0.4 </text>
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/virtual-environment.rst
+SPDXID: SPDXRef-item11291540
+FileChecksum: SHA1: 097c62ac261bff638a0d2cd466164c3b0da63594
+FileChecksum: SHA256: 14da02b4deb13e6e7dad463ee35bf55494a4194528f8f1bc046e369ab6b00990
+FileChecksum: MD5: d1e7c0503ad6825dcac83c3ab04e763b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/revision-history.rst
+SPDXID: SPDXRef-item11291541
+FileChecksum: SHA1: 278e28e3f050acdf9e75ad7865194d4b044404db
+FileChecksum: SHA256: b81bf196b8697231cd6dc15a7795b0ef29d3cb8072c17864eca77c324630f782
+FileChecksum: MD5: 51395623b065750d78ab7ea674090e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/references.rst
+SPDXID: SPDXRef-item11291542
+FileChecksum: SHA1: 290aef978f64f4f615ec2a53b90cc4d22233f161
+FileChecksum: SHA256: 514c3e6b872146d8d9e083ae2d4fbedea224be5a19e1cbbfc2830a1b72281282
+FileChecksum: MD5: 20d18a25bb12f2241b3df28da0d7f8d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/glossary.rst
+SPDXID: SPDXRef-item11291543
+FileChecksum: SHA1: aa124971ffd95954d00b816772368f6eb155e91a
+FileChecksum: SHA256: c1a464d1aadfbd0a7620aebd688decc1631c5b11a3d364756b713859a19d3463
+FileChecksum: MD5: 60f96a9a16e7ea522d8250d721429d2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api.rst
+SPDXID: SPDXRef-item11291544
+FileChecksum: SHA1: d5538f6f79fc9ab6300e0575315fd336653b6808
+FileChecksum: SHA256: 118190f3fffa62786d8f155931f847dc4b5174623a1952891eb55115f9408cb5
+FileChecksum: MD5: 2c67c758ad4565711085d915a24f7b6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/adm.rst
+SPDXID: SPDXRef-item11291545
+FileChecksum: SHA1: 7adf8933e4a44602b143587c1e32fe9ee25c1975
+FileChecksum: SHA256: d4de37f2eae449756d7b5ab3a0890e52dbbc05eb651b7a2beb9a9d22ffcc20e4
+FileChecksum: MD5: 0f6c9858edece83b3fffa0fd329bfa4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/instantaneous.rst
+SPDXID: SPDXRef-item11291547
+FileChecksum: SHA1: b2f13c50315222fa4c5ee481cffc2fc3d5dfd7c6
+FileChecksum: SHA256: 713737e9269b8d9386a92cd40601d254b137adc04bbd57ead02323fbc2dd4913
+FileChecksum: MD5: 25f083fa00833b418e4723f1e981fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/enumeration.rst
+SPDXID: SPDXRef-item11291548
+FileChecksum: SHA1: 5ad3dc3388bf9c1f556455e2755e411fb4d23f2c
+FileChecksum: SHA256: 339382d7d6b3da0a8ca027c51626f979e067eafe794db452b7395b0acfa3016a
+FileChecksum: MD5: ad0ec7c53d7bf8526aefc5d19e4b36ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/instantaneous.csv
+SPDXID: SPDXRef-item11291549
+FileChecksum: SHA1: b836bd78891258823e3a807a5273d9e25aac7fd6
+FileChecksum: SHA256: bcb4d8791c63abc91e9924f1f4cd92055d182d5193d396a08d22d5bd58f7c42f
+FileChecksum: MD5: 73e054a12a9d9699d95499686fe83004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/architecture.rst
+SPDXID: SPDXRef-item11291550
+FileChecksum: SHA1: a1f2707edc7261482566e864fbe06f518aacfc17
+FileChecksum: SHA256: ea19421c4cb8f3096b31ad04c4c5ea13ddefc71f0e8207472f0255298c6321ea
+FileChecksum: MD5: 72715fa3a4ae698a080466ffca7d632f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/waveform.rst
+SPDXID: SPDXRef-item11291551
+FileChecksum: SHA1: 239719059d06874fbdc199439c24b0b3503060b0
+FileChecksum: SHA256: 25804a84b0e0f1023eb2df7a67d81522dbbe9fa92d721f53427d0b7300bc2a3b
+FileChecksum: MD5: f68b48ac21366baea088935204ca8bf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/status.rst
+SPDXID: SPDXRef-item11291552
+FileChecksum: SHA1: 9e527b3bde0f1d2e2859920d6c31307f67ea5c62
+FileChecksum: SHA256: 7fbadefa2efa34cb5f069fdf697cd85c0bd402a8c685f69894495a2099cb7331
+FileChecksum: MD5: 8798ba4fb15f8b7ce0bb0e3f071f3aad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/api/sensors.rst
+SPDXID: SPDXRef-item11291553
+FileChecksum: SHA1: d348ac2f402d38c07472753a09c60bd87fdfc982
+FileChecksum: SHA256: a40a02992223ee9c7ccdf984e08838f2bc14e1254e416ba235c1f363eb073473
+FileChecksum: MD5: 3033bfce42c0b021e4e93570d856ca16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/_static/custom.css
+SPDXID: SPDXRef-item11291555
+FileChecksum: SHA1: 6590f7f82ba104e33703f3482d27f9e676f82465
+FileChecksum: SHA256: 61f19bb8a8a7cea562157a8f313686b223bc1cb5f7327cdb20bf3892be9ed5a4
+FileChecksum: MD5: addde1474dbec367db6124446f3826f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/_static/geisa-pyramid-small.png
+SPDXID: SPDXRef-item11291556
+FileChecksum: SHA1: 12b20c83b69b7da42507bea2940d58aba344fa5a
+FileChecksum: SHA256: 623766f2afd27bf62f3aec0b7011bb974e59a17398b5ecf590b1baf7be5285ec
+FileChecksum: MD5: 60c8e59ce506ca1d04c836f015c046d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/_static/geisa-logo-small.png
+SPDXID: SPDXRef-item11291557
+FileChecksum: SHA1: a247951a9add62bc1b8d4d61942f1b6958d03364
+FileChecksum: SHA256: 7f89ac70c25fd7892e12aaea38ea8a3dcf4dba8a0472527b0ace0efb70ccd442
+FileChecksum: MD5: 45cc012678d6d0f0abfb54bc17bf4a0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/linux-environment.rst
+SPDXID: SPDXRef-item11291558
+FileChecksum: SHA1: 9f9c3a3932d95245cd778c41fe458b4a8c1d6394
+FileChecksum: SHA256: 6583c4809611b2156bf22e86b9692033df05b5e68533a741dcbe2975fc16f634
+FileChecksum: MD5: 1586786984fa3daf52fb1578ce5616f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/conf.py
+SPDXID: SPDXRef-item11291559
+FileChecksum: SHA1: 9cfcc5eb494affdaeffc63129c26a65c835147e2
+FileChecksum: SHA256: 0d175202bb6f6af89187cccd89c40b688b4bdd70ca918813671b0b8a556b29ac
+FileChecksum: MD5: a77681f0ba40fda5c8dce58dfd2b3df2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/abstract.rst
+SPDXID: SPDXRef-item11291560
+FileChecksum: SHA1: b1748ec08a33460eb9f5a97ca7b1fb840202ec8b
+FileChecksum: SHA256: 3fc71ccafd3316040f936f8f776ce9760f06b01c62a6fb0fd548ce7a27e67cfd
+FileChecksum: MD5: 49e0c1747bb201e7d8dd0b7710251cdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/source/design-principles.rst
+SPDXID: SPDXRef-item11291561
+FileChecksum: SHA1: cf2d1e55a00b496886f6b6fd964f3bf76d8daf1c
+FileChecksum: SHA256: 9a594ca9965ff263ef423a772b88618e7ae410518a3bdbd273f6177f628e6da6
+FileChecksum: MD5: 826303504892979429d12c095c019c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: geisa-2025-09-25.zip/specification/README.md
+SPDXID: SPDXRef-item11291562
+FileChecksum: SHA1: 61cd1bca646817a2ac22f07641bab52860eca8e8
+FileChecksum: SHA256: 0de1fec5bdbe37be3070c3d46696ade5496c28b433d38fd62d425cafd7167ce7
+FileChecksum: MD5: 9e7097fbee9789b5c28cdd1ba5ad7790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
