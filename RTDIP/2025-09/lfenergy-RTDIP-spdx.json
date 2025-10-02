@@ -1,0 +1,2661 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T17:41:11Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpr_sxpfmm/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpr_sxpfmm/code-ee54349a-e9d2-4796-b6d5-f9c8a14fcaca",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-18902a2d59907ebf",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "core/environment.yml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "9922b55196f37b0dbe13aea147b590945bd93d62"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ac31875746a3db0e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "core/src/api/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "9922b55196f37b0dbe13aea147b590945bd93d62"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-81c27a40d1cf0051",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "samples/environment.yml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "111240aeff2bb240abd6cd861ca3c3abbca45898"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-81a499d638276b84",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "111240aeff2bb240abd6cd861ca3c3abbca45898"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-59ebe3d4300d7398",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/awscli@1.27.142",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "awscli",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "1.27.142"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-690dc8f141df6df1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-functions",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-functions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e792cdbb3c5119",
+            "description": "Python library for Azure Functions.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/azure-functions@1.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "azure-functions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Microsoft Azure",
+            "versionInfo": "1.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-34b5cb3b7913ae17",
+            "description": "Microsoft Azure Identity Library for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/azure-identity@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "azure-identity",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Microsoft Azure",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51630391241c42a3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-identity@1.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-identity",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "1.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-629f6bda90d34b3c",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-identity",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-identity",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ee6d683757c15bf",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-keyvault-secrets",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-keyvault-secrets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dc379a96943d3afa",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-keyvault-secrets@4.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-keyvault-secrets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "4.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d5e5408e26aca0c3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-mgmt-eventgrid",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-mgmt-eventgrid",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-736c744f3311ff5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-mgmt-storage",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-mgmt-storage",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2959be30564c17ae",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-storage-file-datalake",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-storage-file-datalake",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bc09b17e30d2a48c",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/azure-storage-file-datalake@12.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "azure-storage-file-datalake",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "12.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-79c63ffb749a293f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/black",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "black",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a335e2a7a99d55cc",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/black@23.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "black",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/environment.yml",
+            "versionInfo": "23.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-506e00fa3386c488",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/boto3@1.26.123",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "boto3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "1.26.123"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-feb3bda395f8aac2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/boto3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "boto3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1c9b666c74ed1aa1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/build@0.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "build",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "0.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-df7423431c650b5a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/cryptography",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cryptography",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-342aba4ebbdd26d6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/databricks-sdk",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "databricks-sdk",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a489b99f9ff624f9",
+            "description": "Databricks SQL Connector for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/databricks-sql-connector@2.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/databricks/databricks-sql-python",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "databricks-sql-connector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Databricks",
+            "versionInfo": "2.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ddff36113a72536b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/databricks-sql-connector",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "databricks-sql-connector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dff19f5c3343e2fb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/delta-sharing-python",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "delta-sharing-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-14c195987b9b1124",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/delta-spark",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "delta-spark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b789050890362f8",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/delta-spark@2.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "delta-spark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "2.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8791f1b80ea87bf9",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/deltalake",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "deltalake",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1feaa67c75461c29",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/dependency-injector",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "dependency-injector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d5f2d4e5fd88a116",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/dependency_injector@4.41.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "dependency_injector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "4.41.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-81ac7dc6ea0747e5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/ecmwf-api-client",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "ecmwf-api-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d459beb59987d8f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/entsoe-py",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "entsoe-py",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9a09730f4c317370",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/eth-typing",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "eth-typing",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51e84157d833aa3c",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fastapi@0.115.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/fastapi/fastapi",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "fastapi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "versionInfo": "0.115.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c7b034d303d49fdb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/fastapi",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "fastapi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a4f3675caeff2908",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/filelock@3.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "filelock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "3.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e269d93af57094c1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/googleapis-common-protos",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "googleapis-common-protos",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-704a5ba7246e115f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/great-expectations",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "great-expectations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-94fd9583c61b8af6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/grpcio",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "grpcio",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-263db16ddece9cc5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/grpcio-status",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "grpcio-status",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e185199717748843",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/httpx",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "httpx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ec247ee5a35f35d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/hvac",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "hvac",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7df9c816fc1fd1b1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/hvac@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "hvac",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2a73f9e018ea1e7a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/importlib-metadata",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "importlib-metadata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-22c1ecb6583348d8",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/jinja2@3.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "3.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2bc35e93bc6a6e3b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/jinja2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-89c6e5ae5af00bbb",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.1.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7f804cff03dbfdb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/jinjasql@0.1.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jinjasql",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "0.1.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6693d8e1b17ab316",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/joblib",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "joblib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ae959c698affd2fe",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/langchain",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "langchain",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-40add5021cbcb579",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/langchain-community",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "langchain-community",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5b7c9cd7d488fff0",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/mkdocs-autorefs",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-autorefs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f87975eafbfec91a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/mkdocs-macros-plugin@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-macros-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af9fe537eb4625b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/mkdocs-material@9.5.20",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-material",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "9.5.20"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-66d7f275590ca60d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/mkdocs-material-extensions@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-material-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2161971142db1295",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/mkdocstrings@0.25.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocstrings",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "0.25.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a7e833df0854b93a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/mkdocstrings-python@1.10.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocstrings-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "1.10.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3cf19f50ec68cc54",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/moto%5Bs3%5D",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "moto[s3]",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-de612e69cb36b7a9",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/netCDF4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "netCDF4",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a207021d444fc187",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/notebook@6.4.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "notebook",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "6.4.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d8246ce62c2517ca",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.26.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND CC-BY-SA-4.0 AND CC0-1.0 AND NOASSERTION AND Apache-2.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND Apache-2.0 AND GPL-2.0-only AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND NOASSERTION AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND MIT AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NCSA AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND NOASSERTION AND FSFAP AND FSFAP AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND NOASSERTION AND MIT AND MIT AND NOASSERTION AND Zlib AND MIT AND Zlib AND NOASSERTION AND SunPro AND Zlib",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.26.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ddf67b209d7a52bb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/numpy",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5a426e5f4059927e",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/oauthlib",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "oauthlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-42acf24b946a41fd",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/openai",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openai",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5f58ca02c041a435",
+            "description": "The official Python library for the openai API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openai@1.13.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/openai/openai-python",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "openai",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: OpenAI",
+            "versionInfo": "1.13.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-994c49508f2493c5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/openjdk",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openjdk",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eb6c8ee4d37492ce",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/openjdk@11.0.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "openjdk",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/environment.yml",
+            "versionInfo": "11.0.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ee764bd4c497826d",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-2-Clause OR Apache-2.0) AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c049d382f2493128",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pandas",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c4d6465564ef4898",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pandas@1.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "1.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-58053782ad9124b1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pip@23.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pip",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "23.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75798bd6eb2cdb62",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pip@23.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pip",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/environment.yml",
+            "versionInfo": "23.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-89bbc6c96b58854d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pip",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pip",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51b97baaadc489de",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pmdarima",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pmdarima",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2754857c24aa3aa5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/polars",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "polars",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f77edbfc7ebc7a22",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/protobuf",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "protobuf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-14d3d8650ba1caf2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pydantic@1.10.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pydantic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "1.10.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-388aa90590698629",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pydantic",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pydantic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c0e6e41633c9c6e5",
+            "description": "Data validation using Python type hints",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pydantic@2.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pydantic/pydantic",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pydantic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Pydantic",
+            "versionInfo": "2.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e98943127fbb480e",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pygithub",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pygithub",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8faf8c1f7d15ffa9",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pygments@2.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pygments",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "2.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af84d82afadba99c",
+            "description": "JSON Web Token implementation in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyjwt@2.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jpadilla/pyjwt",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyjwt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Jos\u00e9 Padilla",
+            "versionInfo": "2.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b84d409394e66272",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pyjwt",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyjwt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bccc0c2810476437",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pylint@2.17.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pylint",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "2.17.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c134ae1e75bb0bc2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pymdown-extensions@10.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pymdown-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "10.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-33eb8f932f98c67c",
+            "description": "DB API module for ODBC",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyodbc@4.0.39",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mkleehammer/pyodbc",
+            "licenseConcluded": "MIT AND MIT-0 AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pyodbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Michael Kleehammer",
+            "versionInfo": "4.0.39"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ee5c60c184c2ba2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pyodbc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyodbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a260465e9ad465af",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pyodbc@4.0.39",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyodbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "4.0.39"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e39bade8e748cbf",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pyspark",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyspark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9e24dc264bde0460",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pyspark@3.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyspark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "3.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fd90f656fa154d8d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pytest@7.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "7.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ad38ea4485ddcb77",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pytest-cov@4.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pytest-cov",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "4.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51d5ca361c719ba1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/pytest-mock@3.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pytest-mock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "3.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-64bef8e3a900e0e2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/python@3.10.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "3.10.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d38c4a2281cd85b0",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/python",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d909739e2fb09428",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/python@3.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/environment.yml",
+            "versionInfo": "3.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-77b02bf94a4538f1",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2024.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2024.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-886a5d79ddeb078b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/rtdip-sdk@0.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "rtdip-sdk",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "0.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-50bcb8f552d38b00",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/rtdip-sdk%5Bpipelines%2Cpyspark%5D",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "rtdip-sdk[pipelines,pyspark]",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5cdd0f58ce10cb77",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/semver@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "semver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-92a7d7f08c3ac365",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/semver",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "semver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a543aaf51889627b",
+            "description": "Python helper for Semantic Versioning (https://semver.org)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/semver@3.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND CC-BY-3.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "semver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "supplier": "Organization: Python semver org",
+            "versionInfo": "3.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ebb67168c0b45d3a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/sqlparams",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "sqlparams",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d50baba7edf10cbb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/statsmodels",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "statsmodels",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af3e2b960d5351d1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/trio",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "trio",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-becef2f4f13da8f1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/turbodbc@4.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "turbodbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "4.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2dee65c5e1faa25",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/twine@4.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "twine",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml",
+            "versionInfo": "4.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1dc0039745167cea",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/web3@6.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "web3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "6.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4a20e4b250e8ffd3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/web3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "web3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2275e68145cdf21d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/xarray",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "xarray",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-138749b11bacabbd",
+            "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xlrd@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.python-excel.org/",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "xlrd",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/src/api/requirements.txt",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-38eb91d9a1853eaa",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/xlrd@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "xlrd",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: samples/pipelines/deploy/Spark-Single-Node-Notebook-AWS/environment.yml",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7d70574803ee7aff",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:conda/xlrd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "xlrd",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: core/environment.yml"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-b6d70d79a5f713dd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfenergy.RTDIP",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-RTDIP-core",
+            "comment": "This package was added to the Trivy analysis for the core by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/rtdip/core/archive/9922b55196f37b0dbe13aea147b590945bd93d62.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/rtdip/core@9922b55196f37b0dbe13aea147b590945bd93d62",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "core",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "9922b55196f37b0dbe13aea147b590945bd93d62"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-RTDIP-samples",
+            "comment": "This package was added to the Trivy analysis for the samples by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/rtdip/samples/archive/111240aeff2bb240abd6cd861ca3c3abbca45898.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/rtdip/samples@111240aeff2bb240abd6cd861ca3c3abbca45898",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "samples",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "111240aeff2bb240abd6cd861ca3c3abbca45898"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-14c195987b9b1124",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-1c9b666c74ed1aa1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-1feaa67c75461c29",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2161971142db1295",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2275e68145cdf21d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-263db16ddece9cc5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2754857c24aa3aa5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2959be30564c17ae",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2a73f9e018ea1e7a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2bc35e93bc6a6e3b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-2dee65c5e1faa25",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-342aba4ebbdd26d6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-388aa90590698629",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-3cf19f50ec68cc54",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-40add5021cbcb579",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-42acf24b946a41fd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-4a20e4b250e8ffd3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-51b97baaadc489de",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-51d5ca361c719ba1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-5a426e5f4059927e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-5b7c9cd7d488fff0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-5d459beb59987d8f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-629f6bda90d34b3c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-6693d8e1b17ab316",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-66d7f275590ca60d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-690dc8f141df6df1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-6ec247ee5a35f35d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-6ee5c60c184c2ba2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-704a5ba7246e115f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-736c744f3311ff5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-79c63ffb749a293f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-7d70574803ee7aff",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-7ee6d683757c15bf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-81ac7dc6ea0747e5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-8791f1b80ea87bf9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-89bbc6c96b58854d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-8e39bade8e748cbf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-8faf8c1f7d15ffa9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-92a7d7f08c3ac365",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-94fd9583c61b8af6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-994c49508f2493c5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-9a09730f4c317370",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-a7e833df0854b93a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-ad38ea4485ddcb77",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-ae959c698affd2fe",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-af3e2b960d5351d1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-af9fe537eb4625b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-b84d409394e66272",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-bccc0c2810476437",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-becef2f4f13da8f1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-c049d382f2493128",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-c134ae1e75bb0bc2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-c7b034d303d49fdb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-d38c4a2281cd85b0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-d50baba7edf10cbb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-d5e5408e26aca0c3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-ddf67b209d7a52bb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-ddff36113a72536b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-de612e69cb36b7a9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-df7423431c650b5a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-dff19f5c3343e2fb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-e185199717748843",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-e269d93af57094c1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-e98943127fbb480e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-ebb67168c0b45d3a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-f77edbfc7ebc7a22",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-f87975eafbfec91a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-fd90f656fa154d8d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-18902a2d59907ebf",
+            "relatedSpdxElement": "SPDXRef-Package-feb3bda395f8aac2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-14d3d8650ba1caf2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-1dc0039745167cea",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-22c1ecb6583348d8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-38eb91d9a1853eaa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-506e00fa3386c488",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-51630391241c42a3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-58053782ad9124b1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-59ebe3d4300d7398",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-5cdd0f58ce10cb77",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-64bef8e3a900e0e2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-7df9c816fc1fd1b1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-7f804cff03dbfdb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-886a5d79ddeb078b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-9e24dc264bde0460",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-a207021d444fc187",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-a260465e9ad465af",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-a4f3675caeff2908",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-b789050890362f8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-bc09b17e30d2a48c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-c4d6465564ef4898",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-d5f2d4e5fd88a116",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81a499d638276b84",
+            "relatedSpdxElement": "SPDXRef-Package-dc379a96943d3afa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c27a40d1cf0051",
+            "relatedSpdxElement": "SPDXRef-Package-50bcb8f552d38b00",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c27a40d1cf0051",
+            "relatedSpdxElement": "SPDXRef-Package-75798bd6eb2cdb62",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c27a40d1cf0051",
+            "relatedSpdxElement": "SPDXRef-Package-a335e2a7a99d55cc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c27a40d1cf0051",
+            "relatedSpdxElement": "SPDXRef-Package-d909739e2fb09428",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c27a40d1cf0051",
+            "relatedSpdxElement": "SPDXRef-Package-eb6c8ee4d37492ce",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-138749b11bacabbd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-33eb8f932f98c67c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-34b5cb3b7913ae17",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-51e84157d833aa3c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-5f58ca02c041a435",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-77b02bf94a4538f1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-89c6e5ae5af00bbb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-8e792cdbb3c5119",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-a489b99f9ff624f9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-a543aaf51889627b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-af84d82afadba99c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-c0e6e41633c9c6e5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-d8246ce62c2517ca",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ac31875746a3db0e",
+            "relatedSpdxElement": "SPDXRef-Package-ee764bd4c497826d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-RTDIP-core",
+            "relatedSpdxElement": "SPDXRef-Application-18902a2d59907ebf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-RTDIP-samples",
+            "relatedSpdxElement": "SPDXRef-Application-81a499d638276b84",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-RTDIP-samples",
+            "relatedSpdxElement": "SPDXRef-Application-81c27a40d1cf0051",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-RTDIP-core",
+            "relatedSpdxElement": "SPDXRef-Application-ac31875746a3db0e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-b6d70d79a5f713dd",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6d70d79a5f713dd",
+            "relatedSpdxElement": "SPDXRef-lfenergy-RTDIP-core",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6d70d79a5f713dd",
+            "relatedSpdxElement": "SPDXRef-lfenergy-RTDIP-samples",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
