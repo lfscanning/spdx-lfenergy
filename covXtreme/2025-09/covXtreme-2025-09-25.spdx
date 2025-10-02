@@ -1,0 +1,467 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_covXtreme-2025-09-25.zip_1759323732.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-10-01T13:02:12Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: covXtreme-2025-09-25.zip
+PackageFileName: covXtreme-2025-09-25.zip
+SPDXID: SPDXRef-upload1959
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: fe270d04ba415db552dc9c1ac4bd1f814b6067c6
+PackageChecksum: SHA1: b6c9d5423813f9024513b61ecb6a4c0164c83e36
+PackageChecksum: SHA256: 4fc70815b4da3da75281c43352c1eb32bd0948952adc2645633813f7c571b57a
+PackageChecksum: MD5: 13999a3079a4afaad3a4602afdff0ac8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1959
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage5_Contour.m
+SPDXID: SPDXRef-item11124931
+FileChecksum: SHA1: 247d82976e53af3e4403ed8bc935c54cbe5fb7a1
+FileChecksum: SHA256: 48994f211ddb3b852db42d962e551f426291d22550793259cf0ab0269b69632b
+FileChecksum: MD5: 3f5d6ade74c283d1e789fa09899830e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage4_FitHeffernanTawn.m
+SPDXID: SPDXRef-item11124934
+FileChecksum: SHA1: 55d4a4edad036eca99bc7fb2e8842fdc9d037b0b
+FileChecksum: SHA256: 0166301bdfb39c573b1d41fe4f7685463eea16a759b7b3726b2e7c9ac52ece57
+FileChecksum: MD5: be5d8b3daf2bb7db0b7566b76f8797e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin3.m
+SPDXID: SPDXRef-item11124937
+FileChecksum: SHA1: af0b939cbb0e940a344c2e54196946b475526c62
+FileChecksum: SHA256: 0a2ae4250588b3fc7c3eff9a10069289630b81561c78271552b21178edaaf11a
+FileChecksum: MD5: d0ce05c1247045d047cd2e96968d76de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin2.m
+SPDXID: SPDXRef-item11124933
+FileChecksum: SHA1: ee7a120f471ca584855d2812e6b9efb7c3933502
+FileChecksum: SHA256: 04029082c299a1c692c738e58f53ec1f8b06e9c39c1932adfc01deca629a719d
+FileChecksum: MD5: 1ea46a91dc52aa02d748ba0ad259aa40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin1.m
+SPDXID: SPDXRef-item11124935
+FileChecksum: SHA1: 6e7bc7ff2849cf7567627ad76417aa76a5a64e1f
+FileChecksum: SHA256: 8b7257e73db0b8a320d517f1d2593491bce5b42bf822a15ab6a6e24424bac637
+FileChecksum: MD5: 351859b47cd2f52d40f4af1bbff729b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage2_SetBinEdges.m
+SPDXID: SPDXRef-item11124932
+FileChecksum: SHA1: a2283f945d9e4b8e960e7083dec2fcabf38520a2
+FileChecksum: SHA256: 8f0116b419ad38e8877db636f41c703aff9dd3ad45e28f804bd966aa44d972af
+FileChecksum: MD5: 56282ab067add6316df296175a775e13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage1_PeakPicking.m
+SPDXID: SPDXRef-item11124936
+FileChecksum: SHA1: 1a930a3f5801885df92bf15a74e849dcad06edac
+FileChecksum: SHA256: b484130f33874ca8e64356132bc462a7156b17892c740755594ac9c84bd5c0b6
+FileChecksum: MD5: 4347479530b563c51c9c13fd5be60d4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage5_Contour.m
+SPDXID: SPDXRef-item11124924
+FileChecksum: SHA1: e2362da81515b0ce01be5cb9b8ee33780409b8fe
+FileChecksum: SHA256: 0f44e0862b9b785411909173dbc6e6ef0eca702362ed4fbfe38b05a82362b336
+FileChecksum: MD5: d8eadb6cc52f8deeae3517749fd83528
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage4_FitHeffernanTawn.m
+SPDXID: SPDXRef-item11124927
+FileChecksum: SHA1: fd00cdd61ae50d2561dd8e18aae6a6c2a13bb435
+FileChecksum: SHA256: 644ace472ceccfd07cb7ee58f63d8417aa04cb5f0a4ff6e8a8bc6538850119d0
+FileChecksum: MD5: 431d59263b977d9e51b561682aa679f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage3_FitMargin2.m
+SPDXID: SPDXRef-item11124926
+FileChecksum: SHA1: 7a58e42f4944d6a6450839a57062c8f3a3c824ee
+FileChecksum: SHA256: 8dc45e78299458dd9f5053a01a5cb028fd5828f98d5b7866a029190c74b1a59c
+FileChecksum: MD5: 97bac47e98f2b75ec2febd5a71f90fa5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage3_FitMargin1.m
+SPDXID: SPDXRef-item11124928
+FileChecksum: SHA1: 385781fff83bfd3be3dad89b34c699a753334a41
+FileChecksum: SHA256: 5d03bd135a8bfecc0f8465790d96cd17ef972473ffca9c3ee714d7e259869a41
+FileChecksum: MD5: ea547d48ca723c840341cae50a583f80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage2_SetBinEdges.m
+SPDXID: SPDXRef-item11124925
+FileChecksum: SHA1: 91aae8f0b6135811fb4f20af1f62fdeb1fa6b2e3
+FileChecksum: SHA256: 9127760ecd7ff2d87f44118f72738edaf53aba0320e979ab426ad6e2391f704d
+FileChecksum: MD5: dfb6eb43eaeff58a3ea584bed3a94e85
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage1_PeakPicking.m
+SPDXID: SPDXRef-item11124929
+FileChecksum: SHA1: 0ce65344889428d658341b0d5fad0b657b80cafc
+FileChecksum: SHA256: 5b5181e35c2d09d7c1876b4cc50d4dc709ae969fbeeca4811a7f5e69cb4c2b63
+FileChecksum: MD5: 4a9ab708d56755891b035f0d113cd69d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/.gitignore
+SPDXID: SPDXRef-item11124920
+FileChecksum: SHA1: 9b1e569983b9c9b0f25d66056181b3a4d2dec7a1
+FileChecksum: SHA256: 13e43eafe6a3ad6f89fa6f60894b71fc2430c9855fad0e5d272fd5f92d5ea000
+FileChecksum: MD5: d845e032745a4d544117a79d1bb4131c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2023 Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/CDFInterp1.m
+SPDXID: SPDXRef-item11124913
+FileChecksum: SHA1: 2a36416dc58158146df001bdabb449db2eae5d09
+FileChecksum: SHA256: 85cfd127beaf5b273f08019f46062becd2b5d36591cb80c85e70e738b871b1f1
+FileChecksum: MD5: a89eb0b856f2bc513080b34f77be18fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/ConditionalReturnValue.m
+SPDXID: SPDXRef-item11124907
+FileChecksum: SHA1: 34bccbd1504313a758315ec14a2bcf1cc8faff09
+FileChecksum: SHA256: 0241b20785d72985a65569ca27a846a370c709f0dff78b55f18f5ffe9e0ddae3
+FileChecksum: MD5: 809c920e37e67cf43a213bc8cc8ebc7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/Contour.m
+SPDXID: SPDXRef-item11124916
+FileChecksum: SHA1: d88566dfce7f28018b6e5ce97c142cfd19d37876
+FileChecksum: SHA256: 53a30c4faa73584438caa398a85b0609123991f40f4445ab01a8a36c5a1da1a0
+FileChecksum: MD5: 445963d2adddd2144e225e9e8aff2fe8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Contributing.md
+SPDXID: SPDXRef-item11124904
+FileChecksum: SHA1: 510b0c5ad8ffeb735a25551a1f4407440feb59b2
+FileChecksum: SHA256: 0eb06c42202bc849df396fd0cb4139f475db1ebdb893c639bd12dd4ed98c278a
+FileChecksum: MD5: eb4d1c45e0732ba5d701b8928b90a5f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2023 Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/CovariateBinning.m
+SPDXID: SPDXRef-item11124914
+FileChecksum: SHA1: 79632b904c0ddabb5be55e40f14841c921eeadb3
+FileChecksum: SHA256: 350a549a2a0196594aa487a9a0dabbc254bfcf095e6cfa8c108772a2e35805b5
+FileChecksum: MD5: 96d96daf4fb470b573c5df0bc567539c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Governance.md
+SPDXID: SPDXRef-item11124903
+FileChecksum: SHA1: ad873cce426a2b47e49cfe0edc9a5cdf8131ebe2
+FileChecksum: SHA256: ec6bf12d7298012ae65957ef50bdee471b58cc548d92eed92f66068c2559c8c0
+FileChecksum: MD5: c9cecf5eb33d7ca4e1fe3ab4792cff11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2023 Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/HeffernanTawn.m
+SPDXID: SPDXRef-item11124915
+FileChecksum: SHA1: 68d0b9fb8fdbbcf2c4dd610389ff016af82c6475
+FileChecksum: SHA256: 735ff6cc6aa9e77f616d2c108ad47baaa4006a49309adaf0bb170fe13e86623e
+FileChecksum: MD5: a905852dee4dfbd1766a02638ed72310
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/License.md
+SPDXID: SPDXRef-item11124939
+FileChecksum: SHA1: 6a9bd4d572f4b41d6c622b6673df265569a9be25
+FileChecksum: SHA256: 917f29efaa1f778a5326cc4e0036e525870200538e9b5a3f1a230b4f7b009761
+FileChecksum: MD5: bf7252ccdb7cdf141a65b1405e428367
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2023 Shell Global Solutions International B.V. All Rights Reserved.
+Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved.
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must inclu </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/MarginalModel.m
+SPDXID: SPDXRef-item11124919
+FileChecksum: SHA1: c9850f3555f91945b42b9127fc18d699f144624b
+FileChecksum: SHA256: 1de3b32dfea46895126dd2ef02370a90ec7dd06bc5914288cf7a7cb9add27d6b
+FileChecksum: MD5: ea35fb4fa75b344ac9e051bac87b0cda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/OptionsContours.m
+SPDXID: SPDXRef-item11124917
+FileChecksum: SHA1: 13a746b09d5103416f0fd73e2debad88827b9628
+FileChecksum: SHA256: cf7a3f907dc23c3407bf22bc0bd5dcaa0abc83629753f8ee04a3f0f0bcd3590d
+FileChecksum: MD5: 8adab81ecf1b26a4264fca35e6b5d1f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/PeakPicking.m
+SPDXID: SPDXRef-item11124910
+FileChecksum: SHA1: 92779824df7156ac528958f142ff9026268240e8
+FileChecksum: SHA256: 1f3cb7695a874210f787811267c40d0584d278fab6546171d69310a49f0ac9ab
+FileChecksum: MD5: 97f9b109dbb8bb67587476b12409a39a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/PreProcessData.m
+SPDXID: SPDXRef-item11124908
+FileChecksum: SHA1: 9a95d9199bd225a9de17dff5b9563f4a72bec421
+FileChecksum: SHA256: 8b1fe2fe86bbd510a4943a9cb113d71980ee70f019c9683c737c2373eab0de97
+FileChecksum: MD5: c73b88d1ecbc7c5908e55ed0d497de93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/README.md
+SPDXID: SPDXRef-item11124940
+FileChecksum: SHA1: cff615941e2b50163bd0e7c635a9a7d0af003436
+FileChecksum: SHA256: 2618204b554279e2aab28f39dcf358239fe04eaec6f91920cf0eaabdeeb1d794
+FileChecksum: MD5: 790e21b0a38a1b6a9e6e50ca7c49d8e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2023 Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/SimulateData.m
+SPDXID: SPDXRef-item11124909
+FileChecksum: SHA1: 6ef5455264ee01d7ea94c893db19548ec5c256c4
+FileChecksum: SHA256: 7aeb21cac01b0b9b132d2968bf3220fde39169596cbc742cd9089f9e360f9627
+FileChecksum: MD5: 9fae97c792173575183e5a1558f1a2de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/SsnDgr.m
+SPDXID: SPDXRef-item11124918
+FileChecksum: SHA1: a3e03cca1fccc4e74832c7d2609f34fc56c5a30f
+FileChecksum: SHA256: be46c2d5e8f628bb627d2f76c82ac905c5b2ade4ba28646731a5d0615b5f1616
+FileChecksum: MD5: 2b6ec2d8ce93ce40a3d45a1ffdef29d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/Stage1_SimulateData.m
+SPDXID: SPDXRef-item11124938
+FileChecksum: SHA1: 7e2a79a86aa87c7645b3017bbfa04b3cc28e1d3a
+FileChecksum: SHA256: d2fc80b2ed0f7cc3e139eb0f442134d77534578bc76d439991da9fd66f3e27c2
+FileChecksum: MD5: f7ff3080ec865ffe712b450de3598b17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-fossology-Apache-2.0-or-later
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/rndasymlgs.m
+SPDXID: SPDXRef-item11124912
+FileChecksum: SHA1: b8bacd316881348319d61766544768f142c66832
+FileChecksum: SHA256: 8c2b63e1d9e0240651ebeeb3a35af3d35cee888f2937c64654c753930ca95ee2
+FileChecksum: MD5: 77a020315052e32fc35b1e754dfe7185
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/rndsymlgs.m
+SPDXID: SPDXRef-item11124911
+FileChecksum: SHA1: 946c8a5efad145da898ead250341a643eebcf4e8
+FileChecksum: SHA256: 64461438a36e87a893f587b5167f006679a2fc322c65dc3802c4942f7cecc3dd
+FileChecksum: MD5: eec6e5595cf8a3bcd83657b9f425bc93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/Code/savePics.m
+SPDXID: SPDXRef-item11124906
+FileChecksum: SHA1: e05fefe7ac64334e8aee17e3faaa774d44caf545
+FileChecksum: SHA256: 23a46d7c57d5e83f3453830db559a9a1c92e466d88e9fbe3146ad478ef177d06
+FileChecksum: MD5: 653b6e76669f0e86b39184d86c40499e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/covXtreme_UserGuide.pdf/covXtreme_UserGuide
+SPDXID: SPDXRef-item11124902
+FileChecksum: SHA1: 90bfcbc6167496205bf5d1db61749307608a4a9e
+FileChecksum: SHA256: c954d077b7753fe7f0cca9e9edf2773d37b37b1a20301da5ffbb0f9e9ed99ca9
+FileChecksum: MD5: 397bf0d14a5509e3666c891b87b5c527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: covXtreme-2025-09-25.zip/covXtreme/RunScripts/CNS_mo_response.mat
+SPDXID: SPDXRef-item11124922
+FileChecksum: SHA1: 423c57143f4232b93af449cdefa4cc9f3656ed8f
+FileChecksum: SHA256: c8d73e55e4a4895b75871d40b90e348100c2291cd5da15a8ba6c22590b0948b0
+FileChecksum: MD5: b7a2595cc11c28469902e3cc82c8b917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © i`DaQW?󞫮´ËhAÝ÷\òH¿?¬û|F/PðêÜàÑÕG¥ JWîK? ^?±Æ	y\'zÆ?¿Jã3Kpâ32p.«>Ø_«ËQet÷Wö£Ví¢§ FR/_íæGêëÃÞ ¬Ô÷ãÁõÈù2@~$+çüøè-sCa?©??añý2?OÿÆtE?÷¼?m²ä@{Z ¹hº±®cÈè[úX?JtYjrzò¸øráÖQ??áç?֠̤Es u®?º¯Zʸ"y.ç? `½<ìnAYÂÂJ?i'Úî:¨?¦¶ÌOq&ÆpԞeJìÑÆH9??ý"?ÿ?ÿÿÌxy0Õí߿]²?û¾?ûvìYÎ?Gö
+©	n?8q?M?UՂUĶT7n-?;?m2^Q?LØÁI?ë ïôW~=Ì\5ÎՄQ?µ;S>ì*¯¨?®U?¥M:újSn+¤ì$Aq*?ïM?ÿäǇß?Ï{]Æóa |pû5½K½?b?ç]?Ø?Ô?5P·ÆÁw?ֵÁêùÉ	ÎâFøaD êA9gþ]ëdzûÓ/L©?G«qÉ'«¡çû?Á?Ë??xü¶s%øÖxÓُðëQ×¥?åp[W?ÿ??í^©PôýùóJû*(p{ [£?ÃïÜÙÑóUßØ?Ò?E?wOð%yÿՌä۟7ÃÒÄ?ÕFkáâ$µö¡¡?´?=_ æ±G§;<¬íÝÒʫ
+© NÞ*põ¥JF9ÿ2HC?n?}÷F.ôµ:¬ïk¼?|sA๹èßΗϷdèÌA?óý(wæÉâ\ úzç$q?,ìóñ<Tqb?JæIο[MèC0}à|ÖÂ?>ë 긮õl°"ï?úÎ#¹2xÙe^Ö5?o­MÈS?3x~«?¾a¦ Ï?çÃöVèYs+âí_¼áú¾^?o°yù¹óB
+© q?d vgýt8?£'þó2?ۉJÉ?'ù±¥ùÂx8?B¯¹°c?ìxRã??×`ÿ,ñ:Ú#ßí?·+?#/ÇßCî4öªÀÞcķü?å<³Øç"ú> bðkð·8GïcØÛ?Ø?ßA~c_7xâB^?ö#wKå7?A#WóAô$~?B?Î?¢×1䦅??¾ ù?ìф}o>խò]y+q?à|?ä?ç?n'?àÇÛ9OüzX?%`æE?èb?û·?­ðì_ÔÆ>|ç AÞcè?ûßE¯Uö½ Öղ¯?¿ÜF¼ g?=¢¬{Êü?ÖM·ò½=.û#/ÝN<G{ø7¿GeÅ=p.?y?8¾?>??Cԓ"p?1jâXãM </text>
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Apache-2.0-or-later
+LicenseName: Apache-2.0-or-later
+ExtractedText: <text> License by OJO. </text>
+
