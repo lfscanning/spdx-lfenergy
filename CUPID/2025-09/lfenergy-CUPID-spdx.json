@@ -1,0 +1,2923 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T18:49:18Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "The Apache Software License, Version 2.0",
+            "licenseId": "LicenseRef-fixed-0x25f38153e1256e71"
+        },
+        {
+            "extractedText": "(Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND EPL-2.0 AND GPL-1.0-or-later AND GPL-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND GPL-2.0-or-later AND LicenseRef-scancode-public-domain AND MIT AND W3C) OR (Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0 AND LicenseRef-scancode-public-domain AND MIT AND W3C) AND (EPL-2.0 AND GPL-2.0) OR (GPL-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) AND EPL-2.0 AND Classpath-exception-2.0 AND BSD-2-Clause AND Apache-2.0 AND MIT AND EPL-2.0 AND GPL-2.0-only AND GPL-2.0-only WITH Classpath-exception-2.0",
+            "licenseId": "LicenseRef-fixed-0x600360ad1a17285d"
+        }
+    ],
+    "name": "/tmp/tmp_x_62dp4/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp_x_62dp4/code-41cdb021-233c-4990-bfc6-0bfd789d492a",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-c5b742312d107832",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Client-Server/client/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d928b2e03b7c715bbed10ac2a9d98dcbb0135fcc"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2edd92e444cd9289",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Client-Server/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d928b2e03b7c715bbed10ac2a9d98dcbb0135fcc"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5d1a5a28f78a82da",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Client-Server/server/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d928b2e03b7c715bbed10ac2a9d98dcbb0135fcc"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-166eb2e68c255192",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Legacy-Protocol-Converter/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "20aee1253bfedc4f59edb408f7481f97f238ed96"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-4a5066eb55c2e554",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "20aee1253bfedc4f59edb408f7481f97f238ed96"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-3eeed6e8bb9a2547",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "interoperability-common/common/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-975cf23382600d51",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "interoperability-common/modbus/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-8d49d62c9d609fc3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "interoperability-common/mqtt/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-f0d61b46b6e6f30",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "interoperability-common/nats/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-9d2f9e119ba22257",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "interoperability-common/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-dda5e1de99ce39f0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "interoperability-common/rabbitmq/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-17ffa0d85a8e4434",
+            "description": "A Java library to parse, migrate and validate crons as well as describe them in human readable language",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.cronutils/cron-utils@9.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://cron-parser.com/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.cronutils:cron-utils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: jmrozanec",
+            "versionInfo": "9.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca6818a315b253ae",
+            "description": "A Java library to parse, migrate and validate crons as well as describe them in human readable language",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.cronutils/cron-utils@9.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://cron-parser.com/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.cronutils:cron-utils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: jmrozanec",
+            "versionInfo": "9.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82219757a2756e5b",
+            "description": "Support for reading and writing YAML-encoded data via Jackson abstractions.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-dataformats-text",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f815102bdc00a2fb",
+            "description": "Support for reading and writing YAML-encoded data via Jackson abstractions.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-dataformats-text",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1234454b58fa0d0",
+            "description": "Implementation of the Modbus protocol in Java language",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.intelligt.modbus/jlibmodbus@1.2.9.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kochedykov/jlibmodbus",
+            "licenseConcluded": "LicenseRef-fixed-0x25f38153e1256e71",
+            "licenseDeclared": "NONE",
+            "name": "com.intelligt.modbus:jlibmodbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/modbus/pom.xml",
+            "supplier": "Organization: Vladislav Kochedykov",
+            "versionInfo": "1.2.9.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c2037c0212ef038",
+            "description": "Implementation of the Modbus protocol in Java language",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.intelligt.modbus/jlibmodbus@1.2.9.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kochedykov/jlibmodbus",
+            "licenseConcluded": "LicenseRef-fixed-0x25f38153e1256e71",
+            "licenseDeclared": "NONE",
+            "name": "com.intelligt.modbus:jlibmodbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Vladislav Kochedykov",
+            "versionInfo": "1.2.9.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c89261ee0f8d02b8",
+            "description": "KumuluzEE CORS extension for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.cors/kumuluzee-cors@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.cors:kumuluzee-cors",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cff34964c52d5b63",
+            "description": "KumuluzEE CORS extension for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.cors/kumuluzee-cors@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.cors:kumuluzee-cors",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-109baec91b40de9b",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ab623033ae43544",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/common/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7698300bfead26f1",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8add2851a4a94c67",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/rabbitmq/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e8888a13d1360f7",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/mqtt/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-97d3bf15ce70a5a",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ebb69e246cdde6a",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aff949133c11bc06",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/modbus/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b7777b8ccd9745cf",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c0586f9de9b74cd2",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca5bd85378db6796",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/client/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e66c368be59a5e5b",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/nats/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ee349950f83bf5f2",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/server/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f110ac6f45260d23",
+            "description": "KumuluzEE Logs component implemented by log4j2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "com.kumuluz.ee.logs:kumuluzee-logs-log4j2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Kumuluz",
+            "versionInfo": "1.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-418d7d8d016f1dde",
+            "description": "KumuluzEE CDI component implemented by Weld",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-cdi-weld",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-cdi-weld",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fcde2974a97ac599",
+            "description": "KumuluzEE CDI component implemented by Weld",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-cdi-weld",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-cdi-weld",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3d1920ae2214138b",
+            "description": "KumuluzEE core bootstrap implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-core",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-79f65b6cce649080",
+            "description": "KumuluzEE core bootstrap implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-core",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2579e823e1899464",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/nats/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7fa45b1fbf42e054",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/rabbitmq/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8055aa317092fcea",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/modbus/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9cb1320e3cca5671",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/mqtt/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a5186704f9489542",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e88d5258fb0a9b97",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/common/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f76f6e8d2abc8393",
+            "description": "KumuluzEE MicroProfile 3.3 which includes and tracks the version 3.3 community based specification found at https://microprofile.io, which focuses on technologies best-suited to build modern Java based cloud applications that follow the microservice architecture. The main KumuluzEE profile includes the reference implementations of the profile/specification.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-microProfile-3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-microProfile-3.3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-237b4712c3dd9bc4",
+            "description": "KumuluzEE servlet component implemented by Jetty",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-servlet-jetty",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-servlet-jetty",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4926385407ce66e3",
+            "description": "KumuluzEE servlet component implemented by Jetty",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.kumuluz.ee/kumuluzee-servlet-jetty",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ee.kumuluz.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.kumuluz.ee:kumuluzee-servlet-jetty",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Kumuluz"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-25dd86bc5661ebf8",
+            "description": "The RabbitMQ Java client library allows Java applications to interface with RabbitMQ.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.rabbitmq/amqp-client@5.22.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.rabbitmq.com",
+            "licenseConcluded": "GPL-2.0-only AND (MPL-1.1 OR GPL-2.0-only OR Apache-2.0) AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.rabbitmq:amqp-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/rabbitmq/pom.xml",
+            "supplier": "Organization: RabbitMQ",
+            "versionInfo": "5.22.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eb44b35992d054bf",
+            "description": "The RabbitMQ Java client library allows Java applications to interface with RabbitMQ.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.rabbitmq/amqp-client@5.22.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.rabbitmq.com",
+            "licenseConcluded": "GPL-2.0-only AND (MPL-1.1 OR GPL-2.0-only OR Apache-2.0) AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.rabbitmq:amqp-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: RabbitMQ",
+            "versionInfo": "5.22.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-825c2d28e9110554",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@4.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND GPL-1.0-or-later AND MIT AND NOASSERTION) OR ((Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND MIT AND NOASSERTION) AND BSD-3-Clause)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "4.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-92a19c9d2275cbbf",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@4.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND GPL-1.0-or-later AND MIT AND NOASSERTION) OR ((Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND MIT AND NOASSERTION) AND BSD-3-Clause)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/common/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "4.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a2c5846ef75a7d23",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@4.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND GPL-1.0-or-later AND MIT AND NOASSERTION) OR ((Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND MIT AND NOASSERTION) AND BSD-3-Clause)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "4.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-de164e479b24d771",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@4.0.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND GPL-1.0-or-later AND MIT AND NOASSERTION) OR ((Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND MIT AND NOASSERTION) AND BSD-3-Clause)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "4.0.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8940970d938e6f8",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@4.0.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND GPL-1.0-or-later AND MIT AND NOASSERTION) OR ((Apache-1.1 AND Apache-2.0 AND BSD-3-Clause AND EPL-2.0 AND MIT AND NOASSERTION) AND BSD-3-Clause)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "4.0.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d24c137a44aa37d6",
+            "description": "Apache Commons Net library contains a collection of network utilities and protocol implementations. Supported protocols include Echo, Finger, FTP, NNTP, NTP, POP3(S), SMTP(S), Telnet, and Whois.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-net/commons-net@3.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-net/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-net:commons-net",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "3.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0bafd0161f1f670",
+            "description": "Apache Commons Net library contains a collection of network utilities and protocol implementations. Supported protocols include Echo, Finger, FTP, NNTP, NTP, POP3(S), SMTP(S), Telnet, and Whois.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/commons-net/commons-net@3.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-net/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "commons-net:commons-net",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "3.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7a86993177cfe87d",
+            "description": "Client library for working with the NATS messaging system.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.nats/jnats@2.21.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nats-io/nats.java",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.nats:jnats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: NATS - The Edge \\u0026 Cloud Native Messaging System",
+            "versionInfo": "2.21.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0ebd717f68e7398",
+            "description": "Client library for working with the NATS messaging system.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.nats/jnats@2.21.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nats-io/nats.java",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.nats:jnats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/nats/pom.xml",
+            "supplier": "Organization: NATS - The Edge \\u0026 Cloud Native Messaging System",
+            "versionInfo": "2.21.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2d64a3ccc3f03162",
+            "description": "Jakarta XML Binding API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jakartaee/jaxb-api",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "name": "jakarta.xml.bind:jakarta.xml.bind-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Jakarta EE",
+            "versionInfo": "4.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2f710b4f585900e4",
+            "description": "Jakarta XML Binding API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jakartaee/jaxb-api",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "name": "jakarta.xml.bind:jakarta.xml.bind-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/common/pom.xml",
+            "supplier": "Organization: Jakarta EE",
+            "versionInfo": "4.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5882a4188700642a",
+            "description": "Jakarta XML Binding API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jakartaee/jaxb-api",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "name": "jakarta.xml.bind:jakarta.xml.bind-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Jakarta EE",
+            "versionInfo": "4.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd0d2a087cd37be9",
+            "description": "Jakarta XML Binding API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jakartaee/jaxb-api",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "name": "jakarta.xml.bind:jakarta.xml.bind-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Jakarta EE",
+            "versionInfo": "4.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f831e1865727d816",
+            "description": "Jakarta XML Binding API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@4.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jakartaee/jaxb-api",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-generic-export-compliance",
+            "name": "jakarta.xml.bind:jakarta.xml.bind-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Jakarta EE",
+            "versionInfo": "4.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bde874a4173137a",
+            "description": "The Paho project provides open-source implementations of open and standard messaging protocols aimed at new, existing, and emerging applications for Machine to Machine (M2M) and Internet of Things (IoT).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.paho/org.eclipse.paho.client.mqttv3@1.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.eclipse.org/paho",
+            "licenseConcluded": "(EPL-1.0 AND EPL-1.0) OR BSD-3-Clause",
+            "licenseDeclared": "EPL-2.0 OR BSD-3-Clause",
+            "name": "org.eclipse.paho:org.eclipse.paho.client.mqttv3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Eclipse Paho",
+            "versionInfo": "1.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b90f991370bdea9a",
+            "description": "The Paho project provides open-source implementations of open and standard messaging protocols aimed at new, existing, and emerging applications for Machine to Machine (M2M) and Internet of Things (IoT).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.paho/org.eclipse.paho.client.mqttv3@1.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.eclipse.org/paho",
+            "licenseConcluded": "(EPL-1.0 AND EPL-1.0) OR BSD-3-Clause",
+            "licenseDeclared": "EPL-2.0 OR BSD-3-Clause",
+            "name": "org.eclipse.paho:org.eclipse.paho.client.mqttv3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/mqtt/pom.xml",
+            "supplier": "Organization: Eclipse Paho",
+            "versionInfo": "1.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-480ad974b9e2cca8",
+            "description": "The Paho project provides open-source implementations of open and standard messaging protocols aimed at new, existing, and emerging applications for Machine to Machine (M2M) and Internet of Things (IoT).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.paho/org.eclipse.paho.mqttv5.client@1.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.eclipse.org/paho",
+            "licenseConcluded": "(EPL-1.0 AND EPL-1.0) OR (BSD-3-Clause AND EPL-2.0 AND (BSD-3-Clause OR EPL-2.0) AND BSD-3-Clause)",
+            "licenseDeclared": "(EPL-1.0 AND EPL-1.0) OR (BSD-3-Clause AND EPL-2.0 AND (BSD-3-Clause OR EPL-2.0) AND BSD-3-Clause)",
+            "name": "org.eclipse.paho:org.eclipse.paho.mqttv5.client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "supplier": "Organization: Eclipse Foundation",
+            "versionInfo": "1.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-737f0842aad52768",
+            "description": "The Paho project provides open-source implementations of open and standard messaging protocols aimed at new, existing, and emerging applications for Machine to Machine (M2M) and Internet of Things (IoT).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.eclipse.paho/org.eclipse.paho.mqttv5.client@1.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.eclipse.org/paho",
+            "licenseConcluded": "(EPL-1.0 AND EPL-1.0) OR (BSD-3-Clause AND EPL-2.0 AND (BSD-3-Clause OR EPL-2.0) AND BSD-3-Clause)",
+            "licenseDeclared": "(EPL-1.0 AND EPL-1.0) OR (BSD-3-Clause AND EPL-2.0 AND (BSD-3-Clause OR EPL-2.0) AND BSD-3-Clause)",
+            "name": "org.eclipse.paho:org.eclipse.paho.mqttv5.client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/mqtt/pom.xml",
+            "supplier": "Organization: Eclipse Foundation",
+            "versionInfo": "1.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-25c37285034b8c11",
+            "description": "Jersey Multipart entity providers support module.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.46",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
+            "licenseConcluded": "LicenseRef-fixed-0x600360ad1a17285d",
+            "licenseDeclared": "(Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
+            "name": "org.glassfish.jersey.media:jersey-media-multipart",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "2.46"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-27f5d8619c2776d3",
+            "description": "Jersey Multipart entity providers support module.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.46",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
+            "licenseConcluded": "LicenseRef-fixed-0x600360ad1a17285d",
+            "licenseDeclared": "(Apache-2.0 AND EPL-2.0) OR (Apache-2.0 AND GPL-2.0-only WITH Classpath-exception-2.0) OR (BSD-2-Clause AND EPL-2.0) OR (BSD-2-Clause AND GPL-2.0-only WITH Classpath-exception-2.0) OR (EPL-2.0 AND MIT) OR (GPL-2.0-only WITH Classpath-exception-2.0 AND MIT)",
+            "name": "org.glassfish.jersey.media:jersey-media-multipart",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "2.46"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-12349a8af59e024a",
+            "description": "RESTEasy Jakarta REST client implementation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.jboss.resteasy/resteasy-client@6.2.12.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://resteasy.dev",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.jboss.resteasy:resteasy-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "supplier": "Organization: RESTEasy",
+            "versionInfo": "6.2.12.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dad4a51b73002b7a",
+            "description": "RESTEasy Jakarta REST client implementation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.jboss.resteasy/resteasy-client@6.2.12.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://resteasy.dev",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.jboss.resteasy:resteasy-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "supplier": "Organization: RESTEasy",
+            "versionInfo": "6.2.12.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-abbfaf9e033b5b40",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.clientserver/client@1.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.clientserver:client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/client/pom.xml",
+            "versionInfo": "1.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ebe96d3ff0488f41",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.clientserver/client@1.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.clientserver:client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-30952b3203b8ee14",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.clientserver/client-server@1.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.clientserver:client-server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-582ddc310891b1df",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.clientserver/server@1.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.clientserver:server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/server/pom.xml",
+            "versionInfo": "1.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ad7895aa69ada5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.clientserver/server@1.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.clientserver:server",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-24235b0b0a55000a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/mqtt/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-26553f58aa02bbc1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/rabbitmq/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-33d4e8f26126ff0",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c000b33d7a3f060",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-428fc8bae3aba20d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61a57e6ec841ee96",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/nats/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6e666a0b74aab331",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/client/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b993022ac4931da",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a0787a2e24cde4da",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ac936b9362de0c06",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/server/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b153421a163201ff",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c658c5da2ce91278",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ea0be6a27266ea5f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/modbus/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fc768ecac547e4e2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/interoperability-common@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:interoperability-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4c886ef8e9709fb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/modbus@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:modbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-66b470d88a8dc6aa",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/modbus@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:modbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b420115b2d2015a6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/modbus@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:modbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/modbus/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c351c22392429c11",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/modbus@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:modbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fbee8831b6ed2239",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/modbus@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:modbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1de57ded8e0bc189",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/mqtt@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:mqtt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ab690b4fbbdebc",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/mqtt@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:mqtt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9d905df5625a4a3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/mqtt@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:mqtt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b38f05759eb5d365",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/mqtt@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:mqtt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/mqtt/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b95e658edb534a35",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/mqtt@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:mqtt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1a2615e6dcc59f8a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-492a030712a04a56",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/client/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-64bdac819b4d03ac",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6671ce19ccbda2e0",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-87d6d333b8c2c069",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b14b81d4bdd5ae4d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Client-Server/server/pom.xml",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e346a6cd5af18317",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8aee1c75128c47",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/nats/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-faf7b1604a0e4234",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/nats@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:nats",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1a493f85e3b95d13",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/rabbitmq@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:rabbitmq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ca8102bdedf2c06",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/rabbitmq@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:rabbitmq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/rabbitmq/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8d57ff35ebda54f4",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/rabbitmq@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:rabbitmq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: interoperability-common/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8f8143d856bea0a9",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/rabbitmq@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:rabbitmq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fe588c4e1a4a896d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.common/rabbitmq@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.common:rabbitmq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b494bfa1803236a9",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.lpc/legacy-protocol-converter@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.lpc:legacy-protocol-converter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7dd6bd284558ef17",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.lpc/transformation-framework@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.lpc:transformation-framework",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/pom.xml",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd26f3df097a63f2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/si.sunesis.interoperability.lpc/transformation-framework@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "si.sunesis.interoperability.lpc:transformation-framework",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: Legacy-Protocol-Converter/transformation-framework/pom.xml",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-f5c3756390b3b289",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "lfenergy.CUPID",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-CUPID-Client-Server",
+            "comment": "This package was added to the Trivy analysis for the Client-Server by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/cupid-project/Client-Server/archive/d928b2e03b7c715bbed10ac2a9d98dcbb0135fcc.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/cupid-project/Client-Server@d928b2e03b7c715bbed10ac2a9d98dcbb0135fcc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "Client-Server",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d928b2e03b7c715bbed10ac2a9d98dcbb0135fcc"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-CUPID-Legacy-Protocol-Converter",
+            "comment": "This package was added to the Trivy analysis for the Legacy-Protocol-Converter by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/cupid-project/Legacy-Protocol-Converter/archive/20aee1253bfedc4f59edb408f7481f97f238ed96.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/cupid-project/Legacy-Protocol-Converter@20aee1253bfedc4f59edb408f7481f97f238ed96",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "Legacy-Protocol-Converter",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "20aee1253bfedc4f59edb408f7481f97f238ed96"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "comment": "This package was added to the Trivy analysis for the interoperability-common by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/cupid-project/interoperability-common/archive/b639069a2f271dcb5e31c3335bfcfce5006ae557.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/cupid-project/interoperability-common@b639069a2f271dcb5e31c3335bfcfce5006ae557",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "interoperability-common",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b639069a2f271dcb5e31c3335bfcfce5006ae557"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-166eb2e68c255192",
+            "relatedSpdxElement": "SPDXRef-Package-b494bfa1803236a9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2edd92e444cd9289",
+            "relatedSpdxElement": "SPDXRef-Package-30952b3203b8ee14",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3eeed6e8bb9a2547",
+            "relatedSpdxElement": "SPDXRef-Package-b153421a163201ff",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4a5066eb55c2e554",
+            "relatedSpdxElement": "SPDXRef-Package-cd26f3df097a63f2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5d1a5a28f78a82da",
+            "relatedSpdxElement": "SPDXRef-Package-582ddc310891b1df",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8d49d62c9d609fc3",
+            "relatedSpdxElement": "SPDXRef-Package-b38f05759eb5d365",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-975cf23382600d51",
+            "relatedSpdxElement": "SPDXRef-Package-b420115b2d2015a6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9d2f9e119ba22257",
+            "relatedSpdxElement": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b742312d107832",
+            "relatedSpdxElement": "SPDXRef-Package-abbfaf9e033b5b40",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-dda5e1de99ce39f0",
+            "relatedSpdxElement": "SPDXRef-Package-3ca8102bdedf2c06",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f0d61b46b6e6f30",
+            "relatedSpdxElement": "SPDXRef-Package-e8aee1c75128c47",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-Legacy-Protocol-Converter",
+            "relatedSpdxElement": "SPDXRef-Application-166eb2e68c255192",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-Client-Server",
+            "relatedSpdxElement": "SPDXRef-Application-2edd92e444cd9289",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relatedSpdxElement": "SPDXRef-Application-3eeed6e8bb9a2547",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-Legacy-Protocol-Converter",
+            "relatedSpdxElement": "SPDXRef-Application-4a5066eb55c2e554",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-Client-Server",
+            "relatedSpdxElement": "SPDXRef-Application-5d1a5a28f78a82da",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relatedSpdxElement": "SPDXRef-Application-8d49d62c9d609fc3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relatedSpdxElement": "SPDXRef-Application-975cf23382600d51",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relatedSpdxElement": "SPDXRef-Application-9d2f9e119ba22257",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-Client-Server",
+            "relatedSpdxElement": "SPDXRef-Application-c5b742312d107832",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relatedSpdxElement": "SPDXRef-Application-dda5e1de99ce39f0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relatedSpdxElement": "SPDXRef-Application-f0d61b46b6e6f30",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-30952b3203b8ee14",
+            "relatedSpdxElement": "SPDXRef-Package-109baec91b40de9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-30952b3203b8ee14",
+            "relatedSpdxElement": "SPDXRef-Package-33d4e8f26126ff0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-30952b3203b8ee14",
+            "relatedSpdxElement": "SPDXRef-Package-6671ce19ccbda2e0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-30952b3203b8ee14",
+            "relatedSpdxElement": "SPDXRef-Package-ad7895aa69ada5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-30952b3203b8ee14",
+            "relatedSpdxElement": "SPDXRef-Package-ebe96d3ff0488f41",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3c000b33d7a3f060",
+            "relatedSpdxElement": "SPDXRef-Package-a2c5846ef75a7d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3c000b33d7a3f060",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3c000b33d7a3f060",
+            "relatedSpdxElement": "SPDXRef-Package-f831e1865727d816",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca8102bdedf2c06",
+            "relatedSpdxElement": "SPDXRef-Package-25dd86bc5661ebf8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca8102bdedf2c06",
+            "relatedSpdxElement": "SPDXRef-Package-26553f58aa02bbc1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca8102bdedf2c06",
+            "relatedSpdxElement": "SPDXRef-Package-8add2851a4a94c67",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-582ddc310891b1df",
+            "relatedSpdxElement": "SPDXRef-Package-ac936b9362de0c06",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-582ddc310891b1df",
+            "relatedSpdxElement": "SPDXRef-Package-b14b81d4bdd5ae4d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-582ddc310891b1df",
+            "relatedSpdxElement": "SPDXRef-Package-ee349950f83bf5f2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-66b470d88a8dc6aa",
+            "relatedSpdxElement": "SPDXRef-Package-3c2037c0212ef038",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-66b470d88a8dc6aa",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-66b470d88a8dc6aa",
+            "relatedSpdxElement": "SPDXRef-Package-fc768ecac547e4e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-12349a8af59e024a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-17ffa0d85a8e4434",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-25c37285034b8c11",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-2ab690b4fbbdebc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-2d64a3ccc3f03162",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-8f8143d856bea0a9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-9b993022ac4931da",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-c0586f9de9b74cd2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-c89261ee0f8d02b8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-d24c137a44aa37d6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-de164e479b24d771",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-e346a6cd5af18317",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7dd6bd284558ef17",
+            "relatedSpdxElement": "SPDXRef-Package-fbee8831b6ed2239",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8d57ff35ebda54f4",
+            "relatedSpdxElement": "SPDXRef-Package-eb44b35992d054bf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8d57ff35ebda54f4",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8d57ff35ebda54f4",
+            "relatedSpdxElement": "SPDXRef-Package-fc768ecac547e4e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d905df5625a4a3",
+            "relatedSpdxElement": "SPDXRef-Package-1bde874a4173137a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d905df5625a4a3",
+            "relatedSpdxElement": "SPDXRef-Package-480ad974b9e2cca8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d905df5625a4a3",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d905df5625a4a3",
+            "relatedSpdxElement": "SPDXRef-Package-fc768ecac547e4e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-abbfaf9e033b5b40",
+            "relatedSpdxElement": "SPDXRef-Package-492a030712a04a56",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-abbfaf9e033b5b40",
+            "relatedSpdxElement": "SPDXRef-Package-6e666a0b74aab331",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-abbfaf9e033b5b40",
+            "relatedSpdxElement": "SPDXRef-Package-ca5bd85378db6796",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ad7895aa69ada5",
+            "relatedSpdxElement": "SPDXRef-Package-109baec91b40de9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ad7895aa69ada5",
+            "relatedSpdxElement": "SPDXRef-Package-33d4e8f26126ff0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ad7895aa69ada5",
+            "relatedSpdxElement": "SPDXRef-Package-6671ce19ccbda2e0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b153421a163201ff",
+            "relatedSpdxElement": "SPDXRef-Package-2f710b4f585900e4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b153421a163201ff",
+            "relatedSpdxElement": "SPDXRef-Package-6ab623033ae43544",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b153421a163201ff",
+            "relatedSpdxElement": "SPDXRef-Package-92a19c9d2275cbbf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b38f05759eb5d365",
+            "relatedSpdxElement": "SPDXRef-Package-24235b0b0a55000a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b38f05759eb5d365",
+            "relatedSpdxElement": "SPDXRef-Package-737f0842aad52768",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b38f05759eb5d365",
+            "relatedSpdxElement": "SPDXRef-Package-8e8888a13d1360f7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b38f05759eb5d365",
+            "relatedSpdxElement": "SPDXRef-Package-b90f991370bdea9a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b420115b2d2015a6",
+            "relatedSpdxElement": "SPDXRef-Package-1234454b58fa0d0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b420115b2d2015a6",
+            "relatedSpdxElement": "SPDXRef-Package-aff949133c11bc06",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b420115b2d2015a6",
+            "relatedSpdxElement": "SPDXRef-Package-ea0be6a27266ea5f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-2ab690b4fbbdebc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-7dd6bd284558ef17",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-8f8143d856bea0a9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-9b993022ac4931da",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-c0586f9de9b74cd2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-e346a6cd5af18317",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b494bfa1803236a9",
+            "relatedSpdxElement": "SPDXRef-Package-fbee8831b6ed2239",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-1de57ded8e0bc189",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-27f5d8619c2776d3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-4c886ef8e9709fb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-5882a4188700642a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-64bdac819b4d03ac",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-9ebb69e246cdde6a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-c658c5da2ce91278",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-ca6818a315b253ae",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-cff34964c52d5b63",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-dad4a51b73002b7a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-e0bafd0161f1f670",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-e8940970d938e6f8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd26f3df097a63f2",
+            "relatedSpdxElement": "SPDXRef-Package-fe588c4e1a4a896d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relatedSpdxElement": "SPDXRef-Package-66b470d88a8dc6aa",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relatedSpdxElement": "SPDXRef-Package-8d57ff35ebda54f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relatedSpdxElement": "SPDXRef-Package-9d905df5625a4a3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relatedSpdxElement": "SPDXRef-Package-faf7b1604a0e4234",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4d0d50a30ed4a44",
+            "relatedSpdxElement": "SPDXRef-Package-fc768ecac547e4e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e8aee1c75128c47",
+            "relatedSpdxElement": "SPDXRef-Package-61a57e6ec841ee96",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e8aee1c75128c47",
+            "relatedSpdxElement": "SPDXRef-Package-e0ebd717f68e7398",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e8aee1c75128c47",
+            "relatedSpdxElement": "SPDXRef-Package-e66c368be59a5e5b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ebe96d3ff0488f41",
+            "relatedSpdxElement": "SPDXRef-Package-109baec91b40de9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ebe96d3ff0488f41",
+            "relatedSpdxElement": "SPDXRef-Package-33d4e8f26126ff0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ebe96d3ff0488f41",
+            "relatedSpdxElement": "SPDXRef-Package-6671ce19ccbda2e0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf7b1604a0e4234",
+            "relatedSpdxElement": "SPDXRef-Package-7a86993177cfe87d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf7b1604a0e4234",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf7b1604a0e4234",
+            "relatedSpdxElement": "SPDXRef-Package-fc768ecac547e4e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-a2c5846ef75a7d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-a2c5846ef75a7d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-a2c5846ef75a7d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-a2c5846ef75a7d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f110ac6f45260d23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f831e1865727d816",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f831e1865727d816",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f831e1865727d816",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fc768ecac547e4e2",
+            "relatedSpdxElement": "SPDXRef-Package-f831e1865727d816",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-f5c3756390b3b289",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f5c3756390b3b289",
+            "relatedSpdxElement": "SPDXRef-lfenergy-CUPID-Client-Server",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f5c3756390b3b289",
+            "relatedSpdxElement": "SPDXRef-lfenergy-CUPID-Legacy-Protocol-Converter",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-f5c3756390b3b289",
+            "relatedSpdxElement": "SPDXRef-lfenergy-CUPID-interoperability-common",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
