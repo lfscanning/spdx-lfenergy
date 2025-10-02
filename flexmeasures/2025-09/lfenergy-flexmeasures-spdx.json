@@ -1,0 +1,189 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T15:16:32Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp5u4c0y4v/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp5u4c0y4v/code-c58997b8-2f82-4f64-bfd3-ef8f55e8f3e8",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "lfenergy.flexmeasures",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-flexmeasures-flexmeasures",
+            "comment": "This package was added to the Trivy analysis for the flexmeasures by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/flexmeasures/flexmeasures/archive/90cd728b1bff756de6bd8d907280a339f2cfbc35.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/flexmeasures/flexmeasures@90cd728b1bff756de6bd8d907280a339f2cfbc35",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "flexmeasures",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "90cd728b1bff756de6bd8d907280a339f2cfbc35"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-flexmeasures-flexmeasures-client",
+            "comment": "This package was added to the Trivy analysis for the flexmeasures-client by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/flexmeasures/flexmeasures-client/archive/b9f477ddb4a814f7cfa31e6bf4de3e31b9e39cd5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/flexmeasures/flexmeasures-client@b9f477ddb4a814f7cfa31e6bf4de3e31b9e39cd5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "flexmeasures-client",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b9f477ddb4a814f7cfa31e6bf4de3e31b9e39cd5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-flexmeasures-flexmeasures-ha-integration",
+            "comment": "This package was added to the Trivy analysis for the flexmeasures-ha-integration by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/flexmeasures/flexmeasures-ha-integration/archive/0e3e1490b4703e937844fd2e9dff8bf7a6233dff.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/flexmeasures/flexmeasures-ha-integration@0e3e1490b4703e937844fd2e9dff8bf7a6233dff",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "flexmeasures-ha-integration",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "0e3e1490b4703e937844fd2e9dff8bf7a6233dff"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-flexmeasures-flexmeasures-plugin-template",
+            "comment": "This package was added to the Trivy analysis for the flexmeasures-plugin-template by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/flexmeasures/flexmeasures-plugin-template/archive/241b0f6fc95b41f7321f88369ef8c521e9aa3280.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/flexmeasures/flexmeasures-plugin-template@241b0f6fc95b41f7321f88369ef8c521e9aa3280",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "flexmeasures-plugin-template",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "241b0f6fc95b41f7321f88369ef8c521e9aa3280"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-flexmeasures-flexmeasures-s2",
+            "comment": "This package was added to the Trivy analysis for the flexmeasures-s2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/flexmeasures/flexmeasures-s2/archive/d9e6f1fc054564d9ff6302fa50756dab0f5d2a55.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/flexmeasures/flexmeasures-s2@d9e6f1fc054564d9ff6302fa50756dab0f5d2a55",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "flexmeasures-s2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d9e6f1fc054564d9ff6302fa50756dab0f5d2a55"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-flexmeasures-flexmeasures-weather",
+            "comment": "This package was added to the Trivy analysis for the flexmeasures-weather by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/flexmeasures/flexmeasures-weather/archive/6e71f054856d2fd5ddfe816eb080925799f6e6fd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/flexmeasures/flexmeasures-weather@6e71f054856d2fd5ddfe816eb080925799f6e6fd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "licenseDeclared": "Apache-2.0 AND MIT AND (CC-BY-3.0 AND MIT AND OFL-1.1)",
+            "name": "flexmeasures-weather",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6e71f054856d2fd5ddfe816eb080925799f6e6fd"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-client",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-ha-integration",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-plugin-template",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-s2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b6fdf0dc496478bf",
+            "relatedSpdxElement": "SPDXRef-lfenergy-flexmeasures-flexmeasures-weather",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
