@@ -1,0 +1,103 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T18:49:55Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        },
+        {
+            "extractedText": " BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-BSD",
+            "name": "BSD"
+        }
+    ],
+    "name": "/tmp/tmpr4ewfh2h/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2025-09/lfenergy-FIDOPower-full/92aea8d8-f900-4de3-9688-367161e72996",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-de168b34de9307c7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-BSD-version-unspecified- AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "lfenergy.FIDOPower",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FIDOPower-model-viewer",
+            "comment": "This package was added to the Trivy analysis for the model_viewer by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fidopower/model_viewer/archive/4cd76f65638a44ffe80ec8d46ef2465378c54c28.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fidopower/model_viewer@4cd76f65638a44ffe80ec8d46ef2465378c54c28",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-BSD-version-unspecified- AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "model_viewer",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4cd76f65638a44ffe80ec8d46ef2465378c54c28"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-FIDOPower-optimal-sizing-placement",
+            "comment": "This package was added to the Trivy analysis for the optimal_sizing_placement by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/fidopower/optimal_sizing_placement/archive/fe9159e6bf55e9378b509efce8933907f8da02c9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/fidopower/optimal_sizing_placement@fe9159e6bf55e9378b509efce8933907f8da02c9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-BSD-version-unspecified- AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "optimal_sizing_placement",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "fe9159e6bf55e9378b509efce8933907f8da02c9"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-de168b34de9307c7",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-de168b34de9307c7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FIDOPower-model-viewer",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-de168b34de9307c7",
+            "relatedSpdxElement": "SPDXRef-lfenergy-FIDOPower-optimal-sizing-placement",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
