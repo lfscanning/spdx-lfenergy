@@ -1,0 +1,883 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T18:18:17Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpcteza_uy/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpcteza_uy/code-c0e17bb1-74fb-40f0-a80f-187bac6bbd88",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-9d7446934def2288",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "BatteryDataInterface/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "fa8e98fdb3f583e0d1f11e54fb5bac0f193e2df1"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-8273acf204e22e34",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "schema-management-service/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "714d545522d68859d95fdce5c725d1db6ebe2a45"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aa6d852358faf532",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@3.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a10f1eff40c75210",
+            "description": "Safely add untrusted strings to HTML/XML markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/markupsafe@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "MarkupSafe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cefc308207a6d9bb",
+            "description": "Database Abstraction Library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sqlalchemy@1.3.23",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sqlalchemy.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "SQLAlchemy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: SQLAlchemy",
+            "versionInfo": "1.3.23"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c7f5934c05adce20",
+            "description": "The comprehensive WSGI web application library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/werkzeug@2.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Werkzeug",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-57306cab0b5c4d40",
+            "description": "The AWS SDK for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/boto3@1.20.31",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/boto/boto3",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "boto3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: the boto project",
+            "versionInfo": "1.20.31"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8882d7ebe97c67c9",
+            "description": "Composable command line interface toolkit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/click@8.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "click",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "8.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e3bdead1b2f5f2",
+            "description": "Cross-platform colored terminal text.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/colorama@0.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tartley/colorama",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "colorama",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Jonathan Hartley",
+            "versionInfo": "0.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4381f54c3c8392f9",
+            "description": "Safely pass data to untrusted environments and back.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/itsdangerous@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "itsdangerous",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8f2bb4140bcf02e8",
+            "description": "Python plotting package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib@3.3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://matplotlib.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "PSF-2.0",
+            "name": "matplotlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "3.3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dbc19b78be1ccfd0",
+            "description": "A Python library to read/write Excel 2010 xlsx/xlsm files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openpyxl@3.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://openpyxl.readthedocs.io",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "openpyxl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "versionInfo": "3.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f29e649d356f0ea6",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@1.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION AND (NOASSERTION OR NOASSERTION) AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "1.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8fc4b9f843769a09",
+            "description": "psycopg2 - Python-PostgreSQL Database Adapter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psycopg2-binary@2.8.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://psycopg.org/",
+            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-2.1-or-later AND LGPL-2.1-or-later AND NOASSERTION AND LGPL-3.0-only AND LGPL-3.0-or-later AND Python-2.0",
+            "licenseDeclared": "GPL-3.0-or-later",
+            "name": "psycopg2-binary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: The Psycopg Team",
+            "versionInfo": "2.8.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-610d6e85f6690d45",
+            "description": "A class based python interface for communication and control of Maccor cyclers over Macnet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymacnet@0.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/BattGenie/pymacnet.git",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "pymacnet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: BatteryDataInterface/requirements.txt",
+            "supplier": "Organization: Battery Data Alliance",
+            "versionInfo": "0.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-997cd735b9f210ba",
+            "description": "A development tool to measure, monitor and analyze the memory behavior of Python objects.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pympler@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pympler/pympler",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pympler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: pympler",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bfa64c00f2f3af1f",
+            "description": "Read key-value pairs from a .env file and set them as environment variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dotenv@0.20.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/theskumar/python-dotenv",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "python-dotenv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Saurabh Kumar",
+            "versionInfo": "0.20.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d9aff8bc84c8b782",
+            "description": "Read key-value pairs from a .env file and set them as environment variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dotenv@0.20.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/theskumar/python-dotenv",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "python-dotenv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Saurabh Kumar",
+            "versionInfo": "0.20.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c6972c094c3b8b57",
+            "description": "JOSE implementation in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-jose@3.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/mpdavis/python-jose",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "python-jose",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Michael Davis",
+            "versionInfo": "3.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ba09030e68e2a88",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c1284113add5bc0f",
+            "description": "Image processing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scikit-image@0.19.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND CC0-1.0 AND NOASSERTION AND MIT AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scikit-image",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Image Processing Toolbox for SciPy",
+            "versionInfo": "0.19.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b90465c3e0f85a5f",
+            "description": "Statistical data visualization",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/seaborn@0.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "seaborn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Michael Waskom",
+            "versionInfo": "0.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b9e44e619a3dc331",
+            "description": "Python bindings for the Stripe API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/stripe@3.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "stripe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Stripe",
+            "versionInfo": "3.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2aaafa7857e09c4b",
+            "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xlrd@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.python-excel.org/",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "xlrd",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-44b6a48d8b4f37a0",
+            "description": "Read and write ZIP files - backport of the zipfile module from Python 3.6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/zipfile36@0.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://gitlab.com/takluyver/zipfile36",
+            "licenseConcluded": "Python-2.0",
+            "licenseDeclared": "Python-2.0",
+            "name": "zipfile36",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: schema-management-service/requirements.txt",
+            "supplier": "Organization: Thomas Kluyver",
+            "versionInfo": "0.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "lfenergy.BatteryDataAlliance",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-BatteryDataInterface",
+            "comment": "This package was added to the Trivy analysis for the BatteryDataInterface by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/BatteryDataInterface/archive/fa8e98fdb3f583e0d1f11e54fb5bac0f193e2df1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/BatteryDataInterface@fa8e98fdb3f583e0d1f11e54fb5bac0f193e2df1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "BatteryDataInterface",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "fa8e98fdb3f583e0d1f11e54fb5bac0f193e2df1"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-pyadmiral",
+            "comment": "This package was added to the Trivy analysis for the pyadmiral by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/pyadmiral/archive/a25a1c8c4187c7116f764f082d2bc7480f4a2d41.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/pyadmiral@a25a1c8c4187c7116f764f082d2bc7480f4a2d41",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "pyadmiral",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "a25a1c8c4187c7116f764f082d2bc7480f4a2d41"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-pyctiarbin",
+            "comment": "This package was added to the Trivy analysis for the pyctiarbin by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/pyctiarbin/archive/abb8c9f9b98bc751bb219a8803d8207ff86ca6ce.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/pyctiarbin@abb8c9f9b98bc751bb219a8803d8207ff86ca6ce",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "pyctiarbin",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "abb8c9f9b98bc751bb219a8803d8207ff86ca6ce"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-pymacnet",
+            "comment": "This package was added to the Trivy analysis for the pymacnet by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/pymacnet/archive/5eef0423327ebd206bfb4aed2868e543f511c698.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/pymacnet@5eef0423327ebd206bfb4aed2868e543f511c698",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "pymacnet",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "5eef0423327ebd206bfb4aed2868e543f511c698"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-VoltaiqDataFormat",
+            "comment": "This package was added to the Trivy analysis for the VoltaiqDataFormat by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/VoltaiqDataFormat/archive/6dcb9eb462871e3051f41fb220d683dab1893d94.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/VoltaiqDataFormat@6dcb9eb462871e3051f41fb220d683dab1893d94",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "VoltaiqDataFormat",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6dcb9eb462871e3051f41fb220d683dab1893d94"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-amplabs",
+            "comment": "This package was added to the Trivy analysis for the amplabs by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/amplabs/archive/122a901a23cd14d8f39e15f4add1e07b3a680d95.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/amplabs@122a901a23cd14d8f39e15f4add1e07b3a680d95",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "amplabs",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "122a901a23cd14d8f39e15f4add1e07b3a680d95"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-battery-data-format",
+            "comment": "This package was added to the Trivy analysis for the battery-data-format by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/battery-data-format/archive/40fe6a5a618abe9a2ed52b8805a51a9194f488a8.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/battery-data-format@40fe6a5a618abe9a2ed52b8805a51a9194f488a8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "battery-data-format",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "40fe6a5a618abe9a2ed52b8805a51a9194f488a8"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-battery-data-format-ontology",
+            "comment": "This package was added to the Trivy analysis for the battery-data-format-ontology by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/battery-data-format-ontology/archive/7e5894b2fe05005e0119f6ec1570884d50ef36dd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/battery-data-format-ontology@7e5894b2fe05005e0119f6ec1570884d50ef36dd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "battery-data-format-ontology",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7e5894b2fe05005e0119f6ec1570884d50ef36dd"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-BatteryDataAlliance-schema-management-service",
+            "comment": "This package was added to the Trivy analysis for the schema-management-service by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/battery-data-alliance/schema-management-service/archive/714d545522d68859d95fdce5c725d1db6ebe2a45.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/battery-data-alliance/schema-management-service@714d545522d68859d95fdce5c725d1db6ebe2a45",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND MIT",
+            "name": "schema-management-service",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "714d545522d68859d95fdce5c725d1db6ebe2a45"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-2aaafa7857e09c4b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-4381f54c3c8392f9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-44b6a48d8b4f37a0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-4e3bdead1b2f5f2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-57306cab0b5c4d40",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-7ba09030e68e2a88",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-8882d7ebe97c67c9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-8f2bb4140bcf02e8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-8fc4b9f843769a09",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-997cd735b9f210ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-a10f1eff40c75210",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-aa6d852358faf532",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-b90465c3e0f85a5f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-b9e44e619a3dc331",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-bfa64c00f2f3af1f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-c1284113add5bc0f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-c6972c094c3b8b57",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-c7f5934c05adce20",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-cefc308207a6d9bb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-d9aff8bc84c8b782",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-dbc19b78be1ccfd0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8273acf204e22e34",
+            "relatedSpdxElement": "SPDXRef-Package-f29e649d356f0ea6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9d7446934def2288",
+            "relatedSpdxElement": "SPDXRef-Package-610d6e85f6690d45",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-BatteryDataAlliance-schema-management-service",
+            "relatedSpdxElement": "SPDXRef-Application-8273acf204e22e34",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-BatteryDataAlliance-BatteryDataInterface",
+            "relatedSpdxElement": "SPDXRef-Application-9d7446934def2288",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-BatteryDataInterface",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-pyadmiral",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-pyctiarbin",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-pymacnet",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-VoltaiqDataFormat",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-amplabs",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-battery-data-format",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-battery-data-format-ontology",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6d6ea33c0b768fef",
+            "relatedSpdxElement": "SPDXRef-lfenergy-BatteryDataAlliance-schema-management-service",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
