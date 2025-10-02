@@ -1,0 +1,4113 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T18:48:18Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpai081tfl/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpai081tfl/code-ce1c208b-a85b-461a-9f38-da01a45318ba",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-db41c6951c7c1f2a",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "conformance/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f1ace0726df2d1db45aa78c31979792a3f9332a5"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-34a765c5e110742",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "java-client-sdk/java-client-examples/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f5ad7903265ebbae33d8f02b1add001a021e58f7"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2393de401368abec",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "java-client-sdk/java-client/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f5ad7903265ebbae33d8f02b1add001a021e58f7"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-144d6a4fda357b38",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "java-client-sdk/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f5ad7903265ebbae33d8f02b1add001a021e58f7"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-884ceac6ecb49074",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "spec/docs/Gemfile.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "a06de063f50a9f875131bcc88403f716b4059993"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ba3fa85396df195c",
+            "description": "A toolkit of support libraries and Ruby core extensions extracted from the Rails framework. Rich support for multibyte strings, internationalization, time zones, and testing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/activesupport@7.2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://rubyonrails.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "activesupport",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ruby on Rails",
+            "versionInfo": "7.2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ff43be052ba68ead",
+            "description": "Addressable is an alternative implementation to the URI implementation that is\npart of Ruby's standard library. It is flexible, offers heuristic parsing, and\nadditionally provides extensive support for IRIs and URI templates.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/addressable@2.8.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sporkmonger/addressable",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "addressable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Bob Aman",
+            "versionInfo": "2.8.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d1fa31a6c8549897",
+            "description": "Support for encoding and decoding binary data using a Base64 representation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/base64@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/base64",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause OR (BSD-2-Clause AND Ruby)",
+            "name": "base64",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fa25c67d05559f1a",
+            "description": "a performance benchmarking library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/benchmark@0.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/benchmark",
+            "licenseConcluded": "(BSD-2-Clause AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause OR Ruby OR (BSD-2-Clause AND Ruby)",
+            "name": "benchmark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "0.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e38e70d86d9503c",
+            "description": "This library provides arbitrary-precision decimal floating-point number class.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/bigdecimal@3.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/bigdecimal",
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND Ruby) OR (BSD-2-Clause AND dtoa AND BSD-2-Clause)",
+            "licenseDeclared": "BSD-2-Clause OR Ruby OR (BSD-2-Clause AND Ruby)",
+            "name": "bigdecimal",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "3.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5f81baafa836d21e",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6a3a935bd0d63148",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client-examples/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2c76f36ee3b04df8",
+            "description": "logback-core module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-core@1.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only",
+            "name": "ch.qos.logback:logback-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9b620a724cb2720",
+            "description": "logback-core module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-core@1.5.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only",
+            "name": "ch.qos.logback:logback-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client-examples/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.5.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2f166b0343ce49ec",
+            "description": "    Ruby CoffeeScript is a bridge to the JS CoffeeScript compiler.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/coffee-script@2.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/josh/ruby-coffee-script",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "coffee-script",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ruby on Rails",
+            "versionInfo": "2.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5c04a4af1c0b1d92",
+            "description": "    CoffeeScript is a little language that compiles into JavaScript.\n    Underneath all of those embarrassing braces and semicolons,\n    JavaScript has always had a gorgeous object model at its heart.\n    CoffeeScript is an attempt to expose the good parts of JavaScript\n    in a simple way.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/coffee-script-source@1.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://coffeescript.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "coffee-script-source",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "versionInfo": "1.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-33bcb69492aba1a2",
+            "description": "Colorize your text in the terminal.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/colorator@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/octopress/colorator",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "colorator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Octopress",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b7574a3afac1346c",
+            "description": "Core annotations used for value types, used by Jackson data binding package.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-baec0d68374996da",
+            "description": "Core annotations used for value types, used by Jackson data binding package.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d724e57787b385db",
+            "description": "Core annotations used for value types, used by Jackson data binding package.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a2ddceee3cd99525",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND MIT AND (MIT AND BSD-2-Clause) AND BSD-2-Clause AND MIT AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause AND MIT",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d47a8d2a3c91695",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND MIT AND (MIT AND BSD-2-Clause) AND BSD-2-Clause AND MIT AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause AND MIT",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dcaf6eff97c571b",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND MIT AND (MIT AND BSD-2-Clause) AND BSD-2-Clause AND MIT AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause AND MIT",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55ac5b02ee28caa9",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-72fc2b537628df73",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e9b78fb7b6638023",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7058bf7ee0b94763",
+            "description": "Add-on module to support JSR-310 (Java 8 Date & Time API) data types.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-modules-java8",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7063a84f860d3047",
+            "description": "Add-on module to support JSR-310 (Java 8 Date & Time API) data types.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-modules-java8",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b96e6f79e262fd8c",
+            "description": "Add-on module to support JSR-310 (Java 8 Date & Time API) data types.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-modules-java8",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d204745df757c200",
+            "description": "A fast, safe, extensible parser for CommonMark. This wraps the comrak Rust crate.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/commonmarker@0.23.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/gjtorikian/commonmarker",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "commonmarker",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Garen Torikian",
+            "versionInfo": "0.23.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b32522c3e62934fc",
+            "description": "Modern concurrency tools including agents, futures, promises, thread pools, actors, supervisors, and more.\nInspired by Erlang, Clojure, Go, JavaScript, actors, and classic concurrency patterns.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/concurrent-ruby@1.3.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.concurrent-ruby.com",
+            "licenseConcluded": "(Ruby AND MIT) AND MIT AND CC0-1.0 AND LicenseRef-scancode-public-domain AND MIT",
+            "licenseDeclared": "MIT AND Ruby",
+            "name": "concurrent-ruby",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: ruby-concurrency",
+            "versionInfo": "1.3.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-95477eb7e90bdcc0",
+            "description": "Generic connection pool for Ruby",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/connection_pool@2.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mperham/connection_pool",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "connection_pool",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Mike Perham",
+            "versionInfo": "2.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-50092597899bbb87",
+            "description": "The CSV library provides a complete interface to CSV files and data. It offers tools to enable you to read and write to and from Strings or IO objects, as needed.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/csv@3.3.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/csv",
+            "licenseConcluded": "BSD-2-Clause AND MIT AND BSD-2-Clause",
+            "licenseDeclared": "(BSD-2-Clause AND MIT AND Ruby) OR (BSD-2-Clause AND MIT)",
+            "name": "csv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "3.3.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-819a9e0f2a328e69",
+            "description": "Dnsruby is a pure Ruby DNS client library which implements a\nstub resolver. It aims to comply with all DNS RFCs, including\nDNSSEC NSEC3 support.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/dnsruby@1.72.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/alexdalitz/dnsruby",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "dnsruby",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Alex Dalitz",
+            "versionInfo": "1.72.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6d67a03c71a86888",
+            "description": "Distributed object system for Ruby",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/drb@2.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/drb",
+            "licenseConcluded": "Artistic-1.0 AND Ruby AND BSD-2-Clause AND Ruby",
+            "licenseDeclared": "BSD-2-Clause OR (BSD-2-Clause AND Ruby)",
+            "name": "drb",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "2.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e99831b309de8d06",
+            "description": "EventMachine based WebSocket server",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/em-websocket@0.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/igrigorik/em-websocket",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "em-websocket",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ilya Grigorik",
+            "versionInfo": "0.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3649a4b77ec3359b",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "energy.trolie:java-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9832361a425b3b73",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "energy.trolie:java-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client-examples/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8ee31adb223ad9d",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "energy.trolie:java-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e039e36e4884b2b",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "energy.trolie:java-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8024dc3f3fdeb79",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client-examples@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "energy.trolie:java-client-examples",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a9914916d4e989c5",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client-examples@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "energy.trolie:java-client-examples",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client-examples/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-69a4f9caf4cc2978",
+            "description": "Parent POM for the TROLIE Java client SDK, implementing an opinionated idiomatic Java API to access TROLIE servers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/energy.trolie/java-client-sdk-parent@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://trolie.energy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "energy.trolie:java-client-sdk-parent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75230030ec5e9ec8",
+            "description": "Very lightweight libcurl wrapper.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/ethon@0.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/typhoeus/ethon",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ethon",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Typhoeus",
+            "versionInfo": "0.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a98cd4020d9abadc",
+            "description": "EventMachine implements a fast, single-threaded engine for arbitrary network\ncommunications. It's extremely easy to use in Ruby. EventMachine wraps all\ninteractions with IP sockets, allowing programs to concentrate on the\nimplementation of network protocols. It can be used to create both network\nservers and clients. To create a server or client, a Ruby program only needs\nto specify the IP address and port, and provide a Module that implements the\ncommunications protocol. Implementations of several standard network protocols\nare provided with the package, primarily to serve as examples. The real goal\nof EventMachine is to enable programs to easily interface with other programs\nusing TCP/IP, especially if custom protocols are required.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/eventmachine@1.2.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eventmachine/eventmachine",
+            "licenseConcluded": "(GPL-2.0 AND GPL-2.0-only AND NOASSERTION AND GPL-2.0-or-later AND LGPL-2.1 AND NOASSERTION AND Ruby) OR GPL-2.0-only",
+            "licenseDeclared": "Ruby OR (GPL-2.0 AND GPL-2.0-only) OR (GPL-2.0 AND Ruby) OR (GPL-2.0-only AND Ruby)",
+            "name": "eventmachine",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: eventmachine",
+            "versionInfo": "1.2.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7e468793c68eaab7",
+            "description": "ExecJS lets you run JavaScript code from Ruby.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/execjs@2.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rails/execjs",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "execjs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ruby on Rails",
+            "versionInfo": "2.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0c91345050f05b0",
+            "description": "HTTP/REST API client library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/faraday@2.13.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://lostisland.github.io/faraday",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "faraday",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: lostisland",
+            "versionInfo": "2.13.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9e88a105906268bf",
+            "description": "Faraday adapter for Net::HTTP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/faraday-net_http@3.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lostisland/faraday-net_http",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "faraday-net_http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: lostisland",
+            "versionInfo": "3.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5e487becd2abcb6f",
+            "description": "Ruby FFI library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/ffi@1.17.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ffi/ffi/wiki",
+            "licenseConcluded": "((BSD-3-Clause AND MIT) AND MIT AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-Source-Code AND CC-PDDC AND FSFAP AND FSFUL AND GPL-2.0-or-later WITH Libtool-exception AND FSFULLRWD AND GPL-2.0-only AND GPL-2.0-or-later AND GPL-2.0-or-later WITH Autoconf-exception-generic AND GPL-2.0-or-later WITH Libtool-exception AND LicenseRef-scancode-warranty-disclaimer AND (MIT AND GPL-2.0-or-later AND GPL-2.0-only) AND (BSD-3-Clause AND MIT) AND ((MIT OR GPL-3.0-only) AND (MIT OR GPL-1.0-or-later) AND GPL-2.0-or-later AND GPL-2.0-only) AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-3.0-or-later WITH Autoconf-exception-2.0 AND GPL-3.0-or-later WITH Autoconf-exception-generic-3.0 AND LicenseRef-scancode-warranty-disclaimer AND MIT AND MPL-1.1) OR GPL-2.0-or-later OR (LGPL-2.1-or-later AND X11 AND LicenseRef-scancode-public-domain)",
+            "licenseDeclared": "BSD-3-Clause AND MIT",
+            "name": "ffi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: ffi",
+            "versionInfo": "1.17.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b22632a79ceb8580",
+            "description": "Forwardable with hash, and instance variable extensions.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/forwardable-extended@2.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/envygeeks/forwardable-extended",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "forwardable-extended",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jordon Bedwell",
+            "versionInfo": "2.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0bb34bee33af028",
+            "description": "Character information and metadata for Unicode emoji.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/gemoji@4.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/github/gemoji",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "gemoji",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub",
+            "versionInfo": "4.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "description": "Bootstrap the GitHub Pages Jekyll environment locally.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/github-pages@232",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/github/pages-gem",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "github-pages",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub",
+            "versionInfo": "232"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4b6e4470f83c050b",
+            "description": "Checks your GitHub Pages site for commons DNS configuration issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/github-pages-health-check@1.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/github/github-pages-health-check",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "github-pages-health-check",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub",
+            "versionInfo": "1.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8c07cecd58be85f7",
+            "description": "HTML processing filters and utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/html-pipeline@2.14.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/gjtorikian/html-pipeline",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "html-pipeline",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Garen Torikian",
+            "versionInfo": "2.14.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-659519bff0c60515",
+            "description": "Ruby bindings to https://github.com/joyent/http-parser and https://github.com/http-parser/http-parser.java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/http_parser.rb@0.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tmm1/http_parser.rb",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "http_parser.rb",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Aman Karmani",
+            "versionInfo": "0.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8aa140d7296624c",
+            "description": "New wave Internationalization support for Ruby.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/i18n@1.14.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby-i18n/i18n",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "i18n",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: ruby-i18n",
+            "versionInfo": "1.14.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-442f5e0aac0021f4",
+            "description": "Jekyll is a simple, blog aware, static site generator.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll@3.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jekyllrb.com",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "3.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fe73b2b4d73bcc93",
+            "description": "A Jekyll plugin for rendering GitHub avatars",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-avatar@0.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-avatar",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-avatar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-431973781c9d1d17",
+            "description": "A CoffeeScript converter for Jekyll.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-coffeescript@1.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-coffeescript",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-coffeescript",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c186494de7b876c8",
+            "description": "CommonMark generator for Jekyll",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-commonmark@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-commonmark",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-commonmark",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f08961c96d682121",
+            "description": "CommonMark generator for Jekyll",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-commonmark-ghpages@0.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/github/jekyll-commonmark-ghpages",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-commonmark-ghpages",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub",
+            "versionInfo": "0.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fade7fd2a46775cb",
+            "description": "Silently sets default layouts for Jekyll pages and posts",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-default-layout@0.1.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-default-layout",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-default-layout",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.1.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e5516be23be5612f",
+            "description": "A Jekyll plugin to generate an Atom feed of your Jekyll posts",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-feed@0.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-feed",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-feed",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-add0d9a0638950ce",
+            "description": "Liquid tag for displaying GitHub Gists in Jekyll sites.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-gist@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-gist",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-gist",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c0e119c0cdb35b9c",
+            "description": "The site.github namespace",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-github-metadata@2.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/github-metadata",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-github-metadata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "2.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ed65884f71c124",
+            "description": "A Jekyll plugin to cache the rendering of Liquid includes",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-include-cache@0.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-include-cache",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-include-cache",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55e5a4ba00561718",
+            "description": "@mention support for your Jekyll site",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-mentions@1.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-mentions",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-mentions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca27443de8605c5c",
+            "description": "A Jekyll plugin to make front matter optional for Markdown files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-optional-front-matter@0.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-optional-front-matter",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-optional-front-matter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5ded543e51414bdb",
+            "description": "Built-in Pagination Generator for Jekyll",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-paginate@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-paginate",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-paginate",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-790ffe02449a8fc3",
+            "description": "A Jekyll plugin to render a project's README as the site's index.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-readme-index@0.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-readme-index",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-readme-index",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7a9cd60ed3befbbb",
+            "description": "Seamlessly specify multiple redirection URLs for your pages and posts",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-redirect-from@0.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-redirect-from",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-redirect-from",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-994ed9e414912779",
+            "description": "A Jekyll plugin to convert relative links to markdown files to their rendered equivalents.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-relative-links@0.6.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-relative-links",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-relative-links",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.6.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f7247d8d91552830",
+            "description": "Jekyll plugin for building Jekyll sites with any GitHub-hosted theme",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-remote-theme@0.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-remote-theme",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-remote-theme",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7711552f6e98fbe",
+            "description": "A basic Sass converter for Jekyll.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-sass-converter@1.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-sass-converter",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-sass-converter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "description": "A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-seo-tag@2.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-seo-tag",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-seo-tag",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "2.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-467e6ef69cfb2e3d",
+            "description": "Automatically generate a sitemap.xml for your Jekyll site.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-sitemap@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-sitemap",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-sitemap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ac24f5e6225932b3",
+            "description": "A bold typographic theme for Jekyll, inspired by Swiss design.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-swiss@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://broccolini.net/swiss",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-swiss",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d5ab36df4b1b11a2",
+            "description": "Architect is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-architect@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/architect",
+            "licenseConcluded": "CC0-1.0 AND MIT",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-architect",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-13715172d4c1b983",
+            "description": "Cayman is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-cayman@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/cayman",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-cayman",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-743890d37c289b13",
+            "description": "Dinky is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-dinky@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/dinky",
+            "licenseConcluded": "CC0-1.0",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-dinky",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-13d16d3ae5cd1200",
+            "description": "Hacker is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-hacker@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/hacker",
+            "licenseConcluded": "CC0-1.0",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-hacker",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c1717661c3dee344",
+            "description": "Leap Day is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-leap-day@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/leap-day",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-leap-day",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7f069bf9f7d4971d",
+            "description": "Merlot is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-merlot@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/merlot",
+            "licenseConcluded": "CC0-1.0 AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-merlot",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7de9a519c738020f",
+            "description": "Midnight is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-midnight@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/midnight",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-midnight",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c0c1610105883d7d",
+            "description": "Minimal is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-minimal@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/minimal",
+            "licenseConcluded": "CC0-1.0",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-minimal",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-76af544c3e9368da",
+            "description": "Modernist is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-modernist@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/modernist",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-modernist",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6923768483cbaf66",
+            "description": "Primer is a Jekyll theme for GitHub Pages based on GitHub's Primer styles",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-primer@0.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/jekyll-theme-primer",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-theme-primer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-930efcc8949b82f2",
+            "description": "Slate is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-slate@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/slate",
+            "licenseConcluded": "CC0-1.0",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-slate",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c4a2798dd41bd1be",
+            "description": "Tactile is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-tactile@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/tactile",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-tactile",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b6393281fd3eaa54",
+            "description": "Time Machine is a Jekyll theme for GitHub Pages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-theme-time-machine@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pages-themes/time-machine",
+            "licenseConcluded": "CC0-1.0 AND MIT",
+            "licenseDeclared": "CC0-1.0",
+            "name": "jekyll-theme-time-machine",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: GitHub Pages themes",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ee646c85e56cd05e",
+            "description": "A Jekyll plugin to pull the page title from the first Markdown heading when none is specified.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-titles-from-headings@0.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benbalter/jekyll-titles-from-headings",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-titles-from-headings",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Ben Balter",
+            "versionInfo": "0.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-70ec6ed4e613d831",
+            "description": "Rebuild your Jekyll site when a file changes with the `--watch` switch.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jekyll-watch@2.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jekyll-watch",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jekyll-watch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "2.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d50d260ff3fe8fc",
+            "description": "GitHub-flavored emoji plugin for Jekyll",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/jemoji@0.13.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/jemoji",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "jemoji",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.13.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-328ea7b31041076f",
+            "description": "This is a JSON implementation as a Ruby extension in C.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/json@2.13.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/json",
+            "licenseConcluded": "((GPL-1.0-or-later AND Ruby AND BSD-2-Clause AND LicenseRef-scancode-other-copyleft) AND (Ruby AND GPL-1.0-or-later) AND BSD-2-Clause AND BSL-1.0 AND MIT AND MIT AND LicenseRef-scancode-public-domain AND Ruby AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "Ruby",
+            "name": "json",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "2.13.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-459015f1bc43436f",
+            "description": "An implementation of JSON Schema validation for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jsonschema@4.23.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python-jsonschema/jsonschema",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND Python-2.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "jsonschema",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: conformance/requirements.txt",
+            "supplier": "Organization: Python + JSON Schema",
+            "versionInfo": "4.23.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8831c520fb10dcfa",
+            "description": "A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/just-the-docs@0.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/just-the-docs/just-the-docs",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "just-the-docs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Just the Docs",
+            "versionInfo": "0.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a58e6e3f588f4f8",
+            "description": "kramdown is yet-another-markdown-parser but fast, pure Ruby,\nusing a strict syntax definition and supporting several common extensions.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/kramdown@2.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://kramdown.gettalong.org",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "kramdown",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Thomas Leitner",
+            "versionInfo": "2.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-43a8df472a88553",
+            "description": "kramdown-parser-gfm provides a kramdown parser for the GFM dialect of Markdown",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/kramdown-parser-gfm@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kramdown/parser-gfm",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "kramdown-parser-gfm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: kramdown",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-96521907bb0166a6",
+            "description": "A secure, non-evaling end user template engine with aesthetic markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/liquid@4.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://shopify.github.io/liquid/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "liquid",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Shopify",
+            "versionInfo": "4.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a3ad6c4e8272aa81",
+            "description": "The Listen gem listens to file modifications and notifies you about the changes. Works everywhere!",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/listen@3.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/guard/listen",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "listen",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Guard",
+            "versionInfo": "3.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b591ac5d5d5b9af7",
+            "description": "Provides a simple logging utility for outputting messages.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/logger@1.6.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/logger",
+            "licenseConcluded": "(BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND Ruby AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "(BSD-2-Clause AND BSD-3-Clause AND Ruby) OR (BSD-2-Clause AND BSD-3-Clause)",
+            "name": "logger",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "1.6.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a2b66ac1aecd8e9e",
+            "description": "Lightweight and flexible library for writing command-line apps in Ruby.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/mercenary@0.3.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/mercenary",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mercenary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "0.3.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-73f24dcfbfe5079",
+            "description": "Simple autoconf and cmake builder for developers. It provides a standard way to compile against\ndependency libraries without requiring system-wide installation. It also simplifies\nvendoring and cross-compilation by providing a consistent build interface.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/mini_portile2@2.8.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/flavorjones/mini_portile",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mini_portile2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Mike Dalessio",
+            "versionInfo": "2.8.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e9a3f79d956b7dde",
+            "description": "A beautiful, minimal theme for Jekyll.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/minima@2.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jekyll/minima",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "minima",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jekyll",
+            "versionInfo": "2.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f8d6260cac3efe4b",
+            "description": "minitest provides a complete suite of testing facilities supporting\nTDD, BDD, mocking, and benchmarking.\n\n    \"I had a class with Jim Weirich on testing last week and we were\n     allowed to choose our testing frameworks. Kirk Haines and I were\n     paired up and we cracked open the code for a few test\n     frameworks...\n\n     I MUST say that minitest is *very* readable / understandable\n     compared to the 'other two' options we looked at. Nicely done and\n     thank you for helping us keep our mental sanity.\"\n\n    -- Wayne E. Seguin\n\nminitest/test is a small and incredibly fast unit testing framework.\nIt provides a rich set of assertions to make your tests clean and\nreadable.\n\nminitest/spec is a functionally complete spec engine. It hooks onto\nminitest/test and seamlessly bridges test assertions over to spec\nexpectations.\n\nminitest/benchmark is an awesome way to assert the performance of your\nalgorithms in a repeatable manner. Now you can assert that your newb\nco-worker doesn't replace your linear algorithm with an exponential\none!\n\nminitest/mock by Steven Baker, is a beautifully tiny mock (and stub)\nobject framework.\n\nminitest/pride shows pride in testing and adds coloring to your test\noutput. I guess it is an example of how to write IO pipes too. :P\n\nminitest/test is meant to have a clean implementation for language\nimplementors that need a minimal set of methods to bootstrap a working\ntest suite. For example, there is no magic involved for test-case\ndiscovery.\n\n    \"Again, I can't praise enough the idea of a testing/specing\n     framework that I can actually read in full in one sitting!\"\n\n    -- Piotr Szotkowski\n\nComparing to rspec:\n\n    rspec is a testing DSL. minitest is ruby.\n\n    -- Adam Hawkins, \"Bow Before MiniTest\"\n\nminitest doesn't reinvent anything that ruby already provides, like:\nclasses, modules, inheritance, methods. This means you only have to\nlearn ruby to use minitest and all of your regular OO practices like\nextract-method refactorings still apply.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/minitest@5.25.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/minitest/minitest",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "minitest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: minitest",
+            "versionInfo": "5.25.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e22372dd46e8182",
+            "description": "HTTP client api for Ruby.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/net-http@0.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/net-http",
+            "licenseConcluded": "(BSD-2-Clause AND GPL-1.0-or-later AND Ruby AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause OR Ruby OR (BSD-2-Clause AND Ruby)",
+            "name": "net-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "0.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f05d62f986e466e2",
+            "description": "Nokogiri (\u92f8) makes it easy and painless to work with XML and HTML from Ruby. It provides a\nsensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is\nfast and standards-compliant by relying on native parsers like libxml2, libgumbo, or xerces.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/nokogiri@1.18.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://nokogiri.org",
+            "licenseConcluded": "(GPL-2.0-only AND LicenseRef-scancode-warranty-disclaimer) AND GPL-2.0-only AND LicenseRef-scancode-warranty-disclaimer AND Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND MIT AND LicenseRef-scancode-x11-xconsortium-veillard AND (X11 AND Zlib) AND (LGPL-2.0-only AND LicenseRef-scancode-other-copyleft) AND MPL-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND LicenseRef-scancode-x11-xconsortium-veillard AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "nokogiri",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Sparkle Motion",
+            "versionInfo": "1.18.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c31c40353528e02b",
+            "description": "Simple wrapper for the GitHub API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/octokit@4.25.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/octokit/octokit.rb",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "octokit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Octokit",
+            "versionInfo": "4.25.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-627f5dae26d6f58f",
+            "description": "The Apache Commons CSV library provides a simple interface for reading and writing CSV files of various types.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-csv@1.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-csv/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-csv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client-examples/pom.xml",
+            "versionInfo": "1.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bf94ed567baf9243",
+            "description": "The Apache Commons CSV library provides a simple interface for reading and writing CSV files of various types.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-csv@1.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-csv/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-csv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "1.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-18538edeb9201ca7",
+            "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang. The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17 and 21 currently. See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml Please ensure your build environment is up-to-date and kindly report any build issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-lang3@3.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-lang/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-lang3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "versionInfo": "3.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-580ac101216978e8",
+            "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang. The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17 and 21 currently. See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml Please ensure your build environment is up-to-date and kindly report any build issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-lang3@3.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-lang/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-lang3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "3.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bf01ebc5b788277f",
+            "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang. The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17 and 21 currently. See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml Please ensure your build environment is up-to-date and kindly report any build issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-lang3@3.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-lang/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-lang3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "3.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b3014211e135f4",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents.client5/httpclient5@5.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://hc.apache.org/httpcomponents-client-5.5.x/5.5.1/",
+            "licenseConcluded": "Apache-2.0 AND MIT AND Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "org.apache.httpcomponents.client5:httpclient5",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "5.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d5a78b5f60b3c26c",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents.client5/httpclient5@5.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://hc.apache.org/httpcomponents-client-5.5.x/5.5.1/",
+            "licenseConcluded": "Apache-2.0 AND MIT AND Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "org.apache.httpcomponents.client5:httpclient5",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "5.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fa9ec425f75844dd",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents.client5/httpclient5@5.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://hc.apache.org/httpcomponents-client-5.5.x/5.5.1/",
+            "licenseConcluded": "Apache-2.0 AND MIT AND Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "org.apache.httpcomponents.client5:httpclient5",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "5.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d38f1e37ae4acc7",
+            "description": "The slf4j API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/java-client/pom.xml",
+            "versionInfo": "2.0.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9bc37cba7cbbae3a",
+            "description": "The slf4j API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "2.0.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d35561c8cf4622ba",
+            "description": "The slf4j API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: java-client-sdk/pom.xml",
+            "versionInfo": "2.0.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-de9277aa015f7a56",
+            "description": "Like Pathname but a little less insane.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/pathutil@0.16.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/envygeeks/pathutil",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pathutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jordon Bedwell",
+            "versionInfo": "0.16.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-215e123317c68606",
+            "description": "PublicSuffix can parse and decompose a domain name into top level domain, domain and subdomains.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/public_suffix@5.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://simonecarletti.com/code/publicsuffix-ruby",
+            "licenseConcluded": "MIT AND MIT AND MPL-2.0 AND MPL-2.0",
+            "licenseDeclared": "MIT",
+            "name": "public_suffix",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Simone Carletti",
+            "versionInfo": "5.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-249a2b3cd145a4a",
+            "description": "BDD for pytest",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-bdd@7.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pytest-bdd.readthedocs.io/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest-bdd",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: conformance/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "7.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4d441810890b0007",
+            "description": "Racc is an LALR(1) parser generator.\n  It is written in Ruby itself, and generates Ruby program.\n\n  NOTE: Ruby 1.8.x comes with Racc runtime module.  You\n  can run your parsers generated by racc 1.4.x out of the\n  box.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/racc@1.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/racc",
+            "licenseConcluded": "(BSD-2-Clause AND NOASSERTION AND Ruby AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause OR (BSD-2-Clause AND Ruby)",
+            "name": "racc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "1.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-510ecb783f1715d1",
+            "description": "Rake is a Make-like program implemented in Ruby. Tasks and dependencies are\nspecified in standard Ruby syntax.\nRake has the following features:\n  * Rakefiles (rake's version of Makefiles) are completely defined in standard Ruby syntax.\n    No XML files to edit. No quirky Makefile syntax to worry about (is that a tab or a space?)\n  * Users can specify tasks with prerequisites.\n  * Rake supports rule patterns to synthesize implicit tasks.\n  * Flexible FileLists that act like arrays but know about manipulating file names and paths.\n  * Supports parallel execution of tasks.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rake@13.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/rake",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-warranty-disclaimer",
+            "licenseDeclared": "LicenseRef-scancode-warranty-disclaimer AND MIT",
+            "name": "rake",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "13.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-262a137b66c10d21",
+            "description": "FSEvents API with Signals catching (without RubyCocoa)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rb-fsevent@0.11.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://rubygems.org/gems/rb-fsevent",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "rb-fsevent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Guard",
+            "versionInfo": "0.11.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bdeb07db4ec3bc48",
+            "description": "A Ruby wrapper for Linux inotify, using FFI",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rb-inotify@0.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/guard/rb-inotify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "rb-inotify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Guard",
+            "versionInfo": "0.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cf50ef32c3ab72d2",
+            "description": "An XML toolkit for Ruby",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rexml@3.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/rexml",
+            "licenseConcluded": "BSD-2-Clause AND MIT AND BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause AND MIT",
+            "name": "rexml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "3.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e38d48e29ff44fcb",
+            "description": "Rouge aims to a be a simple, easy-to-extend drop-in replacement for pygments.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rouge@3.30.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://rouge.jneen.net/",
+            "licenseConcluded": "BSD-2-Clause AND MIT AND BSD-2-Clause AND MIT AND BSD-3-Clause",
+            "licenseDeclared": "MIT OR BSD-2-Clause",
+            "name": "rouge",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: rouge-ruby",
+            "versionInfo": "3.30.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1df3d7774faa4f7",
+            "description": "rubyzip is a ruby module for reading and writing zip files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/rubyzip@2.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/rubyzip/rubyzip",
+            "licenseConcluded": "BSD-2-Clause OR Ruby",
+            "licenseDeclared": "BSD-2-Clause OR Ruby",
+            "name": "rubyzip",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: rubyzip",
+            "versionInfo": "2.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8ef5f7cb9903ff4e",
+            "description": "Parse YAML safely",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/safe_yaml@1.0.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dtao/safe_yaml",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "safe_yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Dan Tao",
+            "versionInfo": "1.0.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d1ea7a7aebbc3387",
+            "description": "      Ruby Sass is deprecated! See https://sass-lang.com/ruby-sass for details.\n\n      Sass makes CSS fun again. Sass is an extension of CSS, adding\n      nested rules, variables, mixins, selector inheritance, and more.\n      It's translated to well-formatted, standard CSS using the\n      command line tool or a web-framework plugin.\n",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/sass@3.7.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://sass-lang.com/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "sass",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Sass",
+            "versionInfo": "3.7.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-73ff971672da8195",
+            "description": "This fork of guard/listen provides a stable API for users of the ruby Sass CLI",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/sass-listen@4.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sass/listen",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "sass-listen",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Sass",
+            "versionInfo": "4.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9bb60a4f91b1e7c",
+            "description": "Secret User Agent of HTTP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/sawyer@0.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lostisland/sawyer",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "sawyer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: lostisland",
+            "versionInfo": "0.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd0ad92d82a3494c",
+            "description": "Interface for secure random number generator.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/securerandom@0.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/securerandom",
+            "licenseConcluded": "(BSD-2-Clause AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause OR Ruby OR (BSD-2-Clause AND Ruby)",
+            "name": "securerandom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "0.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e94ac3001f83d87",
+            "description": "This gem allows easy conversion from punycode ACE strings to unicode UTF-8 strings and vice-versa.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/simpleidn@0.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mmriis/simpleidn",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "simpleidn",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Morten M\u00f8ller Riis",
+            "versionInfo": "0.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ccf5fa47e1a0e728",
+            "description": "Simple, feature rich ascii table generation library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/terminal-table@1.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tj/terminal-table",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "terminal-table",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: TJ Holowaychuk",
+            "versionInfo": "1.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4aeca3296c4c8c6a",
+            "description": "Like a modern code version of the mythical beast with 100 serpent heads, Typhoeus runs HTTP requests in parallel while cleanly encapsulating handling logic.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/typhoeus@1.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/typhoeus/typhoeus",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "typhoeus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Typhoeus",
+            "versionInfo": "1.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bfc034c9f1baa4b1",
+            "description": "TZInfo provides access to time zone data and allows times to be converted using time zone rules.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/tzinfo@2.0.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://tzinfo.github.io",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "tzinfo",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: TZInfo",
+            "versionInfo": "2.0.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7137f2cdb692b6e0",
+            "description": "[Unicode 17.0.0] Determines the monospace display width of a string using EastAsianWidth.txt, Unicode general category, Emoji specification, and other data.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/unicode-display_width@1.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/janlelis/unicode-display_width",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "unicode-display_width",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: Jan Lelis",
+            "versionInfo": "1.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cce320a1398b7f4a",
+            "description": "URI is a module providing classes to handle Uniform Resource Identifiers",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/uri@1.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/uri",
+            "licenseConcluded": "(BSD-2-Clause AND GPL-1.0-or-later AND Ruby AND Ruby AND Ruby) OR BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause OR Ruby OR (BSD-2-Clause AND Ruby)",
+            "name": "uri",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "1.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-28aa678411953ed1",
+            "description": "WEBrick is an HTTP server toolkit that can be configured as an HTTPS server, a proxy server, and a virtual-host server.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:gem/webrick@1.9.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ruby/webrick",
+            "licenseConcluded": "BSD-2-Clause AND MIT AND BSD-2-Clause",
+            "licenseDeclared": "(BSD-2-Clause AND MIT AND Ruby) OR (BSD-2-Clause AND MIT)",
+            "name": "webrick",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: spec/docs/Gemfile.lock",
+            "supplier": "Organization: The Ruby Programming Language",
+            "versionInfo": "1.9.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-7acb6f71cd5f7a46",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Community-Spec-1.0",
+            "licenseDeclared": "Apache-2.0 AND Community-Spec-1.0",
+            "name": "lfenergy.trolie",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-trolie-spec",
+            "comment": "This package was added to the Trivy analysis for the spec by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/trolie/spec/archive/a06de063f50a9f875131bcc88403f716b4059993.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/trolie/spec@a06de063f50a9f875131bcc88403f716b4059993",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Community-Spec-1.0",
+            "licenseDeclared": "Apache-2.0 AND Community-Spec-1.0",
+            "name": "spec",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "a06de063f50a9f875131bcc88403f716b4059993"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-trolie-conformance",
+            "comment": "This package was added to the Trivy analysis for the conformance by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/trolie/conformance/archive/f1ace0726df2d1db45aa78c31979792a3f9332a5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/trolie/conformance@f1ace0726df2d1db45aa78c31979792a3f9332a5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Community-Spec-1.0",
+            "licenseDeclared": "Apache-2.0 AND Community-Spec-1.0",
+            "name": "conformance",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f1ace0726df2d1db45aa78c31979792a3f9332a5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-trolie-java-client-sdk",
+            "comment": "This package was added to the Trivy analysis for the java-client-sdk by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/trolie/java-client-sdk/archive/f5ad7903265ebbae33d8f02b1add001a021e58f7.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/trolie/java-client-sdk@f5ad7903265ebbae33d8f02b1add001a021e58f7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Community-Spec-1.0",
+            "licenseDeclared": "Apache-2.0 AND Community-Spec-1.0",
+            "name": "java-client-sdk",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f5ad7903265ebbae33d8f02b1add001a021e58f7"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-144d6a4fda357b38",
+            "relatedSpdxElement": "SPDXRef-Package-69a4f9caf4cc2978",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2393de401368abec",
+            "relatedSpdxElement": "SPDXRef-Package-3649a4b77ec3359b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-34a765c5e110742",
+            "relatedSpdxElement": "SPDXRef-Package-a9914916d4e989c5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-884ceac6ecb49074",
+            "relatedSpdxElement": "SPDXRef-Package-28aa678411953ed1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-884ceac6ecb49074",
+            "relatedSpdxElement": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-884ceac6ecb49074",
+            "relatedSpdxElement": "SPDXRef-Package-7a9cd60ed3befbbb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-884ceac6ecb49074",
+            "relatedSpdxElement": "SPDXRef-Package-8831c520fb10dcfa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-db41c6951c7c1f2a",
+            "relatedSpdxElement": "SPDXRef-Package-249a2b3cd145a4a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-db41c6951c7c1f2a",
+            "relatedSpdxElement": "SPDXRef-Package-459015f1bc43436f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-trolie-java-client-sdk",
+            "relatedSpdxElement": "SPDXRef-Application-144d6a4fda357b38",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-trolie-java-client-sdk",
+            "relatedSpdxElement": "SPDXRef-Application-2393de401368abec",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-trolie-java-client-sdk",
+            "relatedSpdxElement": "SPDXRef-Application-34a765c5e110742",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-trolie-spec",
+            "relatedSpdxElement": "SPDXRef-Application-884ceac6ecb49074",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-trolie-conformance",
+            "relatedSpdxElement": "SPDXRef-Application-db41c6951c7c1f2a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-13715172d4c1b983",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-13715172d4c1b983",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-13d16d3ae5cd1200",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-13d16d3ae5cd1200",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2f166b0343ce49ec",
+            "relatedSpdxElement": "SPDXRef-Package-5c04a4af1c0b1d92",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2f166b0343ce49ec",
+            "relatedSpdxElement": "SPDXRef-Package-7e468793c68eaab7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-13715172d4c1b983",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-13d16d3ae5cd1200",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-28aa678411953ed1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-431973781c9d1d17",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-43a8df472a88553",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-467e6ef69cfb2e3d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-4b6e4470f83c050b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-55e5a4ba00561718",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-5d50d260ff3fe8fc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-5ded543e51414bdb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-6923768483cbaf66",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-743890d37c289b13",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-76af544c3e9368da",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-7711552f6e98fbe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-790ffe02449a8fc3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-7a9cd60ed3befbbb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-7de9a519c738020f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-7f069bf9f7d4971d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-930efcc8949b82f2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-96521907bb0166a6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-994ed9e414912779",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-a2b66ac1aecd8e9e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-a58e6e3f588f4f8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-ac24f5e6225932b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-add0d9a0638950ce",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-b6393281fd3eaa54",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-c0c1610105883d7d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-c0e119c0cdb35b9c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-c1717661c3dee344",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-c4a2798dd41bd1be",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-ca27443de8605c5c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-ccf5fa47e1a0e728",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-d5ab36df4b1b11a2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-e38d48e29ff44fcb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-e5516be23be5612f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-e9a3f79d956b7dde",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-ed65884f71c124",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-ee646c85e56cd05e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-f05d62f986e466e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-f08961c96d682121",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-f7247d8d91552830",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-fade7fd2a46775cb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-33a8508c1f0e3c0e",
+            "relatedSpdxElement": "SPDXRef-Package-fe73b2b4d73bcc93",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-18538edeb9201ca7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-5d38f1e37ae4acc7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-7063a84f860d3047",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-a2ddceee3cd99525",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-baec0d68374996da",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-e9b78fb7b6638023",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3649a4b77ec3359b",
+            "relatedSpdxElement": "SPDXRef-Package-fa9ec425f75844dd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-431973781c9d1d17",
+            "relatedSpdxElement": "SPDXRef-Package-2f166b0343ce49ec",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-431973781c9d1d17",
+            "relatedSpdxElement": "SPDXRef-Package-5c04a4af1c0b1d92",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-43a8df472a88553",
+            "relatedSpdxElement": "SPDXRef-Package-a58e6e3f588f4f8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-28aa678411953ed1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-33bcb69492aba1a2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-50092597899bbb87",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-70ec6ed4e613d831",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-7711552f6e98fbe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-8aa140d7296624c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-8ef5f7cb9903ff4e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-96521907bb0166a6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-a2b66ac1aecd8e9e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-a58e6e3f588f4f8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-de9277aa015f7a56",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-e38d48e29ff44fcb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-e99831b309de8d06",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-442f5e0aac0021f4",
+            "relatedSpdxElement": "SPDXRef-Package-ff43be052ba68ead",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-467e6ef69cfb2e3d",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4aeca3296c4c8c6a",
+            "relatedSpdxElement": "SPDXRef-Package-75230030ec5e9ec8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b6e4470f83c050b",
+            "relatedSpdxElement": "SPDXRef-Package-215e123317c68606",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b6e4470f83c050b",
+            "relatedSpdxElement": "SPDXRef-Package-4aeca3296c4c8c6a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b6e4470f83c050b",
+            "relatedSpdxElement": "SPDXRef-Package-819a9e0f2a328e69",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b6e4470f83c050b",
+            "relatedSpdxElement": "SPDXRef-Package-c31c40353528e02b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b6e4470f83c050b",
+            "relatedSpdxElement": "SPDXRef-Package-ff43be052ba68ead",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4e22372dd46e8182",
+            "relatedSpdxElement": "SPDXRef-Package-cce320a1398b7f4a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-55e5a4ba00561718",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-55e5a4ba00561718",
+            "relatedSpdxElement": "SPDXRef-Package-8c07cecd58be85f7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d50d260ff3fe8fc",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d50d260ff3fe8fc",
+            "relatedSpdxElement": "SPDXRef-Package-8c07cecd58be85f7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5d50d260ff3fe8fc",
+            "relatedSpdxElement": "SPDXRef-Package-d0bb34bee33af028",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6923768483cbaf66",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6923768483cbaf66",
+            "relatedSpdxElement": "SPDXRef-Package-c0e119c0cdb35b9c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6923768483cbaf66",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-69a4f9caf4cc2978",
+            "relatedSpdxElement": "SPDXRef-Package-8024dc3f3fdeb79",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-69a4f9caf4cc2978",
+            "relatedSpdxElement": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-70ec6ed4e613d831",
+            "relatedSpdxElement": "SPDXRef-Package-a3ad6c4e8272aa81",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-73ff971672da8195",
+            "relatedSpdxElement": "SPDXRef-Package-262a137b66c10d21",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-73ff971672da8195",
+            "relatedSpdxElement": "SPDXRef-Package-bdeb07db4ec3bc48",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-743890d37c289b13",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-743890d37c289b13",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-75230030ec5e9ec8",
+            "relatedSpdxElement": "SPDXRef-Package-5e487becd2abcb6f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76af544c3e9368da",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76af544c3e9368da",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7711552f6e98fbe",
+            "relatedSpdxElement": "SPDXRef-Package-d1ea7a7aebbc3387",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-790ffe02449a8fc3",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7a9cd60ed3befbbb",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7de9a519c738020f",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7de9a519c738020f",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f069bf9f7d4971d",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f069bf9f7d4971d",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8024dc3f3fdeb79",
+            "relatedSpdxElement": "SPDXRef-Package-2c76f36ee3b04df8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8024dc3f3fdeb79",
+            "relatedSpdxElement": "SPDXRef-Package-5f81baafa836d21e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8024dc3f3fdeb79",
+            "relatedSpdxElement": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8024dc3f3fdeb79",
+            "relatedSpdxElement": "SPDXRef-Package-bf94ed567baf9243",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-819a9e0f2a328e69",
+            "relatedSpdxElement": "SPDXRef-Package-8e94ac3001f83d87",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-819a9e0f2a328e69",
+            "relatedSpdxElement": "SPDXRef-Package-b591ac5d5d5b9af7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-819a9e0f2a328e69",
+            "relatedSpdxElement": "SPDXRef-Package-d1fa31a6c8549897",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8831c520fb10dcfa",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8831c520fb10dcfa",
+            "relatedSpdxElement": "SPDXRef-Package-510ecb783f1715d1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8831c520fb10dcfa",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8831c520fb10dcfa",
+            "relatedSpdxElement": "SPDXRef-Package-ed65884f71c124",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8aa140d7296624c",
+            "relatedSpdxElement": "SPDXRef-Package-b32522c3e62934fc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c07cecd58be85f7",
+            "relatedSpdxElement": "SPDXRef-Package-ba3fa85396df195c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c07cecd58be85f7",
+            "relatedSpdxElement": "SPDXRef-Package-f05d62f986e466e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-930efcc8949b82f2",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-930efcc8949b82f2",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-994ed9e414912779",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9e88a105906268bf",
+            "relatedSpdxElement": "SPDXRef-Package-4e22372dd46e8182",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a3ad6c4e8272aa81",
+            "relatedSpdxElement": "SPDXRef-Package-262a137b66c10d21",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a3ad6c4e8272aa81",
+            "relatedSpdxElement": "SPDXRef-Package-bdeb07db4ec3bc48",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a58e6e3f588f4f8",
+            "relatedSpdxElement": "SPDXRef-Package-cf50ef32c3ab72d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9914916d4e989c5",
+            "relatedSpdxElement": "SPDXRef-Package-627f5dae26d6f58f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9914916d4e989c5",
+            "relatedSpdxElement": "SPDXRef-Package-6a3a935bd0d63148",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9914916d4e989c5",
+            "relatedSpdxElement": "SPDXRef-Package-9832361a425b3b73",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9914916d4e989c5",
+            "relatedSpdxElement": "SPDXRef-Package-c9b620a724cb2720",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-add0d9a0638950ce",
+            "relatedSpdxElement": "SPDXRef-Package-c31c40353528e02b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6393281fd3eaa54",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6393281fd3eaa54",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-55ac5b02ee28caa9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-b7574a3afac1346c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-b96e6f79e262fd8c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-bf01ebc5b788277f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-d35561c8cf4622ba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-d5a78b5f60b3c26c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8ee31adb223ad9d",
+            "relatedSpdxElement": "SPDXRef-Package-dcaf6eff97c571b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-6d67a03c71a86888",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-8aa140d7296624c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-95477eb7e90bdcc0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-b32522c3e62934fc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-b591ac5d5d5b9af7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-bfc034c9f1baa4b1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-cd0ad92d82a3494c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-d1fa31a6c8549897",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-e38e70d86d9503c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-f8d6260cac3efe4b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ba3fa85396df195c",
+            "relatedSpdxElement": "SPDXRef-Package-fa25c67d05559f1a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bdeb07db4ec3bc48",
+            "relatedSpdxElement": "SPDXRef-Package-5e487becd2abcb6f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bfc034c9f1baa4b1",
+            "relatedSpdxElement": "SPDXRef-Package-b32522c3e62934fc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0c1610105883d7d",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0c1610105883d7d",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0e119c0cdb35b9c",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0e119c0cdb35b9c",
+            "relatedSpdxElement": "SPDXRef-Package-c31c40353528e02b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c1717661c3dee344",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c1717661c3dee344",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c186494de7b876c8",
+            "relatedSpdxElement": "SPDXRef-Package-d204745df757c200",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c31c40353528e02b",
+            "relatedSpdxElement": "SPDXRef-Package-c9bb60a4f91b1e7c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c31c40353528e02b",
+            "relatedSpdxElement": "SPDXRef-Package-e0c91345050f05b0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c4a2798dd41bd1be",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c4a2798dd41bd1be",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c9bb60a4f91b1e7c",
+            "relatedSpdxElement": "SPDXRef-Package-e0c91345050f05b0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c9bb60a4f91b1e7c",
+            "relatedSpdxElement": "SPDXRef-Package-ff43be052ba68ead",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ca27443de8605c5c",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ccf5fa47e1a0e728",
+            "relatedSpdxElement": "SPDXRef-Package-7137f2cdb692b6e0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d1ea7a7aebbc3387",
+            "relatedSpdxElement": "SPDXRef-Package-73ff971672da8195",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d5ab36df4b1b11a2",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d5ab36df4b1b11a2",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-de9277aa015f7a56",
+            "relatedSpdxElement": "SPDXRef-Package-b22632a79ceb8580",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-55ac5b02ee28caa9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-b7574a3afac1346c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-b96e6f79e262fd8c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-bf01ebc5b788277f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-d35561c8cf4622ba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-d5a78b5f60b3c26c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e039e36e4884b2b",
+            "relatedSpdxElement": "SPDXRef-Package-dcaf6eff97c571b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0c91345050f05b0",
+            "relatedSpdxElement": "SPDXRef-Package-328ea7b31041076f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0c91345050f05b0",
+            "relatedSpdxElement": "SPDXRef-Package-9e88a105906268bf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0c91345050f05b0",
+            "relatedSpdxElement": "SPDXRef-Package-b591ac5d5d5b9af7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e5516be23be5612f",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99831b309de8d06",
+            "relatedSpdxElement": "SPDXRef-Package-659519bff0c60515",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e99831b309de8d06",
+            "relatedSpdxElement": "SPDXRef-Package-a98cd4020d9abadc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e9a3f79d956b7dde",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e9a3f79d956b7dde",
+            "relatedSpdxElement": "SPDXRef-Package-c9c0a6a56564e2fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e9a3f79d956b7dde",
+            "relatedSpdxElement": "SPDXRef-Package-e5516be23be5612f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ed65884f71c124",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ee646c85e56cd05e",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f05d62f986e466e2",
+            "relatedSpdxElement": "SPDXRef-Package-4d441810890b0007",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f05d62f986e466e2",
+            "relatedSpdxElement": "SPDXRef-Package-73f24dcfbfe5079",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f08961c96d682121",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f08961c96d682121",
+            "relatedSpdxElement": "SPDXRef-Package-c186494de7b876c8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f08961c96d682121",
+            "relatedSpdxElement": "SPDXRef-Package-d204745df757c200",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f08961c96d682121",
+            "relatedSpdxElement": "SPDXRef-Package-e38d48e29ff44fcb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f7247d8d91552830",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f7247d8d91552830",
+            "relatedSpdxElement": "SPDXRef-Package-7711552f6e98fbe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f7247d8d91552830",
+            "relatedSpdxElement": "SPDXRef-Package-b1df3d7774faa4f7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f7247d8d91552830",
+            "relatedSpdxElement": "SPDXRef-Package-ff43be052ba68ead",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fade7fd2a46775cb",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fe73b2b4d73bcc93",
+            "relatedSpdxElement": "SPDXRef-Package-442f5e0aac0021f4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ff43be052ba68ead",
+            "relatedSpdxElement": "SPDXRef-Package-215e123317c68606",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-7acb6f71cd5f7a46",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7acb6f71cd5f7a46",
+            "relatedSpdxElement": "SPDXRef-lfenergy-trolie-spec",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7acb6f71cd5f7a46",
+            "relatedSpdxElement": "SPDXRef-lfenergy-trolie-conformance",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7acb6f71cd5f7a46",
+            "relatedSpdxElement": "SPDXRef-lfenergy-trolie-java-client-sdk",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
