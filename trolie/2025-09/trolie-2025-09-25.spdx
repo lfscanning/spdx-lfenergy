@@ -1,0 +1,3735 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_trolie-2025-09-25.zip_1759323859.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-10-01T13:04:19Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: trolie-2025-09-25.zip
+PackageFileName: trolie-2025-09-25.zip
+SPDXID: SPDXRef-upload1978
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 7e0f96e3373aacb19e305171004eeca76346f4c3
+PackageChecksum: SHA1: 6a33b1195f421f383161f22a6bcda0a9b3211bfc
+PackageChecksum: SHA256: d2c6307b944cfad13eccb32d368356ff2510266e60e1223a573b0458ea606c47
+PackageChecksum: MD5: 1b8c4cef6455756dccd542ab62712883
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1978
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/pom.xml
+SPDXID: SPDXRef-item11289939
+FileChecksum: SHA1: 646192869884a45d5d491869236278f0240e1dd7
+FileChecksum: SHA256: b4fcae6d80915c4fd9622c37b9856648304bba5816a313f63088f7f64501d10a
+FileChecksum: MD5: eb0d7b688829417b888e6fb60941a016
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/LICENSE.txt
+SPDXID: SPDXRef-item11289937
+FileChecksum: SHA1: 2b8b815229aa8a61e483fb4ba0588b8b6c491890
+FileChecksum: SHA256: cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30
+FileChecksum: MD5: 3b83ef96387f14655fc854ddc3c6bd57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/LICENSE
+SPDXID: SPDXRef-item11290064
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Community_Specification_License.md
+SPDXID: SPDXRef-item11289704
+FileChecksum: SHA1: 470f75995b2891eda79067fd88b99cb5d8fe8937
+FileChecksum: SHA256: f40b1d00369c21b963293189b4617b5de439a11858541c07c620984634fb63b7
+FileChecksum: MD5: fec4ad0a534873671f9b6d24b8d7937d
+LicenseConcluded: Community-Spec-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: Community-Spec-1.0
+FileCopyrightText: <text> Copyright.**
+copyright interest in those materials. Contributor also acknowledges that the Working Group may exercise copyright rights in the Specification, including the rights to submit the Specification to another standards organization.
+Copyright Attribution.** As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group. That attribution must include, at minimum, the material’s name, version number, and source fro
+copyrights or issued patent claims cover an Implementation of the Specification or are enforceable or (ii) that an Implementation of the Specification would not infringe intellectual property rights of any third party.
+copyright, or other rights are granted under this License, including by implication, waiver, or estoppel.
+Copyright 2020 Joint Development Foundation and is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/.* </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/LICENSE.md
+SPDXID: SPDXRef-item11289703
+FileChecksum: SHA1: 199a2e67ccf405dc74674061a5a6bf4226fbe3ef
+FileChecksum: SHA256: d925ea07cb08eea4582705632b10348a40b48e8ddcf61b2049ddf57a7098f485
+FileChecksum: MD5: 041885d77980f16e5ac3e2be8e05aef1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/README.md
+SPDXID: SPDXRef-item11289916
+FileChecksum: SHA1: d3ed93aecf1d468df88da524b6b141002c24775c
+FileChecksum: SHA256: 68083edbeff58ca342d6f14e2622cd7202052d4aadba672ace31b29fce2b6a6e
+FileChecksum: MD5: abdd5eb5c7b8f16db5f0222c9e7e6836
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.spectral.yaml
+SPDXID: SPDXRef-item11289705
+FileChecksum: SHA1: 76c4ad8366ade56219765cdf05a4c68d1c1513f4
+FileChecksum: SHA256: 76d372d042f99875969d1ada51cc4ece460bf0848ffe1549a0c0bdf4417bdef6
+FileChecksum: MD5: f1eaaa68b1d9547037063aff567f2ad9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/seasonal-ratings-schedule.md
+SPDXID: SPDXRef-item11289708
+FileChecksum: SHA1: 7e82ff22a36782d2f2e6f241c41fb917541e0ba4
+FileChecksum: SHA256: 92736b337b47350d650ac81155cfd63f067a4949a38c1bfeae37ae59d25153e9
+FileChecksum: MD5: fe82fa3afffca5908d07e4724ab0ddf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/NNNN-adr-template.md
+SPDXID: SPDXRef-item11289709
+FileChecksum: SHA1: 959e8913e62ec472876d3b916e896a1f8a87be59
+FileChecksum: SHA256: c46a5fc710403bae971a8c0acdd26fe4ca2258f39bd60b1db0dceb059723e9fa
+FileChecksum: MD5: 18c1d1d974a8635d650eba1990469628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/conditional-ratings.md
+SPDXID: SPDXRef-item11289710
+FileChecksum: SHA1: 868085999c2fda28b614d61cc68c04e7d2447fb3
+FileChecksum: SHA256: 514c049ad238750fcb735c748356bb2ca354a3624032382dfb624708c8df1fda
+FileChecksum: MD5: 741b49c577ed9108536fb9e0222db0d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/media-type-versioning.md
+SPDXID: SPDXRef-item11289711
+FileChecksum: SHA1: cb7176bac7dd9b39cbd44ccafd98bdf5aa6a0e05
+FileChecksum: SHA256: aad5112b9cfb7afecfc48aac0cf7b7f3e583ac6a48c2cb87d47ca38472099e6e
+FileChecksum: MD5: 37c0cfbf94f05e612d782602998963f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/rt-vs-forecast-ratings.md
+SPDXID: SPDXRef-item11289712
+FileChecksum: SHA1: f5fd4ef3072e51223b67bf3a97006e5c1f16762f
+FileChecksum: SHA256: 8bf44eb34ee65310a0197f1b2cff0cb37ec8b6a6d70457e6ca554c0bb4342c67
+FileChecksum: MD5: be826fa698ef904f57a401c1af4f1cfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/naming.md
+SPDXID: SPDXRef-item11289713
+FileChecksum: SHA1: 57dec7b2e8fbcd39d012bb56fbe3fe5d19e06f83
+FileChecksum: SHA256: 6ffd069cf5cb5f2eefb46c75d960aafce82a586d4c84b3e1148ce008d5582aef
+FileChecksum: MD5: 4aabcca839cb6a9d75e379b0e586cdee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-log/directional-ratings.md
+SPDXID: SPDXRef-item11289714
+FileChecksum: SHA1: 98ab5130b81252737da0f69074887baf64762910
+FileChecksum: SHA256: 126a777d35b370647cb7602533471a52d3b7e669fd48eb434162851f6e6c8e2e
+FileChecksum: MD5: 7d7468c1dfd3e9b8b48ccdfb6b5d6f78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/concepts.md
+SPDXID: SPDXRef-item11289715
+FileChecksum: SHA1: 009aabce7e3abf1a2707d52e0248ebe6dd9c7b5a
+FileChecksum: SHA256: 1e649cf23157e6b4d3cbc4bb960efcc960c86abb6eee256319756b9e57cca495
+FileChecksum: MD5: 19455ad089fef8db189a99bb28f55526
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Is calculated annually, if not more frequently, for each season in the future for which Transmission Service can be requested. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/faq.md
+SPDXID: SPDXRef-item11289716
+FileChecksum: SHA1: f6207c6aff2876ebf3602cd0f53d79a5504c55fd
+FileChecksum: SHA256: a9c4a8670d791d36e26574d05fd2affd1a9f6ec13d6c244cde7e4a0e8d1d8974
+FileChecksum: MD5: c99411ba31d461465c2f4b6607657d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/index.md
+SPDXID: SPDXRef-item11289717
+FileChecksum: SHA1: 827fb0e9b5fca713e54757873e68e90bd0906729
+FileChecksum: SHA256: 8f6d6eab237cac2d3e42f53f429412f4df0b2ec5ad23e24f7dea1c0e3f4425b5
+FileChecksum: MD5: cebd7561824ad15a7f29db24725f7fd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/spec-1.0.html
+SPDXID: SPDXRef-item11289718
+FileChecksum: SHA1: 410a374660d421065caca3cf471d4d4534c62ce0
+FileChecksum: SHA256: 753cbcc1e5ac6b8b80cd936ec72766aa3006cb7e90940a03b8e435481338be11
+FileChecksum: MD5: 98900ca26e0f628d353b86a3efa28f21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/peer-monitoring-sets.md
+SPDXID: SPDXRef-item11289720
+FileChecksum: SHA1: 1f1de22244262a50d563f7fa295f631e1ffe12a6
+FileChecksum: SHA256: d87e147c279ed8d0f9a1d03add14864ae85c34aa3d401e3782e0d35363db8a7c
+FileChecksum: MD5: 64eea852f45621fe5c0c8363305afa0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/tradeoffs.md
+SPDXID: SPDXRef-item11289721
+FileChecksum: SHA1: 6945b57bc596838a26cb1459c712b4779d7dcee7
+FileChecksum: SHA256: 1448eee414be0514b24e80b638df63f8b38384fd09e8ccd128ba86f216f86d3a
+FileChecksum: MD5: 6981e554fdff876421d2b586105d6830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/trolie-for-ems-and-ot.md
+SPDXID: SPDXRef-item11289722
+FileChecksum: SHA1: bb902dab086ceaac8065ed39a590eeae0fff100e
+FileChecksum: SHA256: c17b222f9ea83a0d75b0c8396c766324ac3b56c89bf2e16fabcb4253e92f229b
+FileChecksum: MD5: 568ef2a2ced2f158e695e9f8e015f6bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/snippets/_accept-header-placeholder-warning.md
+SPDXID: SPDXRef-item11289724
+FileChecksum: SHA1: edf90859f7cdafcfd9613974d40ace3e9d062aae
+FileChecksum: SHA256: fc61fe31629f75c6ce59a6e781161209fde55fc278d0ec24bc0e8a9c9d6e31cb
+FileChecksum: MD5: 8319c13dd7cc9b55318e866db7ac3f39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/conditional-GET.md
+SPDXID: SPDXRef-item11289725
+FileChecksum: SHA1: 3f335d22de00cd32322d0825ed4e236bface9442
+FileChecksum: SHA256: e7f83eb1043b63c0e8053c1d6f7b1f6a497e8596a8868f416874f0117e236a04
+FileChecksum: MD5: 2981df10e7dd99d7b3b208dfea0688ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/how-units-are-handled.md
+SPDXID: SPDXRef-item11289726
+FileChecksum: SHA1: b81daac7c2c16a6fa5c129518bcd624759e2380f
+FileChecksum: SHA256: 2fab818559a9bc5052dfebb12f2e039ee51fb78fd1ee304e67cb2f5720e505e3
+FileChecksum: MD5: 708b0c8e723bf05c12c29040f9f4e3ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/media-types.md
+SPDXID: SPDXRef-item11289727
+FileChecksum: SHA1: 68dea9e6eae34d52f32cb4d9e78449795b04e8ba
+FileChecksum: SHA256: b0e07ab544b11508056a60bdee2bf647e3797df0784ef8bab39183e34209d8a9
+FileChecksum: MD5: c74df01cc74a1597478413f45fa3bea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/examples/proposal-invalid-units.json
+SPDXID: SPDXRef-item11289729
+FileChecksum: SHA1: e2678af0454c30dc2a40e96eabc9759859ad7302
+FileChecksum: SHA256: 386e327dc787ae2f3b3f7b016fd376bcab48072c7da8c713d2cde4f0b0b9e59e
+FileChecksum: MD5: c888d63aaade7fde0f9a824ce96e6b1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/examples/RC-B-monitoring-set.json
+SPDXID: SPDXRef-item11289730
+FileChecksum: SHA1: 3d860a93e4dda6db3b742f64777f401b54e9ae8f
+FileChecksum: SHA256: 73b78b708345bb9dd6a739d83fe81ac25cca62970183c89062cad6dd70242f6c
+FileChecksum: MD5: b5e6e7ed8d965cdc62ec7fefde08070f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/examples/RC-A-monitoring-set.json
+SPDXID: SPDXRef-item11289731
+FileChecksum: SHA1: 7669e4391fe0e442e7930edc408c6412f2402b66
+FileChecksum: SHA256: f22341f9a4212d704fb642584583af98ae1e16291b812ec19624296d4756bb53
+FileChecksum: MD5: 961223f790d35f87546817d5f9b5a1b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/examples/compression-required.json
+SPDXID: SPDXRef-item11289732
+FileChecksum: SHA1: 260e0de885060695d49301d8dbd50e08962ef996
+FileChecksum: SHA256: adcdf3f23be7fe0761e3fc393ab997378f4f40727dbbe318159673bd52827681
+FileChecksum: MD5: e1cceaf2fda90ebcbddfc7b5722d5962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/examples/forecast-proposal-late.json
+SPDXID: SPDXRef-item11289733
+FileChecksum: SHA1: 3ce9d5df0d7772a9fe96f8f89ef0d2f11840309a
+FileChecksum: SHA256: 58eb2e8fe927db722715b059e6eb561282f7faf2c1b2b09bcdcbcf70883f4d15
+FileChecksum: MD5: 3991174a0f221a540c73bf1742f47e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/RC-to-RC-reconciliation.md
+SPDXID: SPDXRef-item11289734
+FileChecksum: SHA1: 4c4904d6e2dc8af82cfe0149daa696c9757c9ef6
+FileChecksum: SHA256: da69429387e6d0df30468c9b3d2a72f483719e2035e52cc3dd573a1cb305414b
+FileChecksum: MD5: c0889cdbb93da03871e387f0796ef73e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/daylight-savings.md
+SPDXID: SPDXRef-item11289735
+FileChecksum: SHA1: 94066a8cc22e4669877a2c81353c5468e5ed6288
+FileChecksum: SHA256: 008fcedcf604d96eb0cf491d55bf6de183e097fadf4092b259183c53d8e4cbe8
+FileChecksum: MD5: cfa3e083f06c5d4433e654a608b9e0dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/forecast-windows.md
+SPDXID: SPDXRef-item11289736
+FileChecksum: SHA1: 488ede85e3753e9fe2f08c3ec8fd3740602b178d
+FileChecksum: SHA256: 7f4e5fea65106495407babcd6e356767adcd9aa4d4886476d68d7eacb4e242ff
+FileChecksum: MD5: 8fddb7d256ee6f06d080b16a67b66633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/limit-provenance.md
+SPDXID: SPDXRef-item11289737
+FileChecksum: SHA1: 4179b27a043848672af4a1d6a7efb29bc5206b15
+FileChecksum: SHA256: 0ce1d6a41f073ccb6eb8fc4ab9a6ab9002a0f146f4d6e4bfc08ecf60e9af52b7
+FileChecksum: MD5: 3b9c8f4f271c4db74a986d6610164d5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles/time-conventions.md
+SPDXID: SPDXRef-item11289738
+FileChecksum: SHA1: 28a267789c9ca93543d5db7c4a800602b330ae6a
+FileChecksum: SHA256: ea97288d47e0fbe79ba2e375328537b46caf968154a3d24370b920f6d09043ad
+FileChecksum: MD5: efba8386f5a197150404cd4a4a471ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_config.yml
+SPDXID: SPDXRef-item11289739
+FileChecksum: SHA1: 3765529ac7e3dcd0f87839980b1e23001c61632e
+FileChecksum: SHA256: 835b0770fd088051db08f24d72b01360ba2b6e5ea41ba13f61b8d073415a7972
+FileChecksum: MD5: 0104cc1221be7512ad2db9e081871580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/Gemfile
+SPDXID: SPDXRef-item11289740
+FileChecksum: SHA1: 72d57191f6cc8e0b9fb3e05511f6adc7c17fb54d
+FileChecksum: SHA256: 37aa73a034785bcd789079ef641d2a28964598573d32576dd9c937553b53dc53
+FileChecksum: MD5: a73bbafd01ea9b6ea6899f896b6f61cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/reconciliation.excalidraw.png
+SPDXID: SPDXRef-item11289742
+FileChecksum: SHA1: c4fa4a12f1a6ce7a2c3792629ab318cc0f347e7a
+FileChecksum: SHA256: a51c3b27f7be9708c4ada24d26d6f9749264f76689d7bd975bb819f116fb81fd
+FileChecksum: MD5: c56c20b1f3ec08cb2b235d6705d2d002
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/TROLIE-icon-color.png
+SPDXID: SPDXRef-item11289743
+FileChecksum: SHA1: 1b759addb6572cddc71184815765a7dd7fbc0c46
+FileChecksum: SHA256: 5adba0bf6f5fb5b62c37ffdea5aa11b53b79c58727acd80472d37bdfd471ae30
+FileChecksum: MD5: 21284f42183367d8348df80f11e5baf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/forecast-states.svg
+SPDXID: SPDXRef-item11289744
+FileChecksum: SHA1: 0dfc228944430bc6b353326c3a8d455469706f10
+FileChecksum: SHA256: 8df6abcfff67a9c148d9436a5c2883cdd8184d61a53ea875f1ae21cc3511da33
+FileChecksum: MD5: 824c09f83effc44609665e483e870ba2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/TROLIE-horizontal-color.svg
+SPDXID: SPDXRef-item11289745
+FileChecksum: SHA1: b7c4c39279175cbe1dd51c4b0e1f218f0ca23892
+FileChecksum: SHA256: 45282e6ce00f21c3174296634e5fc1c427faa83ab9a4f9365f1555a7076de101
+FileChecksum: MD5: 7b30601bd8f686dbb91bf13fb4efe893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/ComplexSeasonalSchedules.svg
+SPDXID: SPDXRef-item11289746
+FileChecksum: SHA1: 0ab0ddffd867297c6842a7ee098be8701d91f36c
+FileChecksum: SHA256: 520df6c630a8079e35467ceaf15901a88279b7721c2a1d6b3bf13d7acfa94d48
+FileChecksum: MD5: 6f03a8921099d7afde343091dc13f4e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/limit-types-mva.png
+SPDXID: SPDXRef-item11289747
+FileChecksum: SHA1: 213aa651c92aa267ca016476d52dee82014137f4
+FileChecksum: SHA256: 4a1cce984646c7eacf652f58bf5b7187e3b24881b10df8aaf5c948927cabcd67
+FileChecksum: MD5: cfc2ad4b94af0b02e3705529cd9dece4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/TROLIE-summer.jpg
+SPDXID: SPDXRef-item11289748
+FileChecksum: SHA1: 526a9be27ee7833f01115d9bc385ed8e7472f37a
+FileChecksum: SHA256: 4f0feeef70f53ead792b1bef053c2fed4e2b78eee1b04a357f478af6a843f200
+FileChecksum: MD5: 981dab352c51a69a762943d4e9c851e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/response-schema-highlight.PNG
+SPDXID: SPDXRef-item11289749
+FileChecksum: SHA1: 75eedd9bc9a39fca365866cdd740babb24713255
+FileChecksum: SHA256: 535cf514f72ad64f7c7eb6f44b5150378564120ce95a59ebaa3ca6583df6be52
+FileChecksum: MD5: 7ee8aa360bc8aff77e71ca38e77626ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/lf-energy-standards-and-specifications-horizontal-color.png
+SPDXID: SPDXRef-item11289750
+FileChecksum: SHA1: 8dddc744a7aaa8251457967f40dbecd725520d39
+FileChecksum: SHA256: 8799dd010577b4a6b9c30db81b4b3e62791bbd6a6bfba31a2ce7004f42f0f05f
+FileChecksum: MD5: 182d27977061f70ca88d6a41c254d4bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	U QK?vяc¬3?4@?[vïõðt¸L^Ó?ÔøsóN?޳±iA?AkÑéð?p£© ±)B6ûRC?©]³˸у@?»òóëáւµKËÿók܀·65-(B0?`MÎ:B?ܡm>FÄ1Ö êlö%ÝzCA?q:?Lô彽?~¼IÝwä>5þü:ïáÜû燹ÂȂAë¢#4À½Na#?!á ò´ÏÞÚ>?CD?lև|ízøzÐkùÓn¶á]@x§M?ÉuiǟñþC0?`]ºèÇKv?ð Zóægá ×>s]v??0D çêÔ?«÷6 4ĺ³u´sΐ\© </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/response-schema-highlight1.PNG
+SPDXID: SPDXRef-item11289751
+FileChecksum: SHA1: 6371ffb476c522a23807e40c90bd3ce87fc84770
+FileChecksum: SHA256: 0965f72a1e0736f8a86386bc8c2ddd4bf64b6f4fb7b7e447793c4e385c7c8a95
+FileChecksum: MD5: f56d53abd39af56f7942127a4a5ade74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/TROLIE-springtime.jpg
+SPDXID: SPDXRef-item11289752
+FileChecksum: SHA1: eb9ae0bef1baa80ef7ca5adc0cdbb8d5c60d1f59
+FileChecksum: SHA256: fc55e4de7cf8a4e517769ae221760e582f0baefab50f77ce0eeabc46eef5180d
+FileChecksum: MD5: 51c7e0117b3c8fcbffff5e12fbdb4ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © w'Fànmå34ÒjrÕäÜg©M¥®RÓ~å$?n׵¯nñ?ñ?£fzäTٲ&¡Æa9?©µY×#JS¢Çû¤(?mМ?U¿?\·\¨³x3£HaJq$?/¸ </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/data model.excalidraw.png
+SPDXID: SPDXRef-item11289753
+FileChecksum: SHA1: c2a091c24308c0bd789ff8235cca175fd64eec56
+FileChecksum: SHA256: 2bafe0c32bd96488fa887bd0145496d861adbf48091e62e272409e268e81c1a8
+FileChecksum: MD5: 97dc552ddbb19c504d73258d8c6ed0b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/TROLIE-icon-white.svg
+SPDXID: SPDXRef-item11289754
+FileChecksum: SHA1: f66b4ee719f2ef4a7a993bc0574e19875542ac1d
+FileChecksum: SHA256: b9d00d3a0a9b1980360ee50cf3ceac750b7ae366d286649dea5113009e399602
+FileChecksum: MD5: 8c4bd523ad4b1178f3438f3210742593
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/lf-energy-project-horizontal-color.png
+SPDXID: SPDXRef-item11289755
+FileChecksum: SHA1: 13b170b904def755a8634829492c00d8ae50129f
+FileChecksum: SHA256: 94f6aef92b5fd1eb03bf430944194c088b6d23168293fdbda0e8afdac04a8f33
+FileChecksum: MD5: a088d05f2b94156803a80db154c681cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/interactions.excalidraw.png
+SPDXID: SPDXRef-item11289756
+FileChecksum: SHA1: bb4beb21da0959b9b0723bc7d2da79bd7eb9895d
+FileChecksum: SHA256: ce282c9a1c115cba18f625080772b6d6ed7837bfd27542ab914049f230748170
+FileChecksum: MD5: 0b4223406acff1c96e3531bcdb3dd8df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/forecast-states.puml
+SPDXID: SPDXRef-item11289757
+FileChecksum: SHA1: 81b5670cce98e487485d86e0d2efc6000bed1e1d
+FileChecksum: SHA256: 46e805066f5ade503d0483284af191a51264a1ce83a16caa6613aa150b5c6768
+FileChecksum: MD5: 699224efc0f54ab7466947ecd3a5ff7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/trolie-station.jpg
+SPDXID: SPDXRef-item11289758
+FileChecksum: SHA1: 59e27f28f03af8362e053ce3f79c23fd391ac7df
+FileChecksum: SHA256: e96c4bc99f17366eac90da4868f18059f964c568e2b20a6388dcec8be2cf1045
+FileChecksum: MD5: 2df7e0eb46c4772b4e06bc73b893d254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/Seam.excalidraw.png
+SPDXID: SPDXRef-item11289759
+FileChecksum: SHA1: a14b10a02a783fcbea6864db1df59fe5004be9a0
+FileChecksum: SHA256: 6e95d191ad81e95b0df98283d26719dfa1a4316bfa4d65fcab99bc0ea8603ebd
+FileChecksum: MD5: 907ec30ba0aa8e984a685f574ce1a082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	R1À?7nĺuë Õ7Àsß?½+åk?ÒÄ?­ì<ØîÏނk??9]h擽"'Àn_:ðoÔWWpOÍÌÌø֣È='÷tÀ?ÇP] ÀÇÇGp(?+ÀX¶۩ÓÐ Þ?xúÓ݂S¿-:npeÉ%ìýâC^¬ۭg §Aîk?ÄÈã(Ho3iΜ9pww×&?É?" R?Ñ?®!óJ:  $$D¥}wUg?`PNN?&M Ecc?¦=õ?FÍùKWq£qt?±g?Dê(Ì?ý¯êÓÙC]?ÚæóÝç¾úôéIè¶ŉìQ?܌?D¥=-[&_÷ò^Ð?9´sçN¼ðÂ?002Æóߝ </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/forecast-windows.excalidraw.svg
+SPDXID: SPDXRef-item11289760
+FileChecksum: SHA1: 01b6337c135253b8e2da6e17fda1a6d61ba3f89a
+FileChecksum: SHA256: 10de7b39df2952e7e7a2bd550d99c1023b9769e6b7ae41a353b1d702c6549bbb
+FileChecksum: MD5: bbdcd5e163b77d424d33087d0d72a2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/images/limit-types.png
+SPDXID: SPDXRef-item11289761
+FileChecksum: SHA1: 2af5561bd3cea2efe4be5b0ea35f93e5b8811854
+FileChecksum: SHA256: f1d84fdfad20a4177f9e18ba18093ecebf53c028b630cc20cf71cd4d772ecdf5
+FileChecksum: MD5: ef1df52b90d1d0f18054df57ff8f6e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/404.html
+SPDXID: SPDXRef-item11289762
+FileChecksum: SHA1: 6589f508cd6ec669eaf759bd99d85c7154d04cad
+FileChecksum: SHA256: fc54640f76e2577ecb29149e59b7f7dfab97633ec411bc6a0a72e46855f225f8
+FileChecksum: MD5: 4c0996276343c09172448e03e64daa10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_layouts/analytics.html
+SPDXID: SPDXRef-item11289764
+FileChecksum: SHA1: a689b15fb82fb97e0309f89d4068b448360d58c5
+FileChecksum: SHA256: 83cc221d7f6b53be9b5f2712a2dbff30e84414545647f02fd07dd6e0f4823d81
+FileChecksum: MD5: 4a480f5177d5bcdd4e93303113d8cd19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_includes/footer_custom.html
+SPDXID: SPDXRef-item11289766
+FileChecksum: SHA1: 9d28f8e9df45bf47ad8f0144a9cdb8fcd96f23fd
+FileChecksum: SHA256: fde7cba613f7a45aaaf0faab7503ffb98084cc14f998fa46d30f8a8fc372dfb5
+FileChecksum: MD5: 799881119fb42b8902d6710f138e5050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright &copy; TROLIE a Series of LF Projects, LLC. For web site terms of use, trademark policy and other project policies please see <a href="https://lfprojects.org">lfprojects.org</a>. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_includes/head_custom.html
+SPDXID: SPDXRef-item11289767
+FileChecksum: SHA1: 94a2aa8ccf3f1b26cc7a591b7c21cb65a35d2a6f
+FileChecksum: SHA256: 2992a0552e310b78902886dfa78b0caf94276686ae8f8ffc3b6fa67563b5a12d
+FileChecksum: MD5: fadb493715d10c763a29537ec4ea9115
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_includes/mermaid_config.js
+SPDXID: SPDXRef-item11289768
+FileChecksum: SHA1: cef1af01cf0082bf7ff58abdb8313506c562a54b
+FileChecksum: SHA256: e52cad5318e4d2b4083ef3ca913f3b2d10dfd243b00494c895ddda7048c7c3f2
+FileChecksum: MD5: c3ab4bf79edea9a45f5cd4e5f9dbc4b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/community-events/20241018-Pulling-into-the-Station.md
+SPDXID: SPDXRef-item11289770
+FileChecksum: SHA1: e17f44d6f577dad42c81e6f29c86d25d1d882f5d
+FileChecksum: SHA256: 72fe6b5dec8be7e0cdd8acba5ecfdd53690f94a6ccd9c28d3b15ab8608ef36ec
+FileChecksum: MD5: 38a42e678baf8d93b07b97388e4fc6a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/community-events/20241115-releasing-1.0.0.md
+SPDXID: SPDXRef-item11289771
+FileChecksum: SHA1: 7b31a0f9af492414a39c89a5418333b8ec40ff3d
+FileChecksum: SHA256: bec7fe8c225c919d3c03c28bd4d50e6626b2b329fc2a5f56d24490ca968745e2
+FileChecksum: MD5: b77056836f1728a5e2b11ddda3a3c0e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/community-events/20240701-RealTime-API-stable.md
+SPDXID: SPDXRef-item11289772
+FileChecksum: SHA1: 6d6ac430e4facdf9cd70edb690ab4ff4857e85db
+FileChecksum: SHA256: 6ffe8c1ec1a0895908f0c1af6d54add25908aa0cd11c846f0643155e99f32a0c
+FileChecksum: MD5: 605ad85e0d61da058324d2d6403ca3e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/community-events/20240221-Intro-to-TROLIE.md
+SPDXID: SPDXRef-item11289773
+FileChecksum: SHA1: 6de5a88bdfb0546435c9aaf2645072facb94002b
+FileChecksum: SHA256: 79a0ad0fc3cf9fc7af126a5210b17b50a253bb7984bd190695d71f2e87901984
+FileChecksum: MD5: 9aec43fc97d9f3216a9e830e973058a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/community-events/20240330-Forecasting-API-stable.md
+SPDXID: SPDXRef-item11289774
+FileChecksum: SHA1: 143f90b4b0787e0019cdee348715710b11c57bc3
+FileChecksum: SHA256: 901a9a23a4a49682399e2b79a93f0e14041eed8544ec2b05109c4a958a5a44af
+FileChecksum: MD5: 4bf43324cec6cd9d17014def7b6d7017
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/articles.md
+SPDXID: SPDXRef-item11289775
+FileChecksum: SHA1: 4a6d7ea8eb718fb6864fdf9003b49a1136b41bf7
+FileChecksum: SHA256: 96bd8f6ae509cd3aaad7060c62280833a5e740674273f60f95c1c553af6dc853
+FileChecksum: MD5: 79ac5a6d4b6237b5bbc2100f11cda98f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/openapi-split.yaml
+SPDXID: SPDXRef-item11289777
+FileChecksum: SHA1: df72201ea7162bcaa4447fa3c8bb6dd34c68deab
+FileChecksum: SHA256: bea814d0e1ff1c3f6bc0f306f265f1cc2c6db8eb3198a03fd4c8a4c53eaf61b6
+FileChecksum: MD5: eff0139050196f641af07b5c715e3b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/seasonal-overrides_{id}.yaml
+SPDXID: SPDXRef-item11289779
+FileChecksum: SHA1: 5803bf2426785bb22ab975dd8029bb7e3cd7dd1d
+FileChecksum: SHA256: bee4cad94d28d4598b42e2bf302523bd503c709ed4b0e0cfd14254d888716e74
+FileChecksum: MD5: 0c57cced91e63fa2832d99153d1c7d58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/monitoring-sets-default.yaml
+SPDXID: SPDXRef-item11289780
+FileChecksum: SHA1: 1fa5cacf80d7fc8e3010655d2689254a67c31a48
+FileChecksum: SHA256: 878772ace682fa10ecbf51e55946b06d8e77b25eb5c33d4e1cf8543561a78a10
+FileChecksum: MD5: 28cc1889aa3f003da9d638850ff06b60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/temporary-aar-exceptions_{id}.yaml
+SPDXID: SPDXRef-item11289781
+FileChecksum: SHA1: 3a1d13aa0137b18e0071ca736b2b7f5f3227000a
+FileChecksum: SHA256: 4d0913ad4286479b5557c2ded8d4d995f9d5fea945b159a2d52d3af8e7223f66
+FileChecksum: MD5: 1d38a2006d2109d8d9b3f596e59aecaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/rating-proposals_forecasts.yaml
+SPDXID: SPDXRef-item11289782
+FileChecksum: SHA1: 83b53766edb1b35ead92606c0439fb4393790555
+FileChecksum: SHA256: 005f49737f9bdd7c7b68269afe70ca304696d3aaf69912cd8cddb629d42b2c12
+FileChecksum: MD5: ff91d995060d2ff4164171fcf97a2070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/temporary-aar-exceptions.yaml
+SPDXID: SPDXRef-item11289783
+FileChecksum: SHA1: 2be7cb85546ad0cb3ef46e8156931dc4c576ff5e
+FileChecksum: SHA256: 5d4686a72d168e8a50bff5a2a9f961e1c9feb7c759eb2440f62175aab4e944e2
+FileChecksum: MD5: 9b6d1f4c8e587fb0fc761d2edceee448
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/rating-proposals_realtime.yaml
+SPDXID: SPDXRef-item11289784
+FileChecksum: SHA1: 72f18ebc79753d4533adeebb49a7f56aa2773a88
+FileChecksum: SHA256: c2bb90e5b4e995c1995b4be836750ee6469c9b88114140a2f2c6f167cbc7ef97
+FileChecksum: MD5: b870bdb7f0211b6d3bbc708ce54ffaea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/rating-proposals_seasonal.yaml
+SPDXID: SPDXRef-item11289785
+FileChecksum: SHA1: 1a617e7a06471ad291ed2730da81dbbef050d5aa
+FileChecksum: SHA256: bdf6a2ca519c6d82e56d557f7e7c96d951cf2bccb0c426615ef158d01675fb3d
+FileChecksum: MD5: 0b9e68552f8739ba92f4f225c77ad9fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/limits_forecast-snapshot.yaml
+SPDXID: SPDXRef-item11289786
+FileChecksum: SHA1: 57786139fac2d38ab7ba43bb0d693c1534a47b4b
+FileChecksum: SHA256: 124f6556be3d2b38e89f5a83a10ea2f6ded81054bf36ed241339879a3f0ca3a6
+FileChecksum: MD5: c0f682c6b6fa5cf2fd85ec9bd5f09283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/seasonal-ratings-snapshot.yaml
+SPDXID: SPDXRef-item11289787
+FileChecksum: SHA1: f81f126b72e361bccb4a7f7a88ec26e6d8f8b58a
+FileChecksum: SHA256: 74d5e669122df3d2be227158d27d43d0d025c2f03150b92d05276118b8f7108e
+FileChecksum: MD5: 7f7f3754e824e8f495f63a3b5d214199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/seasonal-overrides.yaml
+SPDXID: SPDXRef-item11289788
+FileChecksum: SHA1: 7ce91c7b766ea83386f4ff50e9c3530b39207841
+FileChecksum: SHA256: fd9eecd2490a646720aca65131d3c7f0d75ecde09550be01dc4944481fef56fd
+FileChecksum: MD5: 0861bdb0d1d91b42514e3468d6789d58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/monitoring-sets_{id}.yaml
+SPDXID: SPDXRef-item11289789
+FileChecksum: SHA1: 692a7a6d6cb465cf0dbed0e39949dab7c3ef10e2
+FileChecksum: SHA256: 5fe87c605752fd947bddc8ccd1902af01c37aeaa2e5f125dc518cf75a3f5fdd5
+FileChecksum: MD5: 632085833c80006342ff44ffb7c82cf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/paths/limits_realtime-snapshot.yaml
+SPDXID: SPDXRef-item11289790
+FileChecksum: SHA1: eb0298b7c9e8b03b7b9c72b6150a3d042fef6326
+FileChecksum: SHA256: 7b59dd48ebb8ad67fead4d2bde5a2a45450d7ec1b1b6ce6e831626e5cf05fe41
+FileChecksum: MD5: 79209e8718a2cdb7201c805221bcdc62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/proposal-id.yaml
+SPDXID: SPDXRef-item11289793
+FileChecksum: SHA1: c3a67507da29be85da7183facb5e4c9a3ad9480e
+FileChecksum: SHA256: eebd0966279a7b04b84eb5a1d8ecbe60f775e4ae2e307615a903962397d090b4
+FileChecksum: MD5: 9590812e65047b14e1661c6b46cceae8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/monitoring-set.yaml
+SPDXID: SPDXRef-item11289794
+FileChecksum: SHA1: 1a21aa7972aa27edf21892c262d038db8bbb42f6
+FileChecksum: SHA256: 6973a451d6973e5db877e3f9f9ded3b0a744a0053bab216bcd0bf10c68967f61
+FileChecksum: MD5: 7ef727f3f9ac09d1b786755154a801d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/static-only.yaml
+SPDXID: SPDXRef-item11289795
+FileChecksum: SHA1: 02976f82f79d6ceff13a050593b8fb052f1520a4
+FileChecksum: SHA256: a63f11fd7fe3a2bec472eee04dd926a39464967dd8a622bac704d6d919442745
+FileChecksum: MD5: b8f7181776cd64cbffd22d4875600029
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/resource-id-filter.yaml
+SPDXID: SPDXRef-item11289796
+FileChecksum: SHA1: ea475e0fbb4a01b8af312c8c5046e3d54293d7cc
+FileChecksum: SHA256: 88452d0ee4887f57a816e3708899ec35e5f84255e46e53816fbefe11b2e5bf5f
+FileChecksum: MD5: 9804df45fb92095351d65683bcd2baf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/segment-filter.yaml
+SPDXID: SPDXRef-item11289797
+FileChecksum: SHA1: 950f0d51db0ba09a7db714ac24eed0d70407648b
+FileChecksum: SHA256: 9a68075679cdfd2810841c0b940840673481eb81b8d97051e389f5899b155c88
+FileChecksum: MD5: a3dab1f9ef70a81972c46b2ef75245db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/period-start.yaml
+SPDXID: SPDXRef-item11289798
+FileChecksum: SHA1: e1f45c96a5c9c59229dece2cf9f12a6fbe2f9a72
+FileChecksum: SHA256: 273f9f4bf299d34a0e9032d7bfa1b099dfae3f2eecacef736fc1c28d2a50315d
+FileChecksum: MD5: e214d87dc61588ce771e4e647048c72e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/period-end.yaml
+SPDXID: SPDXRef-item11289799
+FileChecksum: SHA1: 849d6f26781c1c52a60b346902f2734c9c918f2f
+FileChecksum: SHA256: 9b90a83508353bfaaa531ff26fee727e863c8497c985240ba130f3dccd4a86ca
+FileChecksum: MD5: ef607d78e95224645df15bbdbcf411c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/id.yaml
+SPDXID: SPDXRef-item11289800
+FileChecksum: SHA1: 81a9db56176a25cf838558154d1c7304a7baa600
+FileChecksum: SHA256: c80f58a10bee597a305d91bdc5b44dcf438d19e6e779538277da8c9f49aa93ba
+FileChecksum: MD5: d2db95a414033806dbb2afe7bd22ed57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/period-start-query.yaml
+SPDXID: SPDXRef-item11289801
+FileChecksum: SHA1: 045c9b09a79b61fe2b6b34be6bf8a4745252b53a
+FileChecksum: SHA256: 3564fa9deffb8add4530bd7312795755e00aae028e43400088aea7d3d8e1656f
+FileChecksum: MD5: 7a061fe7f2e3db39dc47571631af3e01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/parameters/offset-period-start.yaml
+SPDXID: SPDXRef-item11289802
+FileChecksum: SHA1: 232ee0e951af7847382920b91a7f10fcac74d347
+FileChecksum: SHA256: 0d7974fb41f57f84a3d76b035005776669fcdfeebe1cd3c192e80d138d3e36cf
+FileChecksum: MD5: 186424db4308589e8454df859c8f0be4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/realtime-rating-set.yaml
+SPDXID: SPDXRef-item11289804
+FileChecksum: SHA1: 146a3e026b1149dac6039315f648d4130d575ff6
+FileChecksum: SHA256: 76b4962faee3e13ea20915a92710a6a106c8b3533136384717df584d527b2f52
+FileChecksum: MD5: 21e1d11114ad7b3be87bb5ba106fd0ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/limit-provenance.yaml
+SPDXID: SPDXRef-item11289805
+FileChecksum: SHA1: 15699996e807baf3e5eb309ddd83fd3fc7eeb630
+FileChecksum: SHA256: af438969433fc251d6740190938f218524ddfd0c8b382d3b0c6245d45578da53
+FileChecksum: MD5: 12e14a14b9f7ef7e6eff1daa7bbce994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/limiting-analysis.yaml
+SPDXID: SPDXRef-item11289806
+FileChecksum: SHA1: bbe798cac9a31f60a8517c062fc9c5452fc399e2
+FileChecksum: SHA256: a006b96e291aad5163e771b22edf3c28e19ec68c481283de88278425b282fb7d
+FileChecksum: MD5: 7b60a5292997051d986c3f23451f157f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/array-max-seasons.yaml
+SPDXID: SPDXRef-item11289807
+FileChecksum: SHA1: 04a61c40322776452eb0f740e578e280f3e500e8
+FileChecksum: SHA256: 0a6a3baa7e40cacefb1835977b89007f903663d920665c5b345821336d8dfae5
+FileChecksum: MD5: afe65352e174623d2aeaac83c65712d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/name-type.yaml
+SPDXID: SPDXRef-item11289808
+FileChecksum: SHA1: e86498fda6396da4249275fff7fd03c9f794ba16
+FileChecksum: SHA256: 19f477ed96ee9ed06256abea4b2556639858a328cafa559f95da1d572e325e60
+FileChecksum: MD5: edc5c89784f476599e2a635245cc0c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/array-max-forecast-periods.yaml
+SPDXID: SPDXRef-item11289809
+FileChecksum: SHA1: c7af315ac29af16feadc4940c74f370b34dc28c2
+FileChecksum: SHA256: 92811f9adb63935c3507602978b8df70e4d7ec60aba04f8eaf311db923c99128
+FileChecksum: MD5: 6e8f1de16b01c04db15907e494840853
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/quality-class-current-source.yaml
+SPDXID: SPDXRef-item11289810
+FileChecksum: SHA1: 3dcbaaaeb53d0f55797a5836ec09032b29c5ba92
+FileChecksum: SHA256: 2799da50159b3f563616444315a4dac213ec2eb6f20e4da6b571c1c796e04ea6
+FileChecksum: MD5: 75a0cef7ec1e91b159fb395f5fb33858
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/identifiers.yaml
+SPDXID: SPDXRef-item11289811
+FileChecksum: SHA1: fcc7233eab165a7992b312dc9fa596c70854ccc4
+FileChecksum: SHA256: eac8308953854303a79173cf46d44dc3990ee4a61b0fea419fc1d43bddc4ca3b
+FileChecksum: MD5: 8c25c25ccaaf7c81d4bba85ff310c111
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/array-max-emergency-ratings.yaml
+SPDXID: SPDXRef-item11289812
+FileChecksum: SHA1: f5866e75046d948ec9081bfaa8df8343a8edddc2
+FileChecksum: SHA256: b562c93b7633e9f873ed44b28e43f657c4e00cd2c76c920f7054c4d484361f65
+FileChecksum: MD5: 08f3d7302a827f8fa9f0f3170c33b0be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/input-used.yaml
+SPDXID: SPDXRef-item11289813
+FileChecksum: SHA1: 41659400813f2e9ee820158db22dd198d7df598f
+FileChecksum: SHA256: d71b2f1c81587e27f56bd422eb52293b49bee8bde20f163885afcdfce1a8e133
+FileChecksum: MD5: 4f315db12d67907a87347fcd84096e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/array-max-emergency-durations.yaml
+SPDXID: SPDXRef-item11289814
+FileChecksum: SHA1: 61dabcd36544af1ba0dceee2f284406718f7b469
+FileChecksum: SHA256: 85c1ad7ca239fabe45e9af65f73df75be7b4e8f5fb41d816430d595841a36f31
+FileChecksum: MD5: ef0a46e96a69f6c6a04496f9d69e5edc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/limit-types/reactive-power.yaml
+SPDXID: SPDXRef-item11289816
+FileChecksum: SHA1: 81543c6924ecb437238d7b7b437a17818c2a4edc
+FileChecksum: SHA256: 7d081f2706c206a08a1dc335ea9935a858388416efaf68a53e7f0451c846f016
+FileChecksum: MD5: b237809df35a28259abcf5857561fae9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/limit-types/voltage.yaml
+SPDXID: SPDXRef-item11289817
+FileChecksum: SHA1: c830f9b9f386a2e8c914f269bc95b374a26b4dff
+FileChecksum: SHA256: 9554906f70b39142d1086db6935cd3946645f8963a35b26df5fa0139649745ff
+FileChecksum: MD5: 9c11f31fba8608fc80084476b37b256b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/limit-types/current.yaml
+SPDXID: SPDXRef-item11289818
+FileChecksum: SHA1: f863a4bb10ad88030abc787e22d5b8810d618683
+FileChecksum: SHA256: 3417d244581b0045f09615a9889483cb6aa7f9e5f7335eac08d7b17cf3cd1f77
+FileChecksum: MD5: f8e90e5556133b633ba527b9c618fe37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/monitoring-set.yaml
+SPDXID: SPDXRef-item11289819
+FileChecksum: SHA1: 1f4b8db188b33aa75b193634690fca6456fa811a
+FileChecksum: SHA256: f9224d2c4030e9f8bee7dbdbed89265b419fcfc1123f2f2018faedc38989857c
+FileChecksum: MD5: 93fc0642ed5ef64b1d9a30727fa4e0f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/day-night.yaml
+SPDXID: SPDXRef-item11289820
+FileChecksum: SHA1: 3674f94eeeeefe34ca8f94bb438d7a0b23d7cbc8
+FileChecksum: SHA256: b0d7d3e9804652a81f01e468a79763131c6a76897534eb2ce2927c0d140bf958
+FileChecksum: MD5: 9e9b1efda8f15218cbdc912cfb00a395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/names.yaml
+SPDXID: SPDXRef-item11289821
+FileChecksum: SHA1: 4f842479cc90a37e6151f8c1f29ec6a93557a229
+FileChecksum: SHA256: 1ea72d9e3bc8c0c0797d36e59a960b41c34396b0cd3b56e147ceb37acefb298c
+FileChecksum: MD5: 98bfa670beaa50908b8023350592eaac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/period-start.yaml
+SPDXID: SPDXRef-item11289822
+FileChecksum: SHA1: 8926903f155dad72bf39d0acf50b633cc6c6ad3a
+FileChecksum: SHA256: fe1ce65d8a8f20d75f5277cf7db5c181a39dce1c3006f40ea25fff8dd92af204
+FileChecksum: MD5: 7985d63f1ba29c65e6acfa042e3b299f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/season-name.yaml
+SPDXID: SPDXRef-item11289823
+FileChecksum: SHA1: c3f8009961c9803ff6b5b8a40740943c1dae03b9
+FileChecksum: SHA256: 9d010ce5d5c10e9fa92ac338af0e2012b6b8da782fae71844107531412259009
+FileChecksum: MD5: 17bbcf52ce8dd03e3c47e288e9040ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/array-max-monitored-elements.yaml
+SPDXID: SPDXRef-item11289824
+FileChecksum: SHA1: d0365c01d0acb62cef566c75d0e0df37e2bdb340
+FileChecksum: SHA256: db9fcfeb40c2dd0c0bef979b856fcec89506a5065b9e70ab731546e76e9c9eca
+FileChecksum: MD5: e9095879cf604f5d7a4f20e1267a647a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/limit.yaml
+SPDXID: SPDXRef-item11289825
+FileChecksum: SHA1: 8e567af6a59a6954b963547c0075ee6693f15eff
+FileChecksum: SHA256: 388b96cbf691836c5e446f05d21f5ab7872c31b670fb36ce2f6f675c2db0b0bb
+FileChecksum: MD5: abe25a665288cec9447c310a2599531c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/period-limit.yaml
+SPDXID: SPDXRef-item11289826
+FileChecksum: SHA1: 4dd5f494c3df37fe2b99cc2a08128904d73033a3
+FileChecksum: SHA256: f8e3f616e1774df3e25ba19fa30a528f7b10142b4e575272cbc29c5de4786070
+FileChecksum: MD5: 612c3e02e76850884a042175a8294d96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/data-provenance.yaml
+SPDXID: SPDXRef-item11289827
+FileChecksum: SHA1: 7141025d48e34813e928a8ce0acc21e3f632cbf2
+FileChecksum: SHA256: 88918a3aa0713de5bdbf5ad4e13ca5a2c30a22ff20bbd94f5bb7f3934e2aa2b2
+FileChecksum: MD5: 36123271383a16f2aa976e156424e860
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/time-bound-static-ratings.yaml
+SPDXID: SPDXRef-item11289828
+FileChecksum: SHA1: 26939e3291bde3de61ad10f3f8957d08d70ca351
+FileChecksum: SHA256: 3857e8c35c0c11d5dd35d435ad48895b113e55877665fe501ddaa481d136a7b6
+FileChecksum: MD5: d1ef46ac5a4d49bca4bcabe4d3de69db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/headers.yaml
+SPDXID: SPDXRef-item11289829
+FileChecksum: SHA1: 45b2a9d3523ec3f40e677a8647c237f971ef566a
+FileChecksum: SHA256: dfccb19b860b1f6ab0af767409888e56ebcf3a7f061c7864aa8a34397998d414
+FileChecksum: MD5: 11e555b091df51e9b95380508b0dcf82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/network-component-name.yaml
+SPDXID: SPDXRef-item11289830
+FileChecksum: SHA1: 7549630ac79e7ea539bf4b2c91efdd51128a2178
+FileChecksum: SHA256: 6b71c20a93bd5986dc64c09cc0426d0fab388e5b0240728e98447cbcf64354f4
+FileChecksum: MD5: e12a692e3e6d94fab8b0e194782d391b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/realtime-limit-item-detailed.yaml
+SPDXID: SPDXRef-item11289831
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/_spec/components/schemas/timestamp.yaml
+SPDXID: SPDXRef-item11289832
+FileChecksum: SHA1: cf2872d8f39c6b4779bda2e2566cd9f023ff0272
+FileChecksum: SHA256: 7e4da30048ac5cf670308466b2e64807a61806d6952b679c7691ee7e32226ae6
+FileChecksum: MD5: 4cf4108768e9beaa88f28c665d1fef38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/usage-examples.md
+SPDXID: SPDXRef-item11289833
+FileChecksum: SHA1: e348e11ed6e96681af003ca6394933f24bf13941
+FileChecksum: SHA256: 7e56174f11710bb2e2d772aa605971dfcfc24050a1e1c744db40ec87a124cce2
+FileChecksum: MD5: 9aa962078c5b43aa847ea7438b83e909
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/reconciliation.md
+SPDXID: SPDXRef-item11289835
+FileChecksum: SHA1: 9e3765e89cd5a91741d90d26bc8596e9e03e801e
+FileChecksum: SHA256: 1c5f86a59eb38a586ab7d2b93a804e2db8639ded44db1883866cb01518653ae8
+FileChecksum: MD5: 7dbbb6040c2de442d63a666cc67ec5b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/in-use-forecasts.md
+SPDXID: SPDXRef-item11289836
+FileChecksum: SHA1: 1baa35c14c6a1a2f993292ca4b627d8435613860
+FileChecksum: SHA256: d694b87484b6b5ec03bd5a660346ac0a8ae28907720de4d1aae1aafc3f38c47c
+FileChecksum: MD5: 21fb4189bb3d06a3a936d9f2de8aad73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/in-use-realtime-limits.md
+SPDXID: SPDXRef-item11289837
+FileChecksum: SHA1: e4627bae49f77ec6d8d62ab8e505f32ea0fbc484
+FileChecksum: SHA256: 224546e18521f41b2371fd12062a47c2f588d86a41be3ba02df1528493586ff2
+FileChecksum: MD5: 181bcaab122043c62071077a2ac3b701
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/submitting-forecasts.md
+SPDXID: SPDXRef-item11289838
+FileChecksum: SHA1: 942fe3b56655f3c1f1e984572814b07a798c30dc
+FileChecksum: SHA256: 0553fc6a32a6413fa0f34a9ecdd6364e5c9c7ae318db965d114c756f87b0d89e
+FileChecksum: MD5: 3a1bee7f089128e8334dbe1ec37af356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-ratings-proposal-status.json
+SPDXID: SPDXRef-item11289840
+FileChecksum: SHA1: 84ba3e50eb290107256fb221bb77f217f33dab0c
+FileChecksum: SHA256: c7ffb305ff6822dc4cd0549e0240860dbb012be66a90da21584a42813131ecda
+FileChecksum: MD5: 7e45dfb0ce95cc9d8610e01ad7535bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-snapshot-detailed-elide-psr.json
+SPDXID: SPDXRef-item11289841
+FileChecksum: SHA1: fccd7036048920d82a795be668e62a23ad9d302e
+FileChecksum: SHA256: 24ac3fd7450aabc61e425d8b8ec09b5b3422b4846170b06d090baef70f9aee0d
+FileChecksum: MD5: b37d6c2d3891131302106d4a21cd2058
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-override-list.json
+SPDXID: SPDXRef-item11289842
+FileChecksum: SHA1: 6106b0825fbeb9ad1a0b903cd06e76ff5703679d
+FileChecksum: SHA256: 9fe1fc03e2c51d79f9d27741f53f2a4f0c7de56df87d77dd9c470d79a6a9cc29
+FileChecksum: MD5: 65f1a5239104f0467b7b5fc0dbb5cf2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-proposals-slim-patch.json
+SPDXID: SPDXRef-item11289843
+FileChecksum: SHA1: ee4bfcc4666d574449d63cb09c66758a9b3a6f6b
+FileChecksum: SHA256: 7f0ca8f4c755def003739b8ec1e283cf486dac7be049be278d05ed89e3b8f9cc
+FileChecksum: MD5: e805fcd6f37015716ac47a9e6160f99a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-limit-set-detailed.json
+SPDXID: SPDXRef-item11289844
+FileChecksum: SHA1: 4d53a3285450be487033f9a1a26045b84a55c8c5
+FileChecksum: SHA256: 83d96504f3e1e2712349c69e96cdc2e95b4f48a45b9dd62eaf36fbabfba8f721
+FileChecksum: MD5: 0899b952c60f5d1816a9bd384cb03563
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-limit-set-slim.json
+SPDXID: SPDXRef-item11289845
+FileChecksum: SHA1: 79e44a3cb3624fec2f5cc4d1cf14695620653fac
+FileChecksum: SHA256: 2e9e8eb1e95078de7e3973c2da441793908ed14104834cc47fd0166c0c8419e4
+FileChecksum: MD5: f8e79bf0676d9fa52770678d206669f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-proposal-slim-patch-dry-bulb.json
+SPDXID: SPDXRef-item11289846
+FileChecksum: SHA1: 9982cb2e9aa98844f297f81b5399d23aa5e58102
+FileChecksum: SHA256: d19dc07bdb4edf0fe304167c5b7a3b6a85df1dcbc2ed145d564421aaa67e373a
+FileChecksum: MD5: 70b108396a899e3467fde223e04df07f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-limits.json
+SPDXID: SPDXRef-item11289847
+FileChecksum: SHA1: d9e47dee1e3bd0af42ff1462dfd9106c69024317
+FileChecksum: SHA256: 2693e5e3a1ed6b94daa79dd7ce1865f64914b15eb8e76966baab4998b129e884
+FileChecksum: MD5: 3438fb04465434c12c9494a87a93a760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-limits-slim-active-power.json
+SPDXID: SPDXRef-item11289848
+FileChecksum: SHA1: e1ad2b2164a65ddb01911c0f9e81d167d8a0e74b
+FileChecksum: SHA256: 77c14fb5f5880c01bcbdf91eb89e55c16c91c7f2031776e1d00dae80fc03edf9
+FileChecksum: MD5: c3de21d31e830e97fc1fb9124ca0ed67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-limits-elide-psr.json
+SPDXID: SPDXRef-item11289849
+FileChecksum: SHA1: 3de6299c6c5a7f21c64615c162329e001e55d76e
+FileChecksum: SHA256: f01fbf827c45dc94ff7d6659ebe13d600518b4f297a96a8eedf0de2349484484
+FileChecksum: MD5: c800b9c9ff19e26f9c8919d20500d61d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-limit-set-detailed-elide-psr.json
+SPDXID: SPDXRef-item11289850
+FileChecksum: SHA1: 1393432a8faacc783ec3160654f1b1a1c1f829dc
+FileChecksum: SHA256: d99b952718ac4af11e6b493038b77dffc0358224913935e6a9a63304977bb1ae
+FileChecksum: MD5: e1963270d18d6ac3297c1eb155a17369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/temporary-aar-exception-get.json
+SPDXID: SPDXRef-item11289851
+FileChecksum: SHA1: cf4a28428793df1febd816205ccbfdcf886987ba
+FileChecksum: SHA256: cdb21fc8509f388bed78fd3ada4035ec48fd6564f44d361a420b861b5976d1b8
+FileChecksum: MD5: cdb951367257fade30cba4fa64dfcab7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-proposal-status.json
+SPDXID: SPDXRef-item11289852
+FileChecksum: SHA1: c59a9ad5faa7263e0f38408b3976ab62705391ea
+FileChecksum: SHA256: 0987ae63c7b500ed41a2e382c4fa6d2ac043f60c15cf02f68f8c6d81f5476dc4
+FileChecksum: MD5: 368f758e9ac43e77496cf4367f207c23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-limits-slim-active-power-dry-bulb.json
+SPDXID: SPDXRef-item11289853
+FileChecksum: SHA1: f4066ec24c3e318c7fffd718d7aeeddc890892ba
+FileChecksum: SHA256: 880d6cb42f03ca903089ee72bbf73d4b08fa24e59864ff2755ae6f238157c898
+FileChecksum: MD5: 736d6883ca087f82c225d19dc3735a23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-ratings-proposal-slim-patch-dry-bulb.json
+SPDXID: SPDXRef-item11289854
+FileChecksum: SHA1: 5b651110b86b3d64833b07ee6cf1432c07a4e49f
+FileChecksum: SHA256: 1f22778451e79fcab57374c50c0c6d7b73879bff20d4782fdc415cc6d16fc0e1
+FileChecksum: MD5: 3dd3657975fc34b3ce64a6cb7c9ad1d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-proposals-patch.json
+SPDXID: SPDXRef-item11289855
+FileChecksum: SHA1: 9c0bf512eac00e66a81ea844e2e5236fbd5d67c2
+FileChecksum: SHA256: 38e5fa0a19b012812a40add04e8f79bf96b31156fb19f350c752f97877c69cdf
+FileChecksum: MD5: 0818f04dfcabead75f2bcb4d7792a997
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-proposal-slim-patch.json
+SPDXID: SPDXRef-item11289856
+FileChecksum: SHA1: 35d8417e7a6c00b9b0a72cfc46dc1e97196d5462
+FileChecksum: SHA256: e1c8fab81f5ef744565be7a90c0b6c09c1b8f21b2a6910af3b1925d3e3a62ed3
+FileChecksum: MD5: 4bea3922f6ab4b569bf96bf149d44693
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/temporary-aar-exception-list.json
+SPDXID: SPDXRef-item11289857
+FileChecksum: SHA1: 01c99250d863162232f45e16b7d9f7f3fd5d4b82
+FileChecksum: SHA256: dfcf22cd73df9d33d75bb9f3224f48040aba9319d5a2d4a19662bab3b5ed8455
+FileChecksum: MD5: de98950854ec38ff4ce188b07cd9bda9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-snapshot.json
+SPDXID: SPDXRef-item11289858
+FileChecksum: SHA1: f6c03be99e319029489230ef6d2dc3f12f146e9f
+FileChecksum: SHA256: 26ead5b4fe82a74ef659be21c868d87c6d8e54d35ad8f9f856f76d145d2f6189
+FileChecksum: MD5: d9f9bad717ac46d24a1d3c1a6454ee84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-limit-set.json
+SPDXID: SPDXRef-item11289859
+FileChecksum: SHA1: 07f8481efac4d2d66adb9924aa7f717e31312475
+FileChecksum: SHA256: ecf1dc45f948146c1a018a7fae27d22d4e53e188ccb9535bd043b3c94446e390
+FileChecksum: MD5: 43b9670b11e23a789d85fe2a9279b63f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-proposal-status-complete.json
+SPDXID: SPDXRef-item11289860
+FileChecksum: SHA1: 5eb8d86db23157b9a2f73bb3a4c6cce686bc943c
+FileChecksum: SHA256: 986165b5b4d9aec1a28e64995e935f00e7a62d172c489cdd5ac234fe3a44e46d
+FileChecksum: MD5: 1989f6fa7743162dcb57377d28ae5c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-proposal.json
+SPDXID: SPDXRef-item11289861
+FileChecksum: SHA1: c3d1bdb0909ab7dcb19f1660db4885e0225bb42f
+FileChecksum: SHA256: b3e82d93166652fd11546c7528a63ace5ce2b41cc3a420d328e3d36d02f2e489
+FileChecksum: MD5: b083678b3fdc85dab342a1cc883fb85f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-override-post.json
+SPDXID: SPDXRef-item11289862
+FileChecksum: SHA1: 3371f9f77d56a6c84d526ab5858b43315f4c327b
+FileChecksum: SHA256: dce0a3b6ed595d1e2f913e1bcc3bd7fbf13af706d8d2629ab713e8b19b03e0fc
+FileChecksum: MD5: 5903862ff795ad27a504c4c234f5eed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/temporary-aar-exception-post.json
+SPDXID: SPDXRef-item11289863
+FileChecksum: SHA1: fb5f897e9d1575307fee04682cb2adbd6c641c88
+FileChecksum: SHA256: 9ffdddf23a26882cb34072b7b4983ade77690dc1cc24113c2cf7d246f9987757
+FileChecksum: MD5: 326e8bd7369c8d33485d6f3cd94a2a16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/cant-delete-seasonal-override.json
+SPDXID: SPDXRef-item11289864
+FileChecksum: SHA1: 79193bea1f6559e4aa4340f38dceca66109ad221
+FileChecksum: SHA256: bce0a6db756349759b660c3053a07fb453ecad4d0fd933aa97b50e14efae8a8a
+FileChecksum: MD5: 21beb48bd0a00fecdbceab7945e38ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-ratings-proposal-slim-patch.json
+SPDXID: SPDXRef-item11289865
+FileChecksum: SHA1: 87a317c3903ebe1dd48064a7caa6f41327539eee
+FileChecksum: SHA256: aa7869b116abb0f0dc1d4a0adc92b61b2f96fd9f17a7d466b4abca8dd5014229
+FileChecksum: MD5: 7b9fd135976941f1e65e472b41849eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-proposal-status.json
+SPDXID: SPDXRef-item11289866
+FileChecksum: SHA1: 5eb8d86db23157b9a2f73bb3a4c6cce686bc943c
+FileChecksum: SHA256: 986165b5b4d9aec1a28e64995e935f00e7a62d172c489cdd5ac234fe3a44e46d
+FileChecksum: MD5: 1989f6fa7743162dcb57377d28ae5c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-proposal-status-incomplete.json
+SPDXID: SPDXRef-item11289867
+FileChecksum: SHA1: 8a57c19ca0e21892ef7b88472292d656c254884e
+FileChecksum: SHA256: bb9c3b336d0344df04024bf2cb5e35982a8243e56cf284187cb6e645eb350e65
+FileChecksum: MD5: 3d073d29966512c7a8f677142605fcb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-proposal-directional-point-to-point.json
+SPDXID: SPDXRef-item11289868
+FileChecksum: SHA1: 8812361ca0fd5e7a8fdcdf29da1dc08328c63918
+FileChecksum: SHA256: 2e9943c6676a376ce931c2106286fa8815bc23fcde22a243c0819d33a91dbaa8
+FileChecksum: MD5: 5dedcad71abd285d704fd2b7152ad2c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-limit-set-slim-dry-bulb.json
+SPDXID: SPDXRef-item11289869
+FileChecksum: SHA1: f0a1c43b19f2fe51bea0e64193f2cc3a0294f691
+FileChecksum: SHA256: eb51826abc91a89008c3522805f2386baed682784962fd61257ad8f06db915e1
+FileChecksum: MD5: 908d1737df8c3dbf0e72d51eb31c3ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-snapshot-detailed.json
+SPDXID: SPDXRef-item11289870
+FileChecksum: SHA1: 2360ed103374b71c07059328a4ba28f9449b139a
+FileChecksum: SHA256: e6fcf5de6e223b1f68635acc954863a5b2ea6ca9aced5dd25239fa93998b7a03
+FileChecksum: MD5: 27e2b4a1002bfd2cd456c4086037873c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/realtime-limit-set-elide-psr.json
+SPDXID: SPDXRef-item11289871
+FileChecksum: SHA1: c1820f4bc69967ed25ad3ae4f5586ce31ccd5419
+FileChecksum: SHA256: 8caf1231e2043ac87208b9f691100a622a16da0dc98a422598fbec15be39a8e2
+FileChecksum: MD5: 76475d42de3844b92a0d76c91b5e052a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-ratings-proposal-status-complete.json
+SPDXID: SPDXRef-item11289872
+FileChecksum: SHA1: 5eb8d86db23157b9a2f73bb3a4c6cce686bc943c
+FileChecksum: SHA256: 986165b5b4d9aec1a28e64995e935f00e7a62d172c489cdd5ac234fe3a44e46d
+FileChecksum: MD5: 1989f6fa7743162dcb57377d28ae5c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-override-get.json
+SPDXID: SPDXRef-item11289873
+FileChecksum: SHA1: dd461411e8a4bb5711a790716dd6e6f6ffeb34de
+FileChecksum: SHA256: 4527e9e7b33e7e4aabf8f157a0b47b6948d457a220c07b2a307d8c43c35a532f
+FileChecksum: MD5: 69554dceb37c29cce283d91610dd35e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-ratings-proposal-patch.json
+SPDXID: SPDXRef-item11289874
+FileChecksum: SHA1: c4c8ff1f14d60722927f281a28975f1983067186
+FileChecksum: SHA256: fdade01203ee396199cca29fb9dcacd17cc999335e67fb954cf8b34cce881f17
+FileChecksum: MD5: dcaf5f5328128faf020cddbafb0eafaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-limits-detailed-elide-names-header.json
+SPDXID: SPDXRef-item11289875
+FileChecksum: SHA1: a33429418fac66ab9721836da69cc3c52257c6f1
+FileChecksum: SHA256: 168e38986234b6ad5d7246e2d02ec8d5495160d846f233ca80c1df4084d88cd5
+FileChecksum: MD5: 5d9476561fbe60705d8e72fb04c5f666
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/cant-delete-aar-exception.json
+SPDXID: SPDXRef-item11289876
+FileChecksum: SHA1: 470897f0bbe80e770aacceee77346e8193bfdb52
+FileChecksum: SHA256: 3b07dd1d4e6c58bdcd4fbd3bd1d6db2c0a8d854c19a17d039659bccefe9f765c
+FileChecksum: MD5: a5abe66c5f9320f93e9e8a1525035c54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/seasonal-ratings-proposals-conditional.json
+SPDXID: SPDXRef-item11289877
+FileChecksum: SHA1: 2713858b79ba8fd4386696f094529f6dd4fa8651
+FileChecksum: SHA256: 06700f42217ea8e8c77d3f509f6026977101d7665900cdacf696bbb85f16e631
+FileChecksum: MD5: bd5842e7d1bcf9ac42e9cc89df42739a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-limits-detailed.json
+SPDXID: SPDXRef-item11289878
+FileChecksum: SHA1: b4fcc3675a731349fffe0c57ae79224d9a69e577
+FileChecksum: SHA256: 1e3257c89836291d23f38b5f614e86c9a748e9ce1f4252c2a7ca12f089500376
+FileChecksum: MD5: f20fc9247fc9f4b116f60a92b4aea44b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/monitoring-set-get.json
+SPDXID: SPDXRef-item11289879
+FileChecksum: SHA1: a9fe96f9c2489def8f01aaf3be4bd82a1e9f89f0
+FileChecksum: SHA256: 9d2e2f93b1760d2597005cc5e1372532cdd17ee7e3127a6da6b8769d5c529a6b
+FileChecksum: MD5: 622a93f3fb1633adf5e4638b6d1bd19c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/examples/forecast-proposal-directional-named.json
+SPDXID: SPDXRef-item11289880
+FileChecksum: SHA1: 56617880cafeda1767bc18d9470470070fc65c0b
+FileChecksum: SHA256: ddb206b0a3af98cac0f9c3e52f5474bbe41f2aaefbaa06f053dfe3dc2e1064da
+FileChecksum: MD5: 8bd9e6a8bee9ca917b2599e35dd3ee42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/seasonal-ratings.md
+SPDXID: SPDXRef-item11289881
+FileChecksum: SHA1: 73e923fec154421eaedfc127a39fe90f7d077586
+FileChecksum: SHA256: d50de6f6ca1330be3d4bd207db221641b68b50627625d0037ce6c7174b219f50
+FileChecksum: MD5: a1b247ef3bd5c0936c82ca62cb29c820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/submitting-realtime-ratings.md
+SPDXID: SPDXRef-item11289882
+FileChecksum: SHA1: f0f68e5c2bb4f51fcd82de61b86cda1eeaa2ceb1
+FileChecksum: SHA256: 594cdf9a2033930d0913e91a217e5276b722f255a087027afe74661ef330b529
+FileChecksum: MD5: c3a67e8f3bd0b1d2f52a3c886297123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/using-slim-media-types.md
+SPDXID: SPDXRef-item11289883
+FileChecksum: SHA1: af75ac36ebb8850c2235d7855e9d2cac0402e805
+FileChecksum: SHA256: 04961e71f69a98358111c8db14b5ed0b6aa6dbb6f6479b74274cd03be61ccd73
+FileChecksum: MD5: f811accca33a462d175dd5cd5b7c5e53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/temporary-ratings.md
+SPDXID: SPDXRef-item11289884
+FileChecksum: SHA1: b5afeffc7c8c3baef78484b77a4bee64fb2f3b5a
+FileChecksum: SHA256: 157e3d676b52785487b78e359eb00e21a4e5fcd5cd7d83a9ea3ef5092f1ca7be
+FileChecksum: MD5: 6a5fd20f366e7d9e93615d2fe530cf72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/example-narratives/directional-ratings.md
+SPDXID: SPDXRef-item11289885
+FileChecksum: SHA1: a8c7cc38ba63041a2df9bf08d8faf674f2d462e2
+FileChecksum: SHA256: 6f1af09a188c903dcead70c641e35eb7427ba48c16e6799aecfc0d84e0fa4a8e
+FileChecksum: MD5: 7feb29e886b47b40ce6be4f53b47641e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/Gemfile.lock
+SPDXID: SPDXRef-item11289886
+FileChecksum: SHA1: 4e91f6d4ca7dfb644ec9d16b13508d356125cead
+FileChecksum: SHA256: 878f89df3e80921df9d15c5c5c35f5518789e50939ffbb16bb4004efa94fe167
+FileChecksum: MD5: a7e48c5ca7ae5cf8c104b2f8f582ccd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/decision-records.md
+SPDXID: SPDXRef-item11289887
+FileChecksum: SHA1: cf2695c7b060677a195776b871de80fedca15f8c
+FileChecksum: SHA256: 7ce5db0cd8df69444e646fb5343621ea71ac10c87983efb7d9052db24c6836cc
+FileChecksum: MD5: b8872d94624d5ac9af1bea1b715c4678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/community_events.md
+SPDXID: SPDXRef-item11289888
+FileChecksum: SHA1: 57370a7ded5f8a072e2d27ed6157ef0449744dba
+FileChecksum: SHA256: 58efcc80784a8bafd7df9ee6b6e3e10b64f90a025a7c4f48dfbb700200034d44
+FileChecksum: MD5: 20380fdf81989c5d5019a255f8af11d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/docs/spec.md
+SPDXID: SPDXRef-item11289889
+FileChecksum: SHA1: 0fc2d111945b8ca44daefb363ace7ca77f4c53fa
+FileChecksum: SHA256: 648b3acd4bdc0485dc44d7dd84193f9e0135c337e2264ae7371f074a4b40a830
+FileChecksum: MD5: 52d4eab589809788b92e5dd2db3c0c92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Contributor_License_Agreement.md
+SPDXID: SPDXRef-item11289890
+FileChecksum: SHA1: 5f53973d02e4902566618f2656c7b2df17ee15b5
+FileChecksum: SHA256: 26a3c5c61b4c350637cfbbf75b359a1603eeeee0337f2d6e795237b7c21fd9ec
+FileChecksum: MD5: 2dfcdbe1c6079cf039b404a81f65f324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.vscode/settings.json
+SPDXID: SPDXRef-item11289892
+FileChecksum: SHA1: d71a1a6f84c34179baaaf382cf31b8da24c3521a
+FileChecksum: SHA256: 1712789bde5ff3725a6768629e120e114f5734746fe27272d2c00a0318f5df12
+FileChecksum: MD5: 5cdfb3f4aaf001c84eb9fafe61cae81f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/workflows/spellcheck.yaml
+SPDXID: SPDXRef-item11289895
+FileChecksum: SHA1: dc4df48ea9956dae1af322a5bdc0b332ccf9c833
+FileChecksum: SHA256: c4f7b5f2fb47b16ece0242fef1a875965f47a9ab9b621ac962ff15b2e77675f3
+FileChecksum: MD5: f4383827721091625bc2f0e9f4f962ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/workflows/lint.yaml
+SPDXID: SPDXRef-item11289896
+FileChecksum: SHA1: 296edb50ca294a374cdfaaffa13527329af45dc5
+FileChecksum: SHA256: eaea24a97fb893101860f7150035fa3040c26a9962f4587910014d68c99b07f5
+FileChecksum: MD5: e2e09f3739ac499e14d98483f4f4fa7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/workflows/documentation.yaml
+SPDXID: SPDXRef-item11289897
+FileChecksum: SHA1: fd7d4ab28505f2c8c8baf0f665bce65942edecbf
+FileChecksum: SHA256: 4c17adf93b6784a1c18ae1d74224e9d70ec8ccff1de033b15fe1f0cf1148752f
+FileChecksum: MD5: f67d572e7a469538f4ebabc846b5aecc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/workflows/owasp.yaml
+SPDXID: SPDXRef-item11289898
+FileChecksum: SHA1: 5a5345eb4e65004cc2a025de8b3deaf4efb54d1d
+FileChecksum: SHA256: 31e35a0701bc43baced35404b04bd68a9cea2bb52b05145256fa5987c59d2b95
+FileChecksum: MD5: 4a4f9e1e53aa46ed6ced0867859891bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/workflows/prebuild.yaml
+SPDXID: SPDXRef-item11289899
+FileChecksum: SHA1: 376f7e9af2991b7384411040697fdeac7f93f230
+FileChecksum: SHA256: ad899baa9f241d81e025d07b745b4c3b64614788c468289bf8a33d3750947921
+FileChecksum: MD5: 1cdb645dbb875fed18bd5ce6c2069e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/workflows/crunch42-security-audit.yaml
+SPDXID: SPDXRef-item11289900
+FileChecksum: SHA1: 74c797e07687ab74c8a80cdde7dd0f82b175ac60
+FileChecksum: SHA256: cdf764142f0dc760ceb757e3702f4ffbf16486fc60c30a30c0e4dbe8a2928896
+FileChecksum: MD5: a484130bf81db7cfab1a3d42d3b261f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/.devcontainer/Dockerfile
+SPDXID: SPDXRef-item11289902
+FileChecksum: SHA1: e8d3de349a3f4215d26b655539c0d83b715cc66d
+FileChecksum: SHA256: 9a56268b122ca65fd734dfd6a15c4b1edc049a3971fe05727fc6c88bbe4c7d6d
+FileChecksum: MD5: 37f6fe915bd809ebf4cd935cad2d020d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.github/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item11289903
+FileChecksum: SHA1: b7d8e239a5af8ada9fc1285b9aa2f05b27b2a6c8
+FileChecksum: SHA256: 2c8b32e2c7ab7cea1c32169c9507d4b3e1b984652bdddc210346ea8627ecee4d
+FileChecksum: MD5: 0a88db5f0cd4767b4d631ccc29878975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Governance.md
+SPDXID: SPDXRef-item11289904
+FileChecksum: SHA1: c4850c8f2ad82b871b57b7d43d13311f2af7f490
+FileChecksum: SHA256: 2032a6a9d05c6eba11b23627c45f72f2f84fc84b331752939d8b0e2df80c5e1a
+FileChecksum: MD5: 5259608ec4c06a634143a80b62285a6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/redocly.yaml
+SPDXID: SPDXRef-item11289905
+FileChecksum: SHA1: 2b108406d6d4145277551c8fe290e188738bfdb2
+FileChecksum: SHA256: b400fcff0738e7df4b250fe208c10c73d9b25b4aa7e32d1b18d4758da28f3ec9
+FileChecksum: MD5: f766248abfef88a64381f2aded5abda3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Contributing.md
+SPDXID: SPDXRef-item11289906
+FileChecksum: SHA1: 952434b2ab5db01baacd744f1e3da6d9eab49d5d
+FileChecksum: SHA256: 02bb990e13b7c688f658ffd6b59643e0d608d7f07dbd16d5a9c32bf931e609d0
+FileChecksum: MD5: adb37418528d31f27fff0b3d13565042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.devcontainer/post.sh
+SPDXID: SPDXRef-item11289908
+FileChecksum: SHA1: 46465ee5a2f39ce4981bfefc7518422a925079dc
+FileChecksum: SHA256: 2c45b35e18342a3beaeafe0df31053d6727dc6f842d8aefed1552988657dd1ea
+FileChecksum: MD5: 38918157f59e08ae167331738d8afde0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item11289909
+FileChecksum: SHA1: f1c4cbb0a6b12910a7177be6ac8f48977966608a
+FileChecksum: SHA256: 784d4d0f01826cd8ee19344c6a9d85f02c69a70fa3ee46bae46062454419d630
+FileChecksum: MD5: 522e75bc021273bcdbfbf3f3513c6e69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.gitignore
+SPDXID: SPDXRef-item11289910
+FileChecksum: SHA1: 6a890c3faa672bf4f8aeb7aa9bf0754b144daf1d
+FileChecksum: SHA256: cc68e7549ae73f372d66f44be6e53a037a326abbcbe72627f84533fec1618659
+FileChecksum: MD5: 51c85ab67b78782619bc3a2062855fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Scope.md
+SPDXID: SPDXRef-item11289911
+FileChecksum: SHA1: ccf54bb4e81524dada8177efc501a85f0d212731
+FileChecksum: SHA256: 4751bcaf0c74ade2d87f838f8d905860675545067ef5a9f938b9e2d4381d53c5
+FileChecksum: MD5: 3424e49e8782670a40e46256defc87b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/.redocly.lint-ignore.yaml
+SPDXID: SPDXRef-item11289912
+FileChecksum: SHA1: 3b10a28053be97751fa80843c81015868ece8534
+FileChecksum: SHA256: 6a1cc8d3dbc9326e75d2b20bcf61006548a718720cc1aa3acfa4f7e1e8f01dd0
+FileChecksum: MD5: b5f1a69a6f94c498f85a4622be50fe98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Code_of_Conduct.md
+SPDXID: SPDXRef-item11289913
+FileChecksum: SHA1: b80820ce5c31126fad29eb1464509d7de7f4e55d
+FileChecksum: SHA256: 0635a30e75a3574b429ea76a237a18c0787712ccdd3f0862f436fd64bdf8e925
+FileChecksum: MD5: 4f7d72b2ed8f6ef7b3c65d2deb50b672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/Notices.md
+SPDXID: SPDXRef-item11289914
+FileChecksum: SHA1: d07003c0cd6ab39efb78c346f25349a8426be1ce
+FileChecksum: SHA256: 4de76d81f885c39e0f3f5a774582b7789cdb743539ffd7abe3549e33402d688d
+FileChecksum: MD5: 39884e58cb713c70e8ba8c00a24df035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/spec/cspell.json
+SPDXID: SPDXRef-item11289915
+FileChecksum: SHA1: 562f34537e76a7439041f3e18bfde60d0c884ad0
+FileChecksum: SHA256: 7c921805c4d93b1615aebb2be07092c7204b625bf2245588f174ce39c7e314b6
+FileChecksum: MD5: ff5b91bafdf4264762c2863a05c0c87e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client-examples/src/main/resources/power-system-resources.csv
+SPDXID: SPDXRef-item11289922
+FileChecksum: SHA1: 797433801deb8dd580b8f564153525d6e8ff04f5
+FileChecksum: SHA256: 7e1b73131c738d52666ea6a2b998adf790908d245bbb26d63d512155dac1c6ac
+FileChecksum: MD5: 1d2893881275c74854123823e2411a17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client-examples/src/main/resources/forecast-ratings-out.csv
+SPDXID: SPDXRef-item11289923
+FileChecksum: SHA1: ca145545841a3f2cf0dbea9277c49925e3deb4d5
+FileChecksum: SHA256: f0edc6126e799f4279eb2151014a24a848db791f506094c8c5fa1988c707b2d3
+FileChecksum: MD5: 97c73a91e4d9e6d44a5dadc4928dca5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client-examples/src/main/java/energy/trolie/client/examples/PublishForecastProposals.java
+SPDXID: SPDXRef-item11289929
+FileChecksum: SHA1: 9bea4a4fb146450dfff30a9c9363e3babd335226
+FileChecksum: SHA256: fef0e3b04f0398f431e76c87403368392eca5230a1633ccffa6701dbdd878c4d
+FileChecksum: MD5: b435fee5a77f3a31b84ac739b8bb9c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client-examples/src/main/java/energy/trolie/client/examples/SubscribeToForecastSnapshots.java
+SPDXID: SPDXRef-item11289930
+FileChecksum: SHA1: 915492366223fd938e192c19e99e0b2efcec9cc4
+FileChecksum: SHA256: ac1339e13f2213a4df69e9c3c3e841e7bd77ce648124a060343c65bed0331582
+FileChecksum: MD5: f153f693568035ded65cf164841b82bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client-examples/pom.xml
+SPDXID: SPDXRef-item11289931
+FileChecksum: SHA1: 6b276c9edc27939b0fc1c2888ae10cdc40105ce8
+FileChecksum: SHA256: 7b8c2870976f48ced05e4fde2e1f4a8ab730cd927e6ab3192b137258c1a39588
+FileChecksum: MD5: ff664cc25e3974044dc0a52dd9ec7216
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/.github/workflows/release.yml
+SPDXID: SPDXRef-item11289934
+FileChecksum: SHA1: 4937841eac35a14c95e95f19c16b2b01b8214d82
+FileChecksum: SHA256: 6b200821e15ff4b3590d9d80f180388a6a16eff4ccf678f075e457b6efaf8d9c
+FileChecksum: MD5: 83d49a4c304e32dca039288ea7434a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/.github/workflows/maven.yml
+SPDXID: SPDXRef-item11289935
+FileChecksum: SHA1: 9ff4f107786655112011af64503b02f68d03e896
+FileChecksum: SHA256: eb49ae6a00c043d9239555c8b06f07bcf766c3e730bd9422bec943f92b86797a
+FileChecksum: MD5: 35a0f2459693122a0ca67e2b06deff95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/.gitignore
+SPDXID: SPDXRef-item11289936
+FileChecksum: SHA1: 5ab42cfc489d92257ad82c5c9d7d1d9a2d28bd2c
+FileChecksum: SHA256: 3a101c5ae4e4f83fe207929d81f64c7635b1ce5e330cd9d044851c7a2e789524
+FileChecksum: MD5: fd6fecc79c736cbc3e364092a1e9f755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/.gitattributes
+SPDXID: SPDXRef-item11289938
+FileChecksum: SHA1: 9367d0a4fbfc87fce0706dc50af14ec268780e48
+FileChecksum: SHA256: 853479659274311a206c9fa5ef17c138dc802eebade2066ebb9b852f12267543
+FileChecksum: MD5: fbbb6ec064850ce0c9ebf4fb9556b288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/README.md
+SPDXID: SPDXRef-item11289940
+FileChecksum: SHA1: 34f9cdab41eed012f10877394eb069026db89256
+FileChecksum: SHA256: 4bcbbdf279b32566ff95e5de96b02e724c6bfcdab1f3a102e736b3d03bfc589c
+FileChecksum: MD5: fba51a6db94403cf93fa646a1c38749a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/TrolieClientBuilder.java
+SPDXID: SPDXRef-item11289948
+FileChecksum: SHA1: fcf265b5e9b94b7728f7a3f2e45777d80f2893dd
+FileChecksum: SHA256: 32019e3ff1b7c65021a8fb7d41ecfc9ed32c4ab22fb49be3a0a026d3b250879a
+FileChecksum: MD5: 1bf6fa708c4101e0fc2237e4d6e61b21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/ETagStore.java
+SPDXID: SPDXRef-item11289949
+FileChecksum: SHA1: 173bf03b78f25691e7945932f3a11374e2d69816
+FileChecksum: SHA256: d067790a662b6e179df7b64f2ed4fd4ce62f3a68db1edf4bb459fe2cbd37effe
+FileChecksum: MD5: a5633a89b84f1bce16527f0202d246f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/monitoringsets/MonitoringSetsReceiver.java
+SPDXID: SPDXRef-item11289952
+FileChecksum: SHA1: 1eea9f7162bb5959e1c54bd6fc44cd318ce61943
+FileChecksum: SHA256: 26f77ea6ca01c2cf6d0d27ed26453201ae4f92eba288b427a0ea64f73217395a
+FileChecksum: MD5: 87a0f183c2cdc0f3e733f36a5b957226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/monitoringsets/package-info.java
+SPDXID: SPDXRef-item11289953
+FileChecksum: SHA1: 479b46bc9d1eeb9d22c707e8dd7853e2efd04854
+FileChecksum: SHA256: d1dce0c5fa3da09bb691b22571dd09ac86c1e01f3046cba979f79f62a3b3508f
+FileChecksum: MD5: 41cf3688f4211c1c0c68abbb1986a8c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/monitoringsets/MonitoringSetsSubscribedReceiver.java
+SPDXID: SPDXRef-item11289954
+FileChecksum: SHA1: 818c2b5766b0922799435eba1212fb8da788b8dc
+FileChecksum: SHA256: 5569a54890dc7856858cd9dd023fc8879452df3945b622ca59aa67485879d429
+FileChecksum: MD5: 3c87b187563ffc42252aa09664692616
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/ratingproposals/ForecastRatingProposalUpdate.java
+SPDXID: SPDXRef-item11289956
+FileChecksum: SHA1: 36a2dfcb5acae77946252a9711cd9b1892224cf2
+FileChecksum: SHA256: f3b5f1aa6db05a0d4e2349a1719e8ce60380bd2939c102bcdb27c63771873c15
+FileChecksum: MD5: f6b3af8cc6ca5ed70f15aeab566daab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/ratingproposals/RealTimeRatingProposalUpdate.java
+SPDXID: SPDXRef-item11289957
+FileChecksum: SHA1: 67bd6a32a8a86b6b3b7295d7035e05f43f4b4ac4
+FileChecksum: SHA256: 6ebb885336ffd82ca1722a7967904bd5242e276ad6894a5593313c198f074408
+FileChecksum: MD5: afbd8e23de299e6d6bac6d139b9ad2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/ratingproposals/package-info.java
+SPDXID: SPDXRef-item11289958
+FileChecksum: SHA1: 2820fd78f21a20f62c935da4f5cd1e0e1eb4cb0e
+FileChecksum: SHA256: 0fc942b99ac9188d24d5ae9ada19cf14913a1a75680fcfce70de6e91eb7eb88d
+FileChecksum: MD5: d2b85a744ffdd0b9868019e77de8cfea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/operatingsnapshots/package-info.java
+SPDXID: SPDXRef-item11289960
+FileChecksum: SHA1: a1fd1802b2fe8d7a4fe7bf29114895ec6931b13f
+FileChecksum: SHA256: c61c6a1e9dd27e4095b5c3b6d450d401406431cfa83536896da9b191ca730d6b
+FileChecksum: MD5: 1f928585efe2278ca5a909377d9e64cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/operatingsnapshots/RealTimeSnapshotSubscribedReceiver.java
+SPDXID: SPDXRef-item11289961
+FileChecksum: SHA1: cc9925d3595e9052751c5094dcf67909ac82b499
+FileChecksum: SHA256: 2db3a73b5d0cc920bfa4f6232c41b90d41444c9ffbd486edbdb9619872f643d2
+FileChecksum: MD5: dd98503e5af18d63c3e6556f50fc03a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/operatingsnapshots/ForecastSnapshotSubscribedReceiver.java
+SPDXID: SPDXRef-item11289962
+FileChecksum: SHA1: 020798eeccbbd5202762a72846d063c115164410
+FileChecksum: SHA256: 5f55eb3d9348c290fc23cb016e19495e42df6ddc028212f7c4d25872085ead3b
+FileChecksum: MD5: eb03079da3652aa4b53babcdc5b0e7f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/operatingsnapshots/RealTimeSnapshotReceiver.java
+SPDXID: SPDXRef-item11289963
+FileChecksum: SHA1: 60c303c6d57c30e826fc1b3c60f65b40f1448dcb
+FileChecksum: SHA256: 9b2d742f79bdf66e09fe450beca5c02b3e86ef42523a3304ce14607ad8c137c6
+FileChecksum: MD5: e5373973d6ac8859bbc8a28eca6e8537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/request/operatingsnapshots/ForecastSnapshotReceiver.java
+SPDXID: SPDXRef-item11289964
+FileChecksum: SHA1: cc8bd6beb91d8adfc7b5cceafc3b4512d618930b
+FileChecksum: SHA256: 5eb3356b449cba071cd6ab9968f1823084be346a0dc243fde86a35b80863f24d
+FileChecksum: MD5: cf59721793bf70ba89ce0c5582642164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/StreamingResponseReceiver.java
+SPDXID: SPDXRef-item11289965
+FileChecksum: SHA1: df2493985c5c4d93c54c8fb5a4009ba0b6ae7713
+FileChecksum: SHA256: 59fae280a8ca442d9be1c6a72fb0d1225cb38492668aa01e69ef50f91a4f291f
+FileChecksum: MD5: 61a46afdc9a3d10683b7ce73847955fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/TrolieClient.java
+SPDXID: SPDXRef-item11289966
+FileChecksum: SHA1: 06239968bc58cc75e7551d51de96773bc09864f0
+FileChecksum: SHA256: 22497624196283a6943ed5f7d15dc016b46109a2abe877cfae85d3e159695258
+FileChecksum: MD5: 1c0c47d881fc29264446e8439c4d3935
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/RequestSubscription.java
+SPDXID: SPDXRef-item11289967
+FileChecksum: SHA1: 377727b3cefb47258bcce392b65b0dbaaf7bd53d
+FileChecksum: SHA256: e9afd21c9a0fa54c7d927103b16e9a4ebb0129e0ab9c9318876401cedd80ca9c
+FileChecksum: MD5: 0d7c04b3bd952be053b086bf92613442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/StreamingUpdate.java
+SPDXID: SPDXRef-item11289968
+FileChecksum: SHA1: 175b347eb5869134f7f2884d469a193435f8566f
+FileChecksum: SHA256: aa30029daa4fa70182116f7003d9922f032d5649e7c0f1ae6f2c37c812583e3d
+FileChecksum: MD5: 77326606852e992eda721be801a73848
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/StreamingSubscribedResponseReceiver.java
+SPDXID: SPDXRef-item11289969
+FileChecksum: SHA1: af193599974aed1b8297a8229ed6ae9c2f884169
+FileChecksum: SHA256: 2d0ba2c081f2c4842ae3538149043d67ae358d5966a50e283fdf8fe6498b9cba
+FileChecksum: MD5: b1bc6e713c3570b03a269f85b3e1226b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/InputValue.java
+SPDXID: SPDXRef-item11289972
+FileChecksum: SHA1: 8dac9f0b81d01ba00645cbbc190f55d61d5c7c25
+FileChecksum: SHA256: 30a5d18c1ce43442496d87b7cfb42916230b50b668a1ddc355d24d72f24fac6d
+FileChecksum: MD5: 868cf807cba99f42920ddecd1c328fec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/AlternateIdentifier.java
+SPDXID: SPDXRef-item11289973
+FileChecksum: SHA1: 012f514dce567b2c50a760111b897130953863b2
+FileChecksum: SHA256: 0a8d1891a77de131beb67ce0059e6be741f135c424acfdcf03cc5132058171e0
+FileChecksum: MD5: 317b3b968d51aa90e10d63412951bde1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/EmergencyRatingValue.java
+SPDXID: SPDXRef-item11289974
+FileChecksum: SHA1: 8cd73d2b02be444a8eefff6038ad899be49cfc58
+FileChecksum: SHA256: 2e1edcf6d542f45d9ef4478cfba0bfee5821b3dd8163d3b40638b185d32503c3
+FileChecksum: MD5: ef02f03a23c9c31e536d18ff6f10e181
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/RatingUnits.java
+SPDXID: SPDXRef-item11289975
+FileChecksum: SHA1: 5fcd0b7fadee0b8c224fe662586d7957b916f629
+FileChecksum: SHA256: f3ae140402f0b66d43fbfbc3eafc26ea8465e4dd223b71f9cfe08acf9e4d6853
+FileChecksum: MD5: ff934498209cfa408032bc4cfc31e1ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/EmergencyRatingDuration.java
+SPDXID: SPDXRef-item11289976
+FileChecksum: SHA1: 318badb5fbafd2a6316de39200a866862bc74f0c
+FileChecksum: SHA256: b6a7cdaee37a89a00be02fa36f54b1c0f6da34a2755aa4a707f5c0f3a202a5e9
+FileChecksum: MD5: 81196aa9b7ae458b9c01d09ad1a5d458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/package-info.java
+SPDXID: SPDXRef-item11289977
+FileChecksum: SHA1: 605c40e1911d30a6ee7ff8cb2cb48b76657f90be
+FileChecksum: SHA256: 3a21a4e91989abba01337498d53a92db5c026d2e8f11613afa8a1f0eb39d58f5
+FileChecksum: MD5: c1b720962031cf31ee81cc25b03793b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/DataProvenance.java
+SPDXID: SPDXRef-item11289978
+FileChecksum: SHA1: f970dd3ccafeb211281a1917f4df0ec1d25dab97
+FileChecksum: SHA256: 434574564fd5a9f0a17747e519782a9af4f8a6cf89f1dbccfbb1aa098dbf5c9d
+FileChecksum: MD5: acd6d915deb47978324da0fc9ef92acf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/PowerSystemResource.java
+SPDXID: SPDXRef-item11289979
+FileChecksum: SHA1: 119663d4354f99165b3f80fc4e145feb27851e84
+FileChecksum: SHA256: 4af30895434d7be0e18a2401c56239a0f45bfcb4763141340c3d97adb8a95c4a
+FileChecksum: MD5: d92e2d46930acbb40a099e5562b21eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/common/RatingValue.java
+SPDXID: SPDXRef-item11289980
+FileChecksum: SHA1: 5dd557eff8d3c99b6fbd49880c6635a28bf2550a
+FileChecksum: SHA256: 31af9c04ff7aefb763d0d3a4f725fea56d785562e377b26a1b477cb47e8c748f
+FileChecksum: MD5: 16612f66b8c6f18ff521d8e9a090c23b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/monitoringsets/package-info.java
+SPDXID: SPDXRef-item11289982
+FileChecksum: SHA1: d764397f8d94012d23a9d52f59ff4144a7d7e068
+FileChecksum: SHA256: 44ee18fec14f3e5be85f0ac5fb17da5795d96956a9cdc1c5902b24e1f04116ee
+FileChecksum: MD5: 6c4e651320890bb2c2091a211069ea75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/monitoringsets/MonitoringSet.java
+SPDXID: SPDXRef-item11289983
+FileChecksum: SHA1: 87d8e1fd6d38970b61cbf45ae0b6de2aa979d89e
+FileChecksum: SHA256: eaa32f4a006ad064d1085be721623d2b003eb75515bba4b6ac0e4a64687588f7
+FileChecksum: MD5: 5b7db62582a88f9e1ae81b2ee5316040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/package-info.java
+SPDXID: SPDXRef-item11289984
+FileChecksum: SHA1: f329bd982214d9f433d3e731d3ba2681cce70ea1
+FileChecksum: SHA256: 39760e5e12d8e153b7440acec63ec26a631a933a2f9a83634ed1c58126ec15e3
+FileChecksum: MD5: b843277a7497d694e6fccbaf25fee9c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/ForecastRatingPeriod.java
+SPDXID: SPDXRef-item11289986
+FileChecksum: SHA1: d87145fe3ab979a3aeb9606fc79b52f7b6d9e41d
+FileChecksum: SHA256: 1903892e900c8b0ccafbdd5548908c8c9a07e4f55a31958b8580a0e66010000f
+FileChecksum: MD5: fabc94ba0b0b86b1699d4dd509f3e713
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/ProposalHeader.java
+SPDXID: SPDXRef-item11289987
+FileChecksum: SHA1: 4aa35b351310b3ac372852c347377607d47b2fb5
+FileChecksum: SHA256: 7297fe9af46c4ce15bd83b78b9c297767a45734a885c30e932f57831a4656496
+FileChecksum: MD5: 550c1e69589c25ca0e006e732c6974aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/ForecastProposalHeader.java
+SPDXID: SPDXRef-item11289988
+FileChecksum: SHA1: b61c6449fe331f8716659d11abc217a1ab2c1b67
+FileChecksum: SHA256: 4ee6ba7ca645cb5eb4b5eda6cb07a3c0764830b7d3f342a89020693302be279c
+FileChecksum: MD5: eaf217f5741bf93047d9b857be253a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/RealTimeRatingProposal.java
+SPDXID: SPDXRef-item11289989
+FileChecksum: SHA1: 242fb46fc5589ccc80547bce409c2f97023de637
+FileChecksum: SHA256: 7853278e9f8936e1eb6646cff1de408fb301d84058df1a5befe46bc672049772
+FileChecksum: MD5: 24eae768ceb3a19e2df8b77c382b70d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/package-info.java
+SPDXID: SPDXRef-item11289990
+FileChecksum: SHA1: 0bd02b9e3faae7e2e70de8c366929369950ddb89
+FileChecksum: SHA256: 86dd12d5903031552339dca00c230a971d619c8c62eec7406ee487a20006c8c0
+FileChecksum: MD5: 667c4ded6979001038199a758ee06352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/ProposalValidationError.java
+SPDXID: SPDXRef-item11289991
+FileChecksum: SHA1: 489170c2b44e3cc159b72bafec3b896b9215fa77
+FileChecksum: SHA256: 68272c774162d6ebcbd3448e30577fb112dc47d3006b6f92c20915c7fec7124f
+FileChecksum: MD5: 4be9316fa6cf5825286c7eaff57fc1dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/ForecastPeriodBuilder.java
+SPDXID: SPDXRef-item11289992
+FileChecksum: SHA1: 6699942ec2b9b38e8e2b26980de3672673aaf779
+FileChecksum: SHA256: 87e1c94207f35add238a9410f1057b7ba537e14c6ebd128994215346c37b2b94
+FileChecksum: MD5: 9f52adf08777ef1ecad4907f47e130a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/RealTimeRating.java
+SPDXID: SPDXRef-item11289993
+FileChecksum: SHA1: bd93f6233fcbb66fc5f0413d2cc3454800d122b9
+FileChecksum: SHA256: 813e47b2c81a93c88aa4c641399bdd95854ec27bb9da309e6a5083a072e9d596
+FileChecksum: MD5: 69c9343836358ab187d7533f3c3bcf34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/ForecastRatingProposalStatus.java
+SPDXID: SPDXRef-item11289994
+FileChecksum: SHA1: 5dfca65179936689e173101115ee062d4f02edff
+FileChecksum: SHA256: d651af0aae9c0d6ea3a5cf1d326f012d878ee6303982dba62eef4daefb63d7c1
+FileChecksum: MD5: 3b7d45eb9a55c87cf7ba5c1b96916a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/RealTimeRatingProposalStatus.java
+SPDXID: SPDXRef-item11289995
+FileChecksum: SHA1: 6e12bc5fd56e3b4fccebd3e91a2129ada599046a
+FileChecksum: SHA256: e893e3baa9a19c5640b7c858911c2ce5096300ea9397a4c5fb63e19c70c0cd69
+FileChecksum: MD5: 8b43351a3f8274f61686c958a65b69ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/ratingproposals/RatingBuilder.java
+SPDXID: SPDXRef-item11289996
+FileChecksum: SHA1: ffc8632bf0914fd18df930db37d1c19630f5b463
+FileChecksum: SHA256: 6fda88563e4ad62a9ba675ed32c0de4d9a816e3b04db810064fb503dd40b01ee
+FileChecksum: MD5: e99994880e0f533fac8858bea8d0b066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/operatingsnapshots/ForecastPeriodSnapshot.java
+SPDXID: SPDXRef-item11289998
+FileChecksum: SHA1: f28b9bff92d5a400580899d219421124029dab83
+FileChecksum: SHA256: 91ee4c9774457b7a2c66df93264398efcf130cf1dcc08055edff15d6e417c7c6
+FileChecksum: MD5: f57369105e863475a85cbae3346a2a2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/operatingsnapshots/RealTimeSnapshotHeader.java
+SPDXID: SPDXRef-item11289999
+FileChecksum: SHA1: 7fea1c98a9dba47d4b919d599a58f8cdb3465cbc
+FileChecksum: SHA256: b5553714a6809d01ec64e8690a724f83011c96d9667a4327a7b817d48072e78e
+FileChecksum: MD5: 4bb4fd46e4ea0e8a07a5aa01aeef2212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/operatingsnapshots/SnapshotHeader.java
+SPDXID: SPDXRef-item11290000
+FileChecksum: SHA1: 245d6a669cad84853953857b50df485aec7fd87c
+FileChecksum: SHA256: d1e96b9ac5b9eaa7688dfbd38084f3d469e7a7834dc4e3725d1c0c27bd3aa7d5
+FileChecksum: MD5: 919dc6da81eb20266f1dd047a099a6b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/operatingsnapshots/package-info.java
+SPDXID: SPDXRef-item11290001
+FileChecksum: SHA1: 8c8d2d4d03cde1fb3841fbdb1c6c04e05512227c
+FileChecksum: SHA256: 30deb2ebdc322b1533d9f985a9fba84134e2edd5438246183ffcaf186fddf064
+FileChecksum: MD5: 6d05e2fbeb6659173de60bc4f2573190
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/operatingsnapshots/RealTimeLimit.java
+SPDXID: SPDXRef-item11290002
+FileChecksum: SHA1: 51b4b619937fdcbe46f2d3b7b55879da9be5cee9
+FileChecksum: SHA256: 12b3623087c8eb001d763b4d5e583dfcd1408223661dc5f2c453e4643b047579
+FileChecksum: MD5: ee352d15d02ba775672bd6a8bd915ff4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/model/operatingsnapshots/ForecastSnapshotHeader.java
+SPDXID: SPDXRef-item11290003
+FileChecksum: SHA1: 6db933060fa95ec30b8fab32dcb335071c38dfd9
+FileChecksum: SHA256: 45a8e3981142dd9296a68a4bbc38015150fac82b5d817102a04f39b6c2abdfba
+FileChecksum: MD5: 0affec1998069c9f7e89cbc8bf817873
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1993, 2024 General Electric Technology GmbH. All Rights Reserved. </text>
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/StreamingGetException.java
+SPDXID: SPDXRef-item11290005
+FileChecksum: SHA1: 24861795fcf17cfef8c9984cfd67f95b52c12901
+FileChecksum: SHA256: 3632c3dfb1cd54f2cf81e176b643f7d78587d0b5d49a191cd3cc5eaa08c935d0
+FileChecksum: MD5: 86c1586bff6bb099c2b909740bd07f8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/StreamingGetResponseException.java
+SPDXID: SPDXRef-item11290006
+FileChecksum: SHA1: e56edc1e9c41a2cec8f72183939ce1b1b75f5226
+FileChecksum: SHA256: 721dfcc195c70b6150093c2589737d22d02968a3bb761890916fc6204be0a68e
+FileChecksum: MD5: 9fdd4576186ddb2d8f6b8d79f9e37a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/StreamingGetHandlingException.java
+SPDXID: SPDXRef-item11290007
+FileChecksum: SHA1: 87c89438231ed65260cc9a1fdd1bea060b1a4778
+FileChecksum: SHA256: 24c722cd7e4ba367b2d871fc0f1c8601967d238f271d29afc935b6abb4bd6772
+FileChecksum: MD5: 30c7faa9e466ded1003fb59c08df9f73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/SubscriberInternalException.java
+SPDXID: SPDXRef-item11290008
+FileChecksum: SHA1: b8712e348ed0803cfeacfe88618044dd160f9265
+FileChecksum: SHA256: 6d074c5fb7c3bcd28f24a3d43fe034adecd0bdf0778ebec038c7d861a573cea2
+FileChecksum: MD5: da122de69cceb4f8ad2571ad2f8291e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/TrolieServerException.java
+SPDXID: SPDXRef-item11290009
+FileChecksum: SHA1: 88081c91fef0f67888d8c497131ce3a4ee24e99a
+FileChecksum: SHA256: 52b470fb8a8986bcae0c9aee7d067574d5d32aa45a2a161efd88e76e8c86a368
+FileChecksum: MD5: c67f1ac9e18fee8e6f5619bf3ae13d7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/package-info.java
+SPDXID: SPDXRef-item11290010
+FileChecksum: SHA1: 049d1062c7cd43c32f4b04e35ffa9ba320c361fc
+FileChecksum: SHA256: 06312383b8e0698dbf42a64856e0959c5c8baf220f5b7ef699d2d65d240347c5
+FileChecksum: MD5: 1079e5ece88c06da88bbef2e06f0ee8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/StreamingGetConnectionException.java
+SPDXID: SPDXRef-item11290011
+FileChecksum: SHA1: 7739cc00ba159cad2c9265ee07d81527ad22abf1
+FileChecksum: SHA256: a7fee459733433e5d35ad9a380ec4d6ecb3d284fc3debc8e72d97f6ed57f4030
+FileChecksum: MD5: 7be6e114b9bc39a517e6ae5eb70a4591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/exception/TrolieException.java
+SPDXID: SPDXRef-item11290012
+FileChecksum: SHA1: b7529f4954c441e51756625f61475b0c22f38eef
+FileChecksum: SHA256: b8a9d92cf04f1ce186810be52999f0a405375a4737ffdf1c986c109140358e48
+FileChecksum: MD5: 2a1ac875978f2df986e1dab89aa8e6bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/package-info.java
+SPDXID: SPDXRef-item11290013
+FileChecksum: SHA1: 010f4597156c0a2685e53442a184f1861950e171
+FileChecksum: SHA256: 73f55a879023a22cc40e8a27d4e2b452da19eeaad6b2254d4827e82edff265a5
+FileChecksum: MD5: 5e9bd1f71ed43e697a9e1f09e79946eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/TrolieClientImpl.java
+SPDXID: SPDXRef-item11290015
+FileChecksum: SHA1: 37b09b7cd33b1f51cb00811355bdd2f059cb7d61
+FileChecksum: SHA256: 7da125f1e084e367e219df0b9f585ce0a9bd94e79f8b4cb67e57128b0b0d0fee
+FileChecksum: MD5: c7c9fd6f1ec7e1ec21bffc1da36daf5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/AbstractStreamingGet.java
+SPDXID: SPDXRef-item11290017
+FileChecksum: SHA1: 37859275029def5a9c705e9d1900e6a568cac3eb
+FileChecksum: SHA256: eaeaf60895d86a2a2d388446261aca1176298bf3bb3810c6a8d516b3422ef577
+FileChecksum: MD5: 67dbeaa07e2ff00dd0ae62cc4afc3459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/monitoringsets/MonitoringSetsSubscribedRequest.java
+SPDXID: SPDXRef-item11290019
+FileChecksum: SHA1: 12b92890adfb27348007412ccfb02b60357baf53
+FileChecksum: SHA256: bfb9878e45cdf6f9caba678e39281942e4f8db2fe9ada09c69dfaad2a2fd4de5
+FileChecksum: MD5: f432dc59889751ca511c72f435385fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/monitoringsets/MonitoringSetsRequest.java
+SPDXID: SPDXRef-item11290020
+FileChecksum: SHA1: 4a3b22f71c142b22a01e8d3d63aef9b72c4abbaf
+FileChecksum: SHA256: 5eb87e68a0b7c92b5a2f38f9901e3c87134e405f29f3d257d6057d4c33d4f1a9
+FileChecksum: MD5: d796bb89612611d16aef9546f44b8d39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/monitoringsets/DefaultMonitoringSetSubscribedRequest.java
+SPDXID: SPDXRef-item11290021
+FileChecksum: SHA1: 69a19262ffc47915269e4e2c677fb87ad1be965d
+FileChecksum: SHA256: 006b76b6bbb09b3cc93e5c3382cd3a20585bf92a9fc19a9d411102c45ab45934
+FileChecksum: MD5: b36f77a629ee3ba1a71ef6f25de754bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/monitoringsets/MonitoringSetsResponseParser.java
+SPDXID: SPDXRef-item11290022
+FileChecksum: SHA1: 6519b7fb463d452d0f18ce78ebbb6d0923e8f6e7
+FileChecksum: SHA256: 7830ba75767c1e6595e4f4c2b824b9a1db641d8298f96ac3fb8047079f79d787
+FileChecksum: MD5: d33bfafb535ce3b4330a622ec8810c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/monitoringsets/DefaultMonitoringSetRequest.java
+SPDXID: SPDXRef-item11290023
+FileChecksum: SHA1: 0ed6fd1989531b8003acbe4d0831bb3a48595aa1
+FileChecksum: SHA256: 910045a33763b4c85218e16ea8e743421278a04b3c07176bfc3996e17f257eaf
+FileChecksum: MD5: b5c68ebde8235b8037bd84a2df7bc83d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/AbstractStreamingSubscribedGet.java
+SPDXID: SPDXRef-item11290024
+FileChecksum: SHA1: 05f61dec5b4686765df74e564115e7e4e4c88156
+FileChecksum: SHA256: 3a99ef2c84dd7ead16301cb33494ccb6a90272949f78d9da0f3631ab66096fae
+FileChecksum: MD5: 82fecb22c44cb702fdecefcc945e71ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/AbstractStreamingUpdate.java
+SPDXID: SPDXRef-item11290025
+FileChecksum: SHA1: dba06b91a27425f25d42559ec9a62ff2c8a5fd93
+FileChecksum: SHA256: 6c2ad1f6464ef3e53bf705004e9ab06888c1066aebd89230bc8e70e69ade8cf0
+FileChecksum: MD5: 8d6e05c8fe82521b544b4f17639256bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/RequestSubscriptionInternal.java
+SPDXID: SPDXRef-item11290026
+FileChecksum: SHA1: c84910aa68111d30036add7b5a1331b55cb1e740
+FileChecksum: SHA256: 87acc70622a6d3c817f8101940ad2119bb059d9640c8ece6c8375622eb0e4f9c
+FileChecksum: MD5: 71eea74683bac2a9d90aaa0297eee83f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RealTimeSnapshotRequest.java
+SPDXID: SPDXRef-item11290028
+FileChecksum: SHA1: 37094194d3444213cf04330caa036deff08e84a2
+FileChecksum: SHA256: 240448442cad15e735d0f825c4184ebff2fda71b26d85165e4ff091d5509ff34
+FileChecksum: MD5: 307cd47716a984aa830592be33d46e49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/ForecastSnapshotResponseParser.java
+SPDXID: SPDXRef-item11290029
+FileChecksum: SHA1: 42b344e62d1b8633a377c3a85fe2445885116226
+FileChecksum: SHA256: 6c0db79b319479aad4b8ea140ff2f9593e703d17f826fff94eb26fe3200605f3
+FileChecksum: MD5: 3613cc97bc172d1f4f4c45f15a0088ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/ForecastSnapshotSubscribedRequest.java
+SPDXID: SPDXRef-item11290030
+FileChecksum: SHA1: d5f43e99b54439d5eddfb3e71aad3d444cc2c243
+FileChecksum: SHA256: 9b7e7f142a83136175737fb363877fd0f0b2470f3b2547dc61b3c6f4bd34f953
+FileChecksum: MD5: 14d7125e2c4d6ba23dd29b6fe33de483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RegionalRealTimeSnapshotSubscribedRequest.java
+SPDXID: SPDXRef-item11290031
+FileChecksum: SHA1: 77fd80390cfa9ca0cc815c961d299b848ba404a1
+FileChecksum: SHA256: 7bbe8942702e871e2548861d477c0ac4437af5e86628f4e58b60b838e5f6b7ad
+FileChecksum: MD5: 5c6560728ce37bade5b7e280033f6de7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RealTimeSnapshotSubscribedRequest.java
+SPDXID: SPDXRef-item11290032
+FileChecksum: SHA1: ff0b0632e141bdf89578c611de340e3c0fa5e616
+FileChecksum: SHA256: 98c90948b6f978dc33b91f1f151314b3eef82fd255e3ae1c0a606bc27f044e88
+FileChecksum: MD5: be3610a52c782da96f6ace80651f23f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RegionalRealTimeSnapshotRequest.java
+SPDXID: SPDXRef-item11290033
+FileChecksum: SHA1: f738e13f387cee0bff5890728693110ee17ce9e5
+FileChecksum: SHA256: 44849f190ace5a2bb878a873295b86feb0bb2884f91c590df8dbba4a6be01991
+FileChecksum: MD5: 4fa9c80444cc00ddfe752f8ad3f17846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RealTimeSnapshotResponseParser.java
+SPDXID: SPDXRef-item11290034
+FileChecksum: SHA1: 48ef657c350d2cd636bde7084e0deac3253e4328
+FileChecksum: SHA256: 9268d9abdfbbfe19634e77ba368edd74c7e3c49e6dfcf7f9ba3b28b6ad874019
+FileChecksum: MD5: ed46cc3d97d868177fbfac2511afdf87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/ForecastSnapshotRequest.java
+SPDXID: SPDXRef-item11290035
+FileChecksum: SHA1: d8be161a802a74f39e16028a2b16aff90273feb8
+FileChecksum: SHA256: d668cca49101bb7e530c07c718f20ac09819877ecdcb4ace07fb8c86cb169c16
+FileChecksum: MD5: 06ca5cef28614745994f3351b02a2fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RegionalForecastSnapshotRequest.java
+SPDXID: SPDXRef-item11290036
+FileChecksum: SHA1: 561afbff71c48e8195d78d19983381e58e16f614
+FileChecksum: SHA256: b42b4985305b3b8f8ca5e76021f335210015dcc69f84fa51109c89cc984c263f
+FileChecksum: MD5: 4e4bc3eeb0da6da77ce5ae4a6bedbbcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/request/operatingsnapshots/RegionalForecastSubscribedSnapshotRequest.java
+SPDXID: SPDXRef-item11290037
+FileChecksum: SHA1: 4d7c009b38a0dea39049e66b6d475d1e591f1b78
+FileChecksum: SHA256: 966c69dfd4ee53d8990a0f5682906f537f8c68275c8b1975a4f1d29658bb85e8
+FileChecksum: MD5: f3c19e9992eea0096f0ae9393937ffdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/MemoryETagStore.java
+SPDXID: SPDXRef-item11290038
+FileChecksum: SHA1: d9d355b1c468506479ceb45dcd923cbcb53e0d38
+FileChecksum: SHA256: db7a37adb8b9c829ae8bc0627b240bd0f393130ccda98dd0282f1df6d4360a8c
+FileChecksum: MD5: fbf1dfb41f75efce8b6d0567d6855f62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/model/common/RatingValueSerializer.java
+SPDXID: SPDXRef-item11290041
+FileChecksum: SHA1: 0183e509967c51ec45ce4e12bddfec2e7f4d8f1e
+FileChecksum: SHA256: 4684f59c96e338a6cf33cf1536274805cc1d69c4ebafcf1c79362e798eddf038
+FileChecksum: MD5: 289966b2d67ad5f9e1f9fe2c657e4276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/model/common/RatingValueDeserializer.java
+SPDXID: SPDXRef-item11290042
+FileChecksum: SHA1: 05e96215cd4b06f44b088d622825badff3cc640f
+FileChecksum: SHA256: ac32766a2f6aab264dd76e480c7dd03961d32a963ec2fe6d2d3fb3582025ab7d
+FileChecksum: MD5: e5d356f8a54fdd633c6893c4c4759bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/model/ratingproposals/AbstractRatingBuilder.java
+SPDXID: SPDXRef-item11290044
+FileChecksum: SHA1: 26c32d32adc577b3a07053e98acb2f1578c04a6d
+FileChecksum: SHA256: f7b072e0b03155587b6327a41fddf95275bb645c8e57fa5c85fbe1df43c91189
+FileChecksum: MD5: 2ec40d2bdf913f1800a47fc99b2fd0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/impl/model/ratingproposals/ForecastPeriodBuilderImpl.java
+SPDXID: SPDXRef-item11290045
+FileChecksum: SHA1: c0f1ba0a9a67b914a3b9f091bf74e29543191448
+FileChecksum: SHA256: c3023bb879fc07556023a90bd14684d157c376cbc306ef3f61acca367a4d51af
+FileChecksum: MD5: 21d4c1daf506e7f20c726d6fd6f7dac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/TrolieApiConstants.java
+SPDXID: SPDXRef-item11290046
+FileChecksum: SHA1: 4127878469f8a4a517430afe44b5b275d6febf96
+FileChecksum: SHA256: 9ff473190d40354ea51a0db32018e7f09b36d35d8192209123fd3a39c4152846
+FileChecksum: MD5: 5e9cf1c4eadb729a7bd4414ea1ee660c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/main/java/energy/trolie/client/TrolieHost.java
+SPDXID: SPDXRef-item11290047
+FileChecksum: SHA1: 6ac7e028510f5a03254fe4d72a543bb85f31de70
+FileChecksum: SHA256: a3deb1fc18ace7a3054487079e5a0993af87fe61799a59d11c5194b9298c2682
+FileChecksum: MD5: c8572f72588f5ed10c492d184cb1f5c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/test/java/energy/trolie/client/model/common/RatingValueTest.java
+SPDXID: SPDXRef-item11290055
+FileChecksum: SHA1: ad1ff44bba9c89f4321c9b58db68c39fa588c841
+FileChecksum: SHA256: 283a58d8732220eb39fbf075391c29e171302a5c54049ac965dd1394dae72fe7
+FileChecksum: MD5: d9ede6768cf98e1a2a8e29690d0027b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/test/java/energy/trolie/client/TrolieClientIT.java
+SPDXID: SPDXRef-item11290056
+FileChecksum: SHA1: 087eb94e33c8fa8da3619380c54bd63436de0cba
+FileChecksum: SHA256: d97e34f2c12eacccee784c5a7396417554400617bc0bd0f6a503c040f3189d4c
+FileChecksum: MD5: 4bba02c1760b3bfe1ed65a11e9bbc7d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/src/test/java/energy/trolie/client/impl/model/ratingproposals/ForecastPeriodBuilderImplTest.java
+SPDXID: SPDXRef-item11290060
+FileChecksum: SHA1: 3b99f82f061b96b4f5076f91004157f4d44a6909
+FileChecksum: SHA256: 4664e20795883455f6dbe0b5a2324350a8b3ced4cca9a3c52c881432a6086871
+FileChecksum: MD5: 5af9c492c42a9e0c3967521533019971
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/java-client/pom.xml
+SPDXID: SPDXRef-item11290061
+FileChecksum: SHA1: 408afbd777ba93ed9e03a1809a22931fc7629bb9
+FileChecksum: SHA256: cb83ce0e317cd8aeb5bb77814c6bce101c89de03af5f0a93e301575421a53c61
+FileChecksum: MD5: 57a9875d4bc0ae57a00e14baabc45c35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/java-client-sdk/MAINTAINERS.md
+SPDXID: SPDXRef-item11290062
+FileChecksum: SHA1: 982f3dddb94dec9de19e2d53a1f85e4c407d37ea
+FileChecksum: SHA256: c0be7621c7f87f105394b9e39a6c144d48cbc5313baff8adb75311a9461f3b19
+FileChecksum: MD5: 0232e8ce69cada761de9e490013ec7ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/auth_token_provider_outline.py
+SPDXID: SPDXRef-item11290065
+FileChecksum: SHA1: c00ed497c271ac11bb6fc3cd7514d72938479728
+FileChecksum: SHA256: 506b29ef534d51ea1bca7ad6866181f15fc18b4464d4c91007df696cfb32eaaf
+FileChecksum: MD5: 08bc7abbf59e0f28fa76615d50a96314
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.vscode/settings.json
+SPDXID: SPDXRef-item11290067
+FileChecksum: SHA1: 462ed83da520f56876d42e60045bdd0331b8f296
+FileChecksum: SHA256: 352bda9d78eda1711fee500a3cf5c28fd14fc19fc7411d8b7d9b53ecf66717cd
+FileChecksum: MD5: 25b87c9cfcc6083ce7390fd96d29902e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/pytest.ini
+SPDXID: SPDXRef-item11290068
+FileChecksum: SHA1: c54b00574b505721ddcf8c9c1171fc623866cc16
+FileChecksum: SHA256: c55e8034b390715f74a510e65e8603cab22db15c862736d7dca754ee4c51ec5e
+FileChecksum: MD5: 0d714d872e6bd59444fb1731aebb9864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/data/esca60_gev_original.xml
+SPDXID: SPDXRef-item11290070
+FileChecksum: SHA1: e3f07b77b88e00c66ba1e40fe064a0316da1a05d
+FileChecksum: SHA256: 34ca7bfef74bd6c6b46254f9c4348810275dca64d34f728560101f07f9766624
+FileChecksum: MD5: e9d216b00806654f4c930c233eb7793b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.github/dependabot.yml
+SPDXID: SPDXRef-item11290072
+FileChecksum: SHA1: a18517a8c797d0da379ad016d1d79db56b9d9205
+FileChecksum: SHA256: 20284d1c7b5612329006dc308c4e17888df902f0d255d59adf98b742bda2ea3f
+FileChecksum: MD5: ea316d07ef2a5b1cbd4191907aa383fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/ruff.toml
+SPDXID: SPDXRef-item11290073
+FileChecksum: SHA1: ac51b8a28a8e87ad01a2bbf3ab7f66ce4b3b17f2
+FileChecksum: SHA256: eb1182653ba5a06fe6bc7c926c9f6eade206daea674f3526a568b222c164f40d
+FileChecksum: MD5: 4670d4f09ae54a88b0a41af8c595916d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.devcontainer/Dockerfile
+SPDXID: SPDXRef-item11290075
+FileChecksum: SHA1: b4366136f8b9032b2b5595b999f719a44e253af3
+FileChecksum: SHA256: 11b3e493f802cee3d84384b2badb461553c660c4e2255576c7ef39003543f424
+FileChecksum: MD5: ba3ffb43510a4e0ad757f330d56737f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item11290076
+FileChecksum: SHA1: b7b3a6d844b1ac60f9a0326cdaf3186010271d24
+FileChecksum: SHA256: 171d670b0665ab37ad4957579400aa3f195b5500876aceb30f898c946df73861
+FileChecksum: MD5: dfc7c71333cbe7563938be8c4fa50069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.devcontainer/docker-compose.yml
+SPDXID: SPDXRef-item11290077
+FileChecksum: SHA1: a569c6099835f85b26a8d632ff1b2abfd49944e2
+FileChecksum: SHA256: 2e56243f64057b682f09f4d17ee8dfac0763bfd271d4f8f00f5f86e1a76a182d
+FileChecksum: MD5: d03d5c967c5411188a7c851d59db2a7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.gitignore
+SPDXID: SPDXRef-item11290078
+FileChecksum: SHA1: 8ff651bd4f7290cdcee40f013110bec2cb308d6e
+FileChecksum: SHA256: 2f6210d5616e6987a95d2ef1ed5476d98c5ac77303c6f32fba7302f008b383e1
+FileChecksum: MD5: d2887224e06f57e43b11a2d8e735a24a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/seasonal/features/rating_snapshot.feature
+SPDXID: SPDXRef-item11290082
+FileChecksum: SHA1: d40598e14e959576912426eced423ebdc416f5f8
+FileChecksum: SHA256: 5b9fed7a935874b4b4e5ed0fb5ac191e048c82a7c8fc1e84996cc8048188e3d2
+FileChecksum: MD5: 08eb965f7a71bc557afd2919a83dc4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/seasonal/test_seasonal_conformance.py
+SPDXID: SPDXRef-item11290083
+FileChecksum: SHA1: 43028fc21962568c49231715b336a71a4ebe4b1d
+FileChecksum: SHA256: d7441a5885eafdfac4d85de8e734f924a3c4bbb7efb001e4d530b27bda063a06
+FileChecksum: MD5: ff1216aa02f3a42c6c1e4bb8bdeeef03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/seasonal/step_defs/rating_snapshot.py
+SPDXID: SPDXRef-item11290085
+FileChecksum: SHA1: 048d0e06f5322ac8b0516c8c7a8b0b223af606c0
+FileChecksum: SHA256: 78b2fabb834e112720cc401114a17e7a635222544d07148e566f454577467bd2
+FileChecksum: MD5: fbec7f06bd2473dd5afa83e724a13bfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/features/limit_snapshot_caching.feature
+SPDXID: SPDXRef-item11290088
+FileChecksum: SHA1: 4a7006aab8c11e5e8466e247bca49750c23d9c38
+FileChecksum: SHA256: cd59297f37668c39b1cef9f4a58efe91fe21bf0b15c4b01d8cbe74a79a69ee54
+FileChecksum: MD5: 7e97866523f207069c593237b12323aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/features/limits_snapshot_filters.feature
+SPDXID: SPDXRef-item11290089
+FileChecksum: SHA1: 910fd1a85477ee1dee03be2165d759ae1d638916
+FileChecksum: SHA256: 37b431a647ed756a1f2d1fcdcb043ebaa223aeacd9918632688c46651b183205
+FileChecksum: MD5: 8362c443b551d697f653499135c9bcd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/features/limits_snapshot_formats.feature
+SPDXID: SPDXRef-item11290090
+FileChecksum: SHA1: d216b104d3ac74f6367bcbac6cd3c069b55e1fd6
+FileChecksum: SHA256: e5724cf9cb9dae8c638994f2f1df461dda5616328bfac3eafc0470fa2b0c302e
+FileChecksum: MD5: faf7bf7f057bac6913186a13657b49c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/features/require_authentication.feature
+SPDXID: SPDXRef-item11290091
+FileChecksum: SHA1: eb0f13c98439786684efa189fda8e820630afd1b
+FileChecksum: SHA256: c2498937b03d12194d74e237f07651574061e49f58e6397d0a996dceaac97aff
+FileChecksum: MD5: af6e52e0e67e1d7339b321181980eff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/forecast_helpers.py
+SPDXID: SPDXRef-item11290092
+FileChecksum: SHA1: d4466e403fe9af5ff8a290f496147830792d3d09
+FileChecksum: SHA256: dfacee2aace375c605dfcd90e2181a568df04431a71a8848f1c6f5f59b1d1fb5
+FileChecksum: MD5: 8923c8346d82763a1ecb57f67195cea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/step_defs/limits_snapshot_caching.py
+SPDXID: SPDXRef-item11290094
+FileChecksum: SHA1: e204f2683702ba6c413be5bd0f1ecdd9ad579e33
+FileChecksum: SHA256: 836c1811138650098d874daaa1202a7485191db9b4ccde53ad0ec892bdc37d30
+FileChecksum: MD5: 3636af9019e3d6c81aaca4a3e19af166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/step_defs/__init__.py
+SPDXID: SPDXRef-item11290095
+FileChecksum: SHA1: 879f612ad9c5e1b43b89db57d1938c4a2b8ca0a6
+FileChecksum: SHA256: 7e8931579e2f5c48668d738b76d52c16ddc295d2354fae2910545906c3c1b240
+FileChecksum: MD5: cf8628119bd380559f04d8b13a69078d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/step_defs/limits_snapshot_formats.py
+SPDXID: SPDXRef-item11290096
+FileChecksum: SHA1: 222566d10bc50f77bfa2d88c927fbc5edde1ca0d
+FileChecksum: SHA256: c8ea28c950c77eae5774047d1f9ee4c05268b89a4b36909f96b5149c353c00e7
+FileChecksum: MD5: b281df5a0dfa40d6774668885b79f5a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/step_defs/limits_snapshot_filters.py
+SPDXID: SPDXRef-item11290097
+FileChecksum: SHA1: b27f7e2e5150c7352f64b8cb0c955ea1867de8db
+FileChecksum: SHA256: 793096356d0aebb1ad20f6a6c63ef1fb137f02c306b57e6c0687a7f6fad7ec36
+FileChecksum: MD5: a3e9fd05aaa5b2968eb9582aa8c4df5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/step_defs/require_authentication.py
+SPDXID: SPDXRef-item11290098
+FileChecksum: SHA1: b10a94496bbce6458d6c0084390f773bd4360ea3
+FileChecksum: SHA256: 101415b78fc900a859280a9c746f8999a20530f510f6e8792d8f4c1fbc4ef1c8
+FileChecksum: MD5: d04bf162783df5ce2623c294956e75d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/__init__.py
+SPDXID: SPDXRef-item11290099
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/conformance/test_limit_snapshot_filters.py
+SPDXID: SPDXRef-item11290101
+FileChecksum: SHA1: 8fb948fb20013acc711a103e9501f9357791a135
+FileChecksum: SHA256: 839b3076cd969ef08bf73bd80c03f9780f6cfc4484ae8b9c668216af28b72560
+FileChecksum: MD5: 06109de9dcdce919f62296e66b5ef8a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/conformance/test_require_authentication.py
+SPDXID: SPDXRef-item11290102
+FileChecksum: SHA1: e8e593d3c5ebf48e17ffac68520c1c7ae3b78462
+FileChecksum: SHA256: 619f89624135774fee607bdc530777106394f9ac5c2ef9c5bdcc3ae60423e424
+FileChecksum: MD5: 7751315e57fb9bb6cb57971ae175aee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/conformance/test_limit_snapshot_caching.py
+SPDXID: SPDXRef-item11290103
+FileChecksum: SHA1: 59e5775482cbe32ebf419f220edc66083502704d
+FileChecksum: SHA256: 0090a1a72350dfafea030087fd9dd3508c48b68caa9b587ed5f222aa9f5f9804
+FileChecksum: MD5: 440398a1fde53288faab803bdb12a8ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/forecasting/conformance/test_limit_snapshot_formats.py
+SPDXID: SPDXRef-item11290104
+FileChecksum: SHA1: aaad79b08166bac421fa7558e0d0810f3585b929
+FileChecksum: SHA256: 7482a81710d7a3e6e6cdfbd3eccacd9b9ef556d0d46622dd35a17c126417a700
+FileChecksum: MD5: 63462b6f23b1fa8d6b9ab149b5f7f4e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/common/common_steps.py
+SPDXID: SPDXRef-item11290106
+FileChecksum: SHA1: 50b5b30529d5bbeeca2cd18f8612bf205de8f212
+FileChecksum: SHA256: 6253878a3125c6bdae4b7550b78d2d7db9dbbbc1d12fb74afe9dc1176e7cc73b
+FileChecksum: MD5: e494110df6e83edd3bbed74e1743b902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/common/__init__.py
+SPDXID: SPDXRef-item11290107
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/helpers.py
+SPDXID: SPDXRef-item11290108
+FileChecksum: SHA1: 3e6ea70d2fa097fe01dbf17aac5e881f3467ba80
+FileChecksum: SHA256: db2e0f7668c725a6ccf106a28fb32ebe1c8cc133d6dbe7cc218450eca4da1eb3
+FileChecksum: MD5: 6a50538998b5ebba31f46924b616c805
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/conftest.py
+SPDXID: SPDXRef-item11290109
+FileChecksum: SHA1: 05957d697c7493a7c783dde14f1c63efd13dcd87
+FileChecksum: SHA256: 1461c2e72dcb9bf892aed2209a40c6135f7107628db684820dafb0ca6a5fe2a7
+FileChecksum: MD5: ffb4b371d9d475b7accd6a76fcbde203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/realtime/limits_snapshot.feature
+SPDXID: SPDXRef-item11290111
+FileChecksum: SHA1: ead06fcdb05ebe369e116861306e53d6404b51ae
+FileChecksum: SHA256: 40f614690d949d5c7d1e91119f1bd79f94cfd56575c70ada7c6ab4e81f491037
+FileChecksum: MD5: 1009e5be79b0c1a2a577dc4c847a7f1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/test/__init__.py
+SPDXID: SPDXRef-item11290112
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/requirements.txt
+SPDXID: SPDXRef-item11290113
+FileChecksum: SHA1: 84102096e75ef0b2197627abc6be55e80242adbb
+FileChecksum: SHA256: e21948bb1c86aa1c45daf816a1dacc42cc95e9443b9ee50863a80a9b92382d53
+FileChecksum: MD5: b025352c4703cf4a145450f8c2948c21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/Forecasting_Conformance_Profile.ipynb
+SPDXID: SPDXRef-item11290114
+FileChecksum: SHA1: 84113424046964ddab333ae52b2544eb40b78f89
+FileChecksum: SHA256: 7e7927840664d01320c25bf8b8b77e2f1d06bf25da813d21b5462c17aab52f66
+FileChecksum: MD5: 1e923ed8dce79b7f52e22491c5255a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/README.md
+SPDXID: SPDXRef-item11290115
+FileChecksum: SHA1: 274043a611c0c5519a7ca16334eb9a1f97bddc94
+FileChecksum: SHA256: f9e6f59db35a56136fd61b931ca3c43ef134c9ef9247d937fd8e93ffcede8d7f
+FileChecksum: MD5: c56f7d7e6588bc8fbf1ccaa726cce0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: trolie-2025-09-25.zip/conformance/.pre-commit-config.yaml
+SPDXID: SPDXRef-item11290116
+FileChecksum: SHA1: cbc6b703be1242164c95bef0245fbb6720860a84
+FileChecksum: SHA256: 34db5302aebf05001b62b8354ee1e832c5b0984053f957600cb3d0d7ef34bb1a
+FileChecksum: MD5: b7a0e40e7d79b34420a2a9dc86f01318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
