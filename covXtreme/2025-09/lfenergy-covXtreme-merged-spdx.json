@@ -1,0 +1,1069 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T18:45:10Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by OJO. ",
+            "licenseId": "LicenseRef-fossology-Apache-2.0-or-later",
+            "name": "Apache-2.0-or-later"
+        }
+    ],
+    "name": "/tmp/tmpw7gj8ef2/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-lfenergy/covXtreme/2025-09/lfenergy-covXtreme-full/86827148-1a40-486b-84b7-7c26e30cbb45",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-cf21d7090b0279d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfenergy.covXtreme",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "comment": "This package was added to the Trivy analysis for the covXtreme by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/covxtreme/covXtreme/archive/016a69aefaf8aa92307a8a9ff7a014d0c357e464.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/covxtreme/covXtreme@016a69aefaf8aa92307a8a9ff7a014d0c357e464",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "covXtreme",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "016a69aefaf8aa92307a8a9ff7a014d0c357e464"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11124931",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "247d82976e53af3e4403ed8bc935c54cbe5fb7a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "48994f211ddb3b852db42d962e551f426291d22550793259cf0ab0269b69632b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3f5d6ade74c283d1e789fa09899830e5"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage5_Contour.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124934",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "55d4a4edad036eca99bc7fb2e8842fdc9d037b0b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0166301bdfb39c573b1d41fe4f7685463eea16a759b7b3726b2e7c9ac52ece57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be5d8b3daf2bb7db0b7566b76f8797e7"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage4_FitHeffernanTawn.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124937",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af0b939cbb0e940a344c2e54196946b475526c62"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0a2ae4250588b3fc7c3eff9a10069289630b81561c78271552b21178edaaf11a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d0ce05c1247045d047cd2e96968d76de"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin3.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124933",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ee7a120f471ca584855d2812e6b9efb7c3933502"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "04029082c299a1c692c738e58f53ec1f8b06e9c39c1932adfc01deca629a719d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1ea46a91dc52aa02d748ba0ad259aa40"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin2.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124935",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6e7bc7ff2849cf7567627ad76417aa76a5a64e1f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8b7257e73db0b8a320d517f1d2593491bce5b42bf822a15ab6a6e24424bac637"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "351859b47cd2f52d40f4af1bbff729b2"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage3_FitMargin1.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124932",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a2283f945d9e4b8e960e7083dec2fcabf38520a2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8f0116b419ad38e8877db636f41c703aff9dd3ad45e28f804bd966aa44d972af"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "56282ab067add6316df296175a775e13"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage2_SetBinEdges.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124936",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1a930a3f5801885df92bf15a74e849dcad06edac"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b484130f33874ca8e64356132bc462a7156b17892c740755594ac9c84bd5c0b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4347479530b563c51c9c13fd5be60d4b"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy2/Stage1_PeakPicking.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124924",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e2362da81515b0ce01be5cb9b8ee33780409b8fe"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0f44e0862b9b785411909173dbc6e6ef0eca702362ed4fbfe38b05a82362b336"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d8eadb6cc52f8deeae3517749fd83528"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage5_Contour.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124927",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fd00cdd61ae50d2561dd8e18aae6a6c2a13bb435"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "644ace472ceccfd07cb7ee58f63d8417aa04cb5f0a4ff6e8a8bc6538850119d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "431d59263b977d9e51b561682aa679f8"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage4_FitHeffernanTawn.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124926",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a58e42f4944d6a6450839a57062c8f3a3c824ee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8dc45e78299458dd9f5053a01a5cb028fd5828f98d5b7866a029190c74b1a59c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "97bac47e98f2b75ec2febd5a71f90fa5"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage3_FitMargin2.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124928",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "385781fff83bfd3be3dad89b34c699a753334a41"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d03bd135a8bfecc0f8465790d96cd17ef972473ffca9c3ee714d7e259869a41"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea547d48ca723c840341cae50a583f80"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage3_FitMargin1.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124925",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "91aae8f0b6135811fb4f20af1f62fdeb1fa6b2e3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9127760ecd7ff2d87f44118f72738edaf53aba0320e979ab426ad6e2391f704d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dfb6eb43eaeff58a3ea584bed3a94e85"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage2_SetBinEdges.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124929",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0ce65344889428d658341b0d5fad0b657b80cafc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5b5181e35c2d09d7c1876b4cc50d4dc709ae969fbeeca4811a7f5e69cb4c2b63"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a9ab708d56755891b035f0d113cd69d"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CaseStudy1/Stage1_PeakPicking.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124920",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9b1e569983b9c9b0f25d66056181b3a4d2dec7a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "13e43eafe6a3ad6f89fa6f60894b71fc2430c9855fad0e5d272fd5f92d5ea000"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d845e032745a4d544117a79d1bb4131c"
+                }
+            ],
+            "copyrightText": " 2023 Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/.gitignore",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124913",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2a36416dc58158146df001bdabb449db2eae5d09"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "85cfd127beaf5b273f08019f46062becd2b5d36591cb80c85e70e738b871b1f1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a89eb0b856f2bc513080b34f77be18fe"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/CDFInterp1.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124907",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "34bccbd1504313a758315ec14a2bcf1cc8faff09"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0241b20785d72985a65569ca27a846a370c709f0dff78b55f18f5ffe9e0ddae3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "809c920e37e67cf43a213bc8cc8ebc7f"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/ConditionalReturnValue.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124916",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d88566dfce7f28018b6e5ce97c142cfd19d37876"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "53a30c4faa73584438caa398a85b0609123991f40f4445ab01a8a36c5a1da1a0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "445963d2adddd2144e225e9e8aff2fe8"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/Contour.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124904",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "510b0c5ad8ffeb735a25551a1f4407440feb59b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0eb06c42202bc849df396fd0cb4139f475db1ebdb893c639bd12dd4ed98c278a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eb4d1c45e0732ba5d701b8928b90a5f1"
+                }
+            ],
+            "copyrightText": " 2023 Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Contributing.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124914",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79632b904c0ddabb5be55e40f14841c921eeadb3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "350a549a2a0196594aa487a9a0dabbc254bfcf095e6cfa8c108772a2e35805b5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "96d96daf4fb470b573c5df0bc567539c"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/CovariateBinning.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124903",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ad873cce426a2b47e49cfe0edc9a5cdf8131ebe2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ec6bf12d7298012ae65957ef50bdee471b58cc548d92eed92f66068c2559c8c0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c9cecf5eb33d7ca4e1fe3ab4792cff11"
+                }
+            ],
+            "copyrightText": " 2023 Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Governance.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124915",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "68d0b9fb8fdbbcf2c4dd610389ff016af82c6475"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "735ff6cc6aa9e77f616d2c108ad47baaa4006a49309adaf0bb170fe13e86623e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a905852dee4dfbd1766a02638ed72310"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/HeffernanTawn.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124939",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6a9bd4d572f4b41d6c622b6673df265569a9be25"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "917f29efaa1f778a5326cc4e0036e525870200538e9b5a3f1a230b4f7b009761"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bf7252ccdb7cdf141a65b1405e428367"
+                }
+            ],
+            "copyrightText": " 2023 Shell Global Solutions International B.V. All Rights Reserved.\nCopyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved.\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must inclu ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/License.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124919",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c9850f3555f91945b42b9127fc18d699f144624b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1de3b32dfea46895126dd2ef02370a90ec7dd06bc5914288cf7a7cb9add27d6b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea35fb4fa75b344ac9e051bac87b0cda"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/MarginalModel.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124917",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "13a746b09d5103416f0fd73e2debad88827b9628"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cf7a3f907dc23c3407bf22bc0bd5dcaa0abc83629753f8ee04a3f0f0bcd3590d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8adab81ecf1b26a4264fca35e6b5d1f1"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/OptionsContours.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124910",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "92779824df7156ac528958f142ff9026268240e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1f3cb7695a874210f787811267c40d0584d278fab6546171d69310a49f0ac9ab"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "97f9b109dbb8bb67587476b12409a39a"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/PeakPicking.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124908",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a95d9199bd225a9de17dff5b9563f4a72bec421"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8b1fe2fe86bbd510a4943a9cb113d71980ee70f019c9683c737c2373eab0de97"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c73b88d1ecbc7c5908e55ed0d497de93"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/PreProcessData.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124940",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cff615941e2b50163bd0e7c635a9a7d0af003436"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2618204b554279e2aab28f39dcf358239fe04eaec6f91920cf0eaabdeeb1d794"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "790e21b0a38a1b6a9e6e50ca7c49d8e9"
+                }
+            ],
+            "copyrightText": " 2023 Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/README.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124909",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6ef5455264ee01d7ea94c893db19548ec5c256c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7aeb21cac01b0b9b132d2968bf3220fde39169596cbc742cd9089f9e360f9627"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9fae97c792173575183e5a1558f1a2de"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/SimulateData.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124918",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a3e03cca1fccc4e74832c7d2609f34fc56c5a30f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "be46c2d5e8f628bb627d2f76c82ac905c5b2ade4ba28646731a5d0615b5f1616"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2b6ec2d8ce93ce40a3d45a1ffdef29d6"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/SsnDgr.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124938",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e2a79a86aa87c7645b3017bbfa04b3cc28e1d3a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d2fc80b2ed0f7cc3e139eb0f442134d77534578bc76d439991da9fd66f3e27c2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f7ff3080ec865ffe712b450de3598b17"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/Stage1_SimulateData.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0",
+                "LicenseRef-fossology-Apache-2.0-or-later"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124912",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b8bacd316881348319d61766544768f142c66832"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8c2b63e1d9e0240651ebeeb3a35af3d35cee888f2937c64654c753930ca95ee2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "77a020315052e32fc35b1e754dfe7185"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/rndasymlgs.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124911",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "946c8a5efad145da898ead250341a643eebcf4e8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "64461438a36e87a893f587b5167f006679a2fc322c65dc3802c4942f7cecc3dd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eec6e5595cf8a3bcd83657b9f425bc93"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/rndsymlgs.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124906",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e05fefe7ac64334e8aee17e3faaa774d44caf545"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "23a46d7c57d5e83f3453830db559a9a1c92e466d88e9fbe3146ad478ef177d06"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "653b6e76669f0e86b39184d86c40499e"
+                }
+            ],
+            "copyrightText": " Copyright \u00a9 [2023] Shell Global Solutions International B.V. All Rights Reserved. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/Code/savePics.m",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124902",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "90bfcbc6167496205bf5d1db61749307608a4a9e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c954d077b7753fe7f0cca9e9edf2773d37b37b1a20301da5ffbb0f9e9ed99ca9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "397bf0d14a5509e3666c891b87b5c527"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/covXtreme_UserGuide.pdf/covXtreme_UserGuide",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11124922",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "423c57143f4232b93af449cdefa4cc9f3656ed8f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c8d73e55e4a4895b75871d40b90e348100c2291cd5da15a8ba6c22590b0948b0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b7a2595cc11c28469902e3cc82c8b917"
+                }
+            ],
+            "copyrightText": " \u00a9 i`DaQW?\udb3a\udeee\u00b4\u00cbhA\u00dd\u00f7\\\u00f2H\u00bf?\u00ac\u00fb\u0095|F/P\u00f0\u00ea\u00dc\u00e0\u00d1\u00d5G\u00a5 JW\u00eeK?\u00a0\u0081^?\u0096\u00b1\u00c6\ty\\'z\u00c6?\u00bfJ\u00e33Kp\u00e2\u009b32p.\u00ab>\u00d8_\u00ab\u008e\u00cbQet\u008e\u00f7W\u00f6\u00a3V\u00ed\u00a2\u00a7 F\u0086R/_\u00ed\u00e6G\u00ea\u0087\u00eb\u00c3\u00de \u00ac\u00d4\u00f7\u00e3\u00c1\u00f5\u00c8\u00f92\u0097@~$+\u00e7\u00fc\u00f8\u00e8-\u0080sC\u0097a?\u00a9?\u0085?a\u0086\u00f1\u00fd2\u0088?O\u00ff\u00c6tE?\u00f7\u00bc?m\u00b2\u00e4\u0096@{\u0081\u0097\u0089\u008dZ \u00b9\u0089h\u00ba\u00b1\u00ae\u008cc\u00c8\u00e8[\u00faX?JtYjrz\u00f2\u00b8\u00f8\u009er\u00e1\u00d6Q?\u009e?\u00e1\u0097\u00e7?\u05a0\u009f\u0324Es\u008d u\u00ae?\u00ba\u00afZ\u02b8\"y.\u00e7\u0082?\u00a0`\u00bd\u008d<\u00ecn\u009dAY\u00c2\u00c2J?i'\u00da\u00ee\u009c:\u00a8?\u00a6\u00b6\u00ccOq&\u00c6p\u051eeJ\u00ec\u00d1\u00c6H9??\u00fd\"?\u00ff?\u00ff\u00ff\u00ccxy0\u00d5\u00ed\u07ff]\u0096\u00b2?\u00fb\u00be?\u00fbv\u00ecY\u00ce?G\u00f6\n\u00a9\tn?8q?M?U\u0542U\u0136T7n-?;?m2^Q?L\u0083\u00d8\u00c1I?\u00eb \u00ef\u0095\u00f4W\u0091~=\u00cc\\5\u00ce\u0544Q?\u00b5;S>\u00ec*\u00af\u0087\u00a8?\u00aeU?\u00a5M\u0090:\u00faj\u0089Sn+\u00a4\u00ec$Aq*?\u0094\u00efM?\u00ff\u00e4\u01c7\u00df?\u00cf{]\u00c6\u00f3a \u0092|p\u00fb5\u0087\u00bdK\u00bd?b?\u00e7\u009c]?\u00d8?\u00d4?5P\u0387\u00c6\u00c1w\u0094?\u05b5\u00c1\u00ea\u00f9\u00c9\t\u00ce\u00e2F\u00f8aD \u00eaA9g\u00fe]\u00eb\u0081d\u009dz\u00fb\u00d3/L\u00a9?G\u00abq\u00c9\n'\u00ab\u00a1\u00e7\u00fb?\u00c1?\u00cb??x\u00fc\u008a\u00b6\u009bs%\u00f8\u009d\u00d6x\u00d3\u064f\u00f0\u00ebQ\u00d7\u00a5?\u00e5p[\u009f\u0095W?\u00ff?\u0098\u0097?\u00ed^\u00a9\u0095P\u00f4\u00fd\u00f9\u00f3J\u00fb*(p{ [\n\u00a3?\u00c3\u00ef\u00dc\u00d9\u00d1\u00f3U\u009f\u00df\u00d8?\u00d2?E?wO\u00f0%y\u00ff\u054c\u00e4\u0099\u06df7\u00c3\u00d2\u00c4?\u00d5Fk\u009b\u00e1\u00e2$\u0090\u0097\u0098\u00b5\u0080\u00f6\u00a1\u00a1\u0087\u0094?\u00b4?=_\u00a0\u00e6\u00b1G\u00a7;<\u00ac\u00ed\u0084\u00dd\u00d2\u02ab\n\u00a9 N\u00de*p\u00f5\u00a5JF9\u00ff2HC?n?}\u00f7F.\u00f4\u00b5\u0087:\u008a\u00ac\u0083\u00efk\u00bc?|sA\u0e79\u00e8\u00df\u0397\u0080\u03f7d\u00e8\u00ccA?\u00f3\u00fd(\u0083w\u00e6\u00c9\u00e2\\ \u00faz\u00e7$q?,\u00ec\u00f3\u00f1<Tqb?\u0087J\u00e6I\u03bf[M\u00e8C0}\u00e0|\u00d6\u00c2?>\u00eb \uae2e\u0086\u00f5l\u00b0\"\u009f\u00ef?\u00fa\u00ce#\u00b92x\u00d9e\u0086^\u00d65?o\u00adM\u00c8S?3x~\u00ab?\u00bea\u00a6 \u00cf?\u00e7\u00c3\u00f6V\u00e8Ys+\u00e2\u00ed_\u00bc\u008f\u00e1\u00fa\u00be^?o\u00b0y\u00f9\u00b9\u00f3B\n\u00a9 q?d\u009f vg\u00fdt\u00988?\u00a3'\u00fe\u00f32?\u06c9\u009eJ\u00c9?'\u00f9\u00b1\u00a5\u00f9\u00c2x\u00948?B\u00af\u00b9\u00b0\u0089c\u0089?\u00ecxR\u00e3??\u00d7`\u00ff,\u00f1:\u00da#\u00df\u00ed?\u00b7+?#/\u00c7\u00dfC\u00ee4\u00f6\u00aa\u00c0\u00dec\u0137\u008b\u00fc?\u00e5<\u00b3\u00d8\u00e7\"\u00fa> b\u00f0k\u00f0\u00b78G\u0086\u00efc\u00d8\u00db\n?\u00d8?\u00dfA~c_7x\u00e2B^?\u00f6\u008a#wK\u00e5\u00837?A#W\u00f3A\u00f4$~?B?\u0081\u00ce?\u00a2\u00d71\u4985?\u0097?\u00be\u00a0\u008a\u00f9?\u00ec\u0444}o\u0088>\u056d\u00f2]y+q?\u00e0|?\u00e4?\u00e7?n'?\u00e0\u00c7\u00db9O\u0080\u00fc\u0081zX?%`\u00e6E?\u00e8b?\u00fb\u00b7\u0081?\u00ad\u00f0\u00ec_\u00d4\u00c6>|\u00e7 \u009dA\u00dec\u00e8?\u00fb\u00dfE\u00afU\u00f6\u00bd\u0087 \u00d6\u0572\u00af?\u00bf\u00dcF\u00bc g?=\u00a2\u00ac{\u00ca\u00fc?\u00d6M\u00b7\u00f2\u00bd=.\u00fb#/\u00ddN<\u0091G{\u00f87\u0080\u00bfG\u0088\u0093e\u00c5=p.?\u0093y?8\u00be?>?\u0082?C\u0513\"p?1j\u00e2X\u00e3M ",
+            "fileName": "covXtreme-2025-09-25.zip/covXtreme/RunScripts/CNS_mo_response.mat",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-cf21d7090b0279d",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-cf21d7090b0279d",
+            "relatedSpdxElement": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124931",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124934",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124937",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124933",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124935",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124932",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124936",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124924",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124927",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124926",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124928",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124925",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124929",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124920",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124913",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124907",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124916",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124904",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124914",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124903",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124915",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124939",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124919",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124917",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124910",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124908",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124940",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124909",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124918",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124938",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124912",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124911",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124906",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124902",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relatedSpdxElement": "SPDXRef-item11124922",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
