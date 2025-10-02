@@ -1,0 +1,89 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-10-02T18:57:56Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpg4nkfnn_/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpg4nkfnn_/code-9060ca06-09ef-4d05-a410-628119a7aad3",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-d4475c40da6037e8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfenergy.gridfm",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2025-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-gridfm-gridfm-datakit",
+            "comment": "This package was added to the Trivy analysis for the gridfm-datakit by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/gridfm/gridfm-datakit/archive/a122d335e796c990de4eb04aabc2c52516257d05.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/gridfm/gridfm-datakit@a122d335e796c990de4eb04aabc2c52516257d05",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "gridfm-datakit",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "a122d335e796c990de4eb04aabc2c52516257d05"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-gridfm-gridfm-graphkit",
+            "comment": "This package was added to the Trivy analysis for the gridfm-graphkit by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/gridfm/gridfm-graphkit/archive/1c91c0906b39dd6c96e1fb63b9777d0bfced52b1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/gridfm/gridfm-graphkit@1c91c0906b39dd6c96e1fb63b9777d0bfced52b1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "gridfm-graphkit",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "1c91c0906b39dd6c96e1fb63b9777d0bfced52b1"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-d4475c40da6037e8",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d4475c40da6037e8",
+            "relatedSpdxElement": "SPDXRef-lfenergy-gridfm-gridfm-datakit",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-d4475c40da6037e8",
+            "relatedSpdxElement": "SPDXRef-lfenergy-gridfm-gridfm-graphkit",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
