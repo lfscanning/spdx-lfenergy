@@ -1,0 +1,1589 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_OpenSynth-energy-2025-09-25.zip_1759323795.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-10-01T13:03:15Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: OpenSynth-energy-2025-09-25.zip
+PackageFileName: OpenSynth-energy-2025-09-25.zip
+SPDXID: SPDXRef-upload1977
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 656a0a44684a1ffa31f5c8f0d217914969159aaa
+PackageChecksum: SHA1: 443d2d72b4f651b4326596c2725adc985ec47400
+PackageChecksum: SHA256: aa4f25db6c1e93b7e710abf3de65daafc65fef6e9d7d6801397ca3059dd76db2
+PackageChecksum: MD5: fad8bfe1f98fc9ecafc1beb1a5f040a8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1977
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/LICENSE
+SPDXID: SPDXRef-item11289626
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/data_modules/__init__.py
+SPDXID: SPDXRef-item11289641
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/__init__.py
+SPDXID: SPDXRef-item11289670
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/datasets/low_carbon_london/__init__.py
+SPDXID: SPDXRef-item11289635
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/__init__.py
+SPDXID: SPDXRef-item11289662
+FileChecksum: SHA1: ade8d927448f7a1f9fa7b0f784c341b6a7991518
+FileChecksum: SHA256: cfa5d2e00410ffd6ca616524a9901b6b992f402ab415043292664fdb08e492a2
+FileChecksum: MD5: 6ce193a7645dfbc45980865bd19efdd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/__init__.py
+SPDXID: SPDXRef-item11289661
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/__init__.py
+SPDXID: SPDXRef-item11289660
+FileChecksum: SHA1: f7a4116e49d05b7688abfea22c423b6f05ce1b5d
+FileChecksum: SHA256: c551695c6c59c61ca5ec79709c14c9ca9c3c203a71786d0e6130aadb1c4ee354
+FileChecksum: MD5: bbfb18bbe8520e430eb61031c7270d55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/datasets/__init__.py
+SPDXID: SPDXRef-item11289637
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/gaussian_mixture/__init__.py
+SPDXID: SPDXRef-item11289656
+FileChecksum: SHA1: fac6a498cea178fa1524db3c4fc82d405733dc46
+FileChecksum: SHA256: 14d661dd90364f0fc04502d7bb73f941d3eeaad3832596d513e8962771ba8d24
+FileChecksum: MD5: d9ef319c5be63ccbbe41dd1322088f02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/evaluation/privacy/__init__.py
+SPDXID: SPDXRef-item11289668
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/energydiff/__init__.py
+SPDXID: SPDXRef-item11289647
+FileChecksum: SHA1: a87c364adc3f47712b6bf0a3b0574ae5969e054f
+FileChecksum: SHA256: 9452c71164c7df048a0b71dd05d38bb5c4d60c1a37e87a25eba8c549389b7f3b
+FileChecksum: MD5: 7ca4a4a63ac9457cf9d9c8155e8d7949
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/evaluation/__init__.py
+SPDXID: SPDXRef-item11289669
+FileChecksum: SHA1: d7365756f0eea1c076294c2befb25c4c007a5d81
+FileChecksum: SHA256: 7c60a944cb38260e2bcb25875986e67659345b05c6f18e822b6a6c1c628a704c
+FileChecksum: MD5: 00880a92bdab7523f9a3e115b6531f89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/energydiff/_diffusion_base.py
+SPDXID: SPDXRef-item11289644
+FileChecksum: SHA1: e7f0a28f5a62856a1057a59dc110fc85a3e048a8
+FileChecksum: SHA256: b44a9d60cd5119a675da4fc84b38b9f0a537fbef60fdd384cefd82fb35b894cb
+FileChecksum: MD5: 6801b518bb8f922463ffd81bd59a5e8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/energydiff/calibrate.py
+SPDXID: SPDXRef-item11289649
+FileChecksum: SHA1: 0fff2ea29207b90d5f4d0e660dce6a512220de73
+FileChecksum: SHA256: d838e965165afb6fadf4e6ecea0004b08df709c3e1c6630eab319ffe4ce811cc
+FileChecksum: MD5: 71cfe3b1247743e46b75ffcd0595e074
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/scripts/check_license_headers.sh
+SPDXID: SPDXRef-item11289692
+FileChecksum: SHA1: a48de1a711fcada4bf05d1c135c0a0e1166804ee
+FileChecksum: SHA256: adaa3cdb6b8bc6c068aea2e205cfd3137b8cd51ddf918ac43eb74ac8ebfe07c2
+FileChecksum: MD5: ab562757f6cc6c2722b13b9741fea2a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project.\n# SPDX-License-Identifier: Apache-2.0") </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/datasets/datasets_utils.py
+SPDXID: SPDXRef-item11289636
+FileChecksum: SHA1: 2b10b93491c409f84d2b7491808de3da6fb4a0b8
+FileChecksum: SHA256: 7ef1de111286c06004c1b590c6678edbd7b5bd12b6b906d08660cd85ac6ec40d
+FileChecksum: MD5: 23d6c05932a57b981b67691bd478cf3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/energydiff/diffusion.py
+SPDXID: SPDXRef-item11289645
+FileChecksum: SHA1: c6b4c1e04cdc66d499442f9fd89088a27c55a69e
+FileChecksum: SHA256: bb68278eedea8d44f80e2ae4dc32c432edbb58e26eb0bbf6de793e6482914401
+FileChecksum: MD5: f25a5501b236ce1c4eae9cdbaf8dc372
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/evaluation/privacy/generate_attack_data.py
+SPDXID: SPDXRef-item11289666
+FileChecksum: SHA1: 1feffaa020d008340ac1c9d38f83b481ba7bd09e
+FileChecksum: SHA256: 8cc64992c3df62bceb429ad1735a5d4d0d3e288051d4debfd13ce302f00e8ca1
+FileChecksum: MD5: dededf97ce24cbabcc28fb96aa568f2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/datasets/low_carbon_london/get_data.py
+SPDXID: SPDXRef-item11289632
+FileChecksum: SHA1: 4009d44041428bbb114e64743a7b53ea46c1620b
+FileChecksum: SHA256: a74aa06b7ad50ec3b93c159df3ef7435c25322cb3eac18c414f6dbaf2609df61
+FileChecksum: MD5: f1665b40b39d7b5ce7f6425c1fa63dd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/gaussian_mixture/gmm_init.py
+SPDXID: SPDXRef-item11289653
+FileChecksum: SHA1: d7ee33505ea24f23db395f968f76c1878254c846
+FileChecksum: SHA256: 3b1ff1de796667b689ef00eea2b529122ab4f8c8973b2ae80b9941d98cf72847
+FileChecksum: MD5: e5bb496c3ac0194d43c201b4e7f216a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/gaussian_mixture/gmm_metrics.py
+SPDXID: SPDXRef-item11289652
+FileChecksum: SHA1: ca4521f7abad878365ac0fd2ee2bada2aa8da4e4
+FileChecksum: SHA256: dfaa997c69fc2619326aa36154094b63bf23b804fbe5918a2f6ce1a88bdc1075
+FileChecksum: MD5: 364208c504f4a2ddbcfdb57a58633be5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/gaussian_mixture/gmm_model.py
+SPDXID: SPDXRef-item11289654
+FileChecksum: SHA1: 166f941d8bec2ac3c5f696afb8f19cb4208a8327
+FileChecksum: SHA256: 1d2f796bb0eddd66018025d7dea2c696d025a43972392a936f7d7ee0aee2fe4c
+FileChecksum: MD5: fa2f802138bfb0e90e3413eef4e3034b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/gaussian_mixture/gmm_utils.py
+SPDXID: SPDXRef-item11289655
+FileChecksum: SHA1: 5aa880e661cf7529e845f202580ebf01be4f8da1
+FileChecksum: SHA256: fac762d8fdfa8b1a683f9abc5dfbe20a7387e34a4c21d74f20188579c037ce67
+FileChecksum: MD5: 096bddc328a6b7a6b8ac618c38c9a3b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/data_modules/lcl_data_module.py
+SPDXID: SPDXRef-item11289640
+FileChecksum: SHA1: fb5bf41438316d363d5cec6966b056a85b4ee92d
+FileChecksum: SHA256: 03c8c57a444180ee28ea427377a2606410a4883bf4489654c6ec389831f6fc80
+FileChecksum: MD5: 4805d44e808560e8a0a2baa49a243a0d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/losses.py
+SPDXID: SPDXRef-item11289657
+FileChecksum: SHA1: 41ba76158a7269eaa5b2e433eb16940840d707f3
+FileChecksum: SHA256: 58523b35cb48922e320c02882359ac2cd2a6131dfa0d7e5458b27f764ae79b93
+FileChecksum: MD5: b45f6a7b2c02a40b0c03d0f931af008a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/evaluation/privacy/membership_inference_attack.py
+SPDXID: SPDXRef-item11289667
+FileChecksum: SHA1: f1685af41e2801a68ebf5d7fb2482a0e4cab16ce
+FileChecksum: SHA256: 1702c89fcda15a8c415e0d5348f2d4db3d2cfe92b057419bea62ed86dd0a532e
+FileChecksum: MD5: 9656cb7c9fde91ce88f2fa42403b77f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/model.py
+SPDXID: SPDXRef-item11289659
+FileChecksum: SHA1: 213a8dedbfa39309447b85641709289d598a895d
+FileChecksum: SHA256: 46a3c3e1af82ee1ce98fc55885593dd8ae7585c01c06335df1c938efa3507831
+FileChecksum: MD5: 7e14d42a6fbfcb981ea40a6e5311703a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/energydiff/model.py
+SPDXID: SPDXRef-item11289646
+FileChecksum: SHA1: 5223f7ef980d4ade41c0b2fcd99bc3ecdd621168
+FileChecksum: SHA256: 39c470e01881c32bf1e084fc619e8b7a5ef82055e06ed7c329ac235815cb7588
+FileChecksum: MD5: 23b3cfb38a94f2a578e31c8de4c8cdd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/datasets/low_carbon_london/preprocess_lcl.py
+SPDXID: SPDXRef-item11289634
+FileChecksum: SHA1: 541f5ff653ba55b580023e838d77fe6a6e3dce85
+FileChecksum: SHA256: aedb61e1650bf46708be06fb519c3d1e33457d702f7e1e1a1cdf6729a9bb4767
+FileChecksum: MD5: e490a6798254a17d9aead7fdfeca61ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/evaluation/privacy/reconstruction_attack.py
+SPDXID: SPDXRef-item11289665
+FileChecksum: SHA1: bbed022d10b143d417115d99ced000aff51211f7
+FileChecksum: SHA256: e0bd4f85f76383b363bad70ba23e7eeefda14ad1c321570fc8e484f25b062c7c
+FileChecksum: MD5: 879ead5e46ec0a66390bad8277f3dccc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/energydiff/sampler.py
+SPDXID: SPDXRef-item11289648
+FileChecksum: SHA1: 7f55bb997b587c9f92c91e73be754951bc5f1889
+FileChecksum: SHA256: d98166779ed9ec55acc7f7bfec4aa18620503cee6e3439f5842d503706fea118
+FileChecksum: MD5: 4695654540353481796116bf742a1108
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 Disclaimer part of this script uses DPM-Solver:https://github.com/LuChengTHU/dpm-solver </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/setup.py
+SPDXID: SPDXRef-item11289686
+FileChecksum: SHA1: 3520cc9d6744d4a17ef00dc9ecaf9d1bab2c00b3
+FileChecksum: SHA256: 944d3d3deadf9550d9131c393d6a25b57d16c489eec98897c8be4d26559e7068
+FileChecksum: MD5: 8fca74e345f4cc03f3186665874c87d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/datasets/low_carbon_london/split_households.py
+SPDXID: SPDXRef-item11289633
+FileChecksum: SHA1: 942e69a4b6804f103ade8a7b99acb557a78ec718
+FileChecksum: SHA256: c154510a9794ae41970fe29689a447c230a9abbb8008970cd677e0bda0c7e791
+FileChecksum: MD5: efbe1523d37d74d20294a1dc77132351
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/data_modules/streaming_data_module.py
+SPDXID: SPDXRef-item11289639
+FileChecksum: SHA1: 3b52547b6f84f6b566fb57a368b4004e8f720a11
+FileChecksum: SHA256: af7dcc8d709e6590d5236aa18ee3b43e1234389dec8f57b7e504336fc2d76926
+FileChecksum: MD5: 9e9589048b289683efde14eee9509e60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/src/opensynth/models/faraday/vae_model.py
+SPDXID: SPDXRef-item11289658
+FileChecksum: SHA1: fb9ade036537fd5aa689a744d6b9f89ceb1b4bcf
+FileChecksum: SHA256: adb714f74ab85867f70669231573c8a3558c2588ba45da90bb21c027cf30e24d
+FileChecksum: MD5: 1864a1f0f0fbc55b8324d4d0fd50634e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Opensynth-energy Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Voltage_Level_Topologies/.ipynb_checkpoints/nodebreaker_busbranch_topologies-checkpoint.ipynb
+SPDXID: SPDXRef-item11289493
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Voltage_Level_Topologies/nodebreaker_busbranch_topologies.ipynb
+SPDXID: SPDXRef-item11289494
+FileChecksum: SHA1: 6ead6c97e36ed005b9ffa78fbb75ca8bf3441b3c
+FileChecksum: SHA256: e3f2cabbeec1ba5036eacfe8fd940333ffd6958cd12e76fe5c81b09b6c4e7e9e
+FileChecksum: MD5: 273588a3053de20398703d46b3927b15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Dataset Description Notebook/.ipynb_checkpoints/dataset_description-checkpoint.ipynb
+SPDXID: SPDXRef-item11289497
+FileChecksum: SHA1: 7095e3f44a5c9d5badae1db16e42e9acd95f87ff
+FileChecksum: SHA256: c99682fa06344d43d009cfc03b5e43148d46daf8024f1f963613d5a1625b46c4
+FileChecksum: MD5: 2d4f0d0bad63e56ecac4c08cd85dfb7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Dataset Description Notebook/dataset_description.ipynb
+SPDXID: SPDXRef-item11289498
+FileChecksum: SHA1: 63618f73f4067df66731de3ce152c5b945cb77fc
+FileChecksum: SHA256: 037bfa578c93f4815b5d7452c70c8954712460d9e6cd7e237c1381c47d6d3ee4
+FileChecksum: MD5: 5b4ffb441904db9f657cea206cf8c31a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/data/initial_snapshot.xiidm.bz2/initial_snapshot.xiidm
+SPDXID: SPDXRef-item11289503
+FileChecksum: SHA1: 4be0c71938ef82e1c9aca551b135c0be641e55e9
+FileChecksum: SHA256: deed0873ed8751ba62e4f312901db0b72340dad5350a00763cc672ace584cbec
+FileChecksum: MD5: 73b3f00246bc06f69e9aeaf26e0a2a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/data/psse_grid.raw
+SPDXID: SPDXRef-item11289504
+FileChecksum: SHA1: 9de8821da0707bb29959bdeedcb663c05998be3c
+FileChecksum: SHA256: 9a2159df69544df3ab56f6acebe541f58dbd644fb1c282e81543c1c48ce2e6d4
+FileChecksum: MD5: 771f4d5d3899008b9d6750b5c304c855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/.ipynb_checkpoints/data_format_conversion-checkpoint.ipynb
+SPDXID: SPDXRef-item11289506
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/CGMES_model_1/.ipynb_checkpoints/placeholder-checkpoint.txt
+SPDXID: SPDXRef-item11289509
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/CGMES_model_1/placeholder.txt
+SPDXID: SPDXRef-item11289510
+FileChecksum: SHA1: e3460e49c457e9a4b104d9c5c2d904d875deb51d
+FileChecksum: SHA256: c67eecc0a66b3edb6dcebc9a295b68fffadbad9be0916f90b0de5888213648b5
+FileChecksum: MD5: d7831f0c97364873f7ad62254f3a8eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/CGMES_model_2/.ipynb_checkpoints/placeholder-checkpoint.txt
+SPDXID: SPDXRef-item11289513
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/CGMES_model_2/placeholder.txt
+SPDXID: SPDXRef-item11289514
+FileChecksum: SHA1: e3460e49c457e9a4b104d9c5c2d904d875deb51d
+FileChecksum: SHA256: c67eecc0a66b3edb6dcebc9a295b68fffadbad9be0916f90b0de5888213648b5
+FileChecksum: MD5: d7831f0c97364873f7ad62254f3a8eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Format_Conversion/data_format_conversion.ipynb
+SPDXID: SPDXRef-item11289515
+FileChecksum: SHA1: b18e54845a1dbca904ec021489599cd54fe5fa1c
+FileChecksum: SHA256: a6dbdd71145041782dbeacf7827f97623281071f35a42c0d7ef79d7ae8367fd2
+FileChecksum: MD5: 798d6a9133fca2c342f5d233474a1e6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/.ipynb_checkpoints/requirements-checkpoint.txt
+SPDXID: SPDXRef-item11289517
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/requirements.txt
+SPDXID: SPDXRef-item11289518
+FileChecksum: SHA1: 0d3a8e806df5d2f8c28b0f2740c0a2881a215e16
+FileChecksum: SHA256: 2f65fd15035e311a827ba0a301cea56fa718d7cec1548125fa9a8ff6db8354b5
+FileChecksum: MD5: 51bd08f71cd8bcbd3dd566d68537bcb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Modification/data/future_snapshot.xiidm.bz2/future_snapshot.xiidm
+SPDXID: SPDXRef-item11289523
+FileChecksum: SHA1: fb8016406dcf6484f1c4e9b93117cceefaa40a3e
+FileChecksum: SHA256: 26ce3e3af0afafbb8795122e73625790408dc1018849dd22a4d1b572e00a628c
+FileChecksum: MD5: 7de181afa61b174b66ff1847cf687854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Modification/.ipynb_checkpoints/add_injections_time_series-checkpoint.ipynb
+SPDXID: SPDXRef-item11289525
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Modification/.ipynb_checkpoints/modify_data-checkpoint.ipynb
+SPDXID: SPDXRef-item11289526
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Modification/modify_data.ipynb
+SPDXID: SPDXRef-item11289527
+FileChecksum: SHA1: 10d13de6cff04493f07cdd8254d9edc408aea0bc
+FileChecksum: SHA256: 1015655e6a37c47a1afeba49173ecbbb540125691095b35667baca0ebc2e7558
+FileChecksum: MD5: c162345f1c2dfb528a4af145fd66b22a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Modification/add_injections_time_series.ipynb
+SPDXID: SPDXRef-item11289528
+FileChecksum: SHA1: aba9e4909f725e22ddb9bfe48cbccd7eefea47bd
+FileChecksum: SHA256: dcbd1e2e096542a18bb159413ad3202842059680ab6db043f21e381b006d4b32
+FileChecksum: MD5: 127797cf1ae9570b783efc64265f5ba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Execution_Analysis/security_constrained_analysis.ipynb
+SPDXID: SPDXRef-item11289530
+FileChecksum: SHA1: 04622d7c59deb9fa7710681a680fb2179a35d757
+FileChecksum: SHA256: 2b462ffedf2646276125f0a95dd47bada5d789190b4d7c98d60dd8f46c90bc45
+FileChecksum: MD5: 2fb17e62609aaf36af17292698a349af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Execution_Analysis/.ipynb_checkpoints/power_flow-checkpoint.ipynb
+SPDXID: SPDXRef-item11289532
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Execution_Analysis/.ipynb_checkpoints/security_constrained_analysis-checkpoint.ipynb
+SPDXID: SPDXRef-item11289533
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Execution_Analysis/power_flow.ipynb
+SPDXID: SPDXRef-item11289534
+FileChecksum: SHA1: c189946ba5b701dc281d4c718b0c0299f6d10e32
+FileChecksum: SHA256: 0db174528da5f9571268ea3c4992e74cf664c4845190d609cfb931b16f59883c
+FileChecksum: MD5: 875dc92690e44bbc47285d76d03ee7e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/data/initial_snapshot.xiidm.bz2/initial_snapshot.xiidm
+SPDXID: SPDXRef-item11289539
+FileChecksum: SHA1: 4be0c71938ef82e1c9aca551b135c0be641e55e9
+FileChecksum: SHA256: deed0873ed8751ba62e4f312901db0b72340dad5350a00763cc672ace584cbec
+FileChecksum: MD5: 73b3f00246bc06f69e9aeaf26e0a2a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/data/future_snapshot.xiidm.bz2/future_snapshot.xiidm
+SPDXID: SPDXRef-item11289542
+FileChecksum: SHA1: fb8016406dcf6484f1c4e9b93117cceefaa40a3e
+FileChecksum: SHA256: 26ce3e3af0afafbb8795122e73625790408dc1018849dd22a4d1b572e00a628c
+FileChecksum: MD5: 7de181afa61b174b66ff1847cf687854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/.ipynb_checkpoints/dataset_description-checkpoint.ipynb
+SPDXID: SPDXRef-item11289544
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/.ipynb_checkpoints/id_inconsistency-checkpoint.ipynb
+SPDXID: SPDXRef-item11289545
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/.ipynb_checkpoints/operational_limits-checkpoint.ipynb
+SPDXID: SPDXRef-item11289546
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/.ipynb_checkpoints/shunt_blocks-checkpoint.ipynb
+SPDXID: SPDXRef-item11289547
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/.ipynb_checkpoints/other_elements-checkpoint.ipynb
+SPDXID: SPDXRef-item11289548
+FileChecksum: SHA1: 87e64271eafadd1ae9246d9bc3020b4b8f7255d3
+FileChecksum: SHA256: 4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517
+FileChecksum: MD5: 2f6cceae1d861df553a6ebb64b6862ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/other_elements.ipynb
+SPDXID: SPDXRef-item11289549
+FileChecksum: SHA1: cf5e793a16792599ac3e357018165c423eb605a4
+FileChecksum: SHA256: cc0aa3194f6e90c8c9120162c262dac0e5dbf418693c0554f524b5351fdec87f
+FileChecksum: MD5: 36f84abc341f669d5f7bdfdcaac39731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/id_inconsistency.ipynb
+SPDXID: SPDXRef-item11289550
+FileChecksum: SHA1: a3d88e956769fd573b362bf2238536ca2dabaf7f
+FileChecksum: SHA256: a5cb9a43b52d53957948a2c8eeb62a236e03a8b4e5cfab4b2d335ff38865e7ab
+FileChecksum: MD5: 125f4387a396263ac165bf247ed160fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/operational_limits.ipynb
+SPDXID: SPDXRef-item11289551
+FileChecksum: SHA1: 25c20458f79e9f2171d93483baacf2bccb7ae470
+FileChecksum: SHA256: f821cd2cdfa79b54f6cb0a5e7aa27c88f539a33c07fe7f075b11ebb9dc0befc6
+FileChecksum: MD5: e85aa0c1cd27e8be69bcf4483f2e90ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/shunt_blocks.ipynb
+SPDXID: SPDXRef-item11289552
+FileChecksum: SHA1: a32ac01bb91e9a75505dcd26566f6c03ed1ebc96
+FileChecksum: SHA256: 2d0dc3f71374677884cf4222305de2ed71efa5c4a3c83a13027db1251dc0d600
+FileChecksum: MD5: 0c046ee0388bfa6696ca868f4b014add
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/dataset_description.ipynb
+SPDXID: SPDXRef-item11289553
+FileChecksum: SHA1: 7eb802a7a6df5e7ca17251a6a92cdcdb26911379
+FileChecksum: SHA256: 514cd56dde0f53abdd4074bd55d89e1555c2693cf74929fe4ea54e9fc7315b9a
+FileChecksum: MD5: ee86b7bab35ff0b7618c8e641ca044eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/vl_statistics.svg
+SPDXID: SPDXRef-item11289555
+FileChecksum: SHA1: 909bfeeb1546b8400e356a1887bf58b200905d05
+FileChecksum: SHA256: add16d7e4ba1ab546062711bd31781dc736e86d0c4b841d964b6e5c83b86affd
+FileChecksum: MD5: 5ce17f7e57d12e8f53faf03d7255690d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/PUBLIP3_diagram_nodes.svg
+SPDXID: SPDXRef-item11289556
+FileChecksum: SHA1: c24f4bcf2bcd85ca29442187e8510ececd47c74e
+FileChecksum: SHA256: a0f6ad1e3ad965afa6dd54fc99f354373c9d0c7e19da0a7783f757de3e34c732
+FileChecksum: MD5: a8e9582e3df42dedd4e970a953350bef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/.ipynb_checkpoints/switch_statistics-checkpoint.svg
+SPDXID: SPDXRef-item11289558
+FileChecksum: SHA1: 57ebf7644651492936775c8802ff0343e29b47a2
+FileChecksum: SHA256: 8ccab4dcc090a22d0378d5c4a4252ae3ad0d21acc6b85f435fc1d0d69b1ab3e7
+FileChecksum: MD5: 38d2a86977117d5e09e2fcf347be09fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/.ipynb_checkpoints/vl_statistics-checkpoint.svg
+SPDXID: SPDXRef-item11289559
+FileChecksum: SHA1: 909bfeeb1546b8400e356a1887bf58b200905d05
+FileChecksum: SHA256: add16d7e4ba1ab546062711bd31781dc736e86d0c4b841d964b6e5c83b86affd
+FileChecksum: MD5: 5ce17f7e57d12e8f53faf03d7255690d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/switch_statistics.png
+SPDXID: SPDXRef-item11289560
+FileChecksum: SHA1: 28dc7d4421752530132153c9baeeb650c6fb4dda
+FileChecksum: SHA256: 5895dce0ac3d0f27c89616dcfa011a9c1e2b06f9bd51a7c4a68bd50705033560
+FileChecksum: MD5: 004835834f0006572662a0bc8bdd6dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/switch_statistics.svg
+SPDXID: SPDXRef-item11289561
+FileChecksum: SHA1: 57ebf7644651492936775c8802ff0343e29b47a2
+FileChecksum: SHA256: 8ccab4dcc090a22d0378d5c4a4252ae3ad0d21acc6b85f435fc1d0d69b1ab3e7
+FileChecksum: MD5: 38d2a86977117d5e09e2fcf347be09fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/network_diagram.svg
+SPDXID: SPDXRef-item11289562
+FileChecksum: SHA1: fa49d9a9ec14ee962dcaebbd8418590228eabc55
+FileChecksum: SHA256: 0a8a0bfd91c42d7b7d3e5c7483cbd1f6fb66dfe5de894f88559bfa4ae997d872
+FileChecksum: MD5: aa1cc9e353b7022e5295fdccec3b85a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/Documentation/Data_Description/Images/line_statistics.svg
+SPDXID: SPDXRef-item11289563
+FileChecksum: SHA1: e72a809ceaf3bd765b3b1d95ba09d25f166b8d0d
+FileChecksum: SHA256: d95a298ae739d338d0cf2f26c765dbe057f5864c26408fe2c43b22aff7ac6b7f
+FileChecksum: MD5: 5219440994ec5a408937de56b0b3514e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.ipynb_checkpoints/README-checkpoint.md
+SPDXID: SPDXRef-item11289565
+FileChecksum: SHA1: 97727d02d4c54f1c542d667f65f0bb0c5d9e3836
+FileChecksum: SHA256: fab6848c6ebd5e91574b1d7a43c61297b49c03915367af226e080af1e9b0dac4
+FileChecksum: MD5: 17452d33cab56a0da7f1d56f91a262ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/requirements.txt
+SPDXID: SPDXRef-item11289566
+FileChecksum: SHA1: 0d3a8e806df5d2f8c28b0f2740c0a2881a215e16
+FileChecksum: SHA256: 2f65fd15035e311a827ba0a301cea56fa718d7cec1548125fa9a8ff6db8354b5
+FileChecksum: MD5: 51bd08f71cd8bcbd3dd566d68537bcb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.idea/vcs.xml
+SPDXID: SPDXRef-item11289568
+FileChecksum: SHA1: 6f94fc1df9e8721673d47588ac444667dc9ded06
+FileChecksum: SHA256: 6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e
+FileChecksum: MD5: 8c9c0403ab0f6457841c605f08a3340c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.idea/D-GITT.iml
+SPDXID: SPDXRef-item11289569
+FileChecksum: SHA1: 5d97658e136c662c5701df5cf2d5ea072dfb9ac4
+FileChecksum: SHA256: 3735b233bd4e3796140af63523be2bd5ed15d946cab0118d1e3a11641936f55e
+FileChecksum: MD5: 31603c081113b3b383ee5ecd7d119258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.idea/misc.xml
+SPDXID: SPDXRef-item11289570
+FileChecksum: SHA1: 13dd5f3bc6379e10bf1e20e47f9dde1f4146c83b
+FileChecksum: SHA256: eb7740222fb1a9a1cc003b9c4be95d455fe98512c64a1276b5adac05ea73e5cd
+FileChecksum: MD5: 52406c92f6318174e3abdab9b62305b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.idea/.gitignore
+SPDXID: SPDXRef-item11289571
+FileChecksum: SHA1: b0808552c40b30c337734f4b1cfb434c2ce873b2
+FileChecksum: SHA256: a9e54fc4f08bc97d82c04bd86ff37d3af84ba9ef4ad87fcfcb438dab622e8aaa
+FileChecksum: MD5: bd588a782a4fe62c25b44342c8dbb173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.idea/modules.xml
+SPDXID: SPDXRef-item11289572
+FileChecksum: SHA1: fb48f6015354b813725deeba04d1a08bd8ee8229
+FileChecksum: SHA256: 5c3c06d137396428ebb108c2c657be082d6a6a5a3e0a4b5e4deca0f10ceb2a06
+FileChecksum: MD5: 3bbb742c9bc192f78451d37645377dab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/.idea/inspectionProfiles/profiles_settings.xml
+SPDXID: SPDXRef-item11289574
+FileChecksum: SHA1: 123097fe0d1ca811d1a355725d7066386ed490ec
+FileChecksum: SHA256: 6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46
+FileChecksum: MD5: 05dbe611f5bdb7a801adb3f064d4bfa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/D-GITT/README.md
+SPDXID: SPDXRef-item11289575
+FileChecksum: SHA1: 37008d0dc12be6f926d537082e691042e22ff765
+FileChecksum: SHA256: 9ad9f24ad6764f5e6fcb7dc18e2ebac9177682cac65a8ff03ebf56bc6d46a319
+FileChecksum: MD5: e58d07bed00c631329b00bad7e7cf86f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/energydiff/energydiff_evaluation.ipynb
+SPDXID: SPDXRef-item11289579
+FileChecksum: SHA1: ca32e808a04cc58f45bebbf3fdab6d1693693771
+FileChecksum: SHA256: 330a1c6b7f43c4d2ebe6e3912798c8e5f5b4561c7c1a247defc8e08de6774fcb
+FileChecksum: MD5: 4bd70bab833920a63e464418ac095060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/energydiff/energydiff_tutorial.ipynb
+SPDXID: SPDXRef-item11289580
+FileChecksum: SHA1: 53e515a1b4a29cf1be062d6f4471ed424c8a438a
+FileChecksum: SHA256: 2d1476c100551508eee7261bd5bc7963e2b4ea962fd065f1fdf0c26d6bbd4b2b
+FileChecksum: MD5: 71e9463a67ce97ae5b08609c6c631a1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/faraday/faraday_evaluation.ipynb
+SPDXID: SPDXRef-item11289582
+FileChecksum: SHA1: f97ffcafd7e87d6915a4d58963b01802f2e9bc87
+FileChecksum: SHA256: d3da1773b031272ed7164f2c4d127dca7088f4ca013d49eb29deebbe2a7bc1d5
+FileChecksum: MD5: f349d3ad4240bdfc14515dc0babee62a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/faraday/faraday_tutorial.ipynb
+SPDXID: SPDXRef-item11289583
+FileChecksum: SHA1: f6d050dfeff77332661bdb32a37f1485a1179c1a
+FileChecksum: SHA256: b073fb0ab3f125d343b41628e03f086755ef9d039949511ee5133cb7ff7363ce
+FileChecksum: MD5: e844f9981f9c17baa0ec75769f17b8e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/LF Energy Summit 24 - Workshop Tutorial.pdf/LF Energy Summit 24 - Workshop Tutorial
+SPDXID: SPDXRef-item11289586
+FileChecksum: SHA1: 54d14a84cf94e8cf8ee2bf0dcdf0723b03d9db65
+FileChecksum: SHA256: 3f14d8167b2b929e6720a66f107b63a7d3af7fe1be90197e61243924e2912106
+FileChecksum: MD5: 125253c1d3986b75171fc16ccdd6790a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/streaming/streaming_model_tutorial.ipynb
+SPDXID: SPDXRef-item11289588
+FileChecksum: SHA1: 52574096c275c9f52dcbdcb1b95e27589d995275
+FileChecksum: SHA256: 2887cd04eb792c82268d9375af81c8c9ebd0b96aeadbc7ad683977933f7c8337
+FileChecksum: MD5: c9dbd2251bba45d0004dacf748a2f8f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/streaming/streaming_data_preparation.ipynb
+SPDXID: SPDXRef-item11289589
+FileChecksum: SHA1: 87f2be45b33fcd639ddb501e5966057e130c214c
+FileChecksum: SHA256: fd2409b9ee1d64c553bd698c93df9390c1fc9885d1f8992f2d9323ba922757be
+FileChecksum: MD5: 520d8b6240baae8984c8752c1b4c6a14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/notebooks/README.md
+SPDXID: SPDXRef-item11289590
+FileChecksum: SHA1: 7841ba75429cc047ebced71097ce0eaaf9ec5d4b
+FileChecksum: SHA256: 5b36162e824ca6ba634e0c8bca1b2bf12af4a8a7625d3843dcbe0c7c55a290f4
+FileChecksum: MD5: 6ca72a77fbd1531d45ccdc28d9867d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/datasets/low_carbon_london/__init__.py
+SPDXID: SPDXRef-item11289594
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/datasets/low_carbon_london/test_preprocess_lcl.py
+SPDXID: SPDXRef-item11289595
+FileChecksum: SHA1: 01e0b153d1f07bf6edc3bd87a5a53ee32d22bc8d
+FileChecksum: SHA256: 1386f991b34b80f4956c4827e865fb82c55a2a2b3b6cc2f14e5fb1d02e5fa335
+FileChecksum: MD5: 94869bae856cf36d6c1b12e2aecc1d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/datasets/__init__.py
+SPDXID: SPDXRef-item11289596
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/datasets/test_dataset_utils.py
+SPDXID: SPDXRef-item11289597
+FileChecksum: SHA1: 2a09d1867bafddd76f76c05173eadc955e8555fe
+FileChecksum: SHA256: b3513f74580422b74de249f52ede43ea8f14e9294ebf862411d4c4116295d828
+FileChecksum: MD5: 6635053d56c558644249b204d4aa87d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/datasets/streaming/test_streaming_dataset.py
+SPDXID: SPDXRef-item11289599
+FileChecksum: SHA1: 018e982e16aed005d8b4144504afaa5910c082bd
+FileChecksum: SHA256: 1b4e044d253228886427b42faab48d59b6d00d6648d66ed8a1b77ef72ef38f6c
+FileChecksum: MD5: ba65c6d3661ba48ba8f83e1034c12d37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/data/streaming/index.json
+SPDXID: SPDXRef-item11289602
+FileChecksum: SHA1: 5d90123ea38c7a60398d75faf25dd66b3538ca72
+FileChecksum: SHA256: b2a9db9b13780b6ed31f9646e204905b5b14d6ee63357480ecdbdac5904091c5
+FileChecksum: MD5: 1b4c6aabec288c679be0c8c92248e5c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/data/streaming/mean_std.csv
+SPDXID: SPDXRef-item11289603
+FileChecksum: SHA1: e0c94fa84ba5377ce6cdb97052ccd57f2cb5ee50
+FileChecksum: SHA256: bdd0b411801f278fb4f085c495ec475ff622565f6ea9e1fcf4ec3b1dcf67945a
+FileChecksum: MD5: 764e98160763be62c12c11eee63d3bd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/data/streaming/chunk-3-0.bin
+SPDXID: SPDXRef-item11289604
+FileChecksum: SHA1: ffce821b17eb9ea8af83c772d26e6741e0f168eb
+FileChecksum: SHA256: 3c2f1ba7d670259bff0902225b6b789f9a75d7bebb376ac0f8c3f45651f9ad92
+FileChecksum: MD5: a50b8c33a466d614333a3c40c9eecb25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/data/streaming/chunk-3-0.zstd.bin
+SPDXID: SPDXRef-item11289605
+FileChecksum: SHA1: 6ca009b37cbe0de486ddf0f3ad8bae727c660692
+FileChecksum: SHA256: 073b56bc5fc3f290115e14b2bf7e904841f729b477798340ce72134bcc2be91a
+FileChecksum: MD5: 39cf1abd511b8b8b52e228c8c9743898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/energydiff/test_energydiff_dependency.py
+SPDXID: SPDXRef-item11289608
+FileChecksum: SHA1: 098c60188b990c7132b672ac1d984a32b3a90d8d
+FileChecksum: SHA256: d6e3a4dbd93d96b7aff92fcd2de1bdf664f8529fac3f7dd8c0a7a3b017c1c614
+FileChecksum: MD5: fda886fea624148323cfca57c89354d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/energydiff/test_energydiff_diffusion.py
+SPDXID: SPDXRef-item11289609
+FileChecksum: SHA1: cb62076e81773031e38718cd0bca5a984049ea13
+FileChecksum: SHA256: deb6b464bcb11e5c0a5d19c836f6e864b7d02b6e532fd37f42a7edc3cda402ec
+FileChecksum: MD5: 88a0f284834db8b4e9a35f97b70cc699
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/energydiff/test_energydiff_diffusion_utils.py
+SPDXID: SPDXRef-item11289610
+FileChecksum: SHA1: 400f7b89b3e1125d1295bae821853e12fa9d7a70
+FileChecksum: SHA256: 2034139442e94136ffcf69ddf997bd195feb5e4ce082bfaea505b5bcfea9e9e8
+FileChecksum: MD5: dada35549c3da63777ba46a9dbb50973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/energydiff/test_energydiff_calibrate.py
+SPDXID: SPDXRef-item11289611
+FileChecksum: SHA1: 7524c463466dfce0d82c93b93b16b67f9dc5e312
+FileChecksum: SHA256: 30e06127dc0a62d47098617b90e8ce08af30a9d26739c2094861796cf62d1401
+FileChecksum: MD5: a36f9e88f5568698178b86deb6bf3f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/energydiff/test_energydiff_nn.py
+SPDXID: SPDXRef-item11289612
+FileChecksum: SHA1: 86c20c571e796bf77c255ba5adeb36b86f4fd845
+FileChecksum: SHA256: c3c645c546879c0c4a9895039718093e30166505936d6cbae5d5b9c5501cd5f7
+FileChecksum: MD5: a2ae527f95bd4185028be6b8d0931566
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/faraday/gaussian_mixture/test_gmm.py
+SPDXID: SPDXRef-item11289615
+FileChecksum: SHA1: 722930b4718a43355ed0ce93948e4ad899a96dc4
+FileChecksum: SHA256: b5d333ec2704fcbbcedcccd8df1ab961325a5f509f145973483f3eeee759df9b
+FileChecksum: MD5: 8a9b44dcc75ddc9dec89e765f5365598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/faraday/gaussian_mixture/test_gmm_inputs.py
+SPDXID: SPDXRef-item11289616
+FileChecksum: SHA1: df7e994738b107bb24be1a640a23b00236c8a666
+FileChecksum: SHA256: ca776edba794a91aa043ad76ad039e0a1a56c24b64a39b6369e6d0ddb9939828
+FileChecksum: MD5: 5195a57455e4d79028a7a622c68408d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/faraday/test_faraday_losses.py
+SPDXID: SPDXRef-item11289617
+FileChecksum: SHA1: 52d0fd19e250fd5c11338674668b00ca2b7f4b70
+FileChecksum: SHA256: 5a70bc7b4c6c543d754132482eed52288fae80a5991ff8c89bb7ad548b3c6c08
+FileChecksum: MD5: 7ce9a110d762d1ee6ebb75bf9aab672b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/models/faraday/test_faraday_model.py
+SPDXID: SPDXRef-item11289618
+FileChecksum: SHA1: 38a9934710cf5acf8b30c9a514ac35b9b0c43904
+FileChecksum: SHA256: 53180eaa6758556301e30776c55afc991174ac4060d4dadae7f1289b30ee52cf
+FileChecksum: MD5: ac3f892f3f71e3d61f6a59c5b23b3c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/__init__.py
+SPDXID: SPDXRef-item11289619
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/evaluation/privacy/test_membership_inference_attack.py
+SPDXID: SPDXRef-item11289622
+FileChecksum: SHA1: 87bee1e97efb55dfde375efc5f172449a4c4ddd1
+FileChecksum: SHA256: 6164d4824b110db60635c4fc7d26f7fba6e2e56b2247b09b2493eced5afe2b22
+FileChecksum: MD5: e4b5812ca9dac56f0f1a66a63a12ba18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/tests/utils.py
+SPDXID: SPDXRef-item11289623
+FileChecksum: SHA1: 72479ec4b884068029349dad3d3c0d17880c374e
+FileChecksum: SHA256: 38afb968f059ced032ba943f7fb636c61db2147b01db3eea12ab57d7fc61d6dd
+FileChecksum: MD5: 944ce2e7e78f0ab4306fcf6cab04d063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.python-version
+SPDXID: SPDXRef-item11289624
+FileChecksum: SHA1: 1a9f17ac8a5066544976a390298fe62228c58a9e
+FileChecksum: SHA256: 8cf0cfc21e584bc76ce0d7716517eeb0dc0498ba57c05d028543748d51155c09
+FileChecksum: MD5: 9685208dd0aa86cd4c849e6291c5bce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/Makefile
+SPDXID: SPDXRef-item11289625
+FileChecksum: SHA1: e7564a283bc542aa1f631f8933f92810a125f9aa
+FileChecksum: SHA256: 4835b7f6204903710ac05f433a1c8f6cb90026af4501b103bacdf27dcd6ba7b4
+FileChecksum: MD5: f419479c043e205cbc5c32f3263d7a34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/pyproject.toml
+SPDXID: SPDXRef-item11289627
+FileChecksum: SHA1: d123dc651e974f28690b701fcf891b026ed52023
+FileChecksum: SHA256: 4bee37e01919600a2249fb3a7c351660ca89f14dd08d5f7f249949ab56310815
+FileChecksum: MD5: 6001902f739177fc61c949a5f0ee6d6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/data/processed/.gitkeep
+SPDXID: SPDXRef-item11289673
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/data/.gitkeep
+SPDXID: SPDXRef-item11289674
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/data/raw/.gitkeep
+SPDXID: SPDXRef-item11289676
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.github/workflows/prod_deploy.yaml
+SPDXID: SPDXRef-item11289679
+FileChecksum: SHA1: 4bb3cf83db5b77f704a1862924b10698c26a30b6
+FileChecksum: SHA256: c1d9c516a750882d801edf7c3b30eee102415ea0a2882ea845e6757a6d391d7f
+FileChecksum: MD5: 8a88cedb17e6b804658912f383909085
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.github/workflows/check_licences.yaml
+SPDXID: SPDXRef-item11289680
+FileChecksum: SHA1: c9aa58036b3c40c51e8c9de6c4e0b12eca132937
+FileChecksum: SHA256: 439ef3b6b56a8ca544d4e6d21a04f76d4c0b2730ba7101a93a4fd4ab0fa2f4cc
+FileChecksum: MD5: fa658789f8300c8f22776ae1f117a95f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+LicenseInfoInFile: LicenseRef-fossology-Python
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.github/workflows/release_branch_deploy.yaml
+SPDXID: SPDXRef-item11289681
+FileChecksum: SHA1: 4a4097eabaa0801e810f39cd23de286a6c352d09
+FileChecksum: SHA256: 75b735f41068bd32e4f3f8fefa5543d09c7afe2e17191174de040caa89378ebe
+FileChecksum: MD5: fdef9977ebdb48a6f8905e78f1b22a7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.github/workflows/test_and_lint.yaml
+SPDXID: SPDXRef-item11289682
+FileChecksum: SHA1: 6f87aba7afc380a1355248a64729f894d3cd21e8
+FileChecksum: SHA256: 347e43c7ab46874e8c5950b8fb15c20f4ce74749d8c622cd45b11da05e2cb31f
+FileChecksum: MD5: 4b5300dba019b1a888ad119cf976aeef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/Pipfile.lock
+SPDXID: SPDXRef-item11289683
+FileChecksum: SHA1: be5816680b33c8bebd0849c46978aa5c36facb05
+FileChecksum: SHA256: 85b836147f3623460e7b020ace82f4db2b9948a8783fde272bd3d9813a1cd6d8
+FileChecksum: MD5: a06e0cb6e6066433e1e989ce7b39dea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.black
+SPDXID: SPDXRef-item11289684
+FileChecksum: SHA1: 1d913403dfc3861802d5cdfc845c5ae70b02df6a
+FileChecksum: SHA256: 84dfaf45c3502b6f0c2cb790a523a57ca16eb8e01a5c04afd5b4bf6ef501431a
+FileChecksum: MD5: 75fb3c23b849094de20f40461ba36c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.flake8
+SPDXID: SPDXRef-item11289685
+FileChecksum: SHA1: b9c26c1339e57d143ef0379634e048aa6f4ced49
+FileChecksum: SHA256: 24e3013b4379b1fc601af7cc062d241fef0e88483c79bdf2decfce877e3f0da5
+FileChecksum: MD5: a0ed158214baac9b108e62f6eb39378f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.gitignore
+SPDXID: SPDXRef-item11289687
+FileChecksum: SHA1: 19e02fbe36a5622961942c43f05daa5a99778b02
+FileChecksum: SHA256: c3a5b92b7887a118a2bf359ebd984b98e122518f9802efae801615647bafbd4a
+FileChecksum: MD5: 2f0b739fd2ad7dc97d72cf9658004bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.env.template
+SPDXID: SPDXRef-item11289688
+FileChecksum: SHA1: 1678f2f05b0736ef5c84930921b0ddd120c656ed
+FileChecksum: SHA256: df1ea4e76e6fe00fd650a719a0d089f61d00706c52b8dd3769ade39f8ec24baa
+FileChecksum: MD5: 527467260b542a607aff3d1098af42f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/scripts/check_gpl.sh
+SPDXID: SPDXRef-item11289690
+FileChecksum: SHA1: 40fc64133d165928217d240bb86567912e900171
+FileChecksum: SHA256: ae76bf7a90fdb15a72370b89d6e05433d133c90f2457c7bf934d5cfc8e9dc9cc
+FileChecksum: MD5: 139c8e8e5bbd52d96b69734a885d524d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0-or-later
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/scripts/.gitkeep
+SPDXID: SPDXRef-item11289691
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.isort.cfg
+SPDXID: SPDXRef-item11289693
+FileChecksum: SHA1: acd59bbfae8b3243ec10c1b05d08891e5215a304
+FileChecksum: SHA256: 6403fc1e043b50247178fb52a52f57840b53ec96d07797f514638c0bfac63be9
+FileChecksum: MD5: 237c260023d95979e37626782f22d95c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/README.md
+SPDXID: SPDXRef-item11289694
+FileChecksum: SHA1: fb5f80d90f289598742f8f3cecc0f746282200c3
+FileChecksum: SHA256: 91907e9ba21075d82708599e5f53914ab0c67ebbde53f229bc6acefe1fa6e195
+FileChecksum: MD5: 6c4d4d84201f1a88080418a9f121d298
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/Pipfile
+SPDXID: SPDXRef-item11289695
+FileChecksum: SHA1: 04973b794049d13ed834904f0bdda2617ba8a64f
+FileChecksum: SHA256: d00733ad3823ec0b8c2f78b84bcdd38af83f3aba8ac44982ec65a65009088728
+FileChecksum: MD5: 1f6b2f1206a3e9f0508206a65d7be808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/app/app.py
+SPDXID: SPDXRef-item11289697
+FileChecksum: SHA1: 18817e34d52ef147b97ece8537e8ae93462ceb8b
+FileChecksum: SHA256: 042833d021c6d66c2df36de4a933c6359aee7afccf81c709f2ffc72e54d4467b
+FileChecksum: MD5: 37651b7f156213568c674df87fa476f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: OpenSynth-energy-2025-09-25.zip/OpenSynth/.pre-commit-config.yaml
+SPDXID: SPDXRef-item11289698
+FileChecksum: SHA1: 5cea0ffccf92459fb38ce7c2062c3675c2f81132
+FileChecksum: SHA256: e77755fbbc7dd08e66f5e7106660473eb5726f689fcee688d7175c3e809e53d6
+FileChecksum: MD5: 17b82ce3b02124f7d5589678b60b491d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
