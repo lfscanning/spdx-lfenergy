@@ -1,0 +1,4889 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_p-swamp-2026-09-29.zip_1793069954.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-27T02:59:14Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: p-swamp-2026-09-29.zip
+PackageFileName: p-swamp-2026-09-29.zip
+SPDXID: SPDXRef-upload2433
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 8fbdfa794598c911c34f90e3c032ada116eb7ec5
+PackageChecksum: SHA1: fbf0dce7356bfbc52ddf57b63b6c0dbe64046bf5
+PackageChecksum: SHA256: b5545f7d723264307c75af273f1e4a3e66121c73da9814721c8521f23cfd3cb2
+PackageChecksum: MD5: b49dce7216ea7891342ebfde0d4e8835
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2433
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/__init__.py
+SPDXID: SPDXRef-item15384311
+FileChecksum: SHA1: 558217013b5118eb6a57e295c2a02545bc6faf24
+FileChecksum: SHA256: 70cba4fd09a6edb735d71132b42466e3b98cb74e2fd3ca5147ff6b6a4701735e
+FileChecksum: MD5: 72118bebb322d44254762724e7f2d494
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> 2022-present Hallvar Haugdal <hallvar.haugdal@sintef.no> </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/date_time_axis.py
+SPDXID: SPDXRef-item15384490
+FileChecksum: SHA1: e547ca5257a710c3b5d713f23573ca8f4583dbb2
+FileChecksum: SHA256: 8f5d10cd9af69d0a61c94bafc59701176047772c594a37fe072e0a49cfbccdc5
+FileChecksum: MD5: 47b2dac577b2ae7b6116135a0721cc3f
+LicenseConcluded: LGPL-3.0-or-later
+LicenseInfoInFile: LGPL-3.0-or-later
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project.
+Copyright 2011 CELLS / ALBA Synchrotron, Bellaterra, Spain </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/LICENSE
+SPDXID: SPDXRef-item15384327
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/__init__.py
+SPDXID: SPDXRef-item15384454
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/__init__.py
+SPDXID: SPDXRef-item15384340
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/__init__.py
+SPDXID: SPDXRef-item15384398
+FileChecksum: SHA1: 373be1f1897955b359645c6eeb097ee875950d23
+FileChecksum: SHA256: 916516725beb717b854d0a040f37eba9a71a029045d545efe3f9009ac5a5cf21
+FileChecksum: MD5: 3af178e704c27130af711edf1005443a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/monitoring/__init__.py
+SPDXID: SPDXRef-item15384470
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/models/__init__.py
+SPDXID: SPDXRef-item15384346
+FileChecksum: SHA1: 3239619207ea4a872e113b7bce806551dae187c2
+FileChecksum: SHA256: 640001dba34c11c85bedb3148200b3161a5b144520b663363313e50c8704faa1
+FileChecksum: MD5: f352fdd2a59972bae60a998b938e233d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/__init__.py
+SPDXID: SPDXRef-item15384501
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/app_status/__init__.py
+SPDXID: SPDXRef-item15384707
+FileChecksum: SHA1: 4ac780031da3d15b64b092cc1737ab79ad4fe52a
+FileChecksum: SHA256: 14da227d78efa5d6598af4deb060c72fd479d946da2527703e35c247f575ee93
+FileChecksum: MD5: 690fef45ecd1dffe511cec296519a01a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/app_templates/__init__.py
+SPDXID: SPDXRef-item15384392
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/__init__.py
+SPDXID: SPDXRef-item15384464
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/voltage_stability_viz/__init__.py
+SPDXID: SPDXRef-item15384507
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/countries_geo_data/__init__.py
+SPDXID: SPDXRef-item15384478
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/coordination/__init__.py
+SPDXID: SPDXRef-item15384512
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/__init__.py
+SPDXID: SPDXRef-item15384442
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/database/__init__.py
+SPDXID: SPDXRef-item15384387
+FileChecksum: SHA1: 2982bfec00c0082accbfd8186a03898961e5037e
+FileChecksum: SHA256: ccb65263b39c3dd20e5b99ded240f2651f3ff39bd002b2d9af27886783c51ae6
+FileChecksum: MD5: a3244be49a0883444b421c3b8a6ff32b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/views/__init__.py
+SPDXID: SPDXRef-item15384413
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/__init__.py
+SPDXID: SPDXRef-item15384440
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/__init__.py
+SPDXID: SPDXRef-item15384495
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/__init__.py
+SPDXID: SPDXRef-item15384409
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/__init__.py
+SPDXID: SPDXRef-item15384433
+FileChecksum: SHA1: dbe3b2aa0cdf48df277a409a69121afca6dd66dc
+FileChecksum: SHA256: 55545569f7dceebd236a9cbaf64ddab4cfe8ea648ba215090299d43057240dd7
+FileChecksum: MD5: 241a754892be40e3d520b60a26614f40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/components/__init__.py
+SPDXID: SPDXRef-item15384462
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/__init__.py
+SPDXID: SPDXRef-item15384375
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/__init__.py
+SPDXID: SPDXRef-item15384449
+FileChecksum: SHA1: f5363eedc8e1d60ff7d9b8313e7fff9eeb346659
+FileChecksum: SHA256: 81757ef4c3af930ffab55469ce6c263e199d654a65f55ce8f83ac13ae4faa70a
+FileChecksum: MD5: 40614b6bc6147bf3ddfa7219fda4c0ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/grid/__init__.py
+SPDXID: SPDXRef-item15384729
+FileChecksum: SHA1: 02aeaaee33a0c828f80e840141ba25635f165eb3
+FileChecksum: SHA256: e5780c39ed6f76fc1a5a4bb335988897aeaab16c2fd59f987c6cba61ca7a32e0
+FileChecksum: MD5: 319add38faeacf8ad0a45981768d3da9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/islanding/__init__.py
+SPDXID: SPDXRef-item15384724
+FileChecksum: SHA1: e09ce9e0dace873fe01ae669c3234b9eed602088
+FileChecksum: SHA256: 29afb0d9e8d615569c8781c18de32f9e56699181eb850e30dfa88d32cafc4d1a
+FileChecksum: MD5: 19471ea774a33369a50cf692b7047f4a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/line_outage/__init__.py
+SPDXID: SPDXRef-item15384715
+FileChecksum: SHA1: 9961d5a8fb1c7e75c8342b6d512c3f3c2daf203c
+FileChecksum: SHA256: e8e994f22864a4bb7b69ec5391d87e2619de07fe8ff0b153f72c72df17a15ad8
+FileChecksum: MD5: 5e2b5edaf38980675bd7fb8b1a61282d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/phasors/__init__.py
+SPDXID: SPDXRef-item15384712
+FileChecksum: SHA1: 2054ac3d10a7f55ae194e4d2423e31d8d822aa13
+FileChecksum: SHA256: 5d79d148e4dbcf73475c5c4ec24d57998188e7ac73326ae5413e8cb80c7cfbbe
+FileChecksum: MD5: 991c41811c5913a40c2d79fdf5428866
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/time_window/__init__.py
+SPDXID: SPDXRef-item15384732
+FileChecksum: SHA1: 59b4d795e813ab55aa6c6d3fc99806a424304a29
+FileChecksum: SHA256: 8ece6add525815c01927ca23fb9df1a622282294f7bb53d3e417c005aeb37dba
+FileChecksum: MD5: 88ebb4dfdc5e64fb0373391dfc8fbdee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/__init__.py
+SPDXID: SPDXRef-item15384719
+FileChecksum: SHA1: fdd07161516ada64ef558d4c06c45efbcc3deeec
+FileChecksum: SHA256: 5c690c4aa8801937e89d5235d812e93be9e80988ede40362f40c49b2428b2710
+FileChecksum: MD5: 6c78e1ea7301fc9f3729b632f1f61253
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/__init__.py
+SPDXID: SPDXRef-item15384370
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/offline/__init__.py
+SPDXID: SPDXRef-item15384383
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/__init__.py
+SPDXID: SPDXRef-item15384362
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/__init__.py
+SPDXID: SPDXRef-item15384356
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/__init__.py
+SPDXID: SPDXRef-item15384394
+FileChecksum: SHA1: 209a53a0375f33a55548886996e800232c2cbbf0
+FileChecksum: SHA256: e5f504cda2b9c13e6c47d4ae4b47cc413fd90c1f580edefeb4853c0de48fb157
+FileChecksum: MD5: b306bbcdb7f26212c0259ef6c9a4108f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/styles/__init__.py
+SPDXID: SPDXRef-item15384405
+FileChecksum: SHA1: 25812e65f18cc2c9862f4c79b3647b98e2e6651d
+FileChecksum: SHA256: 16917882b2addcbca1dee6d01dfae247c8b68a3acbaafaca5f1699dd9dc5ea69
+FileChecksum: MD5: de1cf4420d572f513a71ab07ef0f4186
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/islanding/adapt.py
+SPDXID: SPDXRef-item15384725
+FileChecksum: SHA1: 558f31f55a16815312ae6300ae9127fe979c532c
+FileChecksum: SHA256: 6c2a8df83900a8fd4ae977c1eb43f70d8214fd69699f80b4c81181469e35f378
+FileChecksum: MD5: 948ad06c400b986caf7607053a761144
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/coordination/alarm_handling.py
+SPDXID: SPDXRef-item15384511
+FileChecksum: SHA1: 39df2e668bbe013d6af150f4a58c92d22c47209f
+FileChecksum: SHA256: 9c363d9ee0b639613b321f088ecd51396fc5a9954a00f7faaa8ed2b1b9db009b
+FileChecksum: MD5: 2356f04ac977fc653573035acdbf7320
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/alarms.py
+SPDXID: SPDXRef-item15384429
+FileChecksum: SHA1: f4d3f389c7398bf4603e0999797d77c3377e1b78
+FileChecksum: SHA256: 19e3c624b7229f34e0bca75f392d431667589fa1d49397d1e08b15298c9045c6
+FileChecksum: MD5: 4fde30ab6672d8fa3edbbb6a221dc1c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/time_window/api.py
+SPDXID: SPDXRef-item15384733
+FileChecksum: SHA1: ec06aa140b9996fc11b49d43a77fd0e9a6c61b1c
+FileChecksum: SHA256: 0f72f18a6c51c986f7eba38ff478f20c774165765d7681cbce128a6a46804442
+FileChecksum: MD5: 63584cbb388e04b7f2fff5d9c16cf6ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/grid/api.py
+SPDXID: SPDXRef-item15384730
+FileChecksum: SHA1: feef29cb2ad8e8c2a4876009fdb18571f752c836
+FileChecksum: SHA256: 24d49a38157aa24c0789904c811c0869d3b29b1519cee1618fee86fcd16f65d2
+FileChecksum: MD5: 1cf5af6582926f5d85ae4468f0213852
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/islanding/api.py
+SPDXID: SPDXRef-item15384726
+FileChecksum: SHA1: 5b163b81e27a6b2941846794cda96625227f8e91
+FileChecksum: SHA256: 744c59fdefc41523dae4d836d518f5fa382b061e3bdbffa9f7792f839bc3a26a
+FileChecksum: MD5: 222260dc999660fd4dc6e6e280b7eb8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/app_status/api.py
+SPDXID: SPDXRef-item15384708
+FileChecksum: SHA1: 9e56e0515932cf262651ed739da7335c241af5c6
+FileChecksum: SHA256: b1b359a54491c3fbe80a92a521556e3a9a097c9e93668b0e754a1a5d0e3b5c7a
+FileChecksum: MD5: 7e7768c5dc0fcad5aadf7861d74df44c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/line_outage/api.py
+SPDXID: SPDXRef-item15384716
+FileChecksum: SHA1: c0ac7d05dd08ee31c475e30fe38929ba7ad0d7e5
+FileChecksum: SHA256: 650aee556bca330ea6c1f44d7a6afdb3a58973bd810f4357e11d9ed01b4bc89c
+FileChecksum: MD5: 1994df424427a08d7b1a9680e2fccabe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/phasors/api.py
+SPDXID: SPDXRef-item15384713
+FileChecksum: SHA1: 682b387d883b3b419b53638e333447d46ef64078
+FileChecksum: SHA256: 0e87770fdbea0708e973ec587fb4e03d7db494113854119782e35b2a3d775616
+FileChecksum: MD5: a28d9f660f4fe2944ccb02ebecf71c3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/app_launcher.py
+SPDXID: SPDXRef-item15384418
+FileChecksum: SHA1: e8f9d7a0b3ea75e27b5823fb1be2bb78f0681eda
+FileChecksum: SHA256: cecfd375c15dc3b6117bfc609602da552b2f674f28e6bb4e5c7f476a55fa0dc5
+FileChecksum: MD5: 3b593d6f835c4b6515fc0b4173f95b62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/app_monitoring.py
+SPDXID: SPDXRef-item15384465
+FileChecksum: SHA1: 4676812cdc1fbd8db0f59d60c439cfc00d68dc6a
+FileChecksum: SHA256: 9bdb31439822a4f101f6a0a056e2b946b3278b9fc07776f98484ad68c416cee4
+FileChecksum: MD5: 2d382bbd13cc1a67fec4c8a29320dd47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/base.py
+SPDXID: SPDXRef-item15384400
+FileChecksum: SHA1: 1b34e1f530984063fac3bfc0efd119120b6c2477
+FileChecksum: SHA256: dad03d8ec2ae26076f0b5ac694feb07f1734e75195bd7c4db41296d8b3419d1c
+FileChecksum: MD5: 8c08e77384315f4bf493c28c27f0ee79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/database/base.py
+SPDXID: SPDXRef-item15384388
+FileChecksum: SHA1: db4a6bea5d2750a4ee1158d5ccef81db0ad73141
+FileChecksum: SHA256: 1f0b6a891f65a43e3cb01c9de744f8d6c6f2d4b5d7ae7de90d7623b02a81568e
+FileChecksum: MD5: bc5bebf4f96b011875a05ea47548eb47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/base_plot.py
+SPDXID: SPDXRef-item15384439
+FileChecksum: SHA1: 9283dc2095640d0438dd411e1631bb4b12206a4e
+FileChecksum: SHA256: 169d5d90d9b0115f8bb8b48d5a8b8c73ee13993bb9f3d5f553c5728e0ef39e7d
+FileChecksum: MD5: c9a81702e1ff1ce901dfd928122d1866
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/base_plot.py
+SPDXID: SPDXRef-item15384453
+FileChecksum: SHA1: de71200067e84197a931b63aeef8882284e486b4
+FileChecksum: SHA256: ef222f93c765b7a146396a414f5c311debd54bec6f8b3464f3ce395c02fc456a
+FileChecksum: MD5: 937577693a5049da4c1ae365bcd39299
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/base_plot_layers.py
+SPDXID: SPDXRef-item15384455
+FileChecksum: SHA1: 47c2e62937237e79fbb95289c58d95e211decea8
+FileChecksum: SHA256: 0bca40f3e4c5adb7e069871837ff45d7252620accf7d6c4c5466305152b0b431
+FileChecksum: MD5: 7994915f77e5562d6f15b972b1ca078b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/base_plot_layers.py
+SPDXID: SPDXRef-item15384441
+FileChecksum: SHA1: 72739151cc32b2fb8a4f0ccd03615a7fe596f763
+FileChecksum: SHA256: a3fb6490e784530fbc7461c79faa86886d2aaf0ab638e026d1df49d7a2394c9d
+FileChecksum: MD5: c0bc1fbf751217bc01a731c449813dc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/bus.py
+SPDXID: SPDXRef-item15384727
+FileChecksum: SHA1: 956530c67a4f1e7c3e55585a5f65693919286ad4
+FileChecksum: SHA256: ee00be4588b2936a49a85ecf7082021917c748b927fcabdc241889465990307f
+FileChecksum: MD5: 3c13ae0debbd12ff5286c1eb52e975f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/models/bus.py
+SPDXID: SPDXRef-item15384348
+FileChecksum: SHA1: 70d1ee3cbd5a61ca4bf64b00af23c22fe7c9fd9e
+FileChecksum: SHA256: 1bd325fc37e383b0f7fdf038ea93c69f33fc0e8b1c3ec70121d99e3be680f70d
+FileChecksum: MD5: b2ec731a8fc6376b9d505782d3eb268c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/buses.py
+SPDXID: SPDXRef-item15384432
+FileChecksum: SHA1: b722bf3e67025f51991f20d57089761dd5720e0f
+FileChecksum: SHA256: a54a6a586e352eef3ffdb7c510902fd709bd663789a39427a36f9630ea995d83
+FileChecksum: MD5: 17c9b0231a586132ade7bce3447dc4d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/buses.py
+SPDXID: SPDXRef-item15384448
+FileChecksum: SHA1: fae4577f4bcc0aecd46c79156cabed306992ff54
+FileChecksum: SHA256: 771dfe27f0748e1760423d8df6d0d77239beb77cc973453e15b20ad7a12fbe53
+FileChecksum: MD5: a2ca7a656b72c524a734bd85aea2ad9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/channel_select.py
+SPDXID: SPDXRef-item15384488
+FileChecksum: SHA1: 6550b0cb367f536649b4ba1dd6f98a1dfedd2409
+FileChecksum: SHA256: 277fdb48079340af0530213a9277ff3598bea6e6648750bb7608f61b5eb8c065
+FileChecksum: MD5: 683a24085f2b05d1401cea33cd8fe89a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/components/channel_select.py
+SPDXID: SPDXRef-item15384460
+FileChecksum: SHA1: fd1c4f4da2addfc41538a9e306cf7a94b8cd864a
+FileChecksum: SHA256: 1968bd9fa30a9130ace1d0bac9a5505746508694c2a0f43d16cb78df66b25873
+FileChecksum: MD5: b936158c0d7cb0b46ca6ced2877bb720
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/components/channel_select_geo.py
+SPDXID: SPDXRef-item15384461
+FileChecksum: SHA1: 6eb5d44bbc79d5dac39dc16fa0cb2d3eb7c50027
+FileChecksum: SHA256: 71185da592ea47c3a34d659431e8fdb72e39e219309034d509e45c2f9e69830d
+FileChecksum: MD5: 4f4a250b41152c447b72b00ca9dd3ecf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/channel_tree.py
+SPDXID: SPDXRef-item15384487
+FileChecksum: SHA1: c27a620b03526c60c16b76945d9007ee50f31656
+FileChecksum: SHA256: 2263439070f545de6be5d7c786c4bf745797961fda188214a6e50ed170cbc557
+FileChecksum: MD5: 62d2c922d8422de54976f2f7597ca217
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/channels.py
+SPDXID: SPDXRef-item15384694
+FileChecksum: SHA1: ee603c623c3d29964cdd6732f07120ee9ceab53c
+FileChecksum: SHA256: 2870ed23d2f1fbe335bed7843020278fccee836c48ed2595e06310d1737cd010
+FileChecksum: MD5: e61c11c3ac16a5b90a4e0b33eb742d7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/styles/colors.py
+SPDXID: SPDXRef-item15384404
+FileChecksum: SHA1: 7988917ce2d38243c20a2bef7b1e985ecaeff5d1
+FileChecksum: SHA256: 795a2a48eac6e4a2fc5f71221893362db62d4c63957ddccb03832a609e1081f5
+FileChecksum: MD5: 1008835286ede73c711401bf99db6065
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/countries.py
+SPDXID: SPDXRef-item15384437
+FileChecksum: SHA1: f261c52f6b60445151a9d93193fb6907afb7319f
+FileChecksum: SHA256: b5b59c08d37714f52bd27b7c24dbc1704aad3664a924f5142a08cb41b7adb380
+FileChecksum: MD5: f22d48ae74bc9085d5b80cfa5f99a030
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/countries.py
+SPDXID: SPDXRef-item15384452
+FileChecksum: SHA1: 18bb3196863654afd824d78ddab907d6899c4d7b
+FileChecksum: SHA256: 88f27d55f91f937c58fc562cdadc92ea87f252873976d38a351e2e9d44653dbd
+FileChecksum: MD5: d7e7fd53fe2c8eb7d5598e0e1c65ab17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/create_database.py
+SPDXID: SPDXRef-item15384378
+FileChecksum: SHA1: ca56414a276af3cdbc1d39cc5da2c08d68c60e1f
+FileChecksum: SHA256: 154619228ee35ca8c5237c02a44769912de769710d3fa23feba94ca749d45a92
+FileChecksum: MD5: 087b67d6940780197bacc712f4c364da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/voltage_stability_viz/dSdZ_plot.py
+SPDXID: SPDXRef-item15384506
+FileChecksum: SHA1: a77c1bedd00eecdb6518c30066efd5004c50b66a
+FileChecksum: SHA256: bf558e4676675284aaac9af6285bede88b5da739f31db74db6cc876ef233fbc1
+FileChecksum: MD5: b871547c3e4326112a7210e1a452547a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/data_frame_generator.py
+SPDXID: SPDXRef-item15384353
+FileChecksum: SHA1: d185fe46e10e98c4ab6a4543149e7bc42ac625e6
+FileChecksum: SHA256: 6a8cb910bb5c29c7ce2746e8492656834b48224769d9ed4cbfaa5ee8e4b8a2bb
+FileChecksum: MD5: 98bc054c77e949887e2e8a3fcd7d5247
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/data_reader.py
+SPDXID: SPDXRef-item15384354
+FileChecksum: SHA1: 0753695d66b45a1616bb1cd9f1c0a917d954187b
+FileChecksum: SHA256: 24c8557fc5af2295a781e46fabd614ae209e41c4cca754d71ad227847818dde1
+FileChecksum: MD5: 616f70c7e48442af416166bc93cf0915
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/views/default.py
+SPDXID: SPDXRef-item15384415
+FileChecksum: SHA1: 94beeeb3af59a49864547583de8a3ea9f6c41816
+FileChecksum: SHA256: 4f2054db56d8b217e755f22b43fb7d09689cee9ffdab1f94d950b6f12a115fa2
+FileChecksum: MD5: 47d6d4356f07b2e64270f75e57673576
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/default_config.toml
+SPDXID: SPDXRef-item15384363
+FileChecksum: SHA1: d02f4edbaa132a162f416c4a87b0eace20710234
+FileChecksum: SHA256: a56a4925daaf46a04cd673408ee2eb6448b5c8cf7131cb91f836acc57a45e4e3
+FileChecksum: MD5: 82da230bb4f21a5ead3f798821d39cb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/tools/dump_openapi.py
+SPDXID: SPDXRef-item15384749
+FileChecksum: SHA1: 72abbfea7257cb4c3015caadb240137780270ef9
+FileChecksum: SHA256: 8f64b7d28260e8634437a5dab8f5a468ffdb4523c734d69d3ea42e9c94bb5e56
+FileChecksum: MD5: f5418af400bf61481a260e0047cc569c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/eigenvalue_plot.py
+SPDXID: SPDXRef-item15384509
+FileChecksum: SHA1: 81f14f93edb826dcfa7f91b486745a2af5d07509
+FileChecksum: SHA256: 12f31bf4e7c5ba3ec712a7e6d002d7d0179bf4f6cede67c708f8874046ec7acb
+FileChecksum: MD5: 2cfec71300b67294a163b3b5ddb9ae79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/exceptions.py
+SPDXID: SPDXRef-item15384457
+FileChecksum: SHA1: 65962a45c060c7d7370234482de88a8ea155e2a4
+FileChecksum: SHA256: f32eea44eca4722962fc6bb728ca8a68017e1a36ebb8014755a928b59500cb42
+FileChecksum: MD5: 890af2ec55b14c91698e4c7929756e67
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/monitoring/fft.py
+SPDXID: SPDXRef-item15384468
+FileChecksum: SHA1: 5f1d7f4d500c30112d6b143726a05f0cd7210ab1
+FileChecksum: SHA256: de081d76321cb08c592484bdef55f525f9c1cf6c4d40c4a1bfc1f9865e528693
+FileChecksum: MD5: 0050ffca9e563ea37a4709c06b9c651d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/monitoring/fft_v2.py
+SPDXID: SPDXRef-item15384472
+FileChecksum: SHA1: 3a8232a7eaca6a7a17a64a4f0540ef5826b7841d
+FileChecksum: SHA256: 97869f7fb4a4fe1a19ea1e9280d0098e6d669313e5bbaee163448ecdce3b3978
+FileChecksum: MD5: eba7fc9401c4da41e6cad42ff0b22f6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/fft_viz.py
+SPDXID: SPDXRef-item15384503
+FileChecksum: SHA1: f1afca79f0609b6330a77c05e0d3b074260bf218
+FileChecksum: SHA256: 5e26d70317ed666fd1a6cc75c97590808461b01a98ab4d04d7190a92b928e2e8
+FileChecksum: MD5: 84f4011355635d522bc26050dae58c94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/fft_viz_v2.py
+SPDXID: SPDXRef-item15384508
+FileChecksum: SHA1: abab95f97243647d4ec59515c8ed397bc701531c
+FileChecksum: SHA256: be1aad4d8fcd7e64ceeb9f4caf4047288358d30dc13a1d3f454bb941fd5c89e9
+FileChecksum: MD5: 06d0df65cac8d3026537dd2436adbd71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/freq_heatmap.py
+SPDXID: SPDXRef-item15384483
+FileChecksum: SHA1: af11cc6e540f130a84f83bd93311097beca2bf86
+FileChecksum: SHA256: 61062ac9631a9714942486bf5ffc6d3302dfd62bd62ef225ac728a534fe70a68
+FileChecksum: MD5: 5889785069258619ae5dc120d58386fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/freq_plot.py
+SPDXID: SPDXRef-item15384482
+FileChecksum: SHA1: a7d5bf832c00b69ac0a943541e507e4e8e1924d4
+FileChecksum: SHA256: 15633e31ed8ec8e5f5d5dd2db97fae18e78b5f8c8f314c427854e9d7f4352978
+FileChecksum: MD5: 57c8e567eaeac45b37a3e3b3877e8e00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/frequency.py
+SPDXID: SPDXRef-item15384438
+FileChecksum: SHA1: c99e97d587da0796deed2850310752a873f3e5e8
+FileChecksum: SHA256: a7007799df4d8b0f7735d6e5f3fd82c357f32f2987811fc3f174e232b3a032f8
+FileChecksum: MD5: c9e6811dec1a4c38cc2642efe75ec972
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/generate_pmu_data.py
+SPDXID: SPDXRef-item15384384
+FileChecksum: SHA1: 9e941693967412aeb5f95703e0712bbf37e5eada
+FileChecksum: SHA256: afc8fd33cd95da441739cd97c425c27b13128026b34a609c1f6595c30163fdc9
+FileChecksum: MD5: bbc2e617badcee82c24781bad80fa32c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/geo_plot_2d.py
+SPDXID: SPDXRef-item15384494
+FileChecksum: SHA1: 34f8d8be0e2745b02ae0ba37f6d9430399be5bc6
+FileChecksum: SHA256: 6ba6c6489075e5a3bc06cda10f905a0b5e4090fe77cb1fb33e828711c1aee9e2
+FileChecksum: MD5: 5f25c1bf0ef35e15a94364c2f5f3d8cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/get_station_coords.py
+SPDXID: SPDXRef-item15384338
+FileChecksum: SHA1: bfeb886dc5577478b0cc7e4945eb2f1605da4f53
+FileChecksum: SHA256: 23e147c2811fe2ae6c4ccc4c749b1948ac1383aef71abf99ca55d6b94a760a25
+FileChecksum: MD5: 949bc1e040cac49e14e061ab4cb11a55
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/gl.py
+SPDXID: SPDXRef-item15384342
+FileChecksum: SHA1: 9f84e272be2f43d554eafe6bd82b60f16357f744
+FileChecksum: SHA256: 74004ae0f4a80abf2fb8eb72894aa750fd9e9b0f589cda60de33eb27facd83fa
+FileChecksum: MD5: a2ee03af7eec2932965571049c11d44c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/grid_events.py
+SPDXID: SPDXRef-item15384435
+FileChecksum: SHA1: 1dfec3133f33359aa355d2e028e42d2de61b4aa1
+FileChecksum: SHA256: ef38ccd3543ef3db49ea246f26223db55770724195f46cd56eda0b448f316b99
+FileChecksum: MD5: 66efdfe75a17efcad2a28ab6a40169e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/grid_model.py
+SPDXID: SPDXRef-item15384721
+FileChecksum: SHA1: 58bc02b52ecdd3e9dfa893c19b255ae987caa03f
+FileChecksum: SHA256: 77267ebc4d9f75b7b703cfa91fbc060be98d3d7e24d3ff7cb552a0583713fae9
+FileChecksum: MD5: d3dadbf00a97081a3939003716c136ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/grid_view_container.py
+SPDXID: SPDXRef-item15384456
+FileChecksum: SHA1: 555d64a1a9411afd4443d839bd2c4b6ac3834025
+FileChecksum: SHA256: def40c5faf30eda43121c166c9fae962cfc6a488fa2d87686889b60d145bc70a
+FileChecksum: MD5: 2920f272f2b30a03f86d84b2c12f3f47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/handling.py
+SPDXID: SPDXRef-item15384408
+FileChecksum: SHA1: 922d344afddd17543aa666de72ceb5809c4ed377
+FileChecksum: SHA256: eb188c6e0d92482a69e1ed9172d76f9b3fce45b25ddaa283ae6475a027144b94
+FileChecksum: MD5: acfd4d879b16131febb36fa9f8684913
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/heatmap.py
+SPDXID: SPDXRef-item15384496
+FileChecksum: SHA1: cd4471f7ae90a6fcde2e4046a1999da20df9f87f
+FileChecksum: SHA256: af57e155b0d50bee0a6018d2a383317a0c48f322876a870f50e061052b6a34a6
+FileChecksum: MD5: c5e603f19e3f13ea6a7ee5b43ade6621
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/heatmap.py
+SPDXID: SPDXRef-item15384450
+FileChecksum: SHA1: 1ce53776fe1bab9d69400905b3b7344e64c708e1
+FileChecksum: SHA256: 6ee710aa835720f8b05640a3e9f3919b0fbf6b12ef6bbc96138e33b75123fe7d
+FileChecksum: MD5: c6cdcc0d07864281e4628996a838d395
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/hub.py
+SPDXID: SPDXRef-item15384722
+FileChecksum: SHA1: e459df42e4ff518f63e99a3c50ede19069316fd5
+FileChecksum: SHA256: 3b855e18976901774b48a6e7ac70e51b12d093f49ea00a852ac3c6e7c239c926
+FileChecksum: MD5: c90ec9f7646bbde1b02253858ab67347
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/views/interactive.py
+SPDXID: SPDXRef-item15384411
+FileChecksum: SHA1: fa50381ca40ab9ec0cfd8517e254e68180bcb775
+FileChecksum: SHA256: 68345e5e3abacfedd5b35e38fb57919ba38bd9e7cf2bf796baa8fe724a0f55e0
+FileChecksum: MD5: 5739f7cb5bc55f7cb81f722c91dc6608
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/interactive_python.py
+SPDXID: SPDXRef-item15384336
+FileChecksum: SHA1: 9cdf404caf0ead3435225b8722fe628f9053548f
+FileChecksum: SHA256: 88b154193e1064344288b67564839a5c7fab914b37cda66cbe8111f1f4b96954
+FileChecksum: MD5: 443ded0762aac0f61ac30899c7ebecb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/views/islanding.py
+SPDXID: SPDXRef-item15384414
+FileChecksum: SHA1: 80b499daeda6e15cae9960ce5382a3f9f2b1e24f
+FileChecksum: SHA256: 61fdc0076c5847dc0685db8225377d5091708f5dfa8f01352910a8441dbab580
+FileChecksum: MD5: 85320ebab8a0e14dd096a1efb8f0b68a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/islanding.py
+SPDXID: SPDXRef-item15384434
+FileChecksum: SHA1: 6aaa7c80869a217f1106f6f6efb286d1c50e2201
+FileChecksum: SHA256: c4553d663109ed7c8611f3eb22bc603b566f4843abe877a3c8df5024af2d7a71
+FileChecksum: MD5: 50e858ba3c7eca6fa402bc40e87a2990
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/monitoring/islanding.py
+SPDXID: SPDXRef-item15384471
+FileChecksum: SHA1: 8ab548bfae9ed366a37f2b3edebc247680f5609c
+FileChecksum: SHA256: 149cd955e85ea616003362c0463c14fc7ef392a3b040c22e37174e01916c2fc3
+FileChecksum: MD5: 492b2bf569ecb70e8b858c263916dc45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/islanding_alarm_view.py
+SPDXID: SPDXRef-item15384551
+FileChecksum: SHA1: c24b85512b8ade18d4847cba65e66cd3148ad606
+FileChecksum: SHA256: e4dd11e44ff90bbe67afad1eba637fd946012362d74ba258ce582526307dbbb8
+FileChecksum: MD5: 20655ec750a5f1ed13bfc0bd35144c6c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/kafka_io.py
+SPDXID: SPDXRef-item15384397
+FileChecksum: SHA1: b9d5f8b96a459a10650c44edc25e3fec97e2b16c
+FileChecksum: SHA256: 8612ac7dc36b52439566f3fe2c7b64b901a9304302e41032b8c4fef2c369ebff
+FileChecksum: MD5: 561cdcbeced7fd58d539ac6d35a4f1b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/kafka_streamer.py
+SPDXID: SPDXRef-item15384352
+FileChecksum: SHA1: 70c4a48de51d95202dfb0bad3c62af1340ee38d1
+FileChecksum: SHA256: 077ae7baa39e382054c34a48ce048555690f4683dd865e53d2cca93941ab3888
+FileChecksum: MD5: 2e0861382e81297d0899160f8e02fdd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/label_widget.py
+SPDXID: SPDXRef-item15384493
+FileChecksum: SHA1: eacb9a713b0f7474021f3654ffebcb695c800613
+FileChecksum: SHA256: 696fedd4717d5b6c1e1124ab59414da2339d2303045705629feb5aebd76f17c4
+FileChecksum: MD5: 6ac1dc002686d70fa0e378dc6dbfb938
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/layer_select.py
+SPDXID: SPDXRef-item15384420
+FileChecksum: SHA1: 7003fb1a9d3732301e180b1154a28060d3bf2f5a
+FileChecksum: SHA256: 55088ec4742769fc84fc018edcde2a269fcc4f93db7075a4a2ad3d4188807dda
+FileChecksum: MD5: 95ea67fe23959653f00819314b3afcfa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/layer_settings.py
+SPDXID: SPDXRef-item15384421
+FileChecksum: SHA1: 9fd86658ef6377f071e546bffbc5f7d4b5d7a87e
+FileChecksum: SHA256: 52532804b46ca2f9a8ca6a3e820a3bb41e9097340c6369fce02e75cf16013ded
+FileChecksum: MD5: 68e1b94c34b751fafc32961998e5e007
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/layers.py
+SPDXID: SPDXRef-item15384446
+FileChecksum: SHA1: 3f6b8435cffbd46358c2af62c50b37682bcf3a02
+FileChecksum: SHA256: 4c1934be5d1090bf8db5853e00d4ff0025efa63b41702ecfc4a39bc8abf647cb
+FileChecksum: MD5: e816024a7e3d60f061b1fec444d24fc5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/models/line.py
+SPDXID: SPDXRef-item15384345
+FileChecksum: SHA1: feb7bb98f3b5f1ab4cc8a0cabbc6a285efffd521
+FileChecksum: SHA256: 6cf7106aa3a2feada8100f2a8199fbd045e1016fdcf2417769db2cc1a0e9e483
+FileChecksum: MD5: d6457fdc8768ba23393bae7657efb1dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/monitoring/line_outage_detection.py
+SPDXID: SPDXRef-item15384473
+FileChecksum: SHA1: c72753729cedfdb85caff46515c565b34a604445
+FileChecksum: SHA256: 38f13ce42e4811c2a4f06aad1dfcbd074680acd978e17e1c5e51567d42c0b47d
+FileChecksum: MD5: 1b431387a2498ddc8feddee2eac5c86d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/line_outages.py
+SPDXID: SPDXRef-item15384430
+FileChecksum: SHA1: 72f1625a3bef1e364b30556d4bd9f2a90adc25f2
+FileChecksum: SHA256: 61e2e05b960c163e05a171a91b87917e95bec663887509f3461a37d23c88b482
+FileChecksum: MD5: 5af095d04f661a7daa40b58f63bfd474
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/lines.py
+SPDXID: SPDXRef-item15384447
+FileChecksum: SHA1: 97512a06c555fb6bf966a21ee7a6f7c283c7ccfa
+FileChecksum: SHA256: 65be0829359ba2032805fa152cac2d52c00907a51a1afbe3507c18d660fd35bb
+FileChecksum: MD5: 10ade7dee4ebbf73a6d18e68b4e9ee81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/lines.py
+SPDXID: SPDXRef-item15384428
+FileChecksum: SHA1: 8e42a67ea4381c18d05e7f635a9eb3c9f61a3bbb
+FileChecksum: SHA256: d6a46c1bc5c538c61d8ffe667c938fbe71a8936096c9aa330abcc3048681e3ee
+FileChecksum: MD5: 33eea1fe7d82ca9310501ae47a4d445d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/lines_freq.py
+SPDXID: SPDXRef-item15384425
+FileChecksum: SHA1: 35d634db8f817e401574bc28958d06a927b3125d
+FileChecksum: SHA256: 81ec5127b79630ac4b7dbb626238cc929f8326b5d0d02231c87464fc1fa0ba3f
+FileChecksum: MD5: 8c4b95e7f0c0d7cc2c853537aba73a15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/models/load.py
+SPDXID: SPDXRef-item15384349
+FileChecksum: SHA1: dc8f399bebaaa4323994f806b0fec02a409121e0
+FileChecksum: SHA256: dc72e74e30adf406e1131b23bcff370915a1f735c0b9c0e6ede7460a8c6ff5c8
+FileChecksum: MD5: 476105954bd91ecc0177ca17f11b22a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/load_config.py
+SPDXID: SPDXRef-item15384337
+FileChecksum: SHA1: 9bc990489d5585de235105b6989095e938371acd
+FileChecksum: SHA256: 23b98dc05596c273c40ab1eb22e72fb1610fafff226d191b52e5878ba55a9353
+FileChecksum: MD5: a3f5d83c28542f0b51f55053609035d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/log.py
+SPDXID: SPDXRef-item15384718
+FileChecksum: SHA1: 6f5bbd602f40889a4ba5a8aec93219154fea5558
+FileChecksum: SHA256: ff606ef9b75c3b6db0a41988b3479f853982026eb479d2ed7146524aad64fd57
+FileChecksum: MD5: 5c2a52451cb0ccaec3d5182d99a4c9d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/main_window.py
+SPDXID: SPDXRef-item15384466
+FileChecksum: SHA1: 0f42c0bef9ba5d2e6ed7c17a2aab779c2de52d37
+FileChecksum: SHA256: 0e7911896bbce05170b50f04dd122908468544fb48f03d0f94efbaa87cdac4a9
+FileChecksum: MD5: 319c0ea5445164ae7258a2bd69b0a73a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/minimal_case.py
+SPDXID: SPDXRef-item15384376
+FileChecksum: SHA1: 89d7735e1befbba5b636830b944b1698a36990f2
+FileChecksum: SHA256: 00be7406e90688cf5fd42c971aa074a8fd09c7f4d1f1e1681a211dda71c58f8a
+FileChecksum: MD5: 2b1694ac3cd193698ce16e01a869026f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/misc.py
+SPDXID: SPDXRef-item15384334
+FileChecksum: SHA1: 8f2e07b6749d21e89d442495af83b01c7143995b
+FileChecksum: SHA256: 21612249135934ecd3d9388cbc303fe69e7f0eb2e77e45b616662b10bde5d2bb
+FileChecksum: MD5: ffbafe2ab0eb6debe56bf1376120016d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/mock_case.py
+SPDXID: SPDXRef-item15384366
+FileChecksum: SHA1: 31c5f9f8ae73563398c44fef8f83d0b54c66d33a
+FileChecksum: SHA256: 45af3a7235f1c5d6cca00be92e1c202a0f65d075f71b89e2facb5429f5bc695d
+FileChecksum: MD5: 1d15994395359ea61495160e7e591214
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/mqtt_io.py
+SPDXID: SPDXRef-item15384396
+FileChecksum: SHA1: f2638b5074fb6289e1767415a96036352bf92342
+FileChecksum: SHA256: 376f739e160c4b078b1c435a8b95e8a2479daec94a432794e37d2a5aaf953e77
+FileChecksum: MD5: 80cf010db838d08cad9d6fd5385d09f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44_mock_case.py
+SPDXID: SPDXRef-item15384365
+FileChecksum: SHA1: 58c04f27c5a8f75afca27186c3b7362b2fbe23da
+FileChecksum: SHA256: 5a1336e970128bb3dd9ba28e0451a0ac6ddd857ed8721d98e4e6d307a775f069
+FileChecksum: MD5: a9a7a75d75cec39ae7f99f0c922d45cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/n44_rtsim_offline.py
+SPDXID: SPDXRef-item15384368
+FileChecksum: SHA1: 6306520e5c86833634955a78427dc254f30f2228
+FileChecksum: SHA256: 2ec0847bed82f8872b875bf4212b183ec58b08e55da3b8c8aee005beab0957bf
+FileChecksum: MD5: 95ef9201f7e95f1ab2b5783949e6cab9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/monitoring/n4sid.py
+SPDXID: SPDXRef-item15384469
+FileChecksum: SHA1: ed729e7b188b0432e6d9a5ae47d58f7d259f83de
+FileChecksum: SHA256: 832f2731dee5364e9b90eda1325920d9f1775834debebf42d90ecc518e007804
+FileChecksum: MD5: 5d7a7110bff6eab35d927cf6d1d6e359
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/n4sid_viz.py
+SPDXID: SPDXRef-item15384475
+FileChecksum: SHA1: 1e9928715a47274b741964f9a592e41d47edf0cb
+FileChecksum: SHA256: 7b3c4285bcef3fb567c2527c4fbe91f01064f6750fa0c1961a68834b0afa271d
+FileChecksum: MD5: 682ba299b2e9eb22c6a964134aa35b3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/nqkafka_io.py
+SPDXID: SPDXRef-item15384401
+FileChecksum: SHA1: d0aa792710332be3457907f95a26cc3d16e11224
+FileChecksum: SHA256: 155a753728dde064e4c8ff2ed6f9e6d4edbe1ff04b684dc2b68395f1e445b3a6
+FileChecksum: MD5: 424d2073b464a8b8fa8f6dcfdc3679a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/offline_testing_adapter.py
+SPDXID: SPDXRef-item15384358
+FileChecksum: SHA1: f5b4a96241c69559a2a4273e51c4833a15c26c94
+FileChecksum: SHA256: 8a6faae5b7f938682e46ca3fd1171d478596bdbf5dee2343dbce5d3f35b06fdf
+FileChecksum: MD5: 58edab1cfb3198082a33ab66c8634d79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/views/oscillations.py
+SPDXID: SPDXRef-item15384416
+FileChecksum: SHA1: e640544d869f0ff87c10056c977af2f5b298a806
+FileChecksum: SHA256: 004d807e7d4244a3600d7dcd2c11fbc98501d236f0f6719b2c0f76c48df34b54
+FileChecksum: MD5: 3b9e1dcf8b3d160a042f7f23cfdbf5ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/oscillations_alarm_view_se.py
+SPDXID: SPDXRef-item15384560
+FileChecksum: SHA1: 5b41afac7e20356935ab29ca009b4c1cc117e607
+FileChecksum: SHA256: bf92a4871fa04f81ab761d5c0db781ceea3418dd1e294b006405ed16a4a89ec3
+FileChecksum: MD5: 04cfadb642d46dffb7a0f4ef60631f4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/overview.py
+SPDXID: SPDXRef-item15384417
+FileChecksum: SHA1: 677e8cc74ea4c192dc40b4dfd5c57a6aa39de8f4
+FileChecksum: SHA256: 311a440b6a1f1c5f7fded77481457dee99156069e1909618c477409fad32cd32
+FileChecksum: MD5: 8c6c7351d375d3ecde09be3d2818d0ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/phasor_plot.py
+SPDXID: SPDXRef-item15384489
+FileChecksum: SHA1: 96b00edf59ce1b05d6dd4cc60f8a2a4610f838b8
+FileChecksum: SHA256: a1f898f1d3b3690e1142fb89c22dd834c9f924a9c5bb2eb4606090d7b63bf1bb
+FileChecksum: MD5: a2b23dfd314124e511b1d4cb4d67e6e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/phasor_plot_3d.py
+SPDXID: SPDXRef-item15384491
+FileChecksum: SHA1: fbc72782ac40e2d291396c532955829717653a39
+FileChecksum: SHA256: 00c7452fbb0119e08f440ef4fafebfeae85a655699ab72e0447527c048be24ec
+FileChecksum: MD5: 2ce669bb2bf02f3c1217f60db3c2d562
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/phasor_plot_3d_fast.py
+SPDXID: SPDXRef-item15384498
+FileChecksum: SHA1: 917f180abe2e3cdab88b93251c3dd2366e41b5bf
+FileChecksum: SHA256: 356c7ba5f7f40ffa466cc4fbc36d5fc5b52c8b50c8dad1ce6620ff69d85d707f
+FileChecksum: MD5: 4c4d6774c577f359eb9a45ce4ac7fdce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/phasors.py
+SPDXID: SPDXRef-item15384426
+FileChecksum: SHA1: 3685df1115fc694da08cf186e626d8c151cec39a
+FileChecksum: SHA256: 1cc29a0c7a1bc72eca57f095c5a9a3848ce52f7263c0468de2ef5943d8f6fa47
+FileChecksum: MD5: da81662177519a121fe4f8cd70a83bb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/phasors.py
+SPDXID: SPDXRef-item15384445
+FileChecksum: SHA1: 7926a79d0e5e4547e93175e718aafe67817c364c
+FileChecksum: SHA256: 5eb856f12107b572b023bd3b41fef16927717332c4ac31993c4cc94d02c60d1a
+FileChecksum: MD5: d02f8511977e49b6ae5d57b6109d297a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/playback_gui.py
+SPDXID: SPDXRef-item15384357
+FileChecksum: SHA1: fd1c170a6773265111d37ec5357a0f1f7d586a0e
+FileChecksum: SHA256: 3902030fb3dc5c18d7026d1897f548f66c0c894e8150abe9df167f74d4172981
+FileChecksum: MD5: 2f6a8f2c82479ca79b0af2aff0ee3995
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/pmu_csv_to_kafka.py
+SPDXID: SPDXRef-item15384361
+FileChecksum: SHA1: 4ce17207f35a77977654781592f7f74647d5c56d
+FileChecksum: SHA256: 9ace9d15cc1c2d1ca40b2951a5294187aa9a58381bea5632b99ff4cebd5b26f6
+FileChecksum: MD5: 71a2d6dd951bb75641cae86eb55ff117
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/pmu_rtsim_to_kafka.py
+SPDXID: SPDXRef-item15384360
+FileChecksum: SHA1: 6dc05e635bb1e7d33bf7388a10e7e046c3aa97ce
+FileChecksum: SHA256: 52b7a1be266969dc206b962d0acb255d4edecb7e9f9cc93c0eafbeb9029f979f
+FileChecksum: MD5: ae71b4b62f5e7d21a93f6c1bf062b7c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/pmu_rtsim_to_mqtt.py
+SPDXID: SPDXRef-item15384359
+FileChecksum: SHA1: 6b8370bfab849340925aa7da8fe0e0d774767192
+FileChecksum: SHA256: ec0389a525b5ceba15c12b0ee3269257843d123e34ddecf95ae964a51e1723ac
+FileChecksum: MD5: c9e28f7cb9b388728e22697c71af262e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/csv_playback/pmu_streamer.py
+SPDXID: SPDXRef-item15384355
+FileChecksum: SHA1: 7092746df1b0111baaefcafc4010ce4bb1db9f01
+FileChecksum: SHA256: f101179a0dfac0d83ffda0efcb69161bd5899c991b694c8c2774d87645ddc809
+FileChecksum: MD5: 3ad2992411adcd3a89117adbbf46ba45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/pmu_time_window.py
+SPDXID: SPDXRef-item15384339
+FileChecksum: SHA1: f2840051396e02ddc8b2a668d242f2f48ad3fe1b
+FileChecksum: SHA256: 151701faca58f4606365cf7388eddf19ff7a16552b1ae89d35ec8a87b7081bfd
+FileChecksum: MD5: 159948d39a548e345f13e7d967d8a1a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/coordination/pmu_to_kafka.py
+SPDXID: SPDXRef-item15384513
+FileChecksum: SHA1: c09ac1ea5a63421776130fee4356ba3ba7d73a25
+FileChecksum: SHA256: 15929fde7d7c21383e0e278aa6f267ae72bf4a62c7ca96ade14cb1ebe6c617ff
+FileChecksum: MD5: dddd8ad0ae32b371b83f216eafa92312
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_2d/layers/pmus.py
+SPDXID: SPDXRef-item15384451
+FileChecksum: SHA1: 61523ecddab760c8618daa3f5c22751c9bfb16b1
+FileChecksum: SHA256: c2bb60ed69f811d2873e2f50bbb6ba368a97be1eceaebea6b0c5a13af9398e49
+FileChecksum: MD5: f5daade4ddf003f8fbcb417808b0f78b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/pmus.py
+SPDXID: SPDXRef-item15384436
+FileChecksum: SHA1: b5d9891e725a9b374dd71a390a3c9c7322c475d6
+FileChecksum: SHA256: eed234f34d7887713e106ce099c71ae1b063a88e963949b47197efcae680dac3
+FileChecksum: MD5: 235005ad515f1ad32410bbba4d067666
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/pump.py
+SPDXID: SPDXRef-item15384717
+FileChecksum: SHA1: 5d27e6a3e0005db825ae19cad5b69bf5a156e631
+FileChecksum: SHA256: e9594cea3cbedb1f5df048a1c8d9d53d989e393e77883e6ca48632e9e3f694d6
+FileChecksum: MD5: 7562193c7b0f151f71d4ec65bd80f404
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/pypmu.py
+SPDXID: SPDXRef-item15384341
+FileChecksum: SHA1: 211b654bf5d354bd9b1ee67c529e9e03cfa8e4cd
+FileChecksum: SHA256: 7baec789b897cd9f1855718bb128866798db8c00bf5e6ca8d6ae78b7bdd35997
+FileChecksum: MD5: 0296c137155155c4e0a2c398401cfbb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project.
+(c) for _, c in header] elif stations is not None and channels is not None: stations = np.array([s.strip() for s in stations]) channels = [np.array([c_.strip() for c_ in c]) for c in channels] elif dataframe is not None: stations = dataframe. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/read_database.py
+SPDXID: SPDXRef-item15384377
+FileChecksum: SHA1: 8b40ea373c51d06ba967c313189a175ce8145957
+FileChecksum: SHA256: 02aa8c84755d6ac430f5fd6daf638a73ff21a5bd91c2540f918638085848ecb5
+FileChecksum: MD5: c327800438a9ca6c53349167721ecdb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/countries_geo_data/read_geo_data.py
+SPDXID: SPDXRef-item15384477
+FileChecksum: SHA1: 21e7d78057b5270ec26cc97910fc28629f8e4ba3
+FileChecksum: SHA256: 912731372999312cb6a71a77512f6563cd715ce4f84af75d2c79e2456cb423e4
+FileChecksum: MD5: 9e88d6826868f91429868bbc47634eb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/models/reader.py
+SPDXID: SPDXRef-item15384347
+FileChecksum: SHA1: fa43b23e8d59f9687ed29d001cda307d3ef62ff5
+FileChecksum: SHA256: d0ad29c0f0c9aa7de8c3d905cf415c715d03178917ce2f28e95b391a76d59184
+FileChecksum: MD5: 81e91893f63154a67cc67fc491509784
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/tools/record_n44_dataset.py
+SPDXID: SPDXRef-item15384748
+FileChecksum: SHA1: b9eb5c550ea8f02ba218174e39e93359932ac3d0
+FileChecksum: SHA256: 1c71803cb3fe6ef794a724bd92771107049b934143cd14f8072c7290ad4c39d9
+FileChecksum: MD5: 411c5229df0b1181b0c0969f61411e65
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/recorded_io.py
+SPDXID: SPDXRef-item15384709
+FileChecksum: SHA1: b47817dd9ac27a4b84aa80eaecbadcfe62496877
+FileChecksum: SHA256: 051f938e2d1b234e15b029a1cc503dcc5afed68f6725163d3132ae210c805b6b
+FileChecksum: MD5: 04f655b94688a2db7360f57cab873a74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/replay.py
+SPDXID: SPDXRef-item15384720
+FileChecksum: SHA1: 2acb67c545dd9c56d570c2aa8264b20494471640
+FileChecksum: SHA256: 35b081fc2d21a65ec4b0b33ee639ba83f4cf4668319defee40a8a5f9943a7610
+FileChecksum: MD5: 303bdae54a1e3c464b3f2fc805944de3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/offline/rtsim_adapter.py
+SPDXID: SPDXRef-item15384380
+FileChecksum: SHA1: bedfab5f0e9ee3b15ead6b1ebbb2d7ca688f010c
+FileChecksum: SHA256: 05fa8eadc2805a485c4874978a84d8348fd395f5bae4c87c2d3c7763bb25fb72
+FileChecksum: MD5: d60ef5bb4a25b694d55d50e29ec49b90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/components/run_app_dialogue.py
+SPDXID: SPDXRef-item15384459
+FileChecksum: SHA1: 9220d28eeb437b8a347b9aa4bf597a2c4a79b941
+FileChecksum: SHA256: 2b2c47799811a09658f0cb6a2750002656fd365ac5cbcaf402622250ec6c2707
+FileChecksum: MD5: 2b0b61857c71c0896091bbb596e3b3c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/runners.py
+SPDXID: SPDXRef-item15384385
+FileChecksum: SHA1: 3439f1a51849038b8821145c9c7f10b4eae8454e
+FileChecksum: SHA256: 9f3c22c9d4bdc7c028e59f9bcd22a1496bb70c337f7b681cd165331a825b097f
+FileChecksum: MD5: 48d58b5cab9e4edee4da072ad0761dd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/offline/sample_dataframe.py
+SPDXID: SPDXRef-item15384381
+FileChecksum: SHA1: 39f466c51a411041f6d9a5209995c2a4c5475dd5
+FileChecksum: SHA256: a94aff4ccf38aba1f261525d4172f83272af8f66ac197d44072f6f87212f1275
+FileChecksum: MD5: 6d55fe5acf97529f6b98a4a48b9ed929
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/sessions.py
+SPDXID: SPDXRef-item15384710
+FileChecksum: SHA1: 35e44cd1621c4972ba16fdec954683edd5cecb09
+FileChecksum: SHA256: 6e7be13892bb44491eef6146758443391da178d6065a3ac076d79235eeb49cb0
+FileChecksum: MD5: 30cebb19b16041be043f7d64fd8b8374
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/sim.py
+SPDXID: SPDXRef-item15384373
+FileChecksum: SHA1: ba0945ac8ca3bf72eb9b923c7bd26d6f193d00a2
+FileChecksum: SHA256: f4d1614dfa3711b26856b7c3a533d6a6ffe26852991fdde71c36b737d0ea9792
+FileChecksum: MD5: 4bb63c4602334549e023eecdf9d83ae0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/components/single_channel_select.py
+SPDXID: SPDXRef-item15384463
+FileChecksum: SHA1: 8957844963bf353f60de34369a11179de55d8179
+FileChecksum: SHA256: fa1cc3c7b94bb389eb10941ab5a978830e732ef7d3e5771eed3d67abb46f5a0e
+FileChecksum: MD5: a7b8f18bb25e0bffba627871695ebaaf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/single_line_diagram.py
+SPDXID: SPDXRef-item15384343
+FileChecksum: SHA1: 26b06606a17d0ec07cc384724bc4211d62d4f6d0
+FileChecksum: SHA256: 46ccd3a7a86b8e1a1413bc88efe1feec6eadcf1b1b817d27ccfe33396ebb2c4f
+FileChecksum: MD5: 55f6c172785c1651387c1baac2648de2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/single_line_diagram.py
+SPDXID: SPDXRef-item15384499
+FileChecksum: SHA1: 6827a7895f156a09d99d48565f90b4978500de4a
+FileChecksum: SHA256: c8ce44a794a481adbc72a1f0b7fe2499c0d913083a771793b919fe81aacf8c2b
+FileChecksum: MD5: 0e1e259231790a7fe73de467e8cfa1fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/tools/smoketest_reference_subapp.py
+SPDXID: SPDXRef-item15384747
+FileChecksum: SHA1: 28bdb555c8cafbc774562c88ba6e862c50d7b4dd
+FileChecksum: SHA256: 0846edc44cd0cf5cec4f7b0d56665f479ee16cf3c657c4ba7c6c13268c4e54c0
+FileChecksum: MD5: a6ac5d4843b347d069259066c9e54fd0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/app_templates/snapshot_app.py
+SPDXID: SPDXRef-item15384390
+FileChecksum: SHA1: bab6b1d2949be8028d2a3c9d54e5e0e871f4302e
+FileChecksum: SHA256: c0d5fec1c9ae9880a2a8d68b0be2b7edd3e4d30eadb5f58ecca7a8bcf2de5e5f
+FileChecksum: MD5: 3088eb9426f67e17021fb9163267c4d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/app_templates/status_reporting.py
+SPDXID: SPDXRef-item15384391
+FileChecksum: SHA1: 574de8f22ef1bd35b704acfcbec294780203bcb4
+FileChecksum: SHA256: 137be5c9d24ad289b5dc3ad50fadf8e2ac7fe2f2d03552cd2f0a02c38d50e2a9
+FileChecksum: MD5: 762217a16bb1a873817bde9774b5cbf2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/stores.py
+SPDXID: SPDXRef-item15384695
+FileChecksum: SHA1: c2a98f2771a2b8a145b067066bd597bbc0841e27
+FileChecksum: SHA256: 856dfb3ff43d1336effaf08112777acf7bf15801b2887ae020d9bbfc0400cf69
+FileChecksum: MD5: c92eeea4fb2afc314583e1cb37ceaaa8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/surface_plot.py
+SPDXID: SPDXRef-item15384497
+FileChecksum: SHA1: 08e75335c5693b34206dd64136549640270cb00b
+FileChecksum: SHA256: 62b6428df1af3f9073e2679b923ed70674608c3b575571c87af8abeb3e8b51b9
+FileChecksum: MD5: a0fd03e80da7a4dd6957dd0b90043e9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/tab_widget.py
+SPDXID: SPDXRef-item15384422
+FileChecksum: SHA1: c90da228398fb3737764cab50a32d5fc09ca33e8
+FileChecksum: SHA256: fa07287c612451ed16587ef82965f94171b421e3b7e9035848abfa5d0278228c
+FileChecksum: MD5: 52678b995537562933c2e1f0332a96f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/tests/test_hub_registry.py
+SPDXID: SPDXRef-item15384687
+FileChecksum: SHA1: cb3687c5f870b70ef2392ef10be3861598796e2d
+FileChecksum: SHA256: be6bfc4ff4b7471e55fadfb1f73f3b39ef32b8666b911430224035c01ead0095
+FileChecksum: MD5: 82df3ca1b4d9d21ebc63951b385c528d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/threshold_adjust.py
+SPDXID: SPDXRef-item15384486
+FileChecksum: SHA1: 2f1e23ab4cfb60889778731183a7f197be6b0dc2
+FileChecksum: SHA256: c0e0416d5acbd9aa308d5df6244f2071be0b7b9be3360d9be87483750fcc156a
+FileChecksum: MD5: b674d942b2213c545a0080c091759725
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/time_series_io.py
+SPDXID: SPDXRef-item15384399
+FileChecksum: SHA1: d61ff564617285ccae08d6fdd12936380ecbaafa
+FileChecksum: SHA256: b1261610a61c2b32257ffdb355f5d3cdeb3d856dd4a00d1bfc6160ad27447e46
+FileChecksum: MD5: 94c0ceaef93289fa115762e8c6842967
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/time_window.py
+SPDXID: SPDXRef-item15384335
+FileChecksum: SHA1: f5ecb8a05627702bf83d950a03729fba4cba1102
+FileChecksum: SHA256: 5b31b6d7758d86e750060dd35da99d31f0f717dfb6b42b6f0f41eb4f0b2d2e4d
+FileChecksum: MD5: 2c1b32ae5f321bc7bfc4df39ac59380d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/app_templates/time_window_app.py
+SPDXID: SPDXRef-item15384393
+FileChecksum: SHA1: cb1c3e1622e79b2213d35eaf6b06063709f306e4
+FileChecksum: SHA256: 5b05a23328d79d57fddb21d43202ca8becc97c7365b5cae5c3b0b56f68d41543
+FileChecksum: MD5: 282898cc3915fca5527a12e65d05d73c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/utils/time_window_labeled.py
+SPDXID: SPDXRef-item15384333
+FileChecksum: SHA1: c6cc7a5d042ae43c6456238e020483f4b9c19642
+FileChecksum: SHA256: e3f41b12e7edeea778c6334d11f872321f2d236331462c57ba91dc2c0953fd1c
+FileChecksum: MD5: f5df890e320da297a48843cad37bf131
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/time_window_plot.py
+SPDXID: SPDXRef-item15384481
+FileChecksum: SHA1: 6f4cc2667eefdf60c011c5ad87192d698949e6a0
+FileChecksum: SHA256: 182d590f0bd9945518f8a087cce94773ac06694482ba3b0362a7770b2c0f432f
+FileChecksum: MD5: c17c3c3f5c8a5939d428eaefce1a2a90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/time_window_plot_v15.py
+SPDXID: SPDXRef-item15384500
+FileChecksum: SHA1: 99bd7952691abfa69b12c29b8a224719ccf1b275
+FileChecksum: SHA256: f51553a050cb7e3ceb2a97bbb551520088f15b3df9841e0fb3050b0996017684
+FileChecksum: MD5: 4a5a7e958e88b9480c709338d25ca5c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/time_window_plot_v2.py
+SPDXID: SPDXRef-item15384484
+FileChecksum: SHA1: 3735d982f70c8a5930984e455b26e1a94d3f6ea3
+FileChecksum: SHA256: 094bb6a5a0be6d9ebc324a83a18a23c9d3a86e0eef8804bda36556cf4abd6658
+FileChecksum: MD5: ce572edd2a9990ac11cad3cda1003509
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/components/timeline.py
+SPDXID: SPDXRef-item15384492
+FileChecksum: SHA1: c502b7c47425e971af9cea3c911dab284a65fb81
+FileChecksum: SHA256: ad105a4358d0d2e1cfe21fd47a61da0adc798ea2d5b7f6eabecdca0e1431f0ab
+FileChecksum: MD5: 5df0eb464549d7763cb0e8706b9bf2cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/offline/topic_getter.py
+SPDXID: SPDXRef-item15384382
+FileChecksum: SHA1: e4198f59942dcf00107af07f29143472b379c6cb
+FileChecksum: SHA256: 79d11c8442e4be3142e54ff5bb7946d6771d90a4ac0cfcc875a24146869b0df4
+FileChecksum: MD5: 5945fc6df1109a7ef62b8add17a75062
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/streaming/utils.py
+SPDXID: SPDXRef-item15384402
+FileChecksum: SHA1: 0d6162da22699642d4d8fc8b3582cf887da0e66b
+FileChecksum: SHA256: 3fe8a71d9282d28c20a423428f122e8b7056e4766911f6abd7834c5b69755412
+FileChecksum: MD5: 75b5e2c90c71f575063973f735269536
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/voltage.py
+SPDXID: SPDXRef-item15384427
+FileChecksum: SHA1: 2f9913fba11c08f2d069fb58978016ce0a4b1cec
+FileChecksum: SHA256: 2142fed4073d4f81cfeabf8c055f9fb482039924aba0a569a7f553be509f404f
+FileChecksum: MD5: 92b17cd78d22930e09c698e05733a5ce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/voltage_heatmap.py
+SPDXID: SPDXRef-item15384502
+FileChecksum: SHA1: 3e169ba91a97639642a8f2a6b01f85d8d968344d
+FileChecksum: SHA256: b4d61baa1f4d03d62cfb1ab5b3951ca87e84d1588ec0516210b1014ad91fe18f
+FileChecksum: MD5: e6b6798328a05ca3bc9444b3678291bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/voltage_phasor_plot.py
+SPDXID: SPDXRef-item15384504
+FileChecksum: SHA1: 880cd6f67f807d760b9e9ed2fd3bf73dfe0c13e5
+FileChecksum: SHA256: 65a9bb6f4a3d8d6eef1852fa29bf16980ee1478b1f2287e38540923aeba7d9d6
+FileChecksum: MD5: b2b3db8ad2db51ace5f2bcbb44f1a0e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/grid_view/dim_3d/layers/voltage_stability.py
+SPDXID: SPDXRef-item15384431
+FileChecksum: SHA1: 29747fad32b4f1507a68be295cdedbdc8689735e
+FileChecksum: SHA256: a74309f9ceb40722676d14dc08683826c1a4df94684b7084fb5b6ff19d13a75b
+FileChecksum: MD5: a3d44f7c136c3d2ebcdc6e501c95d5f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/gui/alarms/views/voltage_stability.py
+SPDXID: SPDXRef-item15384412
+FileChecksum: SHA1: eb42ef9e3e06c257373f64e851eb169aed14e9eb
+FileChecksum: SHA256: 1238959aba11044cb0680aab4f2d2171d7b762358eac5f257daf4d049d9124ea
+FileChecksum: MD5: 34789bd243c1879680c9ff5fd4b8af89
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/wire.py
+SPDXID: SPDXRef-item15384693
+FileChecksum: SHA1: f641c44d9eb0bfd70b5f0cd08e534b6770386c4b
+FileChecksum: SHA256: 2bddb7865bf2f26d2fddf861280e8134ec3812561f81a194894a4ab6aacbf8fe
+FileChecksum: MD5: 972f262538c4f46b5759dcd0315a24f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the p-SWAMP Project. </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/test_run_simple_case_kafka.py
+SPDXID: SPDXRef-item15384291
+FileChecksum: SHA1: 3154ab573fb94c4e7236f462ab34c8c33efa3784
+FileChecksum: SHA256: ea3e313149d4b55cec3f11ce4e3b0468cc1603547366c83147f9006be8513db2
+FileChecksum: MD5: 10784fdec3ea577f61c123818bb54844
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/test_run_simple_case_nqkafka.py
+SPDXID: SPDXRef-item15384292
+FileChecksum: SHA1: ae009fe75c64315b120c09e302197cc482d191e0
+FileChecksum: SHA256: dcd5b7824a5a48e7086b256a4e9a0eaf5f0781ba934c3b80125c9268570777f1
+FileChecksum: MD5: e81dfd0694abe333caf6d5bf68704dab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/test_mock_case.py
+SPDXID: SPDXRef-item15384293
+FileChecksum: SHA1: bd7f17d248aa05bd58e129c57e4701fae2680ae4
+FileChecksum: SHA256: d29b40122875f0bb12051e83070d283f92e65ef71bb6d03b04a73604bacebe5c
+FileChecksum: MD5: 8a1b9bed1de43626ce1ed7ff07eeb585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/database/test_db.py
+SPDXID: SPDXRef-item15384295
+FileChecksum: SHA1: 62fd8be2613cad360018ae6327d940e572145706
+FileChecksum: SHA256: a9b6162158a8db6bcf56c77a2ea95845109f9002a57ca274ba92ba23010ef15c
+FileChecksum: MD5: 97866e2b1c6047a4b632ff138049f69e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/app_templates/test_console_popup.py
+SPDXID: SPDXRef-item15384297
+FileChecksum: SHA1: 79cfd8c7e7965f61b8403a6c83f2410e6382124c
+FileChecksum: SHA256: 5bc972ab5518ba42cce538ba535fcfe973a8c7c4bb091c269f26915bc261dba3
+FileChecksum: MD5: 9cd308e99cd5238c3cc5e37a06beaa84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/app_templates/test_snapshot_app.py
+SPDXID: SPDXRef-item15384298
+FileChecksum: SHA1: 857c19888f4a88f27adc05fee5f4b24097899ab4
+FileChecksum: SHA256: 28272a08db20a1c57618b790950a53939a154f5a4ba3b324382944d5b787bda2
+FileChecksum: MD5: eab7457cbc8789202c4ca51377bab745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/app_templates/test_time_window_app.py
+SPDXID: SPDXRef-item15384299
+FileChecksum: SHA1: f8e93184ab7242f12e0af836d516aeb4daabdabd
+FileChecksum: SHA256: c2a311b9e802578cfc176430e33cbe9871fbe3b3eab353ab3dd6743b79993c2c
+FileChecksum: MD5: 5a0732b95cc7d1671ba7ef3da57be0f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/app_templates/offline_test_2.py
+SPDXID: SPDXRef-item15384300
+FileChecksum: SHA1: 9f6310f9822a1b3cf8105fd4c50642d57d0d0aaf
+FileChecksum: SHA256: 50818cee79c00207cad12b2f60c306e4c46d0947627f41744649b4b0522c06a7
+FileChecksum: MD5: 6b713fe99a8b043fcc5519d957d28730
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/app_templates/__init__.py
+SPDXID: SPDXRef-item15384301
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/config 2.toml
+SPDXID: SPDXRef-item15384303
+FileChecksum: SHA1: a6e82793b37e5179b9e96137c1ca47523032fd13
+FileChecksum: SHA256: 83f635e5012a393125fc42619a06a2498592af994ea093e672e81969c2811cdb
+FileChecksum: MD5: 2a88be05fddf3fff3bd5e3502eab8ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/load_config.py
+SPDXID: SPDXRef-item15384304
+FileChecksum: SHA1: e90976a24385c78525843dad23ef6db38a84d667
+FileChecksum: SHA256: 92468bf5d9c70230d49afdaa83324e47bdff7b6b64e32aef6d4f0bc810e583d5
+FileChecksum: MD5: bffe89367b98224d764ec10765c9241a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/config.toml
+SPDXID: SPDXRef-item15384305
+FileChecksum: SHA1: a6e82793b37e5179b9e96137c1ca47523032fd13
+FileChecksum: SHA256: 83f635e5012a393125fc42619a06a2498592af994ea093e672e81969c2811cdb
+FileChecksum: MD5: 2a88be05fddf3fff3bd5e3502eab8ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/__init__.py
+SPDXID: SPDXRef-item15384306
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/rel_dir/config 2.toml
+SPDXID: SPDXRef-item15384308
+FileChecksum: SHA1: a6e82793b37e5179b9e96137c1ca47523032fd13
+FileChecksum: SHA256: 83f635e5012a393125fc42619a06a2498592af994ea093e672e81969c2811cdb
+FileChecksum: MD5: 2a88be05fddf3fff3bd5e3502eab8ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/rel_dir/config.toml
+SPDXID: SPDXRef-item15384309
+FileChecksum: SHA1: a6e82793b37e5179b9e96137c1ca47523032fd13
+FileChecksum: SHA256: 83f635e5012a393125fc42619a06a2498592af994ea093e672e81969c2811cdb
+FileChecksum: MD5: 2a88be05fddf3fff3bd5e3502eab8ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/load_config_test/test_load_config.py
+SPDXID: SPDXRef-item15384310
+FileChecksum: SHA1: aaf20a091bae3f4668ff87163b1a6ccccdba30d7
+FileChecksum: SHA256: d511ddc5d984a52d37c8d9178d4e92f297c773e69632a7ab5f6d5ad016d28965
+FileChecksum: MD5: d36713012c95a032fa3ddf9d2ce4113a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/streaming/test_nqkafka_io.py
+SPDXID: SPDXRef-item15384313
+FileChecksum: SHA1: cf3ce42330b700ac9522e8739d4de023d707d214
+FileChecksum: SHA256: 8374555d0dd56b8bbd8a4cba6141c59dc09a4705ff099e62c4141bb4329b884a
+FileChecksum: MD5: c04dbc7fa0c120d39135e1239b5c06f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/streaming/test_mqtt.py
+SPDXID: SPDXRef-item15384314
+FileChecksum: SHA1: c3f4b1f2acc0819293a4b9ad6e681b1ecf5b90b7
+FileChecksum: SHA256: ba2ed8166429ed6389d784ed0519dd5b5173a0337fde29592a7480623dc021d4
+FileChecksum: MD5: fb7a570a2c891b36e28b9bed9cf0c750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/streaming/test_nqkafka.py
+SPDXID: SPDXRef-item15384315
+FileChecksum: SHA1: 33509a4cffa71bc28e5107825f810399515fa046
+FileChecksum: SHA256: 0685666dd27c7a60e0b3943fab6d8f89fb534f3684fb4f2f3104ccad3021e415
+FileChecksum: MD5: fdfe645723a6addbef6cafdd732d861c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/streaming/test_kafka.py
+SPDXID: SPDXRef-item15384316
+FileChecksum: SHA1: 0c445f987cf5f55816c287d2b229cc378b1cf6d9
+FileChecksum: SHA256: 6739c79a965fc3894316404a3a9cbd2167c54a3b5718d20bd84f14f40b1af15b
+FileChecksum: MD5: d9e526120ba8a85b5e393f4aa29142dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/monitoring/test_islanding.py
+SPDXID: SPDXRef-item15384318
+FileChecksum: SHA1: a19a9dffe53b9602c46c25c355f437191aded773
+FileChecksum: SHA256: b2243f137c4cebc0f33d3a8812ee06aef9d55b69b0d1cb740bbee335b255d0af
+FileChecksum: MD5: 0420940e98e90cfebfac1e7c6c45ac69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/monitoring/test_time_window_labeled.py
+SPDXID: SPDXRef-item15384319
+FileChecksum: SHA1: 7c8071d3d84004bf3eb85839e48b78be96d7a5d7
+FileChecksum: SHA256: 045e0518cbbe27c6327711fb21dba140f04aed2ea4f3d141731b2d7648c0d89c
+FileChecksum: MD5: 77a092c38fc6a00f9c2ecd43fa7c4228
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/monitoring/test_n4sid_offline.py
+SPDXID: SPDXRef-item15384320
+FileChecksum: SHA1: a812037b37110db5bf49d493329400c3503dd9f6
+FileChecksum: SHA256: 16c11120d322da417efa621c6eb58649a2d4e9c456d21fbe71d1247cbe056eb8
+FileChecksum: MD5: d7f97c68414fe2c8a5b0ce070043a996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/monitoring/test_time_window_app.py
+SPDXID: SPDXRef-item15384321
+FileChecksum: SHA1: e7aee9789ec9c7fbe3a95040af842584d1393b35
+FileChecksum: SHA256: 98a3a4c03c3b06ec04f635ca2ae8d18f99b12615ef22caad3dbf6f4223d8ea87
+FileChecksum: MD5: e69c99c90865314414abacf1f836e62b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/monitoring/__init__.py
+SPDXID: SPDXRef-item15384322
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/tests/visualization/components/test_read_geo_data.py
+SPDXID: SPDXRef-item15384325
+FileChecksum: SHA1: 801c27c8af24d316b81ba6e5348ee7c2f2d54e2c
+FileChecksum: SHA256: 41d92ed225caec09dbbc9d12be9cbf00723b57b50b1a07115bfaf77815a8d0b0
+FileChecksum: MD5: 0dbf4e126d43aad2416cc49253550243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/CODEOWNERS
+SPDXID: SPDXRef-item15384326
+FileChecksum: SHA1: b150ffe7eaaed23ef05d1572ad1ba352d2c82570
+FileChecksum: SHA256: e09d88b645367816bdc26887a8a000e51290fae2e181c2ada9091ac60a6ee3dd
+FileChecksum: MD5: 369595b45128cc9fed00149b169172a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/pyproject.toml
+SPDXID: SPDXRef-item15384328
+FileChecksum: SHA1: 5f41c0d73cddbe27ff0f41c2bbb1afab77426030
+FileChecksum: SHA256: 2d74fca2de55bb8e3783f132f1dcfe57d19f0dba01e4a986c99171c577f9d157
+FileChecksum: MD5: 77694c993b9392e7ecafeeb0545a848a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-MIT-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/CLAUDE.md
+SPDXID: SPDXRef-item15384329
+FileChecksum: SHA1: 8de8b6f3877120c705dc30c03b204e3021e45b5e
+FileChecksum: SHA256: 27921f4d6d0257e0fbf53cb90d355311c09e344f491156eeccecf6f913a578fa
+FileChecksum: MD5: 6a830c840fbee3dbfe18e1bba47d68a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/sld.dxf
+SPDXID: SPDXRef-item15384369
+FileChecksum: SHA1: 6a96ab460526774cdbe52e5df31d325c333d3768
+FileChecksum: SHA256: 5c9fc97a46bc84f8be703ab8594251d551f363ef6ac82e3ece2447298d68c9c2
+FileChecksum: MD5: 18e74a8a9d3ca011c6a0235a39f14e74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/sld_geo.dxf
+SPDXID: SPDXRef-item15384371
+FileChecksum: SHA1: 6edc282e3809d905997e023ce8d9e26a5c8dd670
+FileChecksum: SHA256: 53e814530e2678cd0928011fe4a68637b89feb0043547c34dc4e34e64b843e0c
+FileChecksum: MD5: a8e8b699af585c2f6ac8e15c280c5cda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/model_data.json
+SPDXID: SPDXRef-item15384372
+FileChecksum: SHA1: 952f13d8c90f759d4464770314d2123814ebf9c6
+FileChecksum: SHA256: 56f1e3b412ccf3f486b1758cd28ab9bf151408850d2e641b696e98607f62be52
+FileChecksum: MD5: 70f7e4b99d17958bb46323731ccad0c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/test_utils/sample_datasets/n44/grid_database.db
+SPDXID: SPDXRef-item15384374
+FileChecksum: SHA1: a2809337c8dcd881b1e863b1a8ab7733a5baba9f
+FileChecksum: SHA256: f5c30fdf1c4b7d8bbd8532f1eb94d48c04eb5ac71d82deba28004b0b5a7cf4d6
+FileChecksum: MD5: 0735a04dda4436713adbf3abe438b834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/countries_geo_data/99bfd9e7-bb42-4728-87b5-07f8c8ac631c2020328-1-1vef4ev.lu5nk.dbf
+SPDXID: SPDXRef-item15384479
+FileChecksum: SHA1: dc2be6170a2790791e937267a9e512ea3a2387e6
+FileChecksum: SHA256: c5895fa230287af7c87043c389b9453f111878644832edc5799d4c5f117642a3
+FileChecksum: MD5: dd7311db05c84be9d1c684f8fc204a71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/src/pswamp/visualization/countries_geo_data/99bfd9e7-bb42-4728-87b5-07f8c8ac631c2020328-1-1vef4ev.lu5nk.shp
+SPDXID: SPDXRef-item15384480
+FileChecksum: SHA1: a9cc53f5fbd2d6cb30afdae5f273da45c34d5865
+FileChecksum: SHA256: b0dac2eb7b461f8fa297fad4ce9383161b9a1407be605e870c9c9823191e1f6c
+FileChecksum: MD5: 880d978f8d2163148d2477bbcafe746e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.github/copilot-instructions.md
+SPDXID: SPDXRef-item15384515
+FileChecksum: SHA1: 5c8eba89ad047e127b7dd5a5521d2c97ab7ac0f0
+FileChecksum: SHA256: 9f7c63dcc06da518562e98bbc37256d6c3e03b10c09474ac7d1b8d59ab20e55c
+FileChecksum: MD5: 2576b18e41f9568a9b47e88aa3050bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.github/workflows/quality-checks.yml
+SPDXID: SPDXRef-item15384517
+FileChecksum: SHA1: fda6162a7c1cfc7c8b6de5829c959a3418a109af
+FileChecksum: SHA256: 4a38503d23b14d7245a5f5ad4cbcc075cafea83f2f8eefc36b8377dc42282027
+FileChecksum: MD5: f35cf1c5fcd4069f139a0c7c6f5581dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.github/workflows/build-container.yml
+SPDXID: SPDXRef-item15384518
+FileChecksum: SHA1: 8c1dc1e49abb7db39a16c0a06fe74145a89c67bf
+FileChecksum: SHA256: 78ad1784c89be7e5e268ed485c1e6537aa3c5452227d5873def1dedc516c0676
+FileChecksum: MD5: 5f16a43cc8da1f6d2901bc6c834272ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item15384520
+FileChecksum: SHA1: d4d0535646cc3a56a4c49dda4d96f3d14247aa5c
+FileChecksum: SHA256: 71464d355510290cfc8da2075953b3fd2045ccb78611d9145f60ca4178b64e6b
+FileChecksum: MD5: 16d04bbffc604c3fb828ded96f36e764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/k8s/p-swamp-local.yaml
+SPDXID: SPDXRef-item15384522
+FileChecksum: SHA1: 6a25fb48f75cb142550f0adb8fde3b1897a2208a
+FileChecksum: SHA256: 4e60e49c9ae1b047ee932f3e21fc9c92097c555eeedec0249dfbbe4560ca08f8
+FileChecksum: MD5: 945f10c15e39e7e4e55486c7196b3f22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data/model_data.json
+SPDXID: SPDXRef-item15384526
+FileChecksum: SHA1: 952f13d8c90f759d4464770314d2123814ebf9c6
+FileChecksum: SHA256: 56f1e3b412ccf3f486b1758cd28ab9bf151408850d2e641b696e98607f62be52
+FileChecksum: MD5: 70f7e4b99d17958bb46323731ccad0c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/test_sld.py
+SPDXID: SPDXRef-item15384527
+FileChecksum: SHA1: 0488d26d592e3768cf624cd5ab238d78d018cdcc
+FileChecksum: SHA256: ea4a6bbee73f24eb3fbccba5cbfc9cb7861ceff5a181ba6c5d583b1af58be14d
+FileChecksum: MD5: 41a042b63b372b4d18a4aaac10ec5c99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/run_sim.py
+SPDXID: SPDXRef-item15384528
+FileChecksum: SHA1: 7982d0ac816f389f248b41affe015f0d18738359
+FileChecksum: SHA256: 31a4b6e7855c38ec2233e6593bcb405c6b9c5b35d04001876fee7a3af460c683
+FileChecksum: MD5: 4ed460557ccc826acdcc8dc4c2b2e574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/pswamp-white.svg
+SPDXID: SPDXRef-item15384530
+FileChecksum: SHA1: ed508e305eea12153f104f1c118b6501a2a45ca3
+FileChecksum: SHA256: a64326a62d116ac4884dc7b9a3502acb962f1a29e0c8750f3a79adaf012cf57e
+FileChecksum: MD5: dad684e6dda1ce49eceaddf352a7594e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/pswamp-black.svg
+SPDXID: SPDXRef-item15384531
+FileChecksum: SHA1: 635328f7081d3d5c445f5078d5019594edf7207d
+FileChecksum: SHA256: 02db22ef0e219cf82fc4c480bfc94546181552fcb6882ecf934ddc40ddeecc13
+FileChecksum: MD5: ba89c925ddb207c31c18c4d687fa8c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/pswamp-notext.svg
+SPDXID: SPDXRef-item15384532
+FileChecksum: SHA1: 76f013c467cf40fdeac7e6558b4212a362374cd8
+FileChecksum: SHA256: 3caa427cd1a252446945d18fe9ebd445cd7696dbd9ed7f8e79cc36e972629562
+FileChecksum: MD5: a942072609b98972bdfc099bf3673647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/svk.png
+SPDXID: SPDXRef-item15384533
+FileChecksum: SHA1: b7de7d97806d1f9f5c172751f74cc02d138bb644
+FileChecksum: SHA256: 6a0f30bb9236f27c10fab9772535dc4914b40b45738f433c89f4eaea610462ea
+FileChecksum: MD5: cb7938b1b0a6e18bd1f876994a72c677
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/fingrid.png
+SPDXID: SPDXRef-item15384534
+FileChecksum: SHA1: 06fa53e09813159d02ad673b3d9949f4ce3c34c6
+FileChecksum: SHA256: 8be66314ea00ae3b8d3231992ae6efd67ee64be0e46f51eed6d646fa454fb408
+FileChecksum: MD5: f9139e0a3f6c67257c856b79b1ed757f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/energinet.png
+SPDXID: SPDXRef-item15384535
+FileChecksum: SHA1: 83aff862147a1a16aff16895c7e8086eb222e4d4
+FileChecksum: SHA256: 6ca1698693d59e26fe4db1e09a9fa6eb10ef30bf375262e668bd7fbacc2fcde7
+FileChecksum: MD5: 74b9395903d1b62183fff9c14db1495f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/pswamp.png
+SPDXID: SPDXRef-item15384536
+FileChecksum: SHA1: ee8a8ddc0e0c314f8263d5ca39aa7b9292a83e81
+FileChecksum: SHA256: c72ae44baed8628a5c39872c2abe9195d9d042ddd60d605bf97b682c42766549
+FileChecksum: MD5: cf989ef5a6267c1c692e0365b76872c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/pswamp.svg
+SPDXID: SPDXRef-item15384537
+FileChecksum: SHA1: 576155f9b8a38b4fc88548dc896b99612f20235f
+FileChecksum: SHA256: 173d78bd34715f82b871f363b9024ebd4246f5468fdd71d90e747df6e36b5f8b
+FileChecksum: MD5: eaae9e53f62eddb61f4bb7c9dcd6ecc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/tso_logos/statnett.png
+SPDXID: SPDXRef-item15384538
+FileChecksum: SHA1: c044330a766a2188c2204c9a1986ba2a6c2894f5
+FileChecksum: SHA256: 3b532c7f8228066b95c0d6e1270a9a752f0a9f6a00bbfbaa1184c5f13a91f488
+FileChecksum: MD5: c787b019beb1d37109d573115f2563a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/config_se.toml
+SPDXID: SPDXRef-item15384539
+FileChecksum: SHA1: 7c8f6cbb820a52cba15f75f887af5e05a50a31e1
+FileChecksum: SHA256: 97f32c0f0ad4b10f3d9ff5b65293c31028e459d73ee9d1039c175b116658f605
+FileChecksum: MD5: bd84a0e3748783d5f6cb6df53de2910e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/readme.md
+SPDXID: SPDXRef-item15384540
+FileChecksum: SHA1: f081ec42595ffb07f222a88341c94c1e688f1d5e
+FileChecksum: SHA256: 93dea25ca6f1fc7c362ccaf51de3db7d893eac0563c80ac24c67f2baad36ed3a
+FileChecksum: MD5: 33f90d2233cc380f9b0e639f598d3be8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/run_case.py
+SPDXID: SPDXRef-item15384541
+FileChecksum: SHA1: 133169bc375c29c6ee1303b564d98a97cddd8d9f
+FileChecksum: SHA256: e0d3f6c6eda97ff492ace0e917fc54ab17152b407693c7619986adc3ced491ce
+FileChecksum: MD5: f0819c2b27715cbc1fd99a73f831a1fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/config_no.toml
+SPDXID: SPDXRef-item15384542
+FileChecksum: SHA1: 82e8db9278e333fae926815af3c703f90fb12a0b
+FileChecksum: SHA256: dad918154d7c41cb90ddb8969b00a935e793feab6c7387306684e907917572ba
+FileChecksum: MD5: 1293ec177a7e4ff5ec4c835afd8eeb51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_no/sld_geo.dxf
+SPDXID: SPDXRef-item15384544
+FileChecksum: SHA1: 77200d6aa8928a07fd3a2a499ddcd6e919934fdc
+FileChecksum: SHA256: dae2c0f51781c9bc97e73bc073d32262f9f34e5dfb4805bd787c4426ff4f2c1a
+FileChecksum: MD5: 07003d421ae115a233836d52e0576a43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_no/model_data.json
+SPDXID: SPDXRef-item15384545
+FileChecksum: SHA1: 259abb7aba34ff57a55fe2b697775bec2aee8808
+FileChecksum: SHA256: c9a4a24928bf04d24cd84037380a985dfff2586a3140568d2360944b7268643c
+FileChecksum: MD5: 4f2e3dc14af2ab1ef212d0aac3c67c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_no/read_sld_data.py
+SPDXID: SPDXRef-item15384546
+FileChecksum: SHA1: edb0093b92529006f74291b9d85e74cda82c0ed3
+FileChecksum: SHA256: a9c4997e95effd8953b7c8e6754b60cf0899ab6a906f5bc5ed04ad7b909490b4
+FileChecksum: MD5: 130b3a95fa54f4334fe880f14fe9751d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_no/grid_database.db
+SPDXID: SPDXRef-item15384547
+FileChecksum: SHA1: 7977d4cea5cc0d8e490ae2e49ef413928ed1eee2
+FileChecksum: SHA256: 89526c99ed18d8991dd8e868c2d72fa488074e93023ab478658671383bc1e918
+FileChecksum: MD5: 26ecf4fe4648fec724d938b743436e89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/run_case_from_c37118.py
+SPDXID: SPDXRef-item15384548
+FileChecksum: SHA1: 1b26333ea70d5f903499ec7759d270a83d442fbd
+FileChecksum: SHA256: e72874606d105d81994e87de3fedb7705edeee81baab936290fbb525cbace058
+FileChecksum: MD5: f661fa22e2cb91f13fcfcb82ed99bcda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/time_window_plot.py
+SPDXID: SPDXRef-item15384550
+FileChecksum: SHA1: 824726fd96c342ea2fcd02bc12fc7081aca663ae
+FileChecksum: SHA256: bcafaccb4be5853c977d5ad4388bd06aa7018e6ac9f770763b77d9a952c914e6
+FileChecksum: MD5: 244198a6ee720974e0e998eba845e891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/freq_heatmap.py
+SPDXID: SPDXRef-item15384552
+FileChecksum: SHA1: 7eb5bc483d7b5778e0e1b70063996d93ded9455d
+FileChecksum: SHA256: 9f73ca4e623153d4f9aff912a4179541dc722f6cfc2084c748342088a5c643c7
+FileChecksum: MD5: 1e8b66722227ea50cc742f43e0ae9ae2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/voltage_stability.py
+SPDXID: SPDXRef-item15384553
+FileChecksum: SHA1: 1e25756264eb90b33a08f709e6f6441494e3d773
+FileChecksum: SHA256: 8920a177249933c2025883b75f3fc90443a5d2bd84f5b510dde72eb0f4c5a0f7
+FileChecksum: MD5: bad78df6b9d450cf7b4e3ebd92b665a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/islanding_detection.py
+SPDXID: SPDXRef-item15384554
+FileChecksum: SHA1: 62efc96d6b10acb0ce9f168c7b335c2cee920fab
+FileChecksum: SHA256: 9f2a4fadef6409576142c1659fe45356f03dd79e0475462ba0f6b62295250bba
+FileChecksum: MD5: e3093aa8f8187456fed891cd1811c37c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/voltage_stability_viz.py
+SPDXID: SPDXRef-item15384555
+FileChecksum: SHA1: 4e557781e9b2f336c7418e817fe60cedad6febd0
+FileChecksum: SHA256: ec6fa2a3aa94338cb2db9ec383722f41e2889996db1783984f4fb9412baf7dc2
+FileChecksum: MD5: 66771b088970b01815201d1f3533a74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/n4sid.py
+SPDXID: SPDXRef-item15384556
+FileChecksum: SHA1: f8684a636db4aca9fc1e1aa9bb312043b4a58411
+FileChecksum: SHA256: aec1036453b88808422c0e53b84183e478fabec7877ee1bacb057f43d5c8eb95
+FileChecksum: MD5: 365be5b2358149de5184a7c416436713
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/app_launcher_2.py
+SPDXID: SPDXRef-item15384557
+FileChecksum: SHA1: c9eb03be7669e5159fe18eb7878e0bcbdc8513a3
+FileChecksum: SHA256: d03e5b3cae9b81a0af0be5bff24307891924f94ecbabfd3a327033daf416db85
+FileChecksum: MD5: 347620940fa88e1c19d77f9fa896abe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/run_main_window_se.py
+SPDXID: SPDXRef-item15384558
+FileChecksum: SHA1: 9444459cf1bc28a5ef4c8f59758797a48c073ccb
+FileChecksum: SHA256: 41903be81d392e98654a67fdf1c45658276cc3e1a03fe00576a1dd154e055673
+FileChecksum: MD5: cd5b8e519081a896e673fb6a4fd2cabd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/voltage_heatmap.py
+SPDXID: SPDXRef-item15384559
+FileChecksum: SHA1: 368ad8fc71bfc1b7529012cf287f0b0250786cec
+FileChecksum: SHA256: 32fc134a5ff9d11dff5cfa643b7700be0dc5658e2aacd0d825eeb5c06ff539a7
+FileChecksum: MD5: a1ac80ccd55a960c3912f96072397aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/grid_view_container.py
+SPDXID: SPDXRef-item15384561
+FileChecksum: SHA1: 559432583ec6965c5768aaa1180aa3ae85b8797d
+FileChecksum: SHA256: 8816e777f60fa4c7e9c87b560977f6e647c74b9ed7b9026dd800f3653c514f76
+FileChecksum: MD5: 3a29ca507db7f09f3794f9c0cd48828b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/fft_viz.py
+SPDXID: SPDXRef-item15384562
+FileChecksum: SHA1: ae3a63a2229f027245ceea0a6a082693e6dc6934
+FileChecksum: SHA256: 8d3863b545799ded2be22c8d2a5e5ef1d0dd6d38adae5d640869ed8d7289d4bc
+FileChecksum: MD5: 187a074752bd6d856272c63a28a7221d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/some_rt_app.py
+SPDXID: SPDXRef-item15384563
+FileChecksum: SHA1: 34c5fd3d5015d2d114388cc3793a453a9e6bc1d5
+FileChecksum: SHA256: 4c985c03b36dfa4048b13ad7b3c5e2c7b211f47b5c5ec98bc63b5e86198b858b
+FileChecksum: MD5: a0558786e046d2223f3f164d44564a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/apps/run_main_window_no.py
+SPDXID: SPDXRef-item15384564
+FileChecksum: SHA1: a782fe9e2d75bb16fc552b75909d4e282de2993b
+FileChecksum: SHA256: 24cfe49b130124f1edd30bc9de27bc2b5271e5518882822445450f44ee26ad28
+FileChecksum: MD5: e836d9e4ff271a935b8ee3284ea412b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_se/sld_geo.dxf
+SPDXID: SPDXRef-item15384566
+FileChecksum: SHA1: affb20c066b012c0062648ef4bb2ac0d6450e063
+FileChecksum: SHA256: 205cd24b49e9e9fa94dc69ffa4335fb798c41ee7358dbfcaf9281367b14c45f8
+FileChecksum: MD5: c0d9d9671e569bffb36368f6d18cca8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_se/model_data.json
+SPDXID: SPDXRef-item15384567
+FileChecksum: SHA1: 1d5d6a5af9cf053b8fa5739e20de8660299b9106
+FileChecksum: SHA256: 285ae71d416886518e5834275497f7a1b03442aef65d5a7d30b09aaa61946e6c
+FileChecksum: MD5: 7f5d75a6bbb1a25bb296469ac9d98e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_se/read_sld_data.py
+SPDXID: SPDXRef-item15384568
+FileChecksum: SHA1: a8eb04eae1f1d1e63bf9af6214ffe1a11d88610a
+FileChecksum: SHA256: 071e0ac432a7dfb25ad28889a26f7de8ebe114625ec0c4e62534c4f4401a4cc9
+FileChecksum: MD5: 25a4ae7189843b6eaa34cb49eee85fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/data_se/grid_database.db
+SPDXID: SPDXRef-item15384569
+FileChecksum: SHA1: 8091747df5a23f5dad55d49cb15f03a2fb9109ae
+FileChecksum: SHA256: d365c2745efa386ec99ae48fb791d5634ffd5de1b64ad282d3af3e562c6f4f77
+FileChecksum: MD5: 998e7ffd5b3649650af3ec5ecda6996d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/sim.py
+SPDXID: SPDXRef-item15384570
+FileChecksum: SHA1: 65350c57c9a9e47aac9680ed9286fa4186f429a0
+FileChecksum: SHA256: 75cfebf56f9591a35df173b287dcf6c8df71a21226524b19c68b77058bdf4482
+FileChecksum: MD5: c197b17fe173e800edd92db8255c8883
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim_multi_tso/topsrt_random_load_variations.py
+SPDXID: SPDXRef-item15384571
+FileChecksum: SHA1: 2fb68b13b4bbdcc3d971946889ada167fc5408f1
+FileChecksum: SHA256: de8da44544b5035f9617e79f1faa590efd28e4676d9844e9e4f56cc7953416be
+FileChecksum: MD5: ce5a65c56894d57c17823fb763b2da16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/power_system_data/openinframap/scandinavia/numpy_data.npz/lines_hv.npy
+SPDXID: SPDXRef-item15384580
+FileChecksum: SHA1: 7bd26381b75ebd9d3a0b3769ab119bc7521c1f9e
+FileChecksum: SHA256: 8f09a9b9f7ef06dd66c353d5cd2e74d2b881361007738a359c44b31b2d926449
+FileChecksum: MD5: cfe319a32cb56d5ec1fca9c200ccd620
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/power_system_data/openinframap/scandinavia/numpy_data.npz/lines_mv.npy
+SPDXID: SPDXRef-item15384581
+FileChecksum: SHA1: c865208dffd62f5ac68c6d559ecdb6e58e01c97d
+FileChecksum: SHA256: f0505708987cc3269ef1b2795720ebe1b7824cab9939e63e7cf002a4943ffda9
+FileChecksum: MD5: 62ac92bfcb220849a7e7a2a97e2666b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/power_system_data/openinframap/scandinavia/numpy_data.npz/lines_lv.npy
+SPDXID: SPDXRef-item15384582
+FileChecksum: SHA1: 6ca71f621628433d48013a895198994a86b4ae7f
+FileChecksum: SHA256: 5cd81f650c2b43232f93a899fe1c04ae83e3e14e0c1143081f8e576a87aa05bd
+FileChecksum: MD5: ddafa38b2e5a16baf43db333c38e5466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/power_system_data/openinframap/scandinavia/query.txt
+SPDXID: SPDXRef-item15384583
+FileChecksum: SHA1: 4dde512b62f5dc0dc6d254b582b85beff23c7ad8
+FileChecksum: SHA256: ca8c2a44035412c05fc39b77fff76d826df133dd929a5a0ec093522e811a10c3
+FileChecksum: MD5: 46ef8727b808a55c5a2807ffde25be31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/power_system_data/openinframap/generate_numpy_data.py
+SPDXID: SPDXRef-item15384584
+FileChecksum: SHA1: ddfdf87bc811d6729a84b8f8e6e9530d0a183ef3
+FileChecksum: SHA256: 815db88250aec13b19351c08d6811df730f542d6746c023e28405046efd196ed
+FileChecksum: MD5: b5cbbb0fd73af206151d5b31acab2b9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/power_system_data/openinframap/README.md
+SPDXID: SPDXRef-item15384585
+FileChecksum: SHA1: 36286d7fc8ca90bd178f4e4867d42bb71fa95d13
+FileChecksum: SHA256: 4d906789c131d0d19eee49aa71e20e210f69ad86d5b6f71a9fbc60a314890c84
+FileChecksum: MD5: e9b9072072cd67311628caa804d06f9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/sld.dxf
+SPDXID: SPDXRef-item15384586
+FileChecksum: SHA1: 413d5909129334b2551d05b838fe792308b7cc27
+FileChecksum: SHA256: 01310443f408ca79b6dd00a9c07dc068095c1e5da72bef64879ca78218ed384c
+FileChecksum: MD5: 144802083436573e9ce0fa6bbcbc49e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/sld_geo.dxf
+SPDXID: SPDXRef-item15384587
+FileChecksum: SHA1: 10b4c1f8d8c3aee1d0b0e3aa914b3914cb359faf
+FileChecksum: SHA256: c7351fa5e962e30b44254a3a8553a5ce1c4f91059a609eda38790489324bbf3a
+FileChecksum: MD5: a7cdb9d83b73f329f75d7b42943feacc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/model_data.json
+SPDXID: SPDXRef-item15384588
+FileChecksum: SHA1: 952f13d8c90f759d4464770314d2123814ebf9c6
+FileChecksum: SHA256: 56f1e3b412ccf3f486b1758cd28ab9bf151408850d2e641b696e98607f62be52
+FileChecksum: MD5: 70f7e4b99d17958bb46323731ccad0c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/read_sld_data.py
+SPDXID: SPDXRef-item15384589
+FileChecksum: SHA1: 556e10539731c7b219c8a631de44eca27330565e
+FileChecksum: SHA256: 58afaf7cee0e6358161b610601cb5d9e218753c616372e69b400c908698fd71e
+FileChecksum: MD5: 496d53109174739b88f0ac636d202a23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/data/grid_database.db
+SPDXID: SPDXRef-item15384590
+FileChecksum: SHA1: 76ff715038b99511a496316af90a44fb84ee61dd
+FileChecksum: SHA256: d698c73bec384b577b5c0195c1c42bee529624701b0f3257c3632631cb0e88b2
+FileChecksum: MD5: ded2311276d547518f54c5b77d4e86fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/run_sim.py
+SPDXID: SPDXRef-item15384591
+FileChecksum: SHA1: 336bfd767f1f62c3d7e4813c61a5286bd171121f
+FileChecksum: SHA256: 7ba893120f77f246da4cdc45629de3b387a3e54cca18f343f8ebd91f97be7c4d
+FileChecksum: MD5: 2f290fd600afb1e3b993f054484663a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/readme.md
+SPDXID: SPDXRef-item15384592
+FileChecksum: SHA1: f081ec42595ffb07f222a88341c94c1e688f1d5e
+FileChecksum: SHA256: 93dea25ca6f1fc7c362ccaf51de3db7d893eac0563c80ac24c67f2baad36ed3a
+FileChecksum: MD5: 33f90d2233cc380f9b0e639f598d3be8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/config.toml
+SPDXID: SPDXRef-item15384593
+FileChecksum: SHA1: 9b6e2a0e520a5466874351c508cf6d925c00fd25
+FileChecksum: SHA256: 536fae46a564dace448f0a952301d7d20e0d22546814f4e5c50c5a552924727d
+FileChecksum: MD5: 9ba4856baf9ba512862bfdc906d8ed01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/run_case.py
+SPDXID: SPDXRef-item15384594
+FileChecksum: SHA1: 46e305e55dc0843469ede51e75894544cda2c91c
+FileChecksum: SHA256: 51975eb32f1be2e832890b6a16d133dd1577f942b92861eeee3b23a37836632d
+FileChecksum: MD5: 4e6abc288e6a9fd01e4635a2af54b5ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/run_case_from_c37118.py
+SPDXID: SPDXRef-item15384595
+FileChecksum: SHA1: f4728dee1499238bd75f2f4718ec6a13a0b2756a
+FileChecksum: SHA256: 625957dee014984058b7652238be4f43e5bd68293d0153c372f5ec25a4eb467c
+FileChecksum: MD5: 1994b961b488d9d2ba3322886382934e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/time_window_plot.py
+SPDXID: SPDXRef-item15384597
+FileChecksum: SHA1: 824726fd96c342ea2fcd02bc12fc7081aca663ae
+FileChecksum: SHA256: bcafaccb4be5853c977d5ad4388bd06aa7018e6ac9f770763b77d9a952c914e6
+FileChecksum: MD5: 244198a6ee720974e0e998eba845e891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/freq_heatmap.py
+SPDXID: SPDXRef-item15384598
+FileChecksum: SHA1: 7eb5bc483d7b5778e0e1b70063996d93ded9455d
+FileChecksum: SHA256: 9f73ca4e623153d4f9aff912a4179541dc722f6cfc2084c748342088a5c643c7
+FileChecksum: MD5: 1e8b66722227ea50cc742f43e0ae9ae2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/run_main_window.py
+SPDXID: SPDXRef-item15384599
+FileChecksum: SHA1: f2dd648e43d346f439be0b819de8eea0f8ec720c
+FileChecksum: SHA256: e712e0f61aa18275f7e8e7a829329c5fe427aafe82dad97b78e5db1e39a6aa05
+FileChecksum: MD5: 247efa64f101215382ab024641853d8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/voltage_stability.py
+SPDXID: SPDXRef-item15384600
+FileChecksum: SHA1: 1e25756264eb90b33a08f709e6f6441494e3d773
+FileChecksum: SHA256: 8920a177249933c2025883b75f3fc90443a5d2bd84f5b510dde72eb0f4c5a0f7
+FileChecksum: MD5: bad78df6b9d450cf7b4e3ebd92b665a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/islanding_detection.py
+SPDXID: SPDXRef-item15384601
+FileChecksum: SHA1: fff795b6b626c020bd33c30a1b395ce5b59fce18
+FileChecksum: SHA256: f061300b666bc34d47cce88950fb0cda816844a094eb486edb2a0c3584773b1a
+FileChecksum: MD5: 5c2228d4d464e08229198afee872ffa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/voltage_stability_viz.py
+SPDXID: SPDXRef-item15384602
+FileChecksum: SHA1: 4e557781e9b2f336c7418e817fe60cedad6febd0
+FileChecksum: SHA256: ec6fa2a3aa94338cb2db9ec383722f41e2889996db1783984f4fb9412baf7dc2
+FileChecksum: MD5: 66771b088970b01815201d1f3533a74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/n4sid.py
+SPDXID: SPDXRef-item15384603
+FileChecksum: SHA1: fc75c74aaa2b1a6e49178f8733a3cf1dc227ecd1
+FileChecksum: SHA256: d23dd5767ea7182c564b717874c805c5e96584a7412bc350308e3b347017f8b6
+FileChecksum: MD5: b1e016bcb6535c5d2737d7816518e071
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/app_launcher_2.py
+SPDXID: SPDXRef-item15384604
+FileChecksum: SHA1: c9eb03be7669e5159fe18eb7878e0bcbdc8513a3
+FileChecksum: SHA256: d03e5b3cae9b81a0af0be5bff24307891924f94ecbabfd3a327033daf416db85
+FileChecksum: MD5: 347620940fa88e1c19d77f9fa896abe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/voltage_heatmap.py
+SPDXID: SPDXRef-item15384605
+FileChecksum: SHA1: 368ad8fc71bfc1b7529012cf287f0b0250786cec
+FileChecksum: SHA256: 32fc134a5ff9d11dff5cfa643b7700be0dc5658e2aacd0d825eeb5c06ff539a7
+FileChecksum: MD5: a1ac80ccd55a960c3912f96072397aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/grid_view_container.py
+SPDXID: SPDXRef-item15384606
+FileChecksum: SHA1: 7b3ac7d98110f2983c18924b1e7a2a6c1f07c387
+FileChecksum: SHA256: 9b947830acf159bcda1daeb1701452b84f0147fa504592c2715ffcdf829fbe8a
+FileChecksum: MD5: 7c951dff65bd775bf31a59f44633e106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/fft_viz.py
+SPDXID: SPDXRef-item15384607
+FileChecksum: SHA1: ae3a63a2229f027245ceea0a6a082693e6dc6934
+FileChecksum: SHA256: 8d3863b545799ded2be22c8d2a5e5ef1d0dd6d38adae5d640869ed8d7289d4bc
+FileChecksum: MD5: 187a074752bd6d856272c63a28a7221d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/apps/some_rt_app.py
+SPDXID: SPDXRef-item15384608
+FileChecksum: SHA1: 34c5fd3d5015d2d114388cc3793a453a9e6bc1d5
+FileChecksum: SHA256: 4c985c03b36dfa4048b13ad7b3c5e2c7b211f47b5c5ec98bc63b5e86198b858b
+FileChecksum: MD5: a0558786e046d2223f3f164d44564a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/sim.py
+SPDXID: SPDXRef-item15384609
+FileChecksum: SHA1: f836bcce37490986962c9de8c63259b164bb2cdd
+FileChecksum: SHA256: 2e2943a3094791bb725cae33a2f7daf67faa4862c904bf65dbb0df225f4b5da7
+FileChecksum: MD5: 38765137da7869721c6fb51d3f58b037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/nordic44_rtsim/topsrt_random_load_variations.py
+SPDXID: SPDXRef-item15384610
+FileChecksum: SHA1: 2fb68b13b4bbdcc3d971946889ada167fc5408f1
+FileChecksum: SHA256: de8da44544b5035f9617e79f1faa590efd28e4676d9844e9e4f56cc7953416be
+FileChecksum: MD5: ce5a65c56894d57c17823fb763b2da16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/read_database.py
+SPDXID: SPDXRef-item15384611
+FileChecksum: SHA1: 89dfa66a9cc15b87f3a5e3f5134d80c85c991329
+FileChecksum: SHA256: 88cea10d7d557b565649e257449bd3292e577c768a7d13de44ee0554e144dc6f
+FileChecksum: MD5: c2aeaa6fe902d7e5c855d0dbc3c803ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/data/read_sld_geo_data.py
+SPDXID: SPDXRef-item15384614
+FileChecksum: SHA1: b4560a8e3fc1e21a2e08b38d467e5db86c5ebe98
+FileChecksum: SHA256: 65821e6255d76574f902a0968674493d4b0ffbf801f0e32755dcbfd2e156f3fd
+FileChecksum: MD5: 7f69c2fd9e434956d7aa36ec7e4f12e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/data/sld.dxf
+SPDXID: SPDXRef-item15384615
+FileChecksum: SHA1: 11c5e4705f77dc7fda08236c7171d64c50d263b7
+FileChecksum: SHA256: 4640707a5c48d7a5d17e713a85d31756d33450e5a9dfd213d5539155321d976f
+FileChecksum: MD5: 6cb32cc2b69de753fb493736a7234905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/data/model_data.json
+SPDXID: SPDXRef-item15384616
+FileChecksum: SHA1: 84ce7bf04c9ff9da77cb4ac7b378c9bfe4b80670
+FileChecksum: SHA256: 76bf3541d7688e123ffc06d9831023a359d717c5b58bbdf8b3d5f6eeebb64a94
+FileChecksum: MD5: 55d8de27fd4f62b282c084fe9132e6b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/data/grid_database.db
+SPDXID: SPDXRef-item15384617
+FileChecksum: SHA1: c564e10b1d735aff9f32d176fa11de5d4551fd3a
+FileChecksum: SHA256: 791c8a472a8b4ac37f70d2f72553e8b3bddf574c096ab42ba4c9d5199468e57e
+FileChecksum: MD5: e394136ab8bf9b81d4cbd19a7acfeaef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/run_sim.py
+SPDXID: SPDXRef-item15384618
+FileChecksum: SHA1: bf549ccaa168c0daee886ee120635f6cbb7e1245
+FileChecksum: SHA256: ea69c3b3fa2a82ff7bdbf6df8d5d2c58f3a3ee4df3059c4403cfa0c2518832c0
+FileChecksum: MD5: 1c02177ee79e7c14e717a167b9d04b2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/config.toml
+SPDXID: SPDXRef-item15384619
+FileChecksum: SHA1: c0d9d29be9fa579188e42591f0e796a06a92c679
+FileChecksum: SHA256: 46e3d60a8cfc385af6ce3be0158b7fa74c1042b5b4df8ee953694a713fae55dc
+FileChecksum: MD5: 8d5972be46c541516720b33f9041aa68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/run_case.py
+SPDXID: SPDXRef-item15384620
+FileChecksum: SHA1: 451fd29ce8c9ef85d645ef39f4f1c6f029daf0d9
+FileChecksum: SHA256: c9f24ae43e90b801efbe84638a8ebbf715be3125a2a1d258a820e971832cd9b1
+FileChecksum: MD5: 006486e969e883580a75d623e1c960c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/update_database.py
+SPDXID: SPDXRef-item15384621
+FileChecksum: SHA1: bd58449dfbe13e2f6fdaf1a82e8aa12dabdfcf7c
+FileChecksum: SHA256: 347d27aa37b152a11d3d007ff325909b467b61ea3725c47e3a09cc66a0bcba52
+FileChecksum: MD5: 7e1459f13ee40932c96262ab1031bbdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/apps/time_window_plot.py
+SPDXID: SPDXRef-item15384623
+FileChecksum: SHA1: 5d66f82511f8f3ddd1f214ee0766610ef6a1eefe
+FileChecksum: SHA256: 558c5c146d7fd852d1fc8663eb92643d98661f28f79517fd35257cff250c5629
+FileChecksum: MD5: acbd99d35a3a02a49071d14f6559b860
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/apps/grid_view_phasors.py
+SPDXID: SPDXRef-item15384624
+FileChecksum: SHA1: 264fb454ebd53c99c2659c49ef85c0f5a18ae69b
+FileChecksum: SHA256: 08a32050542f86fe537d0b830116049490e49f1913d806a64df9fb247851b78c
+FileChecksum: MD5: 416da1ca089480ff6a45a69afd2acb45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/apps/run_main_window.py
+SPDXID: SPDXRef-item15384625
+FileChecksum: SHA1: 27b4aed979df1efe7bdeb321d56c8ca3838e234e
+FileChecksum: SHA256: e247496e8bedc3bc0f8300de0246564e9223e2b1fdcb38ceb5598f82b35b8149
+FileChecksum: MD5: 404de5da95fb1578926e19194afd2486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/apps/grid_view_pmu_layer.py
+SPDXID: SPDXRef-item15384626
+FileChecksum: SHA1: 01799eea786abc0b6854226c3881689605e40e75
+FileChecksum: SHA256: 1edd5336d1b0aaec9941266cc6375dec25e51a0baa3d2865d1b703d8feb221e0
+FileChecksum: MD5: f596a967e0e6c7c514f1a5c9ed6505df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/apps/grid_view_container.py
+SPDXID: SPDXRef-item15384627
+FileChecksum: SHA1: 7b3ac7d98110f2983c18924b1e7a2a6c1f07c387
+FileChecksum: SHA256: 9b947830acf159bcda1daeb1701452b84f0147fa504592c2715ffcdf829fbe8a
+FileChecksum: MD5: 7c951dff65bd775bf31a59f44633e106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/test.py
+SPDXID: SPDXRef-item15384628
+FileChecksum: SHA1: df88868fc972b584512298a96d1551a3e37155ed
+FileChecksum: SHA256: cd8f1939fd881515ce3d288ba03da7d2c9fa6d7e0066dc7e16ee965fed4d8f49
+FileChecksum: MD5: b55848c1cf64261cff5aadd98cfef2c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/sim.py
+SPDXID: SPDXRef-item15384629
+FileChecksum: SHA1: ecb698983c208c4352fdf869f0ae2b55c5267535
+FileChecksum: SHA256: efae3cb1b315290dd0713f7d682a67c1b1437b8c198ce561e3b327ff790b3b2e
+FileChecksum: MD5: aef07fe61364cb580387802c802c2267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/k2a_rtsim/topsrt_random_load_variations.py
+SPDXID: SPDXRef-item15384630
+FileChecksum: SHA1: 2fb68b13b4bbdcc3d971946889ada167fc5408f1
+FileChecksum: SHA256: de8da44544b5035f9617e79f1faa590efd28e4676d9844e9e4f56cc7953416be
+FileChecksum: MD5: ce5a65c56894d57c17823fb763b2da16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/examples/single_line_diagram.py
+SPDXID: SPDXRef-item15384631
+FileChecksum: SHA1: 262107edb16d763e5e70c895570fe1ba824491d0
+FileChecksum: SHA256: 6e193a141db006698b8fbe7d6c28ef252a4ed4469639a046dd7568a503610a38
+FileChecksum: MD5: 864d40ed9008baf3e665b316b9f14c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.gitignore
+SPDXID: SPDXRef-item15384632
+FileChecksum: SHA1: 38a24161110ac67531e987d3342ace49b1c8d435
+FileChecksum: SHA256: 0ce32066b8eeef082634d8d80d937d01eb177b3b5e62dc9f663c78fd36ee1298
+FileChecksum: MD5: 4182e2918c6d5a30e1947e4b434a18b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/uv.lock
+SPDXID: SPDXRef-item15384633
+FileChecksum: SHA1: fdde31d3ce65f41b6cb91dab7a0b9f5e03827aa1
+FileChecksum: SHA256: 64b7c76bf6e79d8e66de23616288396de8d70ac5d17cceb694a5a4b03e2fd211
+FileChecksum: MD5: 4339267e3bb1d0614cca9191639e9104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.githooks/pre-push
+SPDXID: SPDXRef-item15384635
+FileChecksum: SHA1: e363f9468a27da64828025d3a07030808f0c7a85
+FileChecksum: SHA256: ea42b4e69b4b46c92eb0bc2d37912b759c4134a768b55764e85d49b64417bb07
+FileChecksum: MD5: 031b07a534de21bf68d8a2c3276dd377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/Dockerfile
+SPDXID: SPDXRef-item15384636
+FileChecksum: SHA1: 97d9acc3c8ad0f3179af543a3dd41fabf5ff6f4e
+FileChecksum: SHA256: 482f5c07db60c1716f61540866710cc4288c82b96ce95e5f3e92ea78d969617d
+FileChecksum: MD5: f54da6fda32fc7a51350fa910a13e31e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/run-playwright-tests.sh
+SPDXID: SPDXRef-item15384638
+FileChecksum: SHA1: 37bdd323bc4346e69606b80626a113c3e5687528
+FileChecksum: SHA256: 8d508384f5116a2f6c5d4852cb0bfe8c579a94dc65a264953ae41b61dc400b19
+FileChecksum: MD5: af3b4c1745e74e4492793be21040dac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/run-core-python-tests.sh
+SPDXID: SPDXRef-item15384639
+FileChecksum: SHA1: 9ef7a644eab01ef9380bdf0bd7187cc84c38cdfb
+FileChecksum: SHA256: 2f4cf4e4c65ae82e76766b7a5f3dc1477810e68e5db2aa2adc078b36f6d3d055
+FileChecksum: MD5: a8a9057658d68337444e19430aec6373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/logs-minikube.sh
+SPDXID: SPDXRef-item15384640
+FileChecksum: SHA1: b9260ff949cdedf00fd1fd7a155fdcacfe167a21
+FileChecksum: SHA256: 912e3f713d261e623e6ee815ee579a894e2923d51df0813e331d3624ff70daad
+FileChecksum: MD5: e0831b26ca9f699de20fad1b64fe8752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/update-dependencies.sh
+SPDXID: SPDXRef-item15384641
+FileChecksum: SHA1: 4cae3e14cbace42d3dba9c586d995a6ce126a37d
+FileChecksum: SHA256: 85dd3fc5da264f30d1ba29958ab572d566efeaf9d671aee721442e6ce27aa8a7
+FileChecksum: MD5: a9b6023e2bb54280bd28bdd9fd001f73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/generate-api-contract.sh
+SPDXID: SPDXRef-item15384642
+FileChecksum: SHA1: ed2fa1251c024b92fc19b065eea518edd61fb6dc
+FileChecksum: SHA256: 91fc5e60b914c8a471458e4b47354be71e5eaf57d032de9814b5d4378b11e6b1
+FileChecksum: MD5: 0c9fc6e7d31ab4e7162b1b7e34916e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/start-local-hotloaded-pswamp-server.sh
+SPDXID: SPDXRef-item15384643
+FileChecksum: SHA1: c4bd5c58b4b2d97e699eb988d610aeb5ffc32675
+FileChecksum: SHA256: a7e2a98c766478abd7a177d1f30a12d80f30ed2c26d7bf6ea6cb0d8cbdbc1a33
+FileChecksum: MD5: 2de2edb7840eeec8ca04b0763c2e75ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/start-pswamp-in-local-minikube-cluster.sh
+SPDXID: SPDXRef-item15384644
+FileChecksum: SHA1: 3496ecb83728f5370fc164383da89e875474c2f3
+FileChecksum: SHA256: afca14f2f078e9837ca8ad0656ce80f798578aa4b739305c4c6e9a788ac0466f
+FileChecksum: MD5: c6307c27f0ede006f8378edde0a35d42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/start-local-hotloaded-pswamp-web-client.sh
+SPDXID: SPDXRef-item15384645
+FileChecksum: SHA1: 334d71f7dfba83ab11300b036cb5a0b7b67534aa
+FileChecksum: SHA256: 112e0e9878b8f99131a344c71c9e500f4a393237615c842e91294f355bd727b6
+FileChecksum: MD5: b7d700c806eb2b210c4922942f3209f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/e2e-smoke-test.sh
+SPDXID: SPDXRef-item15384646
+FileChecksum: SHA1: 09a284e7e2e1ace3c296e3f5b80e3a902312b4ef
+FileChecksum: SHA256: e321c4c8b1a42823ab798520a1f3547381a2b69ffdf21eb605be05164eb6b669
+FileChecksum: MD5: 5b3c5c8ce280bcf7d3a4abdd357f0d11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/generate-new-subapp.sh
+SPDXID: SPDXRef-item15384647
+FileChecksum: SHA1: 63436e3cc8527a4624797f0480776b9e43e84133
+FileChecksum: SHA256: d57f98293b91aba27c6fa43cd0854620a2d32b764256c760338ef5aa3b9292e4
+FileChecksum: MD5: 0fcaeba4651b863bf185d60cb0c17f39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/run-python-server-tests.sh
+SPDXID: SPDXRef-item15384648
+FileChecksum: SHA1: 365462c4d8b3dbdda0a00f8ca59772ed16243f4c
+FileChecksum: SHA256: c93cf94bf629679e00b046d7cd6f9ea89b51d85ae723897de78de322f43c9d3c
+FileChecksum: MD5: 4fb517e0872a57e612ef985d3734cfae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/templates/server-python/model.py.template
+SPDXID: SPDXRef-item15384651
+FileChecksum: SHA1: a9a4af8819ca49925099d6f14db5b294c154f2a2
+FileChecksum: SHA256: c76dd0a14df6fd4f67f85cd70e127a2a3d6c2419be72275072947d19685ddc5d
+FileChecksum: MD5: 2fb3747cbaeb856f197b4bf145148a94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/templates/server-python/api.py.template
+SPDXID: SPDXRef-item15384652
+FileChecksum: SHA1: a5279bac23bd6e31f2160bec0c1f5989a6f546e7
+FileChecksum: SHA256: c6605aa0c2809c4e79e3809ab49555e307aa358b5d152c26ea6bbfcb3efcefbd
+FileChecksum: MD5: 7fd92fa96572c23c9dd766ddf3874f74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/templates/server-python/__init__.py.template
+SPDXID: SPDXRef-item15384653
+FileChecksum: SHA1: d49c023d0867221f2c2104c771bb2e58caa98751
+FileChecksum: SHA256: b816555f3795d67068c5eb136501fd15e8f77c96981b778f5a0e402c268673c9
+FileChecksum: MD5: 204030ed62ce74e419406ab64bba2109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/templates/client-web/__NAME__Page.tsx.template
+SPDXID: SPDXRef-item15384655
+FileChecksum: SHA1: c5ca8a30c59d66b59b68e71f05f390e062cb0fad
+FileChecksum: SHA256: 174594a8163732b216a48c001805134c8b4cac47a5bccbb44afad410b3e84286
+FileChecksum: MD5: 6bc8d20656857ccff64c24e0d8268b16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/templates/client-web/use__NAME__Socket.ts.template
+SPDXID: SPDXRef-item15384656
+FileChecksum: SHA1: 261bfaff69c6343228e0b773be35e6815c03b04c
+FileChecksum: SHA256: 7ba08e2cdec7482bc65b157eebbe96efbd75855183e28b48631be8a885e57d52
+FileChecksum: MD5: 2be13fd479dc69459dc3fbb50b4c6a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/templates/README.md
+SPDXID: SPDXRef-item15384657
+FileChecksum: SHA1: a470a72ec942d58137a120952650bae9f8c96c71
+FileChecksum: SHA256: 4f401523e728e79b98267e5857f4fff593d0779cb10338f3a93e66209dcfd481
+FileChecksum: MD5: 9d2aa1671b34aac118063c6016e855ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/scripts/error_check.sh
+SPDXID: SPDXRef-item15384658
+FileChecksum: SHA1: 4458edd1a8e93e5f886922dbcfbfb30245327356
+FileChecksum: SHA256: 5c6c653e44771e68117902f8339047b1823b5b65427f073d4a8f5c3288c0145c
+FileChecksum: MD5: f83d7ec03d65edfbd67bca88f62f2534
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/e2e/package-lock.json
+SPDXID: SPDXRef-item15384660
+FileChecksum: SHA1: 6aba46622f00fe974fd40eef78f525542ffd6659
+FileChecksum: SHA256: a032a7ad5a1de1e3cff76bc33685739ced0abb08a74d68c284f2eb94997a7186
+FileChecksum: MD5: f3911a93fe01818a787982efba6da1c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/e2e/reference-subapp.spec.ts
+SPDXID: SPDXRef-item15384661
+FileChecksum: SHA1: 063627325aa1dbfb27d0cdbeaa7e62d5497fb472
+FileChecksum: SHA256: a1c89f8b882205e3f57b881828cec1ff2cd05e9a22e7006599670c4431f93e4e
+FileChecksum: MD5: 37fb0eb7331f45882b2a1b083ab85610
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/e2e/package.json
+SPDXID: SPDXRef-item15384662
+FileChecksum: SHA1: b1d72c08c52885b019ad71a44008494f95a430e7
+FileChecksum: SHA256: e2d216d3dec33ed756ef67a63c77eabf96f016c089d553ebf9833ee9b74f0b2b
+FileChecksum: MD5: e04379623e5512b4c4a2b0de09b6e83a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/e2e/global-teardown.ts
+SPDXID: SPDXRef-item15384663
+FileChecksum: SHA1: 9e32a7521c731890906cf356f2f77aa1f42a70f6
+FileChecksum: SHA256: 77676b66a2d1b661b032b67b25001e18e5ffa1b9ee9107d19a96eb22b2727a4c
+FileChecksum: MD5: c30396f63951c1c14f17fd1a11f07267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/e2e/playwright.config.ts
+SPDXID: SPDXRef-item15384664
+FileChecksum: SHA1: edea669b0f593f33885e83851d13236eb10439bd
+FileChecksum: SHA256: 9834f71757c0bbe96ec0e0348d4079ef04033f4dd98fa50fd9c7fca5a799f989
+FileChecksum: MD5: eafd3b7a9115919877c687fabc928603
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/README.md
+SPDXID: SPDXRef-item15384665
+FileChecksum: SHA1: 5d3a7a51b710e45a7b655677a00afa23e64c2f77
+FileChecksum: SHA256: 05d7bc15d503f8e06bee1b9db58c3c4487b3117a763dcb592a99bc524013a105
+FileChecksum: MD5: f375ee9612e97e01ed77a9e35dedde3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/AGENTS.md
+SPDXID: SPDXRef-item15384666
+FileChecksum: SHA1: d485992d1df291a6ff7a4cefacbaa70d28cc5774
+FileChecksum: SHA256: 3b2ef9ffd538996c072a10acc53be984d7d26458eddc094a7de673320478a516
+FileChecksum: MD5: 025e43865bde8edbb5aa2bd730a078cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0-only
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/docker-compose.yml
+SPDXID: SPDXRef-item15384667
+FileChecksum: SHA1: ca6a21e1bc3957e872505f302bbac4cca60bcc5b
+FileChecksum: SHA256: 69213dbb05c6d0a60f7e96699231983b28402546ff2d403ad255a15d28a7392f
+FileChecksum: MD5: 3b57195b780a618df736080006dc917c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/CODE_OF_CONDUCT
+SPDXID: SPDXRef-item15384668
+FileChecksum: SHA1: 34087758949517d7b4f8aaa4f9494fa1c812ca5e
+FileChecksum: SHA256: 3410b5f0fb60673a1a630303bdbd527f7f4a5516e85e41e37c96e59fcf4bbb00
+FileChecksum: MD5: fa27959f1809d307c1b4db277180842b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/client-server-rig.md
+SPDXID: SPDXRef-item15384670
+FileChecksum: SHA1: 9767b71feff11a02547c931b73212385ca1cc371
+FileChecksum: SHA256: 2bfc306bf897e5dd58304cd93378c8a035a2d8a5a5ecb7b0220977f34ed70b01
+FileChecksum: MD5: 6c7876b484480dbee7436ab2a3a3b4d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/the-client-server-api.md
+SPDXID: SPDXRef-item15384671
+FileChecksum: SHA1: 74fd75800732a44499ba5ae8bd803dcdf71c289c
+FileChecksum: SHA256: 9b5c8197c9c7557e820e90ef7385693d750d0840509be16c235f021e21916836
+FileChecksum: MD5: 45966275047b6ceb28c950ce45698662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/how-the-project-interacts-with-open-source-contributors.md
+SPDXID: SPDXRef-item15384672
+FileChecksum: SHA1: 8361fabea275e1e8a00672a4c5c00d823aa15bc9
+FileChecksum: SHA256: 98e1d8253cacb720ddfddc991099611877ba80c6a7038f043fa71b4b114ac98d
+FileChecksum: MD5: 4afaad9dbd374288e5b040d795684cbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/how-the-core-contributors-work-together.md
+SPDXID: SPDXRef-item15384673
+FileChecksum: SHA1: 1620fe19f42b111ad5908ee3e57eab58d4924934
+FileChecksum: SHA256: c185230eab237c3a412871224c86f519ede67135defb1d7ea3d05d9171c2807f
+FileChecksum: MD5: 0642549e68af1806e6db9205075632f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/adr/template.md
+SPDXID: SPDXRef-item15384675
+FileChecksum: SHA1: f7ae3a1abb4adbd519a40ddbea0e5127fa9ce9d9
+FileChecksum: SHA256: c19eb3676dac25bb7b660722bae0b15c0cf884e392e7bf28389f6fc8d52bfe4e
+FileChecksum: MD5: 4a179b35d84d22e59d7efb942464b529
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/adr/003-use-openapi-contract-for-client-server-api.md
+SPDXID: SPDXRef-item15384676
+FileChecksum: SHA1: c26e1c0a0b5c08a7373c2f892e2d43c2366be544
+FileChecksum: SHA256: 5df727a015960714b0feea3f65bb52b9902fcc4f2dd02bcb165ba452787f78a7
+FileChecksum: MD5: c9c42874fa283b1a5c4b0ce5771a3718
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/adr/001-record-architecture-decisions.md
+SPDXID: SPDXRef-item15384677
+FileChecksum: SHA1: 78ee912123703ddd306ae6293832c694641517b9
+FileChecksum: SHA256: f4f3c34492b0d5e6001b9a801545f1f19260e2aede77c3f025185a4f9befa182
+FileChecksum: MD5: bdb83150f057e08fdec084441b5d6d30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/adr/004-use-a-monorepo.md
+SPDXID: SPDXRef-item15384678
+FileChecksum: SHA1: e01972a1f424285f2ceb13579ab76c161ac07bc7
+FileChecksum: SHA256: cc2f7bc97912c442c669c3021175c605828a7be8010699c107e92384fa960dce
+FileChecksum: MD5: 21246756f9a3b38a57eae4c59223d88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/adr/README.md
+SPDXID: SPDXRef-item15384679
+FileChecksum: SHA1: d4c215872de3cfdb779c0fba0f25b0518225da18
+FileChecksum: SHA256: 437fb79eda7a7b22e30a61cf03c38c7d986fb2c5d1f0ae19c27105d837338f9a
+FileChecksum: MD5: f60bfbe93a6410523bcf44e73bba2bba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/adr/002-use-python-backend-with-typescript-frontend.md
+SPDXID: SPDXRef-item15384680
+FileChecksum: SHA1: 015effd77e1908afdcd8f74fe55216369f45df74
+FileChecksum: SHA256: a192098d5d3d7f343caf6908a040c82688318511e87431ab0a6490b0001ea398
+FileChecksum: MD5: 3e29876030945754b6583292aaba38ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/WIP-context-port-from-qt-to-web-frontend.md
+SPDXID: SPDXRef-item15384681
+FileChecksum: SHA1: 4cfa7ba3584f5ab08847931e5907c66785a0380e
+FileChecksum: SHA256: 754d3f7a25eacfa376008b3c092e38c7bbf554cdadf8759bcb413e8efeadbbf2
+FileChecksum: MD5: 8439bafcdc246f8009fb18013b0bcacb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/doc/api/openapi.json
+SPDXID: SPDXRef-item15384683
+FileChecksum: SHA1: 4eddad252635905fbc3d60113b2f72221c3272c3
+FileChecksum: SHA256: 82de73fffa76ead07e5fdd4953d8f2e1c1209014c2d1910580b7908989e15a2b
+FileChecksum: MD5: 74d16a4d16d26cbf0ed88f9ce0241d03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/tests/test_example.py
+SPDXID: SPDXRef-item15384688
+FileChecksum: SHA1: e2b897140dd8795e61ed4869c402c84a3f141e13
+FileChecksum: SHA256: 7ed74831d0404ca8637aeae821f841179f9704a70622a09fd9c7cc1d7289efc0
+FileChecksum: MD5: 3a9065bc953ad777335433147cdbab52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/.python-version
+SPDXID: SPDXRef-item15384689
+FileChecksum: SHA1: 56d82d930855f2b801ddc5b7b28abae5a86ee034
+FileChecksum: SHA256: 49a506dd32096b010d75205acf3430c9ae6c40351888129499e5a5e487126c93
+FileChecksum: MD5: c0479ff484dacd51dc5ba0461b16b9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/pyproject.toml
+SPDXID: SPDXRef-item15384690
+FileChecksum: SHA1: 1bc0ecee66de270a430c33724b0499d68c3a22cd
+FileChecksum: SHA256: cd872c915ac3594dd760f0c15bee27b4e602d2b86d70f96746d295d395bdee35
+FileChecksum: MD5: b7437e6f9184eeefe748a966385bd91c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/data/n44_line_trip_50hz.npz/header_measurement.npy
+SPDXID: SPDXRef-item15384700
+FileChecksum: SHA1: 5abb8795edd5b4b28a7c08acdf78bedd19611a99
+FileChecksum: SHA256: 335337dad3131e0a6de403e77b54f68e3159291b2de348382f3770ae898b58f3
+FileChecksum: MD5: 5674b22e5a12b54d6e144d098ac9b1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/data/n44_line_trip_50hz.npz/header_channel.npy
+SPDXID: SPDXRef-item15384701
+FileChecksum: SHA1: f0e1421824e2b72b21a68d25d5a5eaa4504fb9ff
+FileChecksum: SHA256: 0df104b0b687f2d5d2ed2cbf8aa98d48ec1f327eddf28e33f7e80f592f8171af
+FileChecksum: MD5: 55be553b711e259bfb9af31b3778cb24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/data/n44_line_trip_50hz.npz/header_station.npy
+SPDXID: SPDXRef-item15384702
+FileChecksum: SHA1: c9628a5659608256d9aeb8749d6cb75c884acf68
+FileChecksum: SHA256: 6877f8ecab80f2b0b4eb48ba221203c37feb3a507c678d246460ce9e097fb888
+FileChecksum: MD5: 273eaccf28a9db53890d56657507aebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/data/n44_line_trip_50hz.npz/meta.npy
+SPDXID: SPDXRef-item15384703
+FileChecksum: SHA1: 1e4432cfb23376df5a1c6145fcdb0a795143af3f
+FileChecksum: SHA256: 07648e0a612f8ef4ad57a969d40aa7173e9b05b78430293fa9eb088f2314324d
+FileChecksum: MD5: 360712c97ceccf7b5bfaa17cb17df9fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/data/n44_line_trip_50hz.npz/data.npy
+SPDXID: SPDXRef-item15384704
+FileChecksum: SHA1: 72d9e122139cd9e0882aaae69fc17b0b63525750
+FileChecksum: SHA256: f8b7f2f0cda05f6962c36b269c272f10c109759f6d0535cbfeb0e05a28b6dc9c
+FileChecksum: MD5: bb2385de913a41fe96cf38bd5285e31e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	H@siwDüä®=±?QDÛû=??D¥_ä>ßS¡D9ø¡>??C.Ü?>Y>?D*ì&À??E ¿??E ¿??E ¿??E ¿¡fDÄ ¿!9Dïç?¿!9Dïç?¿m?éCg?ڿm?éCg?ڿm?éCg?ڿF?H¨è¾5ïáDÁ??5ïáD*ì&ÀÑ^H?÷???P`+³4£¿¤^H&¼ûü?D a>³$gD?ÚE@¦ø
+©	H@7?%DÓpM½}¸ÌH?ÁÆ=$?C Ñ;À3µzD?¶<ÀtíwD?À+ EbaAÀ?ÌH+)×=@+^D=Ò<ÀCND_²<À¼ÉØDâh@À$?C Ñ;ÀxhHy³è>þ4EaU?À±TE?åÊ>ÇgE¤7ö>û@ËDü±=>û@ËDü±=>ÌHU£> Dݻ§>?óâDdXÇ>«9Cì?s?ýxHE8³/ÀÍKÌH?+P>?×sC?ñ4@^JÈDc0À3µzD?¶<À@+^D=Ò<ÀCND_²<À Dݻ§>4ªÍHÕò]>?óâDdXÇ>?×sC?ñ4@^JÈDc0À?kH?õ>PDjò">ÉVC]l0À)ϱDÒ??>
+©	E,=f>MºD5æ,À?´8D?&ÀL*±D#ðA@¶?"E AÀ?YDfñ¾&DÚF·¼&DÚF·¼&DÚF·¼þÌHñi¾ÔT?DÇd&½­äC¸'=èîD¯ù{½?wDҢk>?wDҢk>?wDҢk>?[Hð?¾?ð+æåÌHð?¾?¦?EIÍ=@a<¢Dx>@G©	E,=f>ԫ+Û?I@@þDóS	¿QôÌHýþï>?>?EÈ?5???E·*=ÀMºD5æ,À?|_+ofô?TJEÇÑA>Á?DâxÃ>Á?DâxÃ>Á?DâxÃ>Á?DâxÃ>Á?DâxÃ>Á?Dâ </text>
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pswamp_web/data/n44_line_trip_50hz.npz/time.npy
+SPDXID: SPDXRef-item15384705
+FileChecksum: SHA1: b15b95485ad759cf1a51adfbef7377a03a3c9a8e
+FileChecksum: SHA256: 8c9dfaa01866997e9879457ab9d49038a89f33a35f487c30d660a812fbb7f91c
+FileChecksum: MD5: 04df904d918b3113a1b7ec982a34713d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/server.py
+SPDXID: SPDXRef-item15384734
+FileChecksum: SHA1: a40ff152bdf0dcdc30763bec175eb02c17749967
+FileChecksum: SHA256: 2c7197519eef2179bbb10a24332e19af1103439197afdd48fe8d00c1eacfb808
+FileChecksum: MD5: 2786b4a758788c9a26ed557bf50dcb7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/api_contract.py
+SPDXID: SPDXRef-item15384735
+FileChecksum: SHA1: 23c9ecfe37ab5899e364e114af73d484e7e9ccd2
+FileChecksum: SHA256: 2e315c29c625164aee83c4d07ea1a14d0f1e711409aa818a1467cc1e549a1a4f
+FileChecksum: MD5: e4452ac8eb1afa90c3b29eb9ad8631d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/reference_subapp/model.py
+SPDXID: SPDXRef-item15384737
+FileChecksum: SHA1: a0a5c80a2dc5a57b8b46b9e14828783b28238e6f
+FileChecksum: SHA256: 72f629d226749824d753e1fc148ab93641c14c4704a6f3a0943faae915d9ac1b
+FileChecksum: MD5: 02b3cb1c6ea78ea7706149f7386279aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/reference_subapp/__init__.py
+SPDXID: SPDXRef-item15384738
+FileChecksum: SHA1: 2d510558fcf2114eb142b026db4a5be6eef5fc53
+FileChecksum: SHA256: f34c148d0aa6606169d9a32f373739dd4ae072fecc6ba6ae250ee9a518a3e32b
+FileChecksum: MD5: 7050a47edba7e9a32f971833459d09f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/reference_subapp/api.py
+SPDXID: SPDXRef-item15384739
+FileChecksum: SHA1: b5e4bfc7ff842a362fc85cf0bb61676da03b3f23
+FileChecksum: SHA256: 73c0266a79132eb8069900f98b81a37470509ee0e9c60ed0cd394eacf93efeb5
+FileChecksum: MD5: 34bad479270d145b93f31c38acac5d0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pmu_test_streamer/model.py
+SPDXID: SPDXRef-item15384741
+FileChecksum: SHA1: e39fbe3cef91b5dd6df46ffd930c9f2b6ce798d5
+FileChecksum: SHA256: 92fb50c647f8bc4e07c1345e252440de10062313686cfceba2caa89854790358
+FileChecksum: MD5: 2fb95d1336fe66067129813477e1a496
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pmu_test_streamer/sample_data.txt
+SPDXID: SPDXRef-item15384742
+FileChecksum: SHA1: ff0de80c0ead7c037c8c309c8c4d759c6a75541a
+FileChecksum: SHA256: 7f14f04315c41b945d12c2a0962b5211bc5ba33ceac9311b7e0cf584cccc600c
+FileChecksum: MD5: 34b74e207a5f16d146008362881d89f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pmu_test_streamer/__init__.py
+SPDXID: SPDXRef-item15384743
+FileChecksum: SHA1: 271afc61060dd908de3cb08bc878f3ff8abcb464
+FileChecksum: SHA256: 7fbef1ddcae42fa75762a7d2d855c319871a0a18cf2bce43a9e9685fcc8455aa
+FileChecksum: MD5: 4ec9dabb86bd4a2ee72309f30185e9dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/pmu_test_streamer/api.py
+SPDXID: SPDXRef-item15384744
+FileChecksum: SHA1: dfad76667793d43fbf364e24b0bf8ba124e41190
+FileChecksum: SHA256: c58617f918afa80520c1743ea69350142000b8bb5c785da40b5a9a937e1a2932
+FileChecksum: MD5: 3d582473f7525013dddd62f005b3e3c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/src/shared.py
+SPDXID: SPDXRef-item15384745
+FileChecksum: SHA1: ce72dbeb2a2cee7c0b4f535df1e7d8fabe18f25e
+FileChecksum: SHA256: 5fd48138ad80fcfd72d6dfb77cb522fccddd1352d88d536dcda5e9dfc744c8df
+FileChecksum: MD5: 389367493f6c368e6988836d69327f50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/server-python/uv.lock
+SPDXID: SPDXRef-item15384750
+FileChecksum: SHA1: 6b69658d5139f1c33f9c9036c3e6b0f885aeca86
+FileChecksum: SHA256: be3e7b585d67ebb2fffb0ffeaba123f8697c7146515bcd7dc2d519ae1151a49d
+FileChecksum: MD5: ef3af720ebc0860b39e6076446d1bd68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/package-lock.json
+SPDXID: SPDXRef-item15384752
+FileChecksum: SHA1: 6b32f3cac3eae3532cad9c119200a2da376fc184
+FileChecksum: SHA256: ddfafb86082ea06774accafb801fe2c3a38c4159db4c4883f47c19441a1eb3c5
+FileChecksum: MD5: ad3df024c594881449ac6b3ecf094b7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: Python-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: ISC
+LicenseInfoInFile: OFL-1.1
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: CC-BY-4.0
+LicenseInfoInFile: 0BSD
+LicenseInfoInFile: BlueOak-1.0.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/tsconfig.json
+SPDXID: SPDXRef-item15384753
+FileChecksum: SHA1: 911526a51d1976846d5bb5b96b3e405ae4bcdbc9
+FileChecksum: SHA256: 23c57da26bcec4996c4168f01187840c8ec08a1d60c2dd0edad6d984f5c33680
+FileChecksum: MD5: 597111e0871da06310089fd23d923ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/hooks/useServerSocket.ts
+SPDXID: SPDXRef-item15384756
+FileChecksum: SHA1: f033fc5a0e2fb6524ace14c8bb4dc173fddd0eb7
+FileChecksum: SHA256: bc77de44b10995031728ac3d9abdcbb472c304f50bc82c754c7babbbebe95f2c
+FileChecksum: MD5: afad43792dc23a31c830241485190882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/lib/clientId.ts
+SPDXID: SPDXRef-item15384758
+FileChecksum: SHA1: 5cbda43e46f83cce9d18090ef27daf28745dad58
+FileChecksum: SHA256: 4f49b4b77435d4ca9130e3b109bae0bf7c20b83def076287a74f1e779e6db3bc
+FileChecksum: MD5: 59d49fb2f5fc02c1abec9f514fd5794c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/lib/servers.ts
+SPDXID: SPDXRef-item15384759
+FileChecksum: SHA1: 639e6cbe2cb774b105e6712881932819f2507d65
+FileChecksum: SHA256: 7f41afc16a4dd23dce641e97401df10655179b406c5b9442f60c89e15ae122d0
+FileChecksum: MD5: 56fde9f925afbc0a4bc629e8b22a2d6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/lib/commands.ts
+SPDXID: SPDXRef-item15384760
+FileChecksum: SHA1: b94f1e2c708fe3f20c39414db4ed41691be0574f
+FileChecksum: SHA256: 851f787e355cef3c83ff7bb439cafc3ffaa21ac3183d91c639ecb4d8af48cd71
+FileChecksum: MD5: b41a78081c55ea2ec4a433c61fca88a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/lib/utils.ts
+SPDXID: SPDXRef-item15384761
+FileChecksum: SHA1: 03edf7b44c7cf1d3f48be4f72866007dbb63b8c6
+FileChecksum: SHA256: 7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d
+FileChecksum: MD5: 5a6fd53fdcf2be529e9cc0b718fde352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/lib/basePath.ts
+SPDXID: SPDXRef-item15384762
+FileChecksum: SHA1: 7943cc5df60ebd31deeb4b7fd2ec16f057c5e202
+FileChecksum: SHA256: eea28f6887e8ddab79f7d01c4a96b298e7fae0d11ad99fe2652d2662003f15a8
+FileChecksum: MD5: 5bea64067c9bea6a258fbd64bee85b1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/reference-subapp/useReferenceSubappSocket.ts
+SPDXID: SPDXRef-item15384765
+FileChecksum: SHA1: 4d5aaf2b46c9261f167854460a60930c5177ed3f
+FileChecksum: SHA256: 24b9ba52536ad2f339675f2d155bbfbf2b2efe75fe147edaa2fff365e794c3f5
+FileChecksum: MD5: a3cc9885eda59a8c5572dd054def55de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/reference-subapp/ReferenceSubappPage.tsx
+SPDXID: SPDXRef-item15384766
+FileChecksum: SHA1: aa4ae338ccfedb5f723dd3ec867dff46e2f364d1
+FileChecksum: SHA256: e7327eaac4c5d9154882a52df8e2b5c356a8e60959440afba705deebd96026b4
+FileChecksum: MD5: c2d36b6d0f3a7c11db8313f4603d75aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islands.ts
+SPDXID: SPDXRef-item15384768
+FileChecksum: SHA1: 170a6d9b10815881dfc3341f807e6a444cd59004
+FileChecksum: SHA256: 8c4ad5e25a4bf40d1037d3d318fd6730a370d905cc820d7e20d7c26bf10ce863
+FileChecksum: MD5: 5f64499a6a6af91995819e4c3f7827ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/variant.ts
+SPDXID: SPDXRef-item15384769
+FileChecksum: SHA1: 73220f16e1739b37387ba1ef9d102e7c92c5d8cf
+FileChecksum: SHA256: 684e73391c79fc203813e4c18aa9003cce15256a68fab84d35273e2625cd9091
+FileChecksum: MD5: f999cf6f07f6cab6cf9bf8935a39ff00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/phasors/PhasorDial.tsx
+SPDXID: SPDXRef-item15384771
+FileChecksum: SHA1: 058229c1c0ae1abef42cc0a58492f7d7f2da1210
+FileChecksum: SHA256: eefd9cd1cce2b618971fc931a0b4af977e0f30fdeaaf517c667e983d87ed1f43
+FileChecksum: MD5: d1366e4ef852426fce0db68a2cf67ebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/phasors/usePhasorsSocket.ts
+SPDXID: SPDXRef-item15384772
+FileChecksum: SHA1: 847117d18056551c64016f75b1738369ff8cd603
+FileChecksum: SHA256: b22330389a2ed65335ee34cab2765d821b0c8591a391adf40a6ff6c28565c7bd
+FileChecksum: MD5: 788d84671f8bf0862d22ede5d3913634
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/phasors/PhasorsPanel.tsx
+SPDXID: SPDXRef-item15384773
+FileChecksum: SHA1: 85f87256dcdd28b4333dc8f1a32cc629c8b28e8e
+FileChecksum: SHA256: 8e0d83ccd0457d48c96b2021364629cd5577424ec28946826029dc291e26740a
+FileChecksum: MD5: e9ff9668a6cc35390ef42e65810e3cac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/PortCaveat.tsx
+SPDXID: SPDXRef-item15384774
+FileChecksum: SHA1: 92c515961e9b46179b1ce0220d4736ad6a6cff08
+FileChecksum: SHA256: 7f55b3b8e5d06dafcaacf00f145cbfac841b3bbfbdf169e9c4469df8431dfd75
+FileChecksum: MD5: ddaa7abdd8a9efbe81b834e680045fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/app-status/useAppStatusSocket.ts
+SPDXID: SPDXRef-item15384776
+FileChecksum: SHA1: 69564d3559630650c97c077010939b9285dc01cf
+FileChecksum: SHA256: 4d91c53910bbbe46baaa77e5a9fd181690c5614a99b898dbccbad8623bb67ac2
+FileChecksum: MD5: 3b3968dde3f2806ecec486c493f5be53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/app-status/AppStatusTable.tsx
+SPDXID: SPDXRef-item15384777
+FileChecksum: SHA1: 415e7dbd177c68627016cb4ead260b61f461d99c
+FileChecksum: SHA256: 07be88a1317f18e0dd9418a02b43806c3069b66a8c50127bace0199f1f265aad
+FileChecksum: MD5: 9f8801d19e1e45ee0f053a2774480b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/app-status/AppStatusPanel.tsx
+SPDXID: SPDXRef-item15384778
+FileChecksum: SHA1: fbd44768e3c61051c3183e36144f565fea935fc4
+FileChecksum: SHA256: 799395b1235f7bacd6010c9a41e07b9995b2e46f4858ea2bed03b20f145bf446
+FileChecksum: MD5: c139218b412c1461d2df5a7a1c631339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/line-outage/useLineOutageSocket.ts
+SPDXID: SPDXRef-item15384780
+FileChecksum: SHA1: 29206e77fba22c85a814b80b1d828f4e10b3ff5f
+FileChecksum: SHA256: 59fb733c75e3c6cedb1c5a7f14935c707c8d2c10222a58d69a0eebd322841d4d
+FileChecksum: MD5: abb92ea1ca8966a06be943cf241fcfba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/line-outage/LineOutagePanel.tsx
+SPDXID: SPDXRef-item15384781
+FileChecksum: SHA1: 853794db241fa325b5e9309748f9ee827dcfe833
+FileChecksum: SHA256: 313e1ae431dc4cb6bb74d0301df2ab952d03c9300a2621b53626c25ddc719d32
+FileChecksum: MD5: 58093369d0452a5782382173f83ac8a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/IslandingData.tsx
+SPDXID: SPDXRef-item15384783
+FileChecksum: SHA1: 07e3825914e481379cfe06b82acbfd28be9c892c
+FileChecksum: SHA256: ea0b17e73f3a2b8629d07784fe81c0b5c87351e737c5fb51ebebc18f3490bb33
+FileChecksum: MD5: ad86d847684bce13b459a6037173a56b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/IslandingFocused.tsx
+SPDXID: SPDXRef-item15384784
+FileChecksum: SHA1: 97b5ad44e25dcd26ed4b093924ff43826070643d
+FileChecksum: SHA256: 0dd56e8c1f2f4c89759e458ca71901f05316b416e4f1ee038eece7ccb80340d2
+FileChecksum: MD5: 352dba3acfaabb23ba74016c4bdd1238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/IslandMap.tsx
+SPDXID: SPDXRef-item15384785
+FileChecksum: SHA1: 2d0640daba71943378dc5d4225aff95a6f62930a
+FileChecksum: SHA256: cf4c735702a73f6e3195cf20b2b9bdfb9fc1f74d5252ceee2995cd2922faa440
+FileChecksum: MD5: d405adc249094379c6bbf147405c5f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/AlarmsPanel.tsx
+SPDXID: SPDXRef-item15384786
+FileChecksum: SHA1: 8f5e97c8b2212e9b5b8b1155d1780bae835792d4
+FileChecksum: SHA256: 2198d3d3f5185114fa2ab1441866fc84f7b3af57831d7fd4adb8da2a29c9a5af
+FileChecksum: MD5: 9c0d3d23456214f309c36d2f29b9dfe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/AlarmDetails.tsx
+SPDXID: SPDXRef-item15384787
+FileChecksum: SHA1: f2137571950a4102fe59185c89f9d6014aa05010
+FileChecksum: SHA256: 15e8dab25db376037e59b53f947aa15c7c04b3fa8363372cd29b144fa692137d
+FileChecksum: MD5: 65f135443e1fdc8238e6145de9143c8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/IslandMapPanel.tsx
+SPDXID: SPDXRef-item15384788
+FileChecksum: SHA1: 5fd09314bd375b3f46ef42979d8281353e39f539
+FileChecksum: SHA256: 51518887ebec1416925659a6a9d39a98f93ba75471177e60dd508dc21fd3f970
+FileChecksum: MD5: c6295cd637f1db51257650a7b953f56e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/islandingContext.ts
+SPDXID: SPDXRef-item15384789
+FileChecksum: SHA1: a22d3f55ccd6980a2ad33721afdd1f1f7237d613
+FileChecksum: SHA256: dd747ad2312fffaeedda29f0835e19a7047a6fc5f68b7e7f51d0783e522076d9
+FileChecksum: MD5: 31fbc2f2b8fd44d20978295615cfb24d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/AlarmTable.tsx
+SPDXID: SPDXRef-item15384790
+FileChecksum: SHA1: 1c6d27b061432feb2ad526090b52ae05521afe0f
+FileChecksum: SHA256: 05f4f62cd40ef00e86d3c3c5c723341ad0cd952f68243e0031a8c606cb800fd2
+FileChecksum: MD5: 624b22f58963b3da95c6112ebcac4fbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/islanding/useIslandingSocket.ts
+SPDXID: SPDXRef-item15384791
+FileChecksum: SHA1: 3091cbe75a9f2189271c38b75341a5696bc86193
+FileChecksum: SHA256: f6d572ed5cba1249948cb013c5e2abca444ac9de3fd9ab2d72c69cd5f73a36d6
+FileChecksum: MD5: 18e63a9ddeb18179392b96ed1ca9b5cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/time-window/TimeWindowChart.tsx
+SPDXID: SPDXRef-item15384793
+FileChecksum: SHA1: 2fc555747f7395b7dd56b6d704d958706d5e2ca0
+FileChecksum: SHA256: 8138486975f01e6628131c9309fa35d21ca920527b2295010c633a1794e55576
+FileChecksum: MD5: 7c674faa066ec243b257e6faeda0ed88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/time-window/ChannelPicker.tsx
+SPDXID: SPDXRef-item15384794
+FileChecksum: SHA1: f77321ee5ac7a131dd2ed81f3e9a309d9441cc07
+FileChecksum: SHA256: 412b1eb1af79b7c979f8aed846ca11ec8bd7c03db069aa27a413b62621f376a0
+FileChecksum: MD5: a0bfa8e2dc853af40095739d17a536de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/time-window/useTimeWindowSocket.ts
+SPDXID: SPDXRef-item15384795
+FileChecksum: SHA1: 787b56e6311a37e9cfdef86131cefc640ac2c0cc
+FileChecksum: SHA256: fd05e331f39ad70f6c9e8b5877da957db80173132d1113e0ab775166c3201c75
+FileChecksum: MD5: f51d829d60051bc44e174e4b97e37ff1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/time-window/MeasurementsPanel.tsx
+SPDXID: SPDXRef-item15384796
+FileChecksum: SHA1: a05b8c126446d5991a233a99186079e0cafac5da
+FileChecksum: SHA256: c0dcd704baec679cf7023e6e61cb22d2f2e4ef781c1cd997dca662ba973e55af
+FileChecksum: MD5: 11288d13dee5bcecaa21a16f61445d85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/Panel.tsx
+SPDXID: SPDXRef-item15384797
+FileChecksum: SHA1: 2104fc7d83d5e472894db3e7d9bc1332c321c2c7
+FileChecksum: SHA256: 0ebd59a9d16ed4ced3b7bd0f7d249e4e16c6c970a3896c614a8355e7e6724245
+FileChecksum: MD5: fa25ccdf19c2989f92bb47b4ab77fb7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/grid-monitor/GridMonitorPage.tsx
+SPDXID: SPDXRef-item15384798
+FileChecksum: SHA1: 539a83ed73406d04fb5b5e81a7a252f12453d7dc
+FileChecksum: SHA256: 3153299dbe85e81f56b8b4922a56599d644cce15d9345b7eb237a1e634129a27
+FileChecksum: MD5: c61dc508307dad29e517f788345a7cb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/pmu-test-streamer/usePmuStreamSocket.ts
+SPDXID: SPDXRef-item15384800
+FileChecksum: SHA1: a42fbe3693e0cc576a2c6f23752ebb0c59ade7ce
+FileChecksum: SHA256: b26b4327c7010be601d080d9c36cdf234ee103339a4f84e6f559a0e97a7846dc
+FileChecksum: MD5: 1bb970eeb2355d3e972b7aa0f8bf0215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/pmu-test-streamer/StreamWindow.tsx
+SPDXID: SPDXRef-item15384801
+FileChecksum: SHA1: 0f3152a234f99429bcac7dfe4b92def24f10ef7e
+FileChecksum: SHA256: 8a5c2cb217233f333e157c22b7850f64f36c380893b6eea926f39097a615861a
+FileChecksum: MD5: 998c1d35f5a3a420b13138ce4f3400fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/pages/pmu-test-streamer/PmuTestStreamerPage.tsx
+SPDXID: SPDXRef-item15384802
+FileChecksum: SHA1: 2e35d9de16dc9d9f9f996d20e388f3537a5922a3
+FileChecksum: SHA256: 83ba0d6569cda34db37f53ced622a2629568756686fe182db2ce5f5b01962a60
+FileChecksum: MD5: b40327202ff9e89e283fbb24711eefe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/index.css
+SPDXID: SPDXRef-item15384803
+FileChecksum: SHA1: bc5ec1b20636708a43780f3ab2bdf37c4c5fc583
+FileChecksum: SHA256: 9bde270cb8d0493a24091df8ae292e3a2b3484f91d738fa70a037866fe206d48
+FileChecksum: MD5: 7ad5d8cbf2fc8ea2c6fb0284c5df31b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/main.tsx
+SPDXID: SPDXRef-item15384804
+FileChecksum: SHA1: 05e4446135e24d135b8156df773fda104cbfb10f
+FileChecksum: SHA256: 6e9e5807fcbd48b75a96db5cbef36c996262196be42e6d4760dc86babbe61ad2
+FileChecksum: MD5: 787e5a07efeb2bf6209d5937195f2f68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/AppLayout.tsx
+SPDXID: SPDXRef-item15384806
+FileChecksum: SHA1: 338095c13ec090892b865729e37c814fef3d8748
+FileChecksum: SHA256: 379e71c439bde0939c5def53204e20e8fd2996cf1080c6e5b3cfb4aecd8962c8
+FileChecksum: MD5: a20ccc3a7abf2951c1319d4ed4634d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/ui/button.tsx
+SPDXID: SPDXRef-item15384808
+FileChecksum: SHA1: b686d5f41c2255a5fbc0f5c0b4447d32f6666e6f
+FileChecksum: SHA256: 9ce417985b97956fbb3a73c84b0eb60230fd0a9844c5111df92e061731440a3f
+FileChecksum: MD5: 37ff09090166aa7d6fae96e0b081e492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/ui/alert.tsx
+SPDXID: SPDXRef-item15384809
+FileChecksum: SHA1: b35338790c7d1501e32fccd9db6a8304d112d222
+FileChecksum: SHA256: 126a26b401ab2cd3f3855551d012b5dca7a96b7d6984a921add3ce2d441af4b6
+FileChecksum: MD5: 739c28799fae98b4fa01132494788e85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/ui/select.tsx
+SPDXID: SPDXRef-item15384810
+FileChecksum: SHA1: ecdccacdc7c988a3717cee34a29374ae2980c965
+FileChecksum: SHA256: 078c479779746fed4ec80ab5144fd11ac8c258e0f3869cef52be9f0d633f6ab0
+FileChecksum: MD5: dfcff6f77a481139163a4179d323cc0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/ui/card.tsx
+SPDXID: SPDXRef-item15384811
+FileChecksum: SHA1: 7f8cbb5216ee440b0ace1325964bef9044403eae
+FileChecksum: SHA256: d8113cbf964f8d1aadf2649d2944d8bbc6e3cfd49d36746f76868cbc4dde3cfe
+FileChecksum: MD5: bd5f88ad2d983dd6c4561d63824c80ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/ui/badge.tsx
+SPDXID: SPDXRef-item15384812
+FileChecksum: SHA1: c35b21d2c4ab53b5d3749b93305d8f4e6ea206d5
+FileChecksum: SHA256: 1b292cd64608eef62eab1e43621071b32f794988a8c4e40fd1086cfbf8d9ef5d
+FileChecksum: MD5: 633c33997e6137921ae433dd2dd0cb31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/components/ui/table.tsx
+SPDXID: SPDXRef-item15384813
+FileChecksum: SHA1: 274d08ec355b7a2c87b37b939ecd1a51430a165d
+FileChecksum: SHA256: 4e0d5b9f374a6dace8185d510be592c9194b67829d510c466fa8528cc1ee41df
+FileChecksum: MD5: f51aea8eb022e6017f928b02f2471e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/App.tsx
+SPDXID: SPDXRef-item15384814
+FileChecksum: SHA1: 4fe7f7d129f930ebd9a0e498f597c7f78ac552f2
+FileChecksum: SHA256: eacf64a69d82ec199a48a4f181183d4cf3a6182fa10af5a75c62e7aea4c901f3
+FileChecksum: MD5: 52428b95cfc50741f3d8d8a673a593ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/api/schema.ts
+SPDXID: SPDXRef-item15384816
+FileChecksum: SHA1: 0f1dbb72fe0a0478a2f132a9ae46a4c7f2304b9c
+FileChecksum: SHA256: a9800cf05d4ef8798f8ce7cae056b26a62c8f9ae109764bc62d76761be0af012
+FileChecksum: MD5: c2faa977ad1a6c574a921015f091228a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/api/wire.ts
+SPDXID: SPDXRef-item15384817
+FileChecksum: SHA1: c836bf96a713dfc28ebbb29e13ca8d54c79cecbb
+FileChecksum: SHA256: d089e31c09fb9052253648db3a8fc05e29494df9ae989589d66c8a4b4ad52f6f
+FileChecksum: MD5: fb6fc42bc822cc320851b8770d98e321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/src/vite-env.d.ts
+SPDXID: SPDXRef-item15384818
+FileChecksum: SHA1: e3bbda84548ee65dc3118b58a2b4fef79d018a4c
+FileChecksum: SHA256: 217d176b6430cc150e2265590e5b184721f67049ab0e23e16ced6f8ed7046eab
+FileChecksum: MD5: ffd5d925de3a629311be879ef9d57ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/tsconfig.node.json
+SPDXID: SPDXRef-item15384819
+FileChecksum: SHA1: 67721cb381c707da636fc3d0d3e05746c60f1da4
+FileChecksum: SHA256: 90a22c920cbc14624fb4658b58f15c875abf3234224f3933f211849c3ada3242
+FileChecksum: MD5: 70bdd0a673bcfc0e828080b306e7c680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/eslint.config.js
+SPDXID: SPDXRef-item15384820
+FileChecksum: SHA1: 9881405deb4028854172692b0fe091e0455b50cd
+FileChecksum: SHA256: 187d3dca2606cbedb92d9ee9b6314b70ba8784811e7951e1e21e166bf8637272
+FileChecksum: MD5: bddea0dd47e135fe747d80ea5d9b6dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/.gitignore
+SPDXID: SPDXRef-item15384821
+FileChecksum: SHA1: f97396057473437884f392e366dbc5dc67109465
+FileChecksum: SHA256: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
+FileChecksum: MD5: d9566700e8535935d03c1583474d790c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/tsconfig.app.json
+SPDXID: SPDXRef-item15384822
+FileChecksum: SHA1: 908d7099eb3eb349a5d6ee5f95e3b47bacb27f6e
+FileChecksum: SHA256: a325a48080e1b12355382a682d8006ff4690d4b49f013b080c10e1d04f3812d6
+FileChecksum: MD5: 8e82696007c66936bb3ca3f95b8ee4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/components.json
+SPDXID: SPDXRef-item15384823
+FileChecksum: SHA1: a7b994032d346798a555077ddf24e032ab95dc3f
+FileChecksum: SHA256: d0ada54e59710099b766eae59a1a35d31b717a6ec43d73a8814de1815ddc1749
+FileChecksum: MD5: 4309401ded0527ef65581f5ae99855a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/vite.config.ts
+SPDXID: SPDXRef-item15384824
+FileChecksum: SHA1: fd1cccfebfee35ffecaa539f81ac30d5db8d7c3a
+FileChecksum: SHA256: 01f1a0cdf82c6ef890f85b0b207cbfa69a322621f10c7a922da1ec94b54b7e8a
+FileChecksum: MD5: 5a5b88297fea2106d575903dd2a9fcf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/README.md
+SPDXID: SPDXRef-item15384825
+FileChecksum: SHA1: 5976d1f9c667a38f3c4b90049d2c6722a10c19ad
+FileChecksum: SHA256: 8dc9e0ee2281acb3324624fbe6eb7e1377cc626f616ea4dc90e3a90ae094374d
+FileChecksum: MD5: f6e3faf55d738cf2affe1b44195f27cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/package.json
+SPDXID: SPDXRef-item15384826
+FileChecksum: SHA1: 2908e5b694592615f32345ee81c585dda935eca8
+FileChecksum: SHA256: 907571784cb19469a73fc6d8cbf13dc27eeca3cddb2775be6ee14945a33fe1f2
+FileChecksum: MD5: 57287d6ed1b4d187e61b3a2bc06ad79c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/public/favicon.svg
+SPDXID: SPDXRef-item15384828
+FileChecksum: SHA1: 4a5804c38a38f99221a598a0d98fb9ca8e5eb47a
+FileChecksum: SHA256: e38f4b9e4df77310c3ed0bce966b175a5c91c5b5e51afef840eb32e395d3cabe
+FileChecksum: MD5: af1a2890829ef67d22bfe52cdf27391f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/app/client-web/index.html
+SPDXID: SPDXRef-item15384829
+FileChecksum: SHA1: cbc6e64717aeb0c7e8ec10ae94b42b237357377b
+FileChecksum: SHA256: ce2a64978967d9ef8228ec1d2bc6cfe62f360f2e2db99d19c4108e5aad12c17b
+FileChecksum: MD5: 37bd9d97b90546be9031addeae5984ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: p-swamp-2026-09-29.zip/p-SWAMP/.dockerignore
+SPDXID: SPDXRef-item15384830
+FileChecksum: SHA1: 753bdef8de782a49b37e25e4cdb3e8fcb71edb7d
+FileChecksum: SHA256: d49f55a03cb167365728f1ab65d190d4d367d28c4072140837df81dd612c53b3
+FileChecksum: MD5: 01fa6773d13b09a802544c70b82b7736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-MIT-possibility
+LicenseName: MIT-possibility
+ExtractedText: <text> License by Nomos. </text>
+
