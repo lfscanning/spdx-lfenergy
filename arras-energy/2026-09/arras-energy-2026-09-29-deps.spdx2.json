@@ -1,0 +1,1590 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T16:59:27Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
+            "licenseId": "LicenseRef-NOASSERTION"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Public Domain Statement",
+            "licenseId": "LicenseRef-Public-Domain-Statement"
+        }
+    ],
+    "name": "/tmp/tmpf99snr2c/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpf99snr2c/code-332f4a5a-e068-4109-8c61-cb90aac57fdf",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "gridlabd/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "076e78a6c16b2fbe472a31854f87bfee6deae5a9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8caf9eaf90af2bcc",
+            "description": "Download data from U.S. Census API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/censusdata@1.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jtleider/censusdata",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "CensusData",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Julien Leider",
+            "versionInfo": "1.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-87549a072587d524",
+            "description": "Fiona reads and writes spatial data files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fiona@1.8.22",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Fiona",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Toblerity",
+            "versionInfo": "1.8.22"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6975565c245d20e1",
+            "description": "Solves power flow and optimal power flow problems",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pypower@5.1.16",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rwl/PYPOWER",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "PYPOWER",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Richard Lincoln",
+            "versionInfo": "5.1.16"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c5091d5d608c5c75",
+            "description": "Python Imaging Library (fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@9.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.org",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND GPL-3.0-only AND LGPL-2.1-only AND MIT AND LicenseRef-NOASSERTION AND OFL-1.1 AND Bitstream-Vera AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Bitstream-Vera AND Bitstream-Vera AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND CC0-1.0 AND GPL-1.0-or-later AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND GPL-2.0-only AND GPL-3.0-only AND HPND AND HPND AND LicenseRef-NOASSERTION AND MIT AND MIT-Modern-Variant AND LicenseRef-NOASSERTION AND OFL-1.1 AND TCL",
+            "licenseDeclared": "MIT-CMU",
+            "name": "Pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "9.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a8b59c0b1849031e",
+            "description": "Manipulation and analysis of geometric objects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/shapely@1.8.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND BSD-3-Clause AND BSD-3-Clause) OR Apache-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Shapely",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: shapely",
+            "versionInfo": "1.8.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fee8c89317421c4d",
+            "description": "The AWS SDK for Python (Boto3)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/boto3@1.26.115",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/boto/boto3",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "boto3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: the boto project",
+            "versionInfo": "1.26.115"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b116288acd9b853",
+            "description": "A simple, correct Python build frontend",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/build@0.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "build",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "0.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bb41c3a6119032ee",
+            "description": "Python wrappers for accessing Forest Observatory data via the Salo API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cfo@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/forestobservatory/cfo-api",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "cfo",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: California Forest Observatory",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-32803ddf9ac996a2",
+            "description": "Python Control Systems Library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/control@0.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "control",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Control Systems Library for Python",
+            "versionInfo": "0.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b246e9b776cf4149",
+            "description": "A domain-specific language for modeling convex optimization problems in Python.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cvxpy@1.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/cvxpy/cvxpy",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "NONE",
+            "name": "cvxpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: CVXPY",
+            "versionInfo": "1.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d833d3a4fc184f07",
+            "description": "A Python library for the Docker Engine API.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/docker@4.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/docker/docker-py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "docker",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Docker",
+            "versionInfo": "4.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-49d43f4b974ba337",
+            "description": "Download, cache and clip global terrain digital elevation models: Mapzen terrain tiles, Copernicus DEM, ALOS World 3D and SRTM 30m and 90m DEMs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/elevation@1.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://elevation.bopen.eu",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "name": "elevation",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: B-Open",
+            "versionInfo": "1.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6bcddd0014f85b17",
+            "description": "A simple framework for building complex web applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask@3.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "flask",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d2e802d7ff986d26",
+            "description": "Extract swagger specs from your flask-restful project",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask-restful-swagger@0.20.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rantav/flask-restful-swagger",
+            "licenseConcluded": "(BSD-3-Clause AND LicenseRef-scancode-free-unknown AND MIT AND MIT AND MIT) OR GPL-2.0-only",
+            "licenseDeclared": "MIT",
+            "name": "flask-restful-swagger",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Ran Tavory",
+            "versionInfo": "0.20.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c1ddb07e2511de5",
+            "description": "Make beautiful maps with Leaflet.js & Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/folium@0.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python-visualization/folium",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "folium",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: python-visualization",
+            "versionInfo": "0.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d50adb1f96628013",
+            "description": "Geocoder is a simple and consistent geocoding library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/geocoder@1.38.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/DenisCarriere/geocoder",
+            "licenseConcluded": "MIT AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "geocoder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Denis",
+            "versionInfo": "1.38.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-681a065f6f003f83",
+            "description": "Python bindings and utilities for GeoJSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/geojson@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jazzband/geojson",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "geojson",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Jazzband",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-468c17323140593c",
+            "description": "Geographic pandas extensions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/geopandas@0.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://geopandas.org",
+            "licenseConcluded": "BSD-3-Clause AND CC0-1.0 AND LicenseRef-NOASSERTION AND MIT",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "geopandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: GeoPandas",
+            "versionInfo": "0.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-11a5e6e2ef02c7d3",
+            "description": "Python Geocoding Toolbox",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/geopy@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/geopy/geopy",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "geopy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: geopy",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e4240974209a48ed",
+            "description": "Calculate the distance between 2 points on Earth.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/haversine@2.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mapado/haversine",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "haversine",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Mapado",
+            "versionInfo": "2.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1d95b57f119db9ed",
+            "description": "Download numerical weather prediction GRIB2 model data.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/herbie-data@2025.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/blaylockbk/Herbie",
+            "licenseConcluded": "CC-BY-4.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "herbie-data",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Brian Blaylock",
+            "versionInfo": "2025.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7bedd4af66e5c2b9",
+            "description": "Read and write images and video across all major formats. Supports scientific and volumetric data.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/imageio@2.31.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND OpenSSL AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND GPL-3.0-or-later AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "imageio",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: ImageIO",
+            "versionInfo": "2.31.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-64926e20bbaa8437",
+            "description": "Official Python library for IPInfo",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ipinfo@4.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ipinfo/python",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "ipinfo",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: IPinfo",
+            "versionInfo": "4.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-39f557e587f92b3d",
+            "description": "IPython Kernel for Jupyter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ipykernel@5.5.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ipython.org",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "ipykernel",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: IPython",
+            "versionInfo": "5.5.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7c13a2e952217f9f",
+            "description": "Simple package that leverages IPython and HTML for more efficient, reach and interactive plotting of images in Jupyter Notebooks",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ipyplot@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/karolzak/ipyplot",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ipyplot",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Karol \u017bak",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-69f01c17e58a299c",
+            "description": "IPython: Productive Interactive Computing",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ipython@8.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ipython.org",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND CC-BY-4.0 AND LGPL-2.1-or-later AND MIT AND LicenseRef-NOASSERTION AND BSD-3-Clause AND CC-BY-SA-3.0 AND BSD-3-Clause AND GPL-1.0-or-later AND LGPL-2.1-or-later AND LGPL-2.0-or-later AND MIT AND LicenseRef-NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "ipython",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: IPython",
+            "versionInfo": "8.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6b2a3f5b3a8b3b01",
+            "description": "Vestigial utilities from IPython",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ipython-genutils@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://ipython.org",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-2.0-or-later AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "ipython_genutils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f61ab1f5f9627e91",
+            "description": "Plotly graph export library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/kaleido@0.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/plotly/kaleido",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "kaleido",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Plotly",
+            "versionInfo": "0.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-861377163e0ee58a",
+            "description": "Inline Matplotlib backend for Jupyter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib-inline@0.1.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ipython/matplotlib-inline",
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "matplotlib_inline",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: IPython",
+            "versionInfo": "0.1.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-30c7e733a23511c1",
+            "description": "Metar - a package to parse METAR-coded weather reports",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/metar@1.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-1-Clause AND BSD-1-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause",
+            "licenseDeclared": "BSD-1-Clause AND BSD-2-Clause",
+            "name": "metar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: python-metar",
+            "versionInfo": "1.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f87f04842b6bb992",
+            "description": "Python package for creating and manipulating graphs and networks",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/networkx@2.8.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://networkx.org/",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference) AND BSD-3-Clause-Clear AND CC-BY-SA-3.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND MPL-2.0",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "networkx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: NetworkX",
+            "versionInfo": "2.8.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b85f9c79c4aee2f8",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@1.24.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND LicenseRef-NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND BSD-3-Clause AND NCSA AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND CC0-1.0 AND LicenseRef-NOASSERTION AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-NOASSERTION AND GPL-3.0-only AND LicenseRef-NOASSERTION AND MIT AND MIT AND LicenseRef-NOASSERTION AND Zlib AND MIT AND Zlib AND LicenseRef-NOASSERTION AND SunPro AND Zlib",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.24.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b5a3aba18585a7f",
+            "description": "A Python library to read/write Excel 2010 xlsx/xlsm files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/openpyxl@3.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://openpyxl.readthedocs.io",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "openpyxl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "versionInfo": "3.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-84bf157cdae701eb",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(0BSD AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND MIT AND LicenseRef-NOASSERTION AND (LicenseRef-NOASSERTION OR LicenseRef-NOASSERTION) AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause AND LicenseRef-NOASSERTION AND Python-2.0 AND BSD-3-Clause AND TCL AND BSD-3-Clause) OR (Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND Python-2.0)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f8bb8071f1582635",
+            "description": "A tiny, subprocess-based tool for reading a MS Access database(.rdb) as a Pandas DataFrame.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas-access@0.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jbn/pandas_access",
+            "licenseConcluded": "AML",
+            "licenseDeclared": "NONE",
+            "name": "pandas_access",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: John B Nelson",
+            "versionInfo": "0.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8ada32779c8b123e",
+            "description": "An open-source interactive data visualization library for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/plotly@5.24.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://plotly.com/python/",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND MIT AND CC-BY-3.0 AND CC-BY-4.0 AND CC-BY-3.0 AND CC-BY-SA-3.0 AND MIT AND ODbL-1.0 AND CC-BY-3.0 AND CC-BY-SA-3.0 AND ODbL-1.0 AND CC0-1.0 AND MIT AND CC0-1.0 AND LicenseRef-NOASSERTION AND MIT AND MIT AND Python-2.0 AND MPL-1.1",
+            "licenseDeclared": "MIT",
+            "name": "plotly",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Plotly",
+            "versionInfo": "5.24.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-43eeaf9053bda0f1",
+            "description": "Pure Python MySQL Driver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymysql@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pymysql",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: PyMySQL",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8361f77c0d90681f",
+            "description": "Python interface to PROJ (cartographic projections and coordinate transformations library)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyproj@3.7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyproj4/pyproj",
+            "licenseConcluded": "CC0-1.0 AND MIT AND MIT AND LicenseRef-NOASSERTION AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyproj",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: pyproj4",
+            "versionInfo": "3.7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a238afd3f26a3879",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyrlu@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "pyrlu",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d3351094f386d877",
+            "description": "Collection of Python libraries for simulating the irradiation of any point on earth by the sun",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pysolar@0.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pysolar.org",
+            "licenseConcluded": "GPL-1.0-or-later AND GPL-3.0-or-later",
+            "licenseDeclared": "GPL-1.0-or-later AND GPL-3.0-or-later",
+            "name": "pysolar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "versionInfo": "0.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b985f6a7999242b7",
+            "description": "Fast and direct raster I/O for use with NumPy",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rasterio@1.3.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "rasterio",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: rasterio",
+            "versionInfo": "1.3.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-143762c833ae8a62",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.13.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0 AND BSL-1.0 AND MIT AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND BSD-3-Clause AND CC-BY-SA-3.0 AND GPL-1.0-or-later AND LicenseRef-NOASSERTION AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-LBNL AND LicenseRef-NOASSERTION AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSD-3-Clause AND MIT AND BSD-3-Clause AND LicenseRef-NOASSERTION AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND GPL-1.0-or-later AND BSL-1.0 AND GPL-1.0-or-later AND LGPL-2.1-or-later AND LicenseRef-NOASSERTION AND BSL-1.0 AND LicenseRef-NOASSERTION AND EPL-1.0 AND MIT AND LicenseRef-NOASSERTION AND GPL-1.0-or-later AND LPPL-1.3a AND MIT AND MIT AND LicenseRef-NOASSERTION AND LicenseRef-NOASSERTION AND Qhull AND Zlib",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.13.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-68e9814d3d5ce5dd",
+            "description": "A Simple KML creator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/simplekml@1.3.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://readthedocs.org/projects/simplekml/",
+            "licenseConcluded": "GPL-3.0-only AND LGPL-3.0-only AND LGPL-2.0-or-later AND LGPL-3.0-or-later",
+            "licenseDeclared": "GPL-3.0-only AND GPL-3.0-or-later AND LGPL-3.0-only",
+            "name": "simplekml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "versionInfo": "1.3.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b9297e9ddd34a98",
+            "description": "Python package for offline timezone lookup of WGS84 coordinates, with no polygon simplification",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/timezonefinder@5.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "timezonefinder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "supplier": "Organization: Jannik Kissinger",
+            "versionInfo": "5.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ffa8f13d20d8347f",
+            "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xlrd@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.python-excel.org/",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "xlrd",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: gridlabd/requirements.txt",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "lfenergy.arras-energy",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-arras",
+            "comment": "This package was added to the Trivy analysis for the arras by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/arras/archive/ae724e205ee87fd6046012fec21df2d3da31c6c9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/arras@ae724e205ee87fd6046012fec21df2d3da31c6c9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "arras",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "ae724e205ee87fd6046012fec21df2d3da31c6c9"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-arras-api",
+            "comment": "This package was added to the Trivy analysis for the arras-api by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/arras-api/archive/32384a4dcfa47be2565bc924044236367f0d6543.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/arras-api@32384a4dcfa47be2565bc924044236367f0d6543",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "arras-api",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "32384a4dcfa47be2565bc924044236367f0d6543"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-converters",
+            "comment": "This package was added to the Trivy analysis for the converters by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/converters/archive/5ff37c06173460e41c2dff6a0adedfc3d4903fa5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/converters@5ff37c06173460e41c2dff6a0adedfc3d4903fa5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "converters",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "5ff37c06173460e41c2dff6a0adedfc3d4903fa5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd",
+            "comment": "This package was added to the Trivy analysis for the gridlabd by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd/archive/076e78a6c16b2fbe472a31854f87bfee6deae5a9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd@076e78a6c16b2fbe472a31854f87bfee6deae5a9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "076e78a6c16b2fbe472a31854f87bfee6deae5a9"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-benchmarks",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-benchmarks by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-benchmarks/archive/83dc1f87654adbc7acff5ab5b64d101226d714b2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-benchmarks@83dc1f87654adbc7acff5ab5b64d101226d714b2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-benchmarks",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "83dc1f87654adbc7acff5ab5b64d101226d714b2"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-examples",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-examples by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-examples/archive/f097aeaa9854f89d8e1dbeae0c19e950b31ef388.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-examples@f097aeaa9854f89d8e1dbeae0c19e950b31ef388",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-examples",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f097aeaa9854f89d8e1dbeae0c19e950b31ef388"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-library",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-library by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-library/archive/9b40ff9bccc523cf28924ba24ca1eee291cc9917.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-library@9b40ff9bccc523cf28924ba24ca1eee291cc9917",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-library",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "9b40ff9bccc523cf28924ba24ca1eee291cc9917"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-models",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-models by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-models/archive/e21b6f51a41148c82be13a292dad987fe498e903.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-models@e21b6f51a41148c82be13a292dad987fe498e903",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-models",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "e21b6f51a41148c82be13a292dad987fe498e903"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-modules",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-modules by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-modules/archive/4e616f8ea474ac13eb6dd8136a726b79baa66f1b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-modules@4e616f8ea474ac13eb6dd8136a726b79baa66f1b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-modules",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4e616f8ea474ac13eb6dd8136a726b79baa66f1b"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-template",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-template by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-template/archive/07307a89d4810ebde043d8ded5fccbd64c85e653.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-template@07307a89d4810ebde043d8ded5fccbd64c85e653",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-template",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "07307a89d4810ebde043d8ded5fccbd64c85e653"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-gridlabd-weather",
+            "comment": "This package was added to the Trivy analysis for the gridlabd-weather by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/gridlabd-weather/archive/d054ba5a4c9341a68e625a48626e967072d70181.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/gridlabd-weather@d054ba5a4c9341a68e625a48626e967072d70181",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "gridlabd-weather",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d054ba5a4c9341a68e625a48626e967072d70181"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-marimo",
+            "comment": "This package was added to the Trivy analysis for the marimo by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/marimo/archive/3c66e7c63aed2d16103d1b95551b373ed1c6d678.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/marimo@3c66e7c63aed2d16103d1b95551b373ed1c6d678",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "marimo",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "3c66e7c63aed2d16103d1b95551b373ed1c6d678"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-module-template",
+            "comment": "This package was added to the Trivy analysis for the module_template by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/module_template/archive/4735d2e5792e2eefa3dc1c3282af9b98349d8f4f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/module_template@4735d2e5792e2eefa3dc1c3282af9b98349d8f4f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "module_template",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4735d2e5792e2eefa3dc1c3282af9b98349d8f4f"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-tools",
+            "comment": "This package was added to the Trivy analysis for the tools by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/tools/archive/ad58497bb16617ffd89ca28e7e8bbbfc98ad4e27.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/tools@ad58497bb16617ffd89ca28e7e8bbbfc98ad4e27",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "tools",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "ad58497bb16617ffd89ca28e7e8bbbfc98ad4e27"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-arras-energy-geodata",
+            "comment": "This package was added to the Trivy analysis for the geodata by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/arras-energy/geodata/archive/4de78fcfb19776c426cbfaf1a3a5fd709fa5320d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/arras-energy/geodata@4de78fcfb19776c426cbfaf1a3a5fd709fa5320d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "licenseDeclared": "BSD-3-Clause AND MIT AND BSD-2-Clause AND FSFAP AND LicenseRef-Public-Domain-Statement AND GPL-3.0 WITH Autoconf-exception-3.0",
+            "name": "geodata",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4de78fcfb19776c426cbfaf1a3a5fd709fa5320d"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-11a5e6e2ef02c7d3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-143762c833ae8a62",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-1b5a3aba18585a7f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-1d95b57f119db9ed",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-30c7e733a23511c1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-32803ddf9ac996a2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-39f557e587f92b3d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-43eeaf9053bda0f1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-468c17323140593c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-49d43f4b974ba337",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-64926e20bbaa8437",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-681a065f6f003f83",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-68e9814d3d5ce5dd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-6975565c245d20e1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-69f01c17e58a299c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-6b2a3f5b3a8b3b01",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-6bcddd0014f85b17",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-7bedd4af66e5c2b9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-7c13a2e952217f9f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-8361f77c0d90681f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-84bf157cdae701eb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-861377163e0ee58a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-87549a072587d524",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-8ada32779c8b123e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-8caf9eaf90af2bcc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-9b116288acd9b853",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-9b9297e9ddd34a98",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-a238afd3f26a3879",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-a8b59c0b1849031e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-b246e9b776cf4149",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-b85f9c79c4aee2f8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-b985f6a7999242b7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-bb41c3a6119032ee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-c1ddb07e2511de5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-c5091d5d608c5c75",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-d2e802d7ff986d26",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-d3351094f386d877",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-d50adb1f96628013",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-d833d3a4fc184f07",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-e4240974209a48ed",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-f61ab1f5f9627e91",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-f87f04842b6bb992",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-f8bb8071f1582635",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-fee8c89317421c4d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relatedSpdxElement": "SPDXRef-Package-ffa8f13d20d8347f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-arras-energy-gridlabd",
+            "relatedSpdxElement": "SPDXRef-Application-c5b36bb3ed2581a3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-arras",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-arras-api",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-converters",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-benchmarks",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-examples",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-library",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-models",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-modules",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-template",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-gridlabd-weather",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-marimo",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-module-template",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-tools",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6f485f1030d40c1b",
+            "relatedSpdxElement": "SPDXRef-lfenergy-arras-energy-geodata",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
