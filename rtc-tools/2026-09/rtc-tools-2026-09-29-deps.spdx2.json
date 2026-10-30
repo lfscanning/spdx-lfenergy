@@ -1,0 +1,657 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T18:10:35Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "((Apache-2.0 OR LGPL-3.0-only) AND BSD-3-Clause) AND CC0-1.0 AND (Apache-2.0 AND BSD-3-Clause) AND (BSD-3-Clause AND CC0-1.0) AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND (NCSA OR MIT) AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND GPL-3.0-only AND Apache-2.0 AND LicenseRef-scancode-unknown AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND MIT AND Apache-2.0 OR GPL-2.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-3-Clause-Attribution AND GPL-3.0-only WITH GCC-exception-3.1 AND LGPL-2.1-or-later AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND (BSD-3-Clause AND Apache-2.0) AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND (Zlib AND MIT) AND LicenseRef-scancode-generic-exception AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib AND Zlib AND BSD-3-Clause",
+            "licenseId": "LicenseRef-fixed-0x1cd8a2933a210891"
+        },
+        {
+            "extractedText": "(Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND 0BSD AND 0BSD OR (0BSD AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND 0BSD AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-only WITH eCos-exception-2.0 AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x7ec4b11b5bf891b8"
+        },
+        {
+            "extractedText": "(Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND 0BSD AND 0BSD OR (0BSD AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND LicenseRef-scancode-unknown AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND 0BSD AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1 AND GPL-3.0-only) AND GPL-3.0-only AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1 AND GPL-3.0-only) AND LGPL-2.1-or-later AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-only WITH eCos-exception-2.0 AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x331b26c717e49235"
+        },
+        {
+            "extractedText": "BSD License",
+            "licenseId": "LicenseRef-fixed-0x4565436803fa65da"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0) AND (BSD-3-Clause AND GPL-1.0-or-later) AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer) AND BSD-3-Clause AND (BSD-3-Clause AND MIT AND BSD-3-Clause-LBNL) AND (LicenseRef-scancode-dhb-lbnl-bsd-2007 AND Apache-2.0 AND LLVM-exception) AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND (MIT AND BSL-1.0 AND BSD-3-Clause) AND Qhull AND (BSD-3-Clause AND BSD-3-Clause-LBNL AND Apache-2.0 AND LLVM-exception) AND MIT AND (BSD-3-Clause AND MIT) AND BSL-1.0 AND BSD-2-Clause AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND MIT AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause AND GPL-1.0-or-later) AND (CC-BY-SA-3.0 AND BSD-3-Clause) AND GPL-1.0-or-later AND BSD-3-Clause AND BSD-3-Clause-LBNL AND BSD-3-Clause AND BSD-3-Clause-LBNL AND Apache-2.0 AND LLVM-exception AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-other-permissive AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND BSD-3-Clause AND MIT AND Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND (MIT AND Apache-2.0) AND bzip2-1.0.6 AND Python-2.0 AND LicenseRef-scancode-proprietary-license AND BSD-2-Clause AND (MIT AND PSF-2.0) AND (GPL-2.0-or-later AND LGPL-3.0-or-later) AND MPL-2.0 AND (GPL-2.0-or-later AND GPL-3.0-only) AND LGPL-2.1-or-later AND LGPL-2.1-only AND (MPL-2.0 AND Apache-2.0) AND GPL-2.0-or-later AND BSL-1.0 AND PSF-2.0 AND BSD-3-Clause AND Minpack AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND CC0-1.0 AND LicenseRef-scancode-public-domain AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (EPL-1.0 AND LicenseRef-scancode-free-unknown) AND MIT AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Qhull AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x327d4dae9ea242c4"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND GPL-1.0-or-later AND Apache-2.0) AND (BSD-3-Clause AND GPL-1.0-or-later) AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer) AND BSD-3-Clause AND (BSD-3-Clause-Attribution AND BSD-3-Clause) AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND (BSD-3-Clause-Attribution AND BSD-3-Clause) AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND (BSL-1.0 AND LicenseRef-scancode-unknown-license-reference) AND BSL-1.0 AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND (MIT AND BSL-1.0 AND BSD-3-Clause) AND (Qhull AND BSD-3-Clause) AND (BSD-3-Clause AND MIT) AND (LicenseRef-scancode-dhb-lbnl-bsd-2007 AND BSD-3-Clause) AND MIT AND BSL-1.0 AND (Apache-2.0 AND Apache-2.0 WITH LLVM-exception) AND BSD-2-Clause AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND MIT AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause AND GPL-1.0-or-later) AND (CC-BY-SA-3.0 AND BSD-3-Clause) AND GPL-1.0-or-later AND BSD-3-Clause AND Apache-2.0 AND bzip2-1.0.6 AND BSD-2-Clause AND MIT AND (GPL-2.0-or-later AND GPL-3.0-only) AND LGPL-2.1-only AND LGPL-2.1-or-later AND GPL-2.0-or-later AND Python-2.0 AND PSF-2.0 AND BSD-3-Clause AND BSD-3-Clause-LBNL AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-other-permissive AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND BSD-3-Clause AND Minpack AND BSD-3-Clause-LBNL AND BSL-1.0 AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND CC0-1.0 AND LicenseRef-scancode-public-domain AND GPL-1.0-or-later AND GPL-1.0-or-later AND BSL-1.0 AND LGPL-2.0-or-later AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-proprietary-license AND (LGPL-2.1-or-later AND LicenseRef-scancode-proprietary-license) AND BSL-1.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (EPL-1.0 AND LicenseRef-scancode-free-unknown) AND MIT AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Qhull AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x7eeceda6d01b8202"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Public Domain Statement",
+            "licenseId": "LicenseRef-Public-Domain-Statement"
+        }
+    ],
+    "name": "/tmp/tmpkzpaiaod/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpkzpaiaod/code-a4dbb009-b9ec-4d8a-a7cd-cdf304a38c99",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-9e8bfbdc97b652c9",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "rtc-tools-casadi-plugins/uv.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "8afd095b51b766641ddb4d28d7ab8311903b05e3"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-959c068291eb9037",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "rtc-tools/uv.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "63cc19b65f4db89af6aab3ba675876ec51cf5a2a"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-987bebe68cf54643",
+            "description": "ANTLR 4.13.2 runtime for Python 3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/antlr4-python3-runtime@4.13.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.antlr.org",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "antlr4-python3-runtime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "versionInfo": "4.13.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-50004633e02e3633",
+            "description": "CasADi -- framework for algorithmic differentiation and numeric optimization",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/casadi@3.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://casadi.org",
+            "licenseConcluded": "(LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft) AND GPL-1.0-or-later AND (LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft) AND LGPL-2.1-or-later AND (LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft) AND LicenseRef-scancode-unknown AND (LicenseRef-scancode-unknown-license-reference AND LGPL-2.0-or-later) AND (DOC AND LGPL-2.0-or-later) AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-4.0 AND BSD-2-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-4.0 AND CC-BY-NC-SA-4.0 AND BSD-2-Clause-Views AND BSD-3-Clause AND DSDP AND EPL-1.0 AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-only WITH OCaml-LGPL-linking-exception AND LicenseRef-scancode-unknown-license-reference AND LGPL-2.1-or-later AND LGPL-2.1-or-later AND (LGPL-2.1-only WITH OCaml-LGPL-linking-exception AND LicenseRef-scancode-unknown-license-reference) AND LGPL-2.1-or-later AND LGPL-2.1-only AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND LGPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft AND LGPL-3.0-or-later AND LGPL-3.0-only AND LGPL-3.0-or-later AND LicenseRef-scancode-free-unknown AND LGPL-3.0-or-later AND LicenseRef-scancode-unknown-license-reference AND LGPL-3.0-or-later AND MIT AND LicenseRef-scancode-unknown-license-reference AND MIT-0 AND Zlib",
+            "licenseDeclared": "LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later",
+            "name": "casadi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools-casadi-plugins/uv.lock",
+            "supplier": "Organization: CasADi",
+            "versionInfo": "3.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-93910273e2c022ee",
+            "description": "CasADi -- framework for algorithmic differentiation and numeric optimization",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/casadi@3.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://casadi.org",
+            "licenseConcluded": "(LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft) AND GPL-1.0-or-later AND (LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft) AND LGPL-2.1-or-later AND (LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft) AND LicenseRef-scancode-unknown AND (LicenseRef-scancode-unknown-license-reference AND LGPL-2.0-or-later) AND (DOC AND LGPL-2.0-or-later) AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-4.0 AND BSD-2-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-4.0 AND CC-BY-NC-SA-4.0 AND BSD-2-Clause-Views AND BSD-3-Clause AND DSDP AND EPL-1.0 AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-2.1-only WITH OCaml-LGPL-linking-exception AND LicenseRef-scancode-unknown-license-reference AND LGPL-2.1-or-later AND LGPL-2.1-or-later AND (LGPL-2.1-only WITH OCaml-LGPL-linking-exception AND LicenseRef-scancode-unknown-license-reference) AND LGPL-2.1-or-later AND LGPL-2.1-only AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND LGPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-other-copyleft AND LGPL-3.0-or-later AND LGPL-3.0-only AND LGPL-3.0-or-later AND LicenseRef-scancode-free-unknown AND LGPL-3.0-or-later AND LicenseRef-scancode-unknown-license-reference AND LGPL-3.0-or-later AND MIT AND LicenseRef-scancode-unknown-license-reference AND MIT-0 AND Zlib",
+            "licenseDeclared": "LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later",
+            "name": "casadi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: CasADi",
+            "versionInfo": "3.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d09cdd2b155d6114",
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2025.4.26",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0 AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2025.4.26"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0fc96056962c6c6",
+            "description": "Time-handling functionality from netcdf4-python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cftime@1.6.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(GPL-1.0-or-later AND LicenseRef-scancode-unknown-license-reference AND (MIT OR GPL-1.0-or-later) AND MIT AND MIT AND (MIT OR GPL-1.0-or-later) AND MIT) OR GPL-1.0-or-later",
+            "licenseDeclared": "MIT OR (GPL-1.0-or-later AND MIT)",
+            "name": "cftime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: NSF Unidata",
+            "versionInfo": "1.6.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5590ce2a96451e6f",
+            "description": "XML bomb protection for Python stdlib modules",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/defusedxml@0.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tiran/defusedxml",
+            "licenseConcluded": "PSF-2.0 AND Python-2.0",
+            "licenseDeclared": "PSF-2.0",
+            "name": "defusedxml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: Christian Heimes",
+            "versionInfo": "0.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2177d5a5f1e0e247",
+            "description": "Provides an object-oriented python interface to the netCDF version 4 library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/netcdf4@1.7.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "netcdf4",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: NSF Unidata",
+            "versionInfo": "1.7.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-23df52d728632144",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x1cd8a2933a210891",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools-casadi-plugins/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3a0abe0144ab3abf",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x7ec4b11b5bf891b8",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a6e5d376df31e8b4",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.3.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x331b26c717e49235",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.3.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c3f84056475ffe04",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x7ec4b11b5bf891b8",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools-casadi-plugins/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4262730e42d8f2a5",
+            "description": "A Modelica to computer algebra system (CAS) translator.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymoca@0.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x4565436803fa65da",
+            "licenseDeclared": "NONE",
+            "name": "pymoca",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: pymoca",
+            "versionInfo": "0.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e62604aaf50b334f",
+            "description": "Toolbox for control and optimization of water systems.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rtc-tools",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://oss.deltares.nl/web/rtc-tools/home",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "rtc-tools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: rtc-tools"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b74c7ee1e6903564",
+            "description": "Simple and hydraulic Modelica routing models for RTC-Tools 2.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rtc-tools-channel-flow@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.deltares.nl/en/software/rtc-tools/",
+            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-3.0-only AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-only AND LGPL-2.0-or-later AND LicenseRef-scancode-public-domain AND (LicenseRef-scancode-public-domain AND CC0-1.0)",
+            "licenseDeclared": "LGPL-3.0-only AND LGPL-3.0-or-later",
+            "name": "rtc-tools-channel-flow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: Deltares",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-38494459d8efa507",
+            "description": "Standard Modelica library for RTC-Tools ecosystem",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rtc-tools-standard-library@0.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "NONE",
+            "name": "rtc-tools-standard-library",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: Joris Gillis",
+            "versionInfo": "0.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d50168741b14064a",
+            "description": "CasADi HiGHS solver plugin for RTC-Tools (pre-built binary wheel).",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/rtctools-highs",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/rtc-tools/rtc-tools-casadi-plugins",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "rtctools-highs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools-casadi-plugins/uv.lock",
+            "supplier": "Organization: rtc-tools"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3b276d51359f01d4",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.16.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x327d4dae9ea242c4",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.16.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6f3b8553516eb587",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.15.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x7eeceda6d01b8202",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: rtc-tools/uv.lock",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.15.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-2a2bd8f5145ca630",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "licenseDeclared": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "name": "lfenergy.rtc-tools",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-rtc-tools-rtc-tools",
+            "comment": "This package was added to the Trivy analysis for the rtc-tools by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/rtc-tools/rtc-tools/archive/63cc19b65f4db89af6aab3ba675876ec51cf5a2a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/rtc-tools/rtc-tools@63cc19b65f4db89af6aab3ba675876ec51cf5a2a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "licenseDeclared": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "name": "rtc-tools",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "63cc19b65f4db89af6aab3ba675876ec51cf5a2a"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-rtc-tools-rtc-tools-casadi-plugins",
+            "comment": "This package was added to the Trivy analysis for the rtc-tools-casadi-plugins by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/rtc-tools/rtc-tools-casadi-plugins/archive/8afd095b51b766641ddb4d28d7ab8311903b05e3.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/rtc-tools/rtc-tools-casadi-plugins@8afd095b51b766641ddb4d28d7ab8311903b05e3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "licenseDeclared": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "name": "rtc-tools-casadi-plugins",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "8afd095b51b766641ddb4d28d7ab8311903b05e3"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-rtc-tools-rtc-tools-standard-library",
+            "comment": "This package was added to the Trivy analysis for the rtc-tools-standard-library by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/rtc-tools/rtc-tools-standard-library/archive/f208f99745298492fbb9f74c6cb6b58c3ee48606.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/rtc-tools/rtc-tools-standard-library@f208f99745298492fbb9f74c6cb6b58c3ee48606",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "licenseDeclared": "LGPL-3.0 AND GPL-3.0 AND BSD-3-Clause AND LicenseRef-Public-Domain-Statement",
+            "name": "rtc-tools-standard-library",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f208f99745298492fbb9f74c6cb6b58c3ee48606"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-959c068291eb9037",
+            "relatedSpdxElement": "SPDXRef-Package-e62604aaf50b334f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9e8bfbdc97b652c9",
+            "relatedSpdxElement": "SPDXRef-Package-c3f84056475ffe04",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9e8bfbdc97b652c9",
+            "relatedSpdxElement": "SPDXRef-Package-d50168741b14064a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-rtc-tools-rtc-tools",
+            "relatedSpdxElement": "SPDXRef-Application-959c068291eb9037",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-rtc-tools-rtc-tools-casadi-plugins",
+            "relatedSpdxElement": "SPDXRef-Application-9e8bfbdc97b652c9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2177d5a5f1e0e247",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2177d5a5f1e0e247",
+            "relatedSpdxElement": "SPDXRef-Package-d09cdd2b155d6114",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2177d5a5f1e0e247",
+            "relatedSpdxElement": "SPDXRef-Package-d0fc96056962c6c6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3b276d51359f01d4",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4262730e42d8f2a5",
+            "relatedSpdxElement": "SPDXRef-Package-987bebe68cf54643",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4262730e42d8f2a5",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-50004633e02e3633",
+            "relatedSpdxElement": "SPDXRef-Package-23df52d728632144",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6f3b8553516eb587",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-93910273e2c022ee",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b74c7ee1e6903564",
+            "relatedSpdxElement": "SPDXRef-Package-4262730e42d8f2a5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d0fc96056962c6c6",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d50168741b14064a",
+            "relatedSpdxElement": "SPDXRef-Package-50004633e02e3633",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-2177d5a5f1e0e247",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-38494459d8efa507",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-3b276d51359f01d4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-4262730e42d8f2a5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-5590ce2a96451e6f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-93910273e2c022ee",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-a6e5d376df31e8b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e62604aaf50b334f",
+            "relatedSpdxElement": "SPDXRef-Package-b74c7ee1e6903564",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-2a2bd8f5145ca630",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2a2bd8f5145ca630",
+            "relatedSpdxElement": "SPDXRef-lfenergy-rtc-tools-rtc-tools",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2a2bd8f5145ca630",
+            "relatedSpdxElement": "SPDXRef-lfenergy-rtc-tools-rtc-tools-casadi-plugins",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2a2bd8f5145ca630",
+            "relatedSpdxElement": "SPDXRef-lfenergy-rtc-tools-rtc-tools-standard-library",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
