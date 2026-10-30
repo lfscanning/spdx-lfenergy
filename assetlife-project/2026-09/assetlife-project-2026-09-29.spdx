@@ -1,0 +1,1203 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_assetlife-project-2026-09-29.zip_1793070199.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-27T03:03:19Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: assetlife-project-2026-09-29.zip
+PackageFileName: assetlife-project-2026-09-29.zip
+SPDXID: SPDXRef-upload2440
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 6ced45d9dd63678bb98ab82c5b2939bf1680ffdf
+PackageChecksum: SHA1: 144e8cfa548363e93f3ab0ac5a1979f8a55ccbaa
+PackageChecksum: SHA256: 343af2081612b024bfec1a1cfab894e1ffcf8c67de863de1f23aba75e22e834b
+PackageChecksum: MD5: bb00258ad168516d47a64453ac7d4f17
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2440
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/pyproject.toml
+SPDXID: SPDXRef-item15415049
+FileChecksum: SHA1: 5507a54f873e99fc1e0dcd5d4dfee9c34f9735f0
+FileChecksum: SHA256: bc2f85a8b02d8233874a600f45f5fec051558747f8731b8cba72997312ee2295
+FileChecksum: MD5: c1df734f598b19092c1bc8a49ea23288
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright FIX", # flake8-fixme D", # pydocstyle COM812", # conflict with formatter docstring-missing-returns", # pydoclint raise-vanilla-args", # tryceratops non-empty-init-module", # ruff </text>
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/LICENSE
+SPDXID: SPDXRef-item15415048
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/LICENSE.txt
+SPDXID: SPDXRef-item15415011
+FileChecksum: SHA1: 7e48d15dafb129b7437e96100ed0d5e7f04b4082
+FileChecksum: SHA256: d92fc698623827d7204139dee7874fbd7447f9256b8199acbd71cf8ee53d6f64
+FileChecksum: MD5: f2f5e8bfc819cdf41a03ec2d2c5ba67e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2018, pandas All rights reserved. </text>
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/conf.py
+SPDXID: SPDXRef-item15415037
+FileChecksum: SHA1: 4ee3eb6b646d88ee36324c15de903c4e98cc7db7
+FileChecksum: SHA256: d81f685a86672375eddaf4629f7d804a1aa9a383d9712433f407a5c2a9636854
+FileChecksum: MD5: f9130757f5ff23cf54b031965371cee4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright = f"2007 - {datetime.now().year}, {author} (Apache 2.0 License)" version = get_version("assetlife") </text>
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item15415006
+FileChecksum: SHA1: c7bb4e64316a62157eb565dd0edc61f7e998cabf
+FileChecksum: SHA256: 39413685083449ad0f48294ca800fd341a663f5eee5d5d8840fb1622a4176cb4
+FileChecksum: MD5: 61027f0eb087c50b006cdcf8ad1a9d79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.python-version
+SPDXID: SPDXRef-item15415007
+FileChecksum: SHA1: 56d82d930855f2b801ddc5b7b28abae5a86ee034
+FileChecksum: SHA256: 49a506dd32096b010d75205acf3430c9ae6c40351888129499e5a5e487126c93
+FileChecksum: MD5: c0479ff484dacd51dc5ba0461b16b9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/Makefile
+SPDXID: SPDXRef-item15415009
+FileChecksum: SHA1: 2be856df3072a41f2d96bfb2c33ccf896dd30d82
+FileChecksum: SHA256: e33bf74d59130029ba24168a813112dd923d7044d780ce942db6645d93f56acf
+FileChecksum: MD5: 45ecc4dd568420521f285e291939ecf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/make.bat
+SPDXID: SPDXRef-item15415010
+FileChecksum: SHA1: ef366ce7777e7a9eeac10d85ef3cab546141ccf2
+FileChecksum: SHA256: 2f82394fbb835088f01b231127ecbd1684fad6cc48c82b9a62e2722edf1cfa70
+FileChecksum: MD5: 31a400c00b28c398f2490a8f05b6e168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/docs_versioning_build.sh
+SPDXID: SPDXRef-item15415013
+FileChecksum: SHA1: 2de23b662784275c7d43acf52689375a9d9f9f2b
+FileChecksum: SHA256: c78466a202911eb2cc9261574f7906d80c8614c29fb3b49a9865214638d2a820
+FileChecksum: MD5: 0e4f86b0b8a8144c869485bbf4dcc843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/index.rst
+SPDXID: SPDXRef-item15415014
+FileChecksum: SHA1: 6365f05e66779e85e818707efbdb7a2e0616be7b
+FileChecksum: SHA256: d2931663940999c8a071e07bc2c820326d1c7ede77fc061abdcdbdc219e18a2b
+FileChecksum: MD5: 9d8562e08b15aeae00467bdce24e7757
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/install.rst
+SPDXID: SPDXRef-item15415015
+FileChecksum: SHA1: 447f3d07c52280ad3e0c264dae4a7efaebbb7725
+FileChecksum: SHA256: 445bec6e102eff294d0d495d61a27aa521f73c595e270ed254324531e0a16771
+FileChecksum: MD5: f78cf6184117d7f20ffd299a5e512a27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/function_template.rst
+SPDXID: SPDXRef-item15415017
+FileChecksum: SHA1: f49504446278561f1a9586423cedbe3899f2eebf
+FileChecksum: SHA256: b904884f58e609fb72b395fa9d18af0efdbf6fe79c27ca2e0cd60a3b60ddf4e5
+FileChecksum: MD5: b8b87337a50f1159d5f32530f50d4526
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/class_template.rst
+SPDXID: SPDXRef-item15415018
+FileChecksum: SHA1: 7d663bb14698318a0dacec462f258f5de0a9a1f4
+FileChecksum: SHA256: 6899b6361848a9ace0480a28e8e52fc5521d915c392477aafd2dbce921d7697e
+FileChecksum: MD5: 1318e52c5abc7f01ea95d5758509377b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/version.html
+SPDXID: SPDXRef-item15415019
+FileChecksum: SHA1: bba18d07b95acc1c5b9f8473a83e5551585ca6b2
+FileChecksum: SHA256: 901ef1a8a1464341ff8f15c28df36fa519697089fbd6507c0f12fddf5effeeb7
+FileChecksum: MD5: 5f773ae430d753979b93c514f3ef407a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/data_template.rst
+SPDXID: SPDXRef-item15415020
+FileChecksum: SHA1: a46a842849edc19fb0263dc5d33ea082b0e67ba5
+FileChecksum: SHA256: 08361f97c676b9a77813a631a2be419afb8dcbbc51a44b8c445ec03c19b9a246
+FileChecksum: MD5: 8cc86bd196f89cfa4f4f71976acf433e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/index.html
+SPDXID: SPDXRef-item15415021
+FileChecksum: SHA1: 38637e8a4ccd14dd6c5e5b775fbe91d5bb9ce3dd
+FileChecksum: SHA256: 2e4ff9bed7f1cefb34966c682ffd11c06697cbf3dcf1e3ec08f51716708c0049
+FileChecksum: MD5: 79fdca073eb9c65a5c080fa1b0feb78f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/api/index.rst
+SPDXID: SPDXRef-item15415023
+FileChecksum: SHA1: cdef6b4b272a98682edf27a6da69a98f4e369968
+FileChecksum: SHA256: d01e9a1d27ecbf82bad31f2002aeaa098976fceb5e65c9b1f4f6518505ecc0b5
+FileChecksum: MD5: 1704e794c5b33c96c77f136bd3fd3a7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/css/custom.css
+SPDXID: SPDXRef-item15415026
+FileChecksum: SHA1: 835c718fa5333022ceef796de965f76719390df6
+FileChecksum: SHA256: 2fe4de266ee522a7e760cc198faeb37c4e73d4b5ca32cbdad728a143e7382be2
+FileChecksum: MD5: 5de2912e19550ceda82a5c66d70332b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/custom-icon.js
+SPDXID: SPDXRef-item15415027
+FileChecksum: SHA1: e995508ae8b8cefbd94a6d4bf296bb0f554e71c9
+FileChecksum: SHA256: 74c673998d7aa5ff9e0a8576dab9c54da9c88e7cf6a3d470d91c1bfbf110208b
+FileChecksum: MD5: 0b2c2d144db05b09799b8c8fb87e9e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-color.svg
+SPDXID: SPDXRef-item15415028
+FileChecksum: SHA1: 6129340c5c05825f746d1833e3a46da04f396c89
+FileChecksum: SHA256: 9faf503c893e8256f716a2f215e97a532f0ca00ccc3e62330b02b29e163c35c5
+FileChecksum: MD5: 556c6e399ea981429fb6d3fb9548f34b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-icon-white.svg
+SPDXID: SPDXRef-item15415029
+FileChecksum: SHA1: 6339dd0b96563e453faead71818bae79330f67ae
+FileChecksum: SHA256: 1f9c57d76538981aa497caff0de01818f820481fda551d869008f0c6c15b5958
+FileChecksum: MD5: ec46f58bb765d900a766261d5c0d9073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-icon-color.svg
+SPDXID: SPDXRef-item15415030
+FileChecksum: SHA1: c2d1e5c35a9b1667357e77cc5106065af8144392
+FileChecksum: SHA256: c92d244e64e0d8c83db341472755778017dcc1a595a6e67f31528a228b2a532a
+FileChecksum: MD5: 0d34261ad42fa1876d4c99030f9b2ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-color.png
+SPDXID: SPDXRef-item15415031
+FileChecksum: SHA1: 15e0103aad3ce91b79d849a82e66fe5db474c04c
+FileChecksum: SHA256: 0f534a3899b0ab7e154b8ddd1fdddc6f9e479365ac0c605163a93664aa59e0a8
+FileChecksum: MD5: d8740bc0fe92593222ec877b976706a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-white.svg
+SPDXID: SPDXRef-item15415032
+FileChecksum: SHA1: 5b6353cf015e7ceefbfa09e3bc787784bf4104aa
+FileChecksum: SHA256: 293f3b6aa46ec4f8b00b4225e0ede4839364d790a1dfa2eabbbfb186911de252
+FileChecksum: MD5: f8f94ef7e3b7cbb8a650883c5b1bdca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-white.png
+SPDXID: SPDXRef-item15415033
+FileChecksum: SHA1: 14e66717b97c928f314cda1354418d5f4fc5b15d
+FileChecksum: SHA256: 11269e3cf100ad83cb18ceb1356a48553e9dc469e0dd7bda94f44ca82566b2aa
+FileChecksum: MD5: 97097e0c54db0b75cf4b055c2b66189a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/workflow.png
+SPDXID: SPDXRef-item15415034
+FileChecksum: SHA1: a840b015e4bd0be4dc07ea995c4171122e960559
+FileChecksum: SHA256: addbca390e133d0ed63fc82c2594caa9b72de94e501ebad443b7b46f393dc3c9
+FileChecksum: MD5: b8687a287cfbfc14b1f399fc454438bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/artelys.png
+SPDXID: SPDXRef-item15415035
+FileChecksum: SHA1: f30d71b0c05012e43e62a34315e73bff2454bd05
+FileChecksum: SHA256: 167e254f15c400c893c8224e7563587d7f9eb73594796469d07aebf283e1b35f
+FileChecksum: MD5: eb2bbfba03a7ffc21fe8789704d9e3ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/rte.png
+SPDXID: SPDXRef-item15415036
+FileChecksum: SHA1: b7c85423a05d81eab1b8e8cd4e5a4e62052db620
+FileChecksum: SHA256: 16f4715a323fd9f310dc1e6bc9eef35666ddfae5722d9c27c98abf3cf1ab6cef
+FileChecksum: MD5: 6a4ddbc3477873597da7c39af94341e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/non_parametric_lifetime_models.ipynb
+SPDXID: SPDXRef-item15415039
+FileChecksum: SHA1: 6569d2464233575ea1e78bbe36875d3dfeed3df2
+FileChecksum: SHA256: 55e2b09edae02823e876eb8fb35e1d6d746e596e3b44e8478edc3e43b0af8cc5
+FileChecksum: MD5: d61ba31b4d3b8365d10fe7e900332ebe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/about_numpy.rst
+SPDXID: SPDXRef-item15415040
+FileChecksum: SHA1: 55e7c854e0c34c74adb98d871c03071e397e5dd6
+FileChecksum: SHA256: 6cb4f454ad6917d3d8ec51a68014c788ef4052f2efe600206ac082eaea253412
+FileChecksum: MD5: f979628b2a5f3251180486ff89ad8d4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/index.rst
+SPDXID: SPDXRef-item15415041
+FileChecksum: SHA1: a4a575765377440df9595c01217e46def7ff2b29
+FileChecksum: SHA256: a508662f1f059399ae612ddd11f855acbcf0faa0b97cb364c018548e7d667f49
+FileChecksum: MD5: e5d42ef4c03c2481a621b5776ee16c60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/lifetime_distributions.ipynb
+SPDXID: SPDXRef-item15415042
+FileChecksum: SHA1: 9b833574a87359af1650d437b1e26b4a388a9727
+FileChecksum: SHA256: 54902e2b5e12e592a80ccaedc29a4704f78a5cf4db46d19bc3f2813e0ba154c9
+FileChecksum: MD5: a5ed1fbc39bf8ed4f48ed992223ddc8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/lifetime_regressions.ipynb
+SPDXID: SPDXRef-item15415043
+FileChecksum: SHA1: f6c19611477d169fa87c50174c03aec3911e1e74
+FileChecksum: SHA256: d43d8bd344be08bfcd4b1d5fd2553950cfee15b35e7c14b4819d9d43c892e29b
+FileChecksum: MD5: cc62b4c98144d8e95f6c3bf3e6cda33e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/sampling.ipynb
+SPDXID: SPDXRef-item15415044
+FileChecksum: SHA1: 24e1132b6a7e6cc29b887aee08b7be1ae910147c
+FileChecksum: SHA256: 84a2c4260148ad048243b359deb18be5b8022e190fdb7121e1e712e7235d1505
+FileChecksum: MD5: 48715928cfbfbaf2df398b827f7c9931
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/workflow_demo.ipynb
+SPDXID: SPDXRef-item15415045
+FileChecksum: SHA1: 118272f63dfd5ee6c2ad72364286cf7be77cf593
+FileChecksum: SHA256: 4ea7fb9ac3ce2ef6e14478d782382ea16ebfba3458081b58e69158bec60b330e
+FileChecksum: MD5: 502f509513b1965fb05b215c23a186de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/semiparametric_regression.ipynb
+SPDXID: SPDXRef-item15415046
+FileChecksum: SHA1: fe81fe1bf7f66778f17888fdb0173f70166fdbea
+FileChecksum: SHA256: c9abf32dd9e053345a1ca1cae66861160d6c64cd8bef11f223ad6d187697246d
+FileChecksum: MD5: 4efd5f961fba3f0e889aef6ababa2a80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/CNAME
+SPDXID: SPDXRef-item15415047
+FileChecksum: SHA1: 5cbbbb3ad1123fcb9a7b7db8722c9a5bbc75406f
+FileChecksum: SHA256: 5d54042f671a17912f4f0781e0c8f3ad646963333eba7720d7b1e7ec1cd67f92
+FileChecksum: MD5: 4da6ecc9b535e69034db3c5dc20faf04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/CONTRIBUTING.md
+SPDXID: SPDXRef-item15415050
+FileChecksum: SHA1: 3ee163433fe2398635283db52ebe324bb2fe0c1f
+FileChecksum: SHA256: 501b00af269116df43aeba575bbf44d6c43039612c26a54f03bb23cdc1797f22
+FileChecksum: MD5: 0af48a57df0b45168d2eae42a9db3462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/tests/__init__.py
+SPDXID: SPDXRef-item15415054
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/tests/test_quadratures.py
+SPDXID: SPDXRef-item15415055
+FileChecksum: SHA1: 5979e794f85e166b9ec4a77482106ab5a58e00aa
+FileChecksum: SHA256: 1ebc1b5ee76b70b60ebedefde70385280432ac75c75debb785483702f5c0fae0
+FileChecksum: MD5: 4912f14fde3651f7076f560c48a8f0fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/tests/test_base.py
+SPDXID: SPDXRef-item15415056
+FileChecksum: SHA1: 1f040d3b86138c851a61977a34b087a8f880ae21
+FileChecksum: SHA256: 892233c201dee866b6ce76faec81f49b0b6dbed2a992c03471ebfd4bd2f3608e
+FileChecksum: MD5: f4426fb4dfba376d11029e94cbb0d898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/tests/__init__.py
+SPDXID: SPDXRef-item15415059
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/tests/test_nhpp_data.py
+SPDXID: SPDXRef-item15415060
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/__init__.py
+SPDXID: SPDXRef-item15415061
+FileChecksum: SHA1: 5cd4d619d554f140abfe02a056584b8cac5621c1
+FileChecksum: SHA256: e4f96156f24fe547cde352a32593eccb95bd50d09a0dcb1aa4b3430ba002bf63
+FileChecksum: MD5: 01d900a7bc347b89867aaadd92156129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/power_transformer.csv
+SPDXID: SPDXRef-item15415063
+FileChecksum: SHA1: 1862ebbb769946f6b81e9f834b2cb49985e3c4e7
+FileChecksum: SHA256: 710a6c6bae8dc1faa7f22cad0f21feb64a0a963395d495137c865065ab2fceba
+FileChecksum: MD5: ad18eb133d582e0da15ec85b46d29ffa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/insulator_string.csv
+SPDXID: SPDXRef-item15415064
+FileChecksum: SHA1: 258e45caeebc9a8dfb25c95317b1914368186165
+FileChecksum: SHA256: e0f2c17e67fd488e1a949a0bbcd0f4fff2b758810d7dc762449ef56bc9ebb47f
+FileChecksum: MD5: a7d674d1652d1c4b8fc077b382150370
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/input_turnbull.csv
+SPDXID: SPDXRef-item15415065
+FileChecksum: SHA1: fa3fc5a0322dca4a5ecdb91d4aa1c3eff43eeac3
+FileChecksum: SHA256: 8353edb5574e1c35c493d43329f6e73d81117835d6713d1bd6402bd4a0ead498
+FileChecksum: MD5: 3add30aada1bf83b960d127368a492d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/__init__.py
+SPDXID: SPDXRef-item15415066
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/circuit_breaker.csv
+SPDXID: SPDXRef-item15415067
+FileChecksum: SHA1: 7efcedd788e7bcab021b4d84f59ff24561ebf5ba
+FileChecksum: SHA256: 640abe65605f37e30ce930158327120c02eb621d070cd9326822ac3d8d57729d
+FileChecksum: MD5: a0c5802daddea4bca48c257f47c2790a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/load.py
+SPDXID: SPDXRef-item15415068
+FileChecksum: SHA1: a6a0198a8c224151a02f8e0a741d421826b0db08
+FileChecksum: SHA256: 92f38c2e22decdb3c3b9a52fde93bcfb9587ade539036b8073268d7a94d8ae4e
+FileChecksum: MD5: 05b9fa25bf6bd30f1a5a6c3260a80885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/tests/conftest.py
+SPDXID: SPDXRef-item15415071
+FileChecksum: SHA1: 31f3e8a21b03bbac65856e851e7ab4154de02eb6
+FileChecksum: SHA256: 2a5e7e44692ebca19068525a4503f69607100d029a48032f4deb41e86c82ad5f
+FileChecksum: MD5: c5372899b546dd917397da74ff2d7dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/tests/test_iterables.py
+SPDXID: SPDXRef-item15415072
+FileChecksum: SHA1: bbc2229c46125dfcfd575adfddb3a80c5f04c3c7
+FileChecksum: SHA256: 00e5ce568f5cbef1ef381496e624d34fa18e6343d58a3c52ea70668f17e1c4e7
+FileChecksum: MD5: ab7ea90030e7c8003c2cb74774f7dc79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/tests/__init__.py
+SPDXID: SPDXRef-item15415073
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_base.py
+SPDXID: SPDXRef-item15415074
+FileChecksum: SHA1: 11ab262fdfc6536f5aa3ba2b06f8ad0833910f29
+FileChecksum: SHA256: 65bc38c7772fd4107dfda5cdce87ff1c0cc43a181563e3482d86027e41094064
+FileChecksum: MD5: a6976af955ec9ce0f0513902b7834e85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/__init__.py
+SPDXID: SPDXRef-item15415075
+FileChecksum: SHA1: 849ff0e7584f4786386eff1c74376c53273ddd97
+FileChecksum: SHA256: ef67f61eaf3286b7db4a70b79cbdbff99f5f2f4be20dd5e4cefe66fb181fe47a
+FileChecksum: MD5: 92ddd5748a03a0cf37ce78ef8ccfe343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_iterables.py
+SPDXID: SPDXRef-item15415076
+FileChecksum: SHA1: 66434b27b8196c45c19e15bb5c9235db164f6c89
+FileChecksum: SHA256: 0877ad7ffe00f606dbd00318dd2acf1a3b6a17217f8135628433a52a672db49a
+FileChecksum: MD5: 2b0d4d1cda9f80cc3635c2dcce121463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_sample_processes.py
+SPDXID: SPDXRef-item15415077
+FileChecksum: SHA1: 663dc2a566949411ea920edc767ba31031a445fb
+FileChecksum: SHA256: 4730d1b0516ecd69f2b12a8b7ffd75865ed268b8e08aae44416b3e1db9e4a763
+FileChecksum: MD5: d88cc31bc8f3ddd54789167914f8aaee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_iterators.py
+SPDXID: SPDXRef-item15415078
+FileChecksum: SHA1: c631fac1088aead5dbc3cf213a847e7dea277fa5
+FileChecksum: SHA256: 01549a8935002afd1cd1dd10a00e3da4a8ef3400b306c16e308976919e4b6b32
+FileChecksum: MD5: efabe57b9e3e1ea910bd1ac67f62634a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_sample_lifetimes.py
+SPDXID: SPDXRef-item15415079
+FileChecksum: SHA1: ab3753e71b7730be3f8683a60a787202e45368de
+FileChecksum: SHA256: a28352a143e666168a94df620097440dea94ae5d57ee2def05ddeb6d9c4dacba
+FileChecksum: MD5: 97e4d82905a6becb45c16a046cbd26b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_semi_parametric_regressions.py
+SPDXID: SPDXRef-item15415081
+FileChecksum: SHA1: e0e5e68cba2c1c1e34fae0344ace4c955d5c71ec
+FileChecksum: SHA256: 1c5359ca6edcc27370a4dbc0c56066107df6bdfd25ca3e6f05de7a8df08b4249
+FileChecksum: MD5: 87e7089eb98fc48db3bda121283aed67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/test_distributions.py
+SPDXID: SPDXRef-item15415083
+FileChecksum: SHA1: 22009de92c5684edd060a8653db7abdaf593393d
+FileChecksum: SHA256: 529a908da8e22b971e02591d30753f8821f13643ca8f37fd0fefcd9a28313b40
+FileChecksum: MD5: fd2c16c8a9bcf6b8c15bb1bedac4c18c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/conftest.py
+SPDXID: SPDXRef-item15415084
+FileChecksum: SHA1: efa6715e9305137bb66c26763a4096a19ffbcdf1
+FileChecksum: SHA256: 5e2ca62bdcacd884fc0635e9cd138e9dc210ed2900cbcc5b44b6a27daaa73cfc
+FileChecksum: MD5: 9e7c2648d3eef36eea01d1ce84dc65a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/__init__.py
+SPDXID: SPDXRef-item15415085
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/test_semi_parametric_regressions.py
+SPDXID: SPDXRef-item15415086
+FileChecksum: SHA1: 7043b526f9ec6cabd589889b056debcb73f9ba55
+FileChecksum: SHA256: b79c05353cf568029ad01a2e517e5c5db7f76602dd6e07281d13a6787da19886
+FileChecksum: MD5: 8d7c8f624135558a9bf08b264fd5aaa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/test_parametric_regressions.py
+SPDXID: SPDXRef-item15415087
+FileChecksum: SHA1: bfa8602bbf2d9747a24057ac67616e577c1a1a1d
+FileChecksum: SHA256: f3ecdd3ded30cd3b0735c09f63e1cc5f1f6a290cfa292570074083769b3a7964
+FileChecksum: MD5: 2b4cba0891849763236c82e3cd795fd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/utils.py
+SPDXID: SPDXRef-item15415088
+FileChecksum: SHA1: bcbd80302eee1fb819d74df6228d89576cb72011
+FileChecksum: SHA256: ba9a0500df75f76989fd35eac026068ab13bddbf262f43110dc79f7f51c68d1d
+FileChecksum: MD5: b713059bb96a841b2695642520d96a15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_distributions.py
+SPDXID: SPDXRef-item15415089
+FileChecksum: SHA1: 4611151c92b46aa3eec6a438b8d1829d70467ebc
+FileChecksum: SHA256: ca7b7972a38af3f901c2d4b60190e02746c02a9f2eebb45a6b001e377da4c487
+FileChecksum: MD5: 108b5d12bb0a6e2fc9e74808b4cfe8f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_parametric_regressions.py
+SPDXID: SPDXRef-item15415090
+FileChecksum: SHA1: 0c512c5025f5ed9a69d63ecad031f9d8bc6cc789
+FileChecksum: SHA256: 60fb47e97c031b72771e1e110f143d72cff00c2bf23a61bb3e1fe649c24320b6
+FileChecksum: MD5: 371ab2e44e7924a6123336429be19acb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_non_parametric_models.py
+SPDXID: SPDXRef-item15415091
+FileChecksum: SHA1: 6b97f136011b06c3005b611755f0f933e8f1653f
+FileChecksum: SHA256: 663f6828831a1652f39d769f11bba0cc8a1343dfd081ae2f94c84b88973fe4e8
+FileChecksum: MD5: ea012c760edf9c1e56bf8084e56bd5ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_base.py
+SPDXID: SPDXRef-item15415092
+FileChecksum: SHA1: a02bfe4db92faff223fd85b780038bc8213bd090
+FileChecksum: SHA256: 39d5195d1df9a559ff8dd2bbc4a5267c3a534347e32fa1dc59cc2478d2f4e4b0
+FileChecksum: MD5: 4e8b476905175e20172d1b20a421fab7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/__init__.py
+SPDXID: SPDXRef-item15415093
+FileChecksum: SHA1: 11f0059faeae2e58a15bbb75c5e9de16dd9aaaed
+FileChecksum: SHA256: 3cad4f501d06c7721639a7d9f2f702c0a5a4508e1f90e7619cc9afda8dc4e0bf
+FileChecksum: MD5: 7c509b0687d21c297c26813b9e6669a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_minimum_distribution.py
+SPDXID: SPDXRef-item15415094
+FileChecksum: SHA1: 79e9ebdb9863f6820776337044fb62bd48c4e3af
+FileChecksum: SHA256: 8ff46463e796120c5fd5b95864e3208d7baf8d32428db36ee447a095c918fd17
+FileChecksum: MD5: a638092de223fe39819eb042544c9195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_equilibrium_distribution.py
+SPDXID: SPDXRef-item15415095
+FileChecksum: SHA1: 0d304154c9fa4c7fc81210517c8ab65caccb5599
+FileChecksum: SHA256: 30386a5a06baf109e234275a1b1aafc2f8438ef434dc80f67706a1cd97dafa89
+FileChecksum: MD5: 847b6214d3807a7ad9449393a96c9953
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/_rewards.py
+SPDXID: SPDXRef-item15415096
+FileChecksum: SHA1: 7a8d57c36933dbfda6a70d63923a6e7ba01d7877
+FileChecksum: SHA256: 2033a6d61b3a13e9d16ea2acbb72ff2842697b09782855fbebd04b43f2c3ec27
+FileChecksum: MD5: 677026976f0fc2ae59d58c2853571d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/typing.py
+SPDXID: SPDXRef-item15415097
+FileChecksum: SHA1: 6e5c04f4074a973bfd52a3fa08b03d591e65720e
+FileChecksum: SHA256: 8e709788249bd2aa155cf4aeb5720c71909de3b62ce95e02c1d4dbd39b208472
+FileChecksum: MD5: 2d3a7180c60cdf29bc08f9c84a3d5027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/tests/conftest.py
+SPDXID: SPDXRef-item15415100
+FileChecksum: SHA1: 37e29a988011ee1d2ffdeb8b624ea77092a67464
+FileChecksum: SHA256: 806d9e8425c60e1dc751b8b87d6ad20656587fdd1283a17775d528ab23a18f92
+FileChecksum: MD5: dbcf4c5247280477acd7582a828e7ef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/tests/__init__.py
+SPDXID: SPDXRef-item15415101
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/tests/test_renewal_processes.py
+SPDXID: SPDXRef-item15415102
+FileChecksum: SHA1: af26f7ac49d67fa86740da9e3a7a44c1b5dd72a6
+FileChecksum: SHA256: 272abaef9b04c917014d0ba5a152d5d10e3fe43e99d55f9379c9d3b317c6e919
+FileChecksum: MD5: 4d687bab57fda6ba2416590b569057c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/_kijima_processes.py
+SPDXID: SPDXRef-item15415103
+FileChecksum: SHA1: 8ea9329e6411c29275e378e5209c139de41de165
+FileChecksum: SHA256: 6fd5d06e71ac71847fba87f85e8b158e47d93af7dc4629335cb51ed1d9f42ac7
+FileChecksum: MD5: 942b3415d2a3ba58866bd3d5d7c878c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/__init__.py
+SPDXID: SPDXRef-item15415104
+FileChecksum: SHA1: 61b35592745415d6f85298f60cde3d7855ae6734
+FileChecksum: SHA256: be813809ce3b75cbf51d9c374ac56476d29e7508a04e454eeff689007450b5c0
+FileChecksum: MD5: 782acd183a18b28f5780c98bfb83d8f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/_non_homogeneous_poisson_process.py
+SPDXID: SPDXRef-item15415105
+FileChecksum: SHA1: 582908a33a980308d1e894fe9f78a5cff30afac1
+FileChecksum: SHA256: e4df37148db04c16fcbbd50655aa33ef90d497602cb46c4880dcd44405c774c3
+FileChecksum: MD5: 9a215788cafc9c46b7351899986e32fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/_renewal_processes.py
+SPDXID: SPDXRef-item15415106
+FileChecksum: SHA1: e9567c868bb0a10564dcf87268b1693729d03317
+FileChecksum: SHA256: c11269a004d4ef9347225201b1e69a934d1775c68044b03be10bb329ba81ab0a
+FileChecksum: MD5: bad059f5cd8c9609a279f27a8d32bdec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/py.typed
+SPDXID: SPDXRef-item15415107
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/test_preventive_age_replacement_policies.py
+SPDXID: SPDXRef-item15415110
+FileChecksum: SHA1: d9a1dd6bd7de6610530d0596cdb126f67ecc3cd4
+FileChecksum: SHA256: d96dadeca1a2d082cf97474bf02dc08a135308f9340315630e922276cab186db
+FileChecksum: MD5: 4191ce73ecc124302ea1add41acada7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/conftest.py
+SPDXID: SPDXRef-item15415111
+FileChecksum: SHA1: a6a370229077b70065b9653ed09954b997851c1f
+FileChecksum: SHA256: 041ce6276a7abe219d58daba42b5255a7203a0225c2c27ff2c84d39ccc37a207
+FileChecksum: MD5: 2e3e2d4f897fca3423378a52a5a8d0be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/test_run_to_failure_policies.py
+SPDXID: SPDXRef-item15415112
+FileChecksum: SHA1: ca9fb06cea4ee0f1571b53da42966b0db8f58296
+FileChecksum: SHA256: f045a6cd80e4bfea280ecb846cd3d6707f66fd4891f02a2cd329cc0dadf5c5e2
+FileChecksum: MD5: 3b31163585d2863ff2a53dee0bcc14b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/__init__.py
+SPDXID: SPDXRef-item15415113
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/_run_to_failure_policies.py
+SPDXID: SPDXRef-item15415114
+FileChecksum: SHA1: 3e65f675667b51ea925b5bf0e1bf715ac38bb359
+FileChecksum: SHA256: 2edd0eea6297fefa2b32352049d51e971dc3e7a57503b1d4fd1ca5f4d8148257
+FileChecksum: MD5: 8cce0614b2526259b1463e9dbea77de2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/_preventive_age_replacement_policies.py
+SPDXID: SPDXRef-item15415115
+FileChecksum: SHA1: 487f16ff4ebad0bc34c87c92913a18f4b18b59af
+FileChecksum: SHA256: 03d5843fda41d390370138df7824b666572854c3a189fb039813be50ba00fc41
+FileChecksum: MD5: 5e09eeb8f0f92817e39f2c12f211d02f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/_base.py
+SPDXID: SPDXRef-item15415116
+FileChecksum: SHA1: c9561bf74fbcbf2d6149aaf648f3063781963aa0
+FileChecksum: SHA256: 09facd08387a3dc91faaf2888a32c8dbe6b17ddb725ccc2a81c85406d8a952d0
+FileChecksum: MD5: dd9ff83141cd6178d593f26bdc98a42e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/__init__.py
+SPDXID: SPDXRef-item15415117
+FileChecksum: SHA1: 79494e9d5a15afa3403e203f8f89d1e42e253311
+FileChecksum: SHA256: 6bd2d1f0032ab87196acb4ec8f0284de2e560f2659887fd4e527ca720bd32386
+FileChecksum: MD5: a7893b9cf2c03ef3731c6b1bed74e43a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/__init__.py
+SPDXID: SPDXRef-item15415118
+FileChecksum: SHA1: 52adc869ba0132a3e5402e0755cb77af5b3cc7dc
+FileChecksum: SHA256: 9867c05303b990f674a4e6f00390e710cafdd7651e0cee9da894ef09f8789e7e
+FileChecksum: MD5: bc5eab685d460561bae343185e4da2f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/base.py
+SPDXID: SPDXRef-item15415119
+FileChecksum: SHA1: 9b5c0b96dde14e06d651d44eafe97f12be55a47b
+FileChecksum: SHA256: 3cdb7bea3bafac126185a268215ff9d9e9d89f2b5a0b6f878e286e7b84145a8a
+FileChecksum: MD5: 468da41331b4071438a6e966193b880a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/src/assetlife/quadratures.py
+SPDXID: SPDXRef-item15415120
+FileChecksum: SHA1: 280eb953a7df5c4f4d04ae1054fbf10639365a27
+FileChecksum: SHA256: f649d975c818902f9839cd55795f49a80b5df32eb5187701ba026cfb82fcb643
+FileChecksum: MD5: 0967ad4239ae20e59c355903525919dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.github/workflows/release.yml
+SPDXID: SPDXRef-item15415123
+FileChecksum: SHA1: 6576b1c8a6a0339196c49f52f8283635fedabcf9
+FileChecksum: SHA256: d392dadbda3bdd89a2e25ef39f0e88b6c7356981e8b36e943676cc3427709c8a
+FileChecksum: MD5: 8fd05d29e7b5a105378aa8e3fd575b36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.github/workflows/gh-pages.yml
+SPDXID: SPDXRef-item15415124
+FileChecksum: SHA1: e4915c9601388d5ad6e0d7b9633cd32817ee2f8d
+FileChecksum: SHA256: 99fafc26b6a0a28cd3100a259954e9a60e5d7e510013b1fd61751d88c5c5cb20
+FileChecksum: MD5: 4c9f498681fb7c46a009a79d240d68ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.github/workflows/ci.yml
+SPDXID: SPDXRef-item15415125
+FileChecksum: SHA1: b4038d99c9b3a996ea0e33d5fcfd7123031e0c76
+FileChecksum: SHA256: 1925ebdd0d28afbdfb3186578fdc3bbf66f8ede0850fa084d9c1c273ca064c36
+FileChecksum: MD5: 6c3d84f9b5527993b62d833d26d9c255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.github/dependabot.yml
+SPDXID: SPDXRef-item15415126
+FileChecksum: SHA1: 9533bfc0fecfdb464eb88afa9ac2fab651f2dae3
+FileChecksum: SHA256: 5b313adf28b462c9e24dcd41708c76b5f7b9b2c785d9e52ed2b06baf5d9a12a4
+FileChecksum: MD5: 35508df6cd00e685e1f476f534b305f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.gitignore
+SPDXID: SPDXRef-item15415127
+FileChecksum: SHA1: 62a9cb1263133f6ccac57f8e8f3b3edd6c512006
+FileChecksum: SHA256: 8d3df02ab3b135af52c38f1152d1b2ca69ac05f014f240e96b6a77002eeb101c
+FileChecksum: MD5: a120464a84d3c36b214a4c741bc26301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/uv.lock
+SPDXID: SPDXRef-item15415128
+FileChecksum: SHA1: e62a679b9a3eba6084afa1140ac3542a17f44c83
+FileChecksum: SHA256: cef282c70a4c4f9d130843a8c9c25a9b32d7f7b9afab130fde1496d7b75a2de6
+FileChecksum: MD5: f6743a07d753c6ccafd89eb0a173131e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.lefthook.yml
+SPDXID: SPDXRef-item15415129
+FileChecksum: SHA1: 972d0df196001006b806bee1f563ada65100457b
+FileChecksum: SHA256: f757a386aec3c50de6b6adf50954f77b8ec63e1b9379755cd60fc2b87a30d316
+FileChecksum: MD5: 32681722a9ea167def4755e45a6c4107
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/README.md
+SPDXID: SPDXRef-item15415130
+FileChecksum: SHA1: ef8d2ea24743cbfaeb42c3e9ba0264e797f1a502
+FileChecksum: SHA256: a40600a96760940b04703499e62a8cc9ff5132684cc47e7d59b1ef2352a01733
+FileChecksum: MD5: 95e19b47d9a952d7c831398720b36cca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: assetlife-project-2026-09-29.zip/assetlife/.dprint.json
+SPDXID: SPDXRef-item15415131
+FileChecksum: SHA1: 3e42a4a178ca8b068a512e3721c95f49fc8f0b5e
+FileChecksum: SHA256: cdca198a3e9cb9ed38e5aaeb01a9e96fe9befd031bb08a8823ee768e9b2fa84d
+FileChecksum: MD5: 6d46dcb57e446beb8121d253c5c70111
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
