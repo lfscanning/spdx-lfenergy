@@ -1,0 +1,1540 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_urpx-org-2026-09-29.zip_1793070138.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-27T03:02:18Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: urpx-org-2026-09-29.zip
+PackageFileName: urpx-org-2026-09-29.zip
+SPDXID: SPDXRef-upload2436
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: f5a42663119db88f82be1fed1b9f031323bd19b8
+PackageChecksum: SHA1: f64e84170899d4b0da9929c26443a40e82918e81
+PackageChecksum: SHA256: 6bd5315c96d7d9c337afd9aa6dd85074ef8b635fcac31f1b98f575e71cf4e845
+PackageChecksum: MD5: 693afe59388e5a8a28a01de57dabaaee
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2436
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-05-12_URPXWorkingGroup_009/2026-05-12_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388834
+FileChecksum: SHA1: fdf6852e46e2be79b34606377d94027c75146207
+FileChecksum: SHA256: 0eac4ab83245f1a405208c14ca9212e639d3041b4bfbcf6b5cfe5aa1aebc2e46
+FileChecksum: MD5: 703ae1bccca4592f575e0ebb8442773d
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-Apache-possibility
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-06-09_URPXWorkingGroup_011/2026-06-09_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388855
+FileChecksum: SHA1: 4e76349512bf3ea0318499440771a68113623f4d
+FileChecksum: SHA256: 7d8a20900cf139dff00feae6a9a84a07031be707aa810e187215af8ffe2f8bea
+FileChecksum: MD5: f155665dd737beb1bbcfd5eb9c7c6e08
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-06-09_URPXWorkingGroup_011/2026-06-09_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388854
+FileChecksum: SHA1: 338faf0970ac889b1749d545df41d80b2ff36083
+FileChecksum: SHA256: 995cdf02205e2efa80aa6e47f1955b20e55b6470a60862f3b66ebd3f63dedf44
+FileChecksum: MD5: dfd18c5a11ce0a9a6548bafb8b153e60
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-07-14_URPXWorkingGroup_012/2026-07-14_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388881
+FileChecksum: SHA1: 4b4835be14c228baa8f6edc329b2481419c9ba1a
+FileChecksum: SHA256: 384719c4bed9401732a29df35cc4c3c3d8d935c080936232bb4eb5807ad5c585
+FileChecksum: MD5: 77fda201f92f8559b76546a02580c016
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-07-14_URPXWorkingGroup_012/2026-07-14_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388885
+FileChecksum: SHA1: 75b93a08cbdda2975eb950cde203d4f2ce406afa
+FileChecksum: SHA256: 3342ccc3cfda979fe380cae0975d2fb404c1b28917b0807ac9e5783fb0961f35
+FileChecksum: MD5: 15bb9aba30f44f5a639d10bda96045dd
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-07-21_URPXWorkingGroup_013/2026-07-21_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388892
+FileChecksum: SHA1: 7ba2864ba5a8e448493dd7608931cd893335782f
+FileChecksum: SHA256: 2cd86965da8dfa81de0a91d00184ec792d812796f424b387b27180afcf23ca0c
+FileChecksum: MD5: e39f0d786fd287fe9b79f54473059a21
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-07-21_URPXWorkingGroup_013/2026-07-21_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388893
+FileChecksum: SHA1: 9f5e26f0af0c931dfcb161ead6d9b6734ba11be6
+FileChecksum: SHA256: c165bfcfbc50a010b5751e84464dbf60ae8569831b6cc74bf556ffbf7e2f2985
+FileChecksum: MD5: b9980446443a46a3ab92ad53fa09bedb
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-08-04_URPXWorkingGroup_014/2026-08-04_urpx-wg-agenda.md
+SPDXID: SPDXRef-item15388889
+FileChecksum: SHA1: 270f70a84a4781fa8442eca64ad5eeb4d2557ffe
+FileChecksum: SHA256: 334062280b73a1abdc5fff7778adc2244bc828a33ecfe60300c92888bf874062
+FileChecksum: MD5: 65d859943a2adf89ff60ed35b7408dfe
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-08-04_URPXWorkingGroup_014/2026-08-04_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388890
+FileChecksum: SHA1: 666b597ac4a4bff0a70abfdb29cce85a233eb10b
+FileChecksum: SHA256: 2be83db692ae85ecd68c888847c648a62673c22766d123fe2bc850f7f3db0186
+FileChecksum: MD5: 2e1f742fc64cf27aa68f5333bb90589a
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-08-18_URPXWorkingGroup_015/2026-08-18_urpx-wg-agenda.md
+SPDXID: SPDXRef-item15388870
+FileChecksum: SHA1: 8d8ff25d4e8651397141f16ca67a416fd8b02d01
+FileChecksum: SHA256: a3bd7506638d003aae3640bf9a69a07cde8f3d2bb9515c9336c00a688f534cec
+FileChecksum: MD5: 037b295350d90caf7fa69b8e207d7af6
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-09-01_URPXWorkingGroup_016/2026-09-01_urpx-wg-agenda.md
+SPDXID: SPDXRef-item15388887
+FileChecksum: SHA1: 7c4c84f8caed8fb3c10b07fe4d466b5ebcee4d34
+FileChecksum: SHA256: 528f8fc26ae3d2c9d3dcd674e0efc8d06a96e35a82d321907a667fe00766b824
+FileChecksum: MD5: 5e22ae84279e2e5273af43fe3c44b9e9
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-09-15_URPXWorkingGroup_017/2026-09-15_urpx-wg-agenda.md
+SPDXID: SPDXRef-item15388876
+FileChecksum: SHA1: e6009331f31e967d92dc21d63a7b8b57d876b6ab
+FileChecksum: SHA256: b96cd661128d0100585e8f558aea473c3f8a594fd2d5e138bbf90fec54a63bc0
+FileChecksum: MD5: 2552c4c9953cf6a004b33e6414e3370a
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-09-29_URPXWorkingGroup_018/2026-09-29_urpx-wg-agenda.md
+SPDXID: SPDXRef-item15388866
+FileChecksum: SHA1: 754ae68a5fc49dd233dfb8ae9059685520f2d235
+FileChecksum: SHA256: 87df1a40eafae4cbd8c2eafac52977651e8db208cb3af3b36f32dd06010c6f25
+FileChecksum: MD5: c586d88a9e5eaa57539a81c12be1651b
+LicenseConcluded: W3C-20150513
+LicenseInfoInFile: LicenseRef-fossology-W3C-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-01-14_URPXWorkingGroup_001/2026-01-14_URPXWorkingGroup_001_Notes.md
+SPDXID: SPDXRef-item15388879
+FileChecksum: SHA1: f1e0456456b5b1257222917cf0d7bf3a73e2f06b
+FileChecksum: SHA256: 5033ce51a3d792c34f079e060b093646fa035ae0f9ebc63dab422dbc0cd68390
+FileChecksum: MD5: 1a4fb11ca81be74fbfa9facf74b15f50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-01-28_URPXWorkingGroup_002/2026-01-28_URPXWorkingGroup_002_Notes.md
+SPDXID: SPDXRef-item15388838
+FileChecksum: SHA1: 157e438fe4b311926adeef128ea868cda12da94b
+FileChecksum: SHA256: eb681e672429e4eac8d5646e22d21b07a153e795baca274a97b0a8cd39e1e307
+FileChecksum: MD5: c2a56abfcf8bf99b97d8555cc7ba168c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-03-17_URPXWorkingGroup_005/2026-03-17_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388873
+FileChecksum: SHA1: fff5202e6212b2dc88302ff241f7180f53194f64
+FileChecksum: SHA256: ec9dadb80be969f82cf49f70264b8a50a063b8f5e7842e864ec9400e0ceea438
+FileChecksum: MD5: e82d264bf69457a4a18d64e07575a973
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-04-28_URPXWorkingGroup_008/2026-04-28_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388844
+FileChecksum: SHA1: 049968d84c08d23581ad51e566b87d171d6e98bf
+FileChecksum: SHA256: be75bac2587efa623073155c79a9cd314f80ed42a779a5ff5a74f789a619a76c
+FileChecksum: MD5: 545190ca6115ca416686094e599cd1a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2025-11-19_URPXWorkingGroup_000/GMT20251119-145527_Recording.transcript.vtt
+SPDXID: SPDXRef-item15388847
+FileChecksum: SHA1: 85707bbb2c58fd2cdab0d890e36c273c5a91d3ca
+FileChecksum: SHA256: dfe457f345437b0aebc71e5beb137dd61bea4d1ea980c99597c0209232564493
+FileChecksum: MD5: b59538743ea963cc4e4b458f2cea4969
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pdf/URPX_Brand_Guidelines
+SPDXID: SPDXRef-item15388933
+FileChecksum: SHA1: 3055e4620239eaa49fcf843d075eb01673f95e5c
+FileChecksum: SHA256: a5dfbc70638255f82b3962b3b60daf4b33a4d08875cebe195e8c43bf82d9b9e7
+FileChecksum: MD5: 6d767f206b612db0c319e5c218f05396
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> © 2026 Flux Tailor LLC · Licensed under Apache 2.0 </text>
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide9.xml
+SPDXID: SPDXRef-item15388949
+FileChecksum: SHA1: 2a56248254e725fed30d7b890ad4515f9774ff76
+FileChecksum: SHA256: ba9b845490749c78bfcba107584502d8b3d5cc2e25bf4e0f3a91d944ccaf3dd0
+FileChecksum: MD5: 01311ed81f29a5cacfee9e4cc275b759
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> © 2026 Flux Tailor LLC · Licensed under Apache 2.0</a:t></a:r><a:endParaRPr lang="en-US" sz="1000" dirty="0"/></a:p></p:txBody></p:sp></p:spTree></p:cSld><p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr></p:sld> </text>
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/announcements/2026-07-09.lf-energy-newsletter.draft.md
+SPDXID: SPDXRef-item15388826
+FileChecksum: SHA1: c43b5cc05d9bd5a0928dd2fac46ff25dabf4905b
+FileChecksum: SHA256: ee35d3d415236cbdf09ea24661fcf8b8377d974e158f1b3fc2a91d3a3b4ee10f
+FileChecksum: MD5: b561d1d1e29f0b2e00c1ef18a08af2fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/announcements/2026-07-09.lf-energy-blog-post.draft.md
+SPDXID: SPDXRef-item15388827
+FileChecksum: SHA1: beb1ed8c81bd23fe0b7ab0170e901eba7940ada8
+FileChecksum: SHA256: 085142a30b225df396f14fdf147379543f87f57b66a026dc0c185fd01641b943
+FileChecksum: MD5: f451acc506a314848ed0ec2070fb02ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/graphics/urpx_development_chart.png
+SPDXID: SPDXRef-item15388829
+FileChecksum: SHA1: 477955ee9c225189eb7d6cde8abb45bf4c912376
+FileChecksum: SHA256: 845bda608dec46e4ea3cad24854b5165204c4e5f5ecdfcd4dc9f09f656e769b9
+FileChecksum: MD5: 1b987cf981b36493989189d81d44b5f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/graphics/urpx_development_chart.svg
+SPDXID: SPDXRef-item15388830
+FileChecksum: SHA1: 35e68c36ebc897e5fb8ebaebfbaf1f017639587b
+FileChecksum: SHA256: 6e6103ea7311b8b6600f8516fb0cfc06b28bb2e51febff3f2baef29e0b54b307
+FileChecksum: MD5: ad02a36c6093e6ebefb7c3f82cf6e668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/.gitignore
+SPDXID: SPDXRef-item15388831
+FileChecksum: SHA1: 7d65523f2a5afb69d76824dd1dfa62a34faa3197
+FileChecksum: SHA256: cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e
+FileChecksum: MD5: 952fd44d14cee87882239b707231609d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-05-12_URPXWorkingGroup_009/2026-05-12_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388835
+FileChecksum: SHA1: 3f179ed9ceec3d94c3e6ae69afec49ef76365f69
+FileChecksum: SHA256: 6d7f173fce3f0f0a745d3835f9e58d03f1fb1d36b73c0c82e724e4e765c0380b
+FileChecksum: MD5: c18b413e5a5311ffa1686f36bd9c7303
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-01-28_URPXWorkingGroup_002/2026-01-28_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388837
+FileChecksum: SHA1: 491ac83bbd24aa960c79322e9828a1a6869bd5d2
+FileChecksum: SHA256: 0b4b3ee6d12e6cfe713488a3d6d689c4af941e7f0ee8979626cdc165cc674e6d
+FileChecksum: MD5: 3fa688b6f8cccb3b13bf180a5e448643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-03-03_URPXWorkingGroup_004/2026-03-03_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388840
+FileChecksum: SHA1: 1aa7680629d9f4a18a7bea451a2c5f85dbe9a388
+FileChecksum: SHA256: 4463a31c6709d6634b62fe09bc8f3cceaad3ccfc0a87d4a5491b96c492f44418
+FileChecksum: MD5: 8ed45633a73c434290ccced64e003c91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-03-03_URPXWorkingGroup_004/2026-03-03_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388841
+FileChecksum: SHA1: ff0f4c79e51795daaa239265428942d3e88cb39c
+FileChecksum: SHA256: b5b73beb01ceb0a0b5805f708635b9a9bc8f3523dcf9d5fd91eeea743b292465
+FileChecksum: MD5: 10597189c40820d920d5284e03fdc628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-04-28_URPXWorkingGroup_008/2026-04-28_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388843
+FileChecksum: SHA1: 120933849588973b1e42ae8f57b82630fd27b7c6
+FileChecksum: SHA256: 4ec495b865879954697b50981348a2f512b80b8658688bda33e1b7da8639e460
+FileChecksum: MD5: 67de02e8f558295cbc0a1abdfd7f109d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2025-11-19_URPXWorkingGroup_000/2025-11-19_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388846
+FileChecksum: SHA1: 3d9736b180046487f48163fe2bd7f4f822c17624
+FileChecksum: SHA256: 9b6ace31c08ef97536046a6fa251b251eba37ec6dfec728972bd4600e73d4ae8
+FileChecksum: MD5: 498d47a9b1718683a5cf7bbe564ccf91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2025-11-19_URPXWorkingGroup_000/GMT20251119-145527_RecordingnewChat.txt
+SPDXID: SPDXRef-item15388848
+FileChecksum: SHA1: 44b3fd507e04e9e522c0a8700c54644efa11e445
+FileChecksum: SHA256: 00d713e6f5a4a6edc712babd23cdbea2506963278586409f90b1ac16db5e5b5a
+FileChecksum: MD5: 84fc0a428af5a475473ac7cb4b80b3f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2025-11-19_URPXWorkingGroup_000/2025-11-19_urpx-wg-agenda.md
+SPDXID: SPDXRef-item15388849
+FileChecksum: SHA1: 10b629084d7fff0ac86191fd9bfb3c5e494d975b
+FileChecksum: SHA256: 90647673e0db55028445fbe1397f61659394354e77e66323724fecb93d34a6e5
+FileChecksum: MD5: 6c8c7641c3e634bce3e0ed6b6b59ef05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2025-11-19_URPXWorkingGroup_000/URPX_WorkingGroupSession_000_2025-11-19.pdf/URPX_WorkingGroupSession_000_2025-11-19
+SPDXID: SPDXRef-item15388852
+FileChecksum: SHA1: 12d594f701d424a164fc248a171cd6e5e68fe2a5
+FileChecksum: SHA256: a0ba9e3df86462a8312c5de897b213c286979df19a330022e257ee1452598d8d
+FileChecksum: MD5: b1ae53273ac2e1745164d373bc6114f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Apache-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-04-14_URPXWorkingGroup_007/2026-04-14_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388857
+FileChecksum: SHA1: 8dcec09b0193abacae9b50cd92bb91a16eaf8593
+FileChecksum: SHA256: d091cd21f988e52256e42d988124b7db41c8bb7165c5fb484cc582183cd34a0f
+FileChecksum: MD5: f502cccb1731747b755e146895d9ec79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-04-14_URPXWorkingGroup_007/2026-04-14_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388858
+FileChecksum: SHA1: 5a9a446eb143e98b81a851be4ed0dce44ec3292b
+FileChecksum: SHA256: 5484087b2c3818c591362ae64d038bf8c9e3c0da3926b96325624f22fefcc0dd
+FileChecksum: MD5: 47261f1a3a0b815834069397b05d8ccc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-02-11_URPXWorkingGroup_003/2026-02-11_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388860
+FileChecksum: SHA1: b7ffa2ea7d67e2a7a430d4bcf9aa2761eb55f5f0
+FileChecksum: SHA256: d0f136d1c8122e05d00cc1235010ac9ab82dae29c80ecdaed4f58c9e13d84894
+FileChecksum: MD5: 01a5d896247080b92300a608d72f765b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-02-11_URPXWorkingGroup_003/2026-02-11_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388861
+FileChecksum: SHA1: 9b3632ecd6053f450d8f827f0ae668da44068328
+FileChecksum: SHA256: c187eb7bd3b98b24e9e9111a5ac9022e56e286dcd71ca4b07a21036c227db62c
+FileChecksum: MD5: dc529e03cf1b7b2903ac5de915a4cb44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-05-26_URPXWorkingGroup_010/2026-05-26_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388863
+FileChecksum: SHA1: 8307519f3e91b1a5274785d2143bf7617bfeef5e
+FileChecksum: SHA256: 1c42683c6337d6cd5f2794f928f8b08ae556b67bc49fd1e7e219ac31c4186c7f
+FileChecksum: MD5: f500892d62c313a1046138fd0200283f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-05-26_URPXWorkingGroup_010/2026-05-26_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388864
+FileChecksum: SHA1: 8307519f3e91b1a5274785d2143bf7617bfeef5e
+FileChecksum: SHA256: 1c42683c6337d6cd5f2794f928f8b08ae556b67bc49fd1e7e219ac31c4186c7f
+FileChecksum: MD5: f500892d62c313a1046138fd0200283f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-09-29_URPXWorkingGroup_018/2026-09-29_urpx-wg-notes-draft.md
+SPDXID: SPDXRef-item15388867
+FileChecksum: SHA1: bcfc272711d9c8a56043015e85a65ebf5b4be84c
+FileChecksum: SHA256: e1bfd9b0360c2bf3c25ab825d0b51253f9abb215492dd0fc63f2ad3d8485e6f3
+FileChecksum: MD5: efc8500387dbdebfad4ea817bf623942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-08-18_URPXWorkingGroup_015/2026-08-18_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388869
+FileChecksum: SHA1: 21092e1609837dc27cf3987a82437a5b22060e60
+FileChecksum: SHA256: 71f20612402478673d991e5f6f99a90423445612253439da8618d124a3e59771
+FileChecksum: MD5: 2cbac580005cada689d6a8b564d5992c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-03-17_URPXWorkingGroup_005/2026-03-17_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388872
+FileChecksum: SHA1: 80993eb8500ca1443da8eb567fe2dec8a15cc5e7
+FileChecksum: SHA256: ba81f37c3bf88031fd420b531913211a5ca09e34e3b8dd38ea299b1f94d30e20
+FileChecksum: MD5: 13619bd32dfed26b39a13a1568db88b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-09-15_URPXWorkingGroup_017/2026-09-15_urpx-wg-notes-draft.md
+SPDXID: SPDXRef-item15388875
+FileChecksum: SHA1: 599cdb42cdd2e8f6e4bfb1b5ec6bdd30ae45e87e
+FileChecksum: SHA256: 430fb09dd558b26cd509c7c679d7401498aaebce8789a401f0575aa7687822d8
+FileChecksum: MD5: a40dc4821e018343481073947560d229
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-01-14_URPXWorkingGroup_001/2026-01-14_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388878
+FileChecksum: SHA1: 67c82f672947b2083726541b4113cf1b26c03b49
+FileChecksum: SHA256: 20b68df2dca75d4d80aecac7053652f9d7c01335990df2bd7c66ae9e45b0b755
+FileChecksum: MD5: e1455e3c08b1c7a67b5c276db045fa7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-07-14_URPXWorkingGroup_012/URPX_WorkingGroupSession_012_2026-07-14.pdf/URPX_WorkingGroupSession_012_2026-07-14
+SPDXID: SPDXRef-item15388884
+FileChecksum: SHA1: 9501c51cf18f8629acea082c79ca4ba129450c23
+FileChecksum: SHA256: 4234f33313e0569ed9ed6a77ac3c9cc332c18b80cd2b3409d87fb823d97c8d0f
+FileChecksum: MD5: 10e534e0ba0ebf95cd164be6b309262f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-03-31_URPXWorkingGroup_006/2026-03-31_urpx-wg-notes.md
+SPDXID: SPDXRef-item15388895
+FileChecksum: SHA1: f660361717e61bb9e08097156e4d55e343b399cc
+FileChecksum: SHA256: 90f0b4280590fefc373e8118f080d6e1b67eeb132d44e730dcd1d9dfb335f0f2
+FileChecksum: MD5: 403376a8cfa53750bd4f3ec2e08120fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/meetings/2026-03-31_URPXWorkingGroup_006/2026-03-31_urpx-wg-agenda-draft.md
+SPDXID: SPDXRef-item15388896
+FileChecksum: SHA1: c4ca32e007a3759368e09ace2cfd8c47545304bf
+FileChecksum: SHA256: d78f9633ecfa8c835704adb5f9e4429f1686294baca8af0cdf3c978b5700139e
+FileChecksum: MD5: 320a04668954280bad9085a834a14218
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/urpx_development_chart.png
+SPDXID: SPDXRef-item15388899
+FileChecksum: SHA1: 477955ee9c225189eb7d6cde8abb45bf4c912376
+FileChecksum: SHA256: 845bda608dec46e4ea3cad24854b5165204c4e5f5ecdfcd4dc9f09f656e769b9
+FileChecksum: MD5: 1b987cf981b36493989189d81d44b5f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_Sticker_v1.pdf/URPX_Sticker_v1
+SPDXID: SPDXRef-item15388902
+FileChecksum: SHA1: 2af2dba74bae7d403ad01d203f2af68591ebac49
+FileChecksum: SHA256: a6724e19ea2813c366f593e73deee30b865075989ccc64a6239f6e67059d3ed5
+FileChecksum: MD5: d780e78f60a27dec779145fb27da5a83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/PNG/LF_Energy_URPX_logo_Icon_Black.png
+SPDXID: SPDXRef-item15388906
+FileChecksum: SHA1: 515dfd20c72cefccf385765f2bc2edf5dee78053
+FileChecksum: SHA256: 086df3907b7e5ff4609d0b046bf8e7d7a1af9225c27a9d0995df560812f8d225
+FileChecksum: MD5: 7a9482b3536856467da068ef814e9cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/PNG/LF_Energy_URPX_logo_Icon_Color.png
+SPDXID: SPDXRef-item15388907
+FileChecksum: SHA1: 942cc53d71f8403c7a7485f6b9ffa448f8622126
+FileChecksum: SHA256: 666f3126b992d33be6e5fd8eaf1357ff69f43288f610e4999e8fce8bf4c51c99
+FileChecksum: MD5: 4025ce69720ab30b3be4b0a816a7c3fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/PNG/LF_Energy_URPX_logo_Icon_White.png
+SPDXID: SPDXRef-item15388908
+FileChecksum: SHA1: 53d5c15858d190bc0aabf3902d982ceb7f7a8ac4
+FileChecksum: SHA256: c0f64ef36a85f8a681e678a455f60375ee19940727d0cd46ca6dffa6fa2ec233
+FileChecksum: MD5: 5c118d27daa92b00d613963c62a6c439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/SVG/LF_Energy_URPX_logo_Icon_White.svg
+SPDXID: SPDXRef-item15388910
+FileChecksum: SHA1: 1602e7fe0b7db353d59c505e81898b32b09bf134
+FileChecksum: SHA256: 851addbb9d7cff78f95a1ae9130852df56560415e59f3a0254e4da3b13150ae5
+FileChecksum: MD5: 9627d8b238d5c727b1103872e3778983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/SVG/LF_Energy_URPX_logo_Icon_Color.svg
+SPDXID: SPDXRef-item15388911
+FileChecksum: SHA1: 29cf84c6a127f468ddabd54269fc9582c07fe2f1
+FileChecksum: SHA256: d7d5b9f89e48c8345a9d4ec3c2143acead43372b511f22fa8b1f3387fb74e17e
+FileChecksum: MD5: a4a70890588dd54ba8b37f657f9ab8dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/SVG/LF_Energy_URPX_logo_Icon_Black.svg
+SPDXID: SPDXRef-item15388912
+FileChecksum: SHA1: 4ff07edb2767ac7a730a280cd7e6a0c8ef5f6b77
+FileChecksum: SHA256: 800df9f3f40000c1bc46fa3c6c6e6700743c45501edeb55096e1f90d2f2c1455
+FileChecksum: MD5: f55d5cdb3a1b4fc8374dfb86fc384006
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/EPS/LF_Energy_URPX_logo_Icon_Black.eps
+SPDXID: SPDXRef-item15388914
+FileChecksum: SHA1: 300e8e4e2e03f9ffce089b6e2b253f32837c0449
+FileChecksum: SHA256: 2c41a148b901584f1b4de7447fca82e586e8866db3505352822789afd9b8313e
+FileChecksum: MD5: df8688a64b2b460c809f14e485256d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/EPS/LF_Energy_URPX_logo_Icon_White.eps
+SPDXID: SPDXRef-item15388915
+FileChecksum: SHA1: 172e2ec49e2718adfdb4692539bd2b09cbd9814f
+FileChecksum: SHA256: 8cc00f80e05fc822e9ee2a821765604859eda9b7c8aed585e5dbbc2195eebabb
+FileChecksum: MD5: 3f385c0b6118012d091d4ba0e6a54ae7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Icon/EPS/LF_Energy_URPX_logo_Icon_Color.eps
+SPDXID: SPDXRef-item15388916
+FileChecksum: SHA1: 54746f4f4eb7697b8e3cd4916b203d41a4f37b37
+FileChecksum: SHA256: b29f98c6de72b3472783ddacdb0f015bbd2fc490f767513b2097e677f4db602d
+FileChecksum: MD5: da4587b55ab5b3fffa72839c45febadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/PNG/LF_Energy_URPX_logo_White.png
+SPDXID: SPDXRef-item15388919
+FileChecksum: SHA1: a919c68277ad895a4dfdc1a8a2894ddfa33f60a2
+FileChecksum: SHA256: 3f9807f69fc89333c07a3db4b531db81981b776e11b2ef2d1b29046b539789f4
+FileChecksum: MD5: 71b6d1c6ca4bc821f79fb6837624f9ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/PNG/LF_Energy_URPX_logo_Color.png
+SPDXID: SPDXRef-item15388920
+FileChecksum: SHA1: 58b53db6731b21a9ef30e347e46086ee27bc8b81
+FileChecksum: SHA256: 592508a1cd6d4cdebe8ff97062b8e1a174a1f06c1e285ead883dc852d8cb0387
+FileChecksum: MD5: cb1c4c0640fca435c1fe3efea1a1d3d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/PNG/LF_Energy_URPX_logo_Black.png
+SPDXID: SPDXRef-item15388921
+FileChecksum: SHA1: 4d35df1e5c7be3a143d464222e7d3ba3eedfa74d
+FileChecksum: SHA256: d3fd88f35bf916387cdf0d1125f763c93779fd2e9c8b360f7f5bd075bce240ac
+FileChecksum: MD5: c411758a09227f2891cd6dd62f096388
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/SVG/LF_Energy_URPX_logo_Color.svg
+SPDXID: SPDXRef-item15388923
+FileChecksum: SHA1: 248fda0d4c1fe9ee022bf2031b88b3017ebae344
+FileChecksum: SHA256: 3d0ab02b85716db1132683483276b74bc03ca0dd7b7e26e7e9ed64ebfcf0d91b
+FileChecksum: MD5: 3d3833ef035e785eae5050a1208bf909
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/SVG/LF_Energy_URPX_logo_White.svg
+SPDXID: SPDXRef-item15388924
+FileChecksum: SHA1: e1f69088b93b41292ba102d84173122304dd8ecc
+FileChecksum: SHA256: da1e73268167c681844189a393e4191fe442776a7787f8f956aecfa56bd3569f
+FileChecksum: MD5: bb6c4c29f5f021b5d91272fbc10a9a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/SVG/LF_Energy_URPX_logo_Black.svg
+SPDXID: SPDXRef-item15388925
+FileChecksum: SHA1: 0f4ad85dda0382f86209a686fb5969f61b1db05f
+FileChecksum: SHA256: 62dcf8cec00ff791ab8666452b1fce31220c44e643c2210f4ee75fd0ea0f4ee9
+FileChecksum: MD5: 01fd987139bce5229433f863e2c6f7ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/EPS/LF_Energy_URPX_logo_Color.eps
+SPDXID: SPDXRef-item15388927
+FileChecksum: SHA1: 47cb30a2c9f2fb8b46b90c78df681621800f54c2
+FileChecksum: SHA256: e6d65d1650ffa672776e56358448ecdffcb275ac274c74985ae5bfd7de0cd340
+FileChecksum: MD5: 5dd6f9dfbe9935738dc3b670039c842b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/EPS/LF_Energy_URPX_logo_Black.eps
+SPDXID: SPDXRef-item15388928
+FileChecksum: SHA1: 881d5e0eefc40fdad6f862877f6371f77f8b285b
+FileChecksum: SHA256: b786bca4a3b577e62c1c681cac363e46d4c9a64e50d479140b3d6983eb6d3c33
+FileChecksum: MD5: 98a071cd61ad849b3662d7d6a3f17eea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known currentpacking	true setpacking}if userdict/Adobe_AGM_Utils 75 dict dup begin put bdf bind def}bind def nd{null def}bdf xdf exch def}bdf ldf load def}bdf ddf put}bdf xddf 3 -1 roll put}
+Copyright: Copyright(C)1997-2007 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known
+Copyright: Copyright 1997-2006 Adobe Systems Incorporated. All Rights Reserved.%%Version: 2.31 010 dict begin/Adobe_CoolType_Passthru currentdict def/Adobe_CoolType_Core_Defined userdict/Adobe_CoolType_Core known defAdobe_CoolType_Core_Defined {/Adobe_CoolType_Core userdict/Adobe_CoolType_Core
+Copyright: Copyright(C)2000-2006 Adobe Systems, Inc. All Rights Reserved. systemdict/setpacking known </text>
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/URPX_logo_Package/Logo/EPS/LF_Energy_URPX_logo_White.eps
+SPDXID: SPDXRef-item15388929
+FileChecksum: SHA1: 64c71f183add845eef969579d0393de051434d35
+FileChecksum: SHA256: 635ac2a882b854c5a96125296ce78b31558810fcbc4c11a53a62212b973de24b
+FileChecksum: MD5: 44d6d486f6ad7d2a979db1dfed28deb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/graphics/urpx_development_chart.svg
+SPDXID: SPDXRef-item15388930
+FileChecksum: SHA1: 35e68c36ebc897e5fb8ebaebfbaf1f017639587b
+FileChecksum: SHA256: 6e6103ea7311b8b6600f8516fb0cfc06b28bb2e51febff3f2baef29e0b54b307
+FileChecksum: MD5: ad02a36c6093e6ebefb7c3f82cf6e668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/[Content_Types].xml
+SPDXID: SPDXRef-item15388937
+FileChecksum: SHA1: 694b758ad4bb4b0c97689a211aba7ad040eec30a
+FileChecksum: SHA256: b8fcf1659d0d2049131a0ebaf9c9e47a315a0321945f8a0435f7e173a7745dd1
+FileChecksum: MD5: 91b6f21d2a6b5790d30b32a632c0d9eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/docProps/core.xml
+SPDXID: SPDXRef-item15388939
+FileChecksum: SHA1: 0a353a0bcb2fa14ca2e3b61b3d6c90581befa67e
+FileChecksum: SHA256: b3afaa0a0b2073390c7af5b88cfba428b5cee2998e39c5afca33791780f212c2
+FileChecksum: MD5: 4c544131bd542a3a6db38e2a1eeb0250
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/docProps/app.xml
+SPDXID: SPDXRef-item15388940
+FileChecksum: SHA1: 3ed25e5d5ad7ada471329152b12e6737595f8ffa
+FileChecksum: SHA256: 73a9038853269c46fa2510707b30b562b37976c4a1a05fd5e917e6bdd3f56dd6
+FileChecksum: MD5: 78789d6837acb13f7a4ab09df96333ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide3.xml
+SPDXID: SPDXRef-item15388944
+FileChecksum: SHA1: 8695b7b3a54ebbaaf4f2831cf5a22c01ed82191b
+FileChecksum: SHA256: 6e1f1029204743e6beac69eb814ba7df0beae3d878d4edd6fceb51a29273d1a6
+FileChecksum: MD5: 41a2665fef09f628a1b28734c8be626e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide4.xml
+SPDXID: SPDXRef-item15388945
+FileChecksum: SHA1: 98fb8ec2aad9c2a4b37ce5e3396cc807ea2e4dce
+FileChecksum: SHA256: a8e9f8431fce84ae10dd6aacdbe37ac63fd7b6be9e93d175ab5bffa756dd00bc
+FileChecksum: MD5: 550d01faae9c1da51710ead9c27ca0d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide1.xml
+SPDXID: SPDXRef-item15388946
+FileChecksum: SHA1: bac30df2fc73eff7ba6f63bca16292c96296e4cb
+FileChecksum: SHA256: 01708665023ebb3650e447e7e2a9572042b02ba896df6c6f6f5a925a2d561655
+FileChecksum: MD5: a497d4d9122189d102fc5d772e530f82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide8.xml
+SPDXID: SPDXRef-item15388947
+FileChecksum: SHA1: cc21bf880715ec0818e0f1b8e1c6242b8ce994a4
+FileChecksum: SHA256: 6d5c09eba948ce3f21e62fad8238d0dee1ba0a349bfc4df762d2a0c132f60690
+FileChecksum: MD5: f6c6ca217d1a562f45c373c512682b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide2.xml
+SPDXID: SPDXRef-item15388948
+FileChecksum: SHA1: f42b7257fc61067e71ba3610bf43d8c0468ecdb0
+FileChecksum: SHA256: aeade3c41d4945fd1a06bb4bf00875e213c3df63a310f217b7423be7c971173b
+FileChecksum: MD5: 2ae9a9e3e71f29f763696dc8fd8edddb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide5.xml
+SPDXID: SPDXRef-item15388950
+FileChecksum: SHA1: 3a9abc9fef99af0c692107ba704df1d11ff6057d
+FileChecksum: SHA256: 6f861b490a0d200935852cdcf1d8691d46164a489037ba3bebb28d8dc16e634e
+FileChecksum: MD5: 6b47f254cb3c2f35155ae0c74155e084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide7.xml
+SPDXID: SPDXRef-item15388951
+FileChecksum: SHA1: 3cab2e5d69af33832a99951b1b0a115e5a52b40f
+FileChecksum: SHA256: 0188c33623347b2694ff2a0676dc3d97efacad173def5011e9474093486ab5af
+FileChecksum: MD5: 2f6ad4a1eb77d296d81140dcdbf8a1df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide3.xml.rels
+SPDXID: SPDXRef-item15388953
+FileChecksum: SHA1: 42cb3a3c566d551aebe41ab6f9f2781eb97e7931
+FileChecksum: SHA256: 52c111da7032c9e138a3fbeb68979591a49bd20a09b84854b7abf169a8717d51
+FileChecksum: MD5: dc47f877270d012b1982348ffe01b535
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide2.xml.rels
+SPDXID: SPDXRef-item15388954
+FileChecksum: SHA1: 36be349b453a0cd3bfac4d3a4e08df147f2c0a35
+FileChecksum: SHA256: 21cce9f09d7d0432290df9f83bbb7d1378c5895898f22f0e1a869c4090b590a6
+FileChecksum: MD5: c228a276bb9600ff3cdb73cca41eecbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide4.xml.rels
+SPDXID: SPDXRef-item15388955
+FileChecksum: SHA1: 0021cbf05dea2f733cba690aa25499945568ce26
+FileChecksum: SHA256: 5e69cf9fdab20034cde57cf1b62e0ed7d1d8b1328e476d82daa2376c46a754e4
+FileChecksum: MD5: 8dc2a68fc8405e20c152e7afd4b0a659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide5.xml.rels
+SPDXID: SPDXRef-item15388956
+FileChecksum: SHA1: 616c9c7b39e93bc82739f76a628f607b5c8b5313
+FileChecksum: SHA256: e7d16ad24fefea6748107a65ca9e49cf6bed3f8b53148ad8272afeabbc56d593
+FileChecksum: MD5: 004f348e490f6e9362e0fd25e9efa86f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide7.xml.rels
+SPDXID: SPDXRef-item15388957
+FileChecksum: SHA1: 5a38a01b1b16fb72a2136ee62087753035453609
+FileChecksum: SHA256: b4d4babc85b96c66c46377c10d61e0535f4c03d2c3d367fec508976f760ed667
+FileChecksum: MD5: 7dbb2b5350b4473f57b3fac74814b9c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide1.xml.rels
+SPDXID: SPDXRef-item15388958
+FileChecksum: SHA1: 893d8b6002a5e4a58222ca3abd43d2e25b5b5c2c
+FileChecksum: SHA256: b93c8f646173ac91a499cf28133f3fe7d258c874fc9aece3bb3e9dafd132891f
+FileChecksum: MD5: 78ca543b79d6ed08bb019e100e3c2d18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide8.xml.rels
+SPDXID: SPDXRef-item15388959
+FileChecksum: SHA1: 1fff4b1c6381e21d58c1180d59f4c7a26b812113
+FileChecksum: SHA256: 355a7ca0f4a01113951f0d1cb791bd8c3114aadd5f19c5f9a2b45736b00d0c20
+FileChecksum: MD5: 9bf6807629debbed9a75a39d0a94bd01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide6.xml.rels
+SPDXID: SPDXRef-item15388960
+FileChecksum: SHA1: aabd1d1af983c0761a6d67b231dd5a0b140e5ad7
+FileChecksum: SHA256: 64859aa0675bd9b00c409d0c168b2747ec618d3e3db3f2d1c9480454e14e2691
+FileChecksum: MD5: ebc4b855ae83addb1bbce7953ce25aee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/_rels/slide9.xml.rels
+SPDXID: SPDXRef-item15388961
+FileChecksum: SHA1: d2c2295ff45dfb4c6e905d9d742cffb29d9411fe
+FileChecksum: SHA256: 6257f547c817d6aa30668b964ef5ff1de86a27e46d358ed48364531cc219ff58
+FileChecksum: MD5: 1149cbc277b9817f40e0e166dd926dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slides/slide6.xml
+SPDXID: SPDXRef-item15388962
+FileChecksum: SHA1: 05491a77c83074ad08c5bfe66a37e9ca1e70e00e
+FileChecksum: SHA256: 7677148801a0f9b3b590715e174a51ede985f60c9f99e961508b4072b2e53dec
+FileChecksum: MD5: 93b117db08eb216060568852c8c99bb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesMasters/notesMaster1.xml
+SPDXID: SPDXRef-item15388964
+FileChecksum: SHA1: 1bca530200c1d3c6bad2d146b18f05af143afd08
+FileChecksum: SHA256: c2c0255a24d45ef3ad633078fd8a2dca43fc6db1b3eb36244a934eb0b9d97c57
+FileChecksum: MD5: 4ece26a2c1d211794364515a1e020442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesMasters/_rels/notesMaster1.xml.rels
+SPDXID: SPDXRef-item15388966
+FileChecksum: SHA1: 258a439a7445ef9540a47dbb01e517982472e859
+FileChecksum: SHA256: 92eb9005ae03705d1db0f1da37f89e4c77f61b2026efa66bdbf610d01116f2b9
+FileChecksum: MD5: 138348b8bd84b82cb37388e1f3b108b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/presProps.xml
+SPDXID: SPDXRef-item15388967
+FileChecksum: SHA1: b8a5174f6697a077235f2e4b6b50d58f6426a677
+FileChecksum: SHA256: 4446069208ff4cd22879cccdfb0a2a302cb7e572e2c48d00b64066d25f026df1
+FileChecksum: MD5: 4c6cc1c8a6c99a8f1bf4fab5ed843d14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slideLayouts/slideLayout1.xml
+SPDXID: SPDXRef-item15388969
+FileChecksum: SHA1: b3efc424679985cce9554000e8f18a4413070281
+FileChecksum: SHA256: 5015c0989d7672a610fc41c3f7f4a468fc0da42198f06e6c5f20a0921090e1c9
+FileChecksum: MD5: d238134665b360df6d9db333b2beb044
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slideLayouts/_rels/slideLayout1.xml.rels
+SPDXID: SPDXRef-item15388971
+FileChecksum: SHA1: 0e95a84096cd52097d3d2cdefa3f259e598be0b1
+FileChecksum: SHA256: 8246d333bf3764cd35563e3df1828c26bbc28890815a2987caf3e592791ba60d
+FileChecksum: MD5: 3403b99991b21ed32f5d796eae81897b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/presentation.xml
+SPDXID: SPDXRef-item15388972
+FileChecksum: SHA1: e7b8e5d4e48dbc5f862dd7b6c80cd697868aea24
+FileChecksum: SHA256: 786cd77065597f6d32327f0e7fe7214faa116e22760d14f721dcf521264404b7
+FileChecksum: MD5: 8525b4d0624ca4fda22dc033871c7a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slideMasters/slideMaster1.xml
+SPDXID: SPDXRef-item15388974
+FileChecksum: SHA1: 9f3621362f0d68b86e89a00b2a3f341afe3ac328
+FileChecksum: SHA256: ebd49ca7c690fabf8b16c077711e80f2aa970b1aa2a31090407b2af58cab77c3
+FileChecksum: MD5: 72eb2411e5493e79e6ae5b164dee4758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/slideMasters/_rels/slideMaster1.xml.rels
+SPDXID: SPDXRef-item15388976
+FileChecksum: SHA1: 912170588953ab483ea74ccb817cdb6ecbd752e2
+FileChecksum: SHA256: 066fd8f2e94608804160631c736d82e4c0b0784a1646489030092cc04888839a
+FileChecksum: MD5: 1ec11c85766abdf3c61318d5590159f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/theme/theme1.xml
+SPDXID: SPDXRef-item15388978
+FileChecksum: SHA1: d995d97034c28b345a178125819ec2ed1af8beee
+FileChecksum: SHA256: 4c4d228fe0ed2577e90bcda2a7ebdd9c0227d8f84c9777419f2d6b8ccc137dd3
+FileChecksum: MD5: bcb5408f940f97ec7d3f723c8eed81da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/tableStyles.xml
+SPDXID: SPDXRef-item15388979
+FileChecksum: SHA1: 49bfd13ed02199b004bf0a019a596f127758d926
+FileChecksum: SHA256: 0e7ac03251337ecbaf6c8ca13619db1caeda5c90c4e3210d45d6c3f5df4de103
+FileChecksum: MD5: fd53c8a17d48edcbb6db6de2e2a5d7df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/viewProps.xml
+SPDXID: SPDXRef-item15388980
+FileChecksum: SHA1: 3244434a22d6afd2202552bf565562dd98691086
+FileChecksum: SHA256: 4cc12863620049069daeb39b14b4aba98a5e3048318be16a5af5879f6e4b2ac8
+FileChecksum: MD5: 00b2e31998c0744a964a69ca41040ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide3.xml
+SPDXID: SPDXRef-item15388982
+FileChecksum: SHA1: 8cf27d966b9f6f5df3f57943b11c5ea4652d6abb
+FileChecksum: SHA256: 7ec927f72813271eb244cfe044facb5970f0e26e10a84b83b2cda218e56b92f5
+FileChecksum: MD5: 67f976eb795f1fc6517fdc444d3264e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide8.xml
+SPDXID: SPDXRef-item15388983
+FileChecksum: SHA1: a7376d8d19fa7377fb0ea5c900fa498834eb9bcc
+FileChecksum: SHA256: 8969917565869eaaea7f56acf68c1d2cc44769bd0a634f9595ad7305f0f72fe1
+FileChecksum: MD5: ab829f66d2027a2f2570ce559987e0cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide1.xml
+SPDXID: SPDXRef-item15388984
+FileChecksum: SHA1: 7a9ab1c7ec295a49a941d9eb6eedb058e5787ae2
+FileChecksum: SHA256: a559bf003438191a2723e887544acb00d550c7a9d8a4fd36a41bd877d46e2be6
+FileChecksum: MD5: 6c26406dbfb9a638e59368a9e1eb4730
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide6.xml
+SPDXID: SPDXRef-item15388985
+FileChecksum: SHA1: c7cfc88334b52afe3ec841d34c885661db0cd1a4
+FileChecksum: SHA256: 940dfc4fe69befcb21c4cbd8a9fe7f7976648e9def625c5768332ebf43b91790
+FileChecksum: MD5: b3e50d73af331f5ed90cdb8659cb335c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide7.xml
+SPDXID: SPDXRef-item15388986
+FileChecksum: SHA1: 59d636eab58da4f18d26b5ad2deed5f6039708e7
+FileChecksum: SHA256: f502a6697b8605dab3c917103dc9f43d1f13feadb8782c1a13b5a9862deb5a92
+FileChecksum: MD5: 58718202471eff802b52b9b268ebe180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide2.xml
+SPDXID: SPDXRef-item15388987
+FileChecksum: SHA1: d6010bdce90339549e3875baf15b88429605b1b5
+FileChecksum: SHA256: bae0245bfeb4194074a5dfde0aa08b36a6fa527ddcaccca0bdbc37eee8b3a57c
+FileChecksum: MD5: 394435bddf42d4d4092054dc88ff62a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide9.xml
+SPDXID: SPDXRef-item15388988
+FileChecksum: SHA1: 901137a7194f3546a56d6a43fe95bb3f1670aebe
+FileChecksum: SHA256: 4938807d1f717dfe8abbdde44c33a1c083014ca0cb8284776c469e8971f684bc
+FileChecksum: MD5: e40e01a44e04cd1db5ddc6f83440e899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide4.xml
+SPDXID: SPDXRef-item15388989
+FileChecksum: SHA1: a205b4faf545aae9ab4e3d10dd08ff2de96f2a6b
+FileChecksum: SHA256: 81b9ecb4086b52a4868a8f81f611012497f27933c28c9e5a24b05d6b5d891226
+FileChecksum: MD5: 59934ebc7ad02ec5655621d03dbd6cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/notesSlide5.xml
+SPDXID: SPDXRef-item15388990
+FileChecksum: SHA1: c929ae847fbe240457ad4e426620b1ff678941c8
+FileChecksum: SHA256: a423384449d4f093ae59df5fb176af9078643d1c16262d7fdf35b9af8763483a
+FileChecksum: MD5: fd055db676b50793d100e2e0a5db0fc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide1.xml.rels
+SPDXID: SPDXRef-item15388992
+FileChecksum: SHA1: 601a8ce78b5b1f745c8d88aea8a0d4aa2c1ef060
+FileChecksum: SHA256: 4e7f04378558285258df490583e9ed0e8039b27df83bcdc2e5b4992cf47090f2
+FileChecksum: MD5: 57ba916e96e7d120fdd086e215158d4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide8.xml.rels
+SPDXID: SPDXRef-item15388993
+FileChecksum: SHA1: 4e48e64f0e85304a9fa0556058c7ed089b37e2c2
+FileChecksum: SHA256: f3a9c7db29211828e940a937939899c68264b9c9b5aadd17ba7b1307313962cb
+FileChecksum: MD5: 774103c50a4704c91c71b25703c52e39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide5.xml.rels
+SPDXID: SPDXRef-item15388994
+FileChecksum: SHA1: 7e25b43f8887cd48c0edc4e0e46fe738817d561b
+FileChecksum: SHA256: 9c83aa477a5a4c0f5108d5160fd45674eba6e6583f49c67b254b4ea715ddc83b
+FileChecksum: MD5: cff7e158b3ed233804ae77624a0dc39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide9.xml.rels
+SPDXID: SPDXRef-item15388995
+FileChecksum: SHA1: f40bb3f09d26387d17ff7e64789ea1f33e1b96a8
+FileChecksum: SHA256: 6b76f9e2b1664e32327d0fa034ad9f0521e795b0253a4914ebca1c835be95d32
+FileChecksum: MD5: 20060c089d9d8ecb8c441a5b027b0b07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide2.xml.rels
+SPDXID: SPDXRef-item15388996
+FileChecksum: SHA1: 853a302814a7ecccd9f0505fef2e423ca4ce2ddd
+FileChecksum: SHA256: d9b0b8b9c1791837bed1ec75969ec1d34486b5e1606a0d739d3c35eeba590d06
+FileChecksum: MD5: 71ca5f398effe2c246c7554d7b9508f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide7.xml.rels
+SPDXID: SPDXRef-item15388997
+FileChecksum: SHA1: 8b15925cd0c5a585f6c5b3a4eba8a01d8563e768
+FileChecksum: SHA256: 672e58095fc8045f11696691b7a6328067f7e21e40d18887715562c7332c253b
+FileChecksum: MD5: 81aae0a44d92d957605803687e05fa39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide4.xml.rels
+SPDXID: SPDXRef-item15388998
+FileChecksum: SHA1: 91d65e05acde24237af8d81b421b8eedf3c0c587
+FileChecksum: SHA256: 6de72adb9167a1c1aab19cda70f7d44ca6fc93d97f14b01e74a76a5a7197b958
+FileChecksum: MD5: d9b15ba446050576337a2d5222d29f38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide6.xml.rels
+SPDXID: SPDXRef-item15388999
+FileChecksum: SHA1: 1488382d8fad22394266a5cdb3db8c23e3f5378c
+FileChecksum: SHA256: 9443d7fd25799d7324865607adfe3059e900d9dd7590b0cd44e618f116bd93ba
+FileChecksum: MD5: 0d103241abb805d41c1a31027dab8ef5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/notesSlides/_rels/notesSlide3.xml.rels
+SPDXID: SPDXRef-item15389000
+FileChecksum: SHA1: abac938ba23bd30856b78a4ddf247188506b0722
+FileChecksum: SHA256: 578c28b0582eba439178176fb0b102c03bb1ec88abed3503f44bcd0f9a11783c
+FileChecksum: MD5: 979cde0aab4166132570cc84dfce2892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-3-3.png
+SPDXID: SPDXRef-item15389004
+FileChecksum: SHA1: 7740222282c7afcc9fcea533e9f228bcf0580cc2
+FileChecksum: SHA256: 775ddbfbbcf91b71d7461e6a77be7823f7588457e5d718f7c8e735960a6f0eab
+FileChecksum: MD5: 03d11cbadf4029908d6ad70106cb1584
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-3-5.png
+SPDXID: SPDXRef-item15389005
+FileChecksum: SHA1: 1c16322673cbb607e3908304a57e0d9932b7b2fb
+FileChecksum: SHA256: 2528a481efabeba8c2f86cc8e8a47158f4b82367c661af496bab48f55baa30c3
+FileChecksum: MD5: e70db5ee45be80875a3fd6f03a62097d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-3-4.png
+SPDXID: SPDXRef-item15389006
+FileChecksum: SHA1: d13e437eb003b51b4aad755e18c78ad1a20db59e
+FileChecksum: SHA256: dac03ae3ff9dec57c441a26f3a5d04c1de0fcb45b7a9d9d124a10b57a8bf10c9
+FileChecksum: MD5: 5b3c4d4662f40c75dec8ddc496741f77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-9-1.png
+SPDXID: SPDXRef-item15389007
+FileChecksum: SHA1: 1c16322673cbb607e3908304a57e0d9932b7b2fb
+FileChecksum: SHA256: 2528a481efabeba8c2f86cc8e8a47158f4b82367c661af496bab48f55baa30c3
+FileChecksum: MD5: e70db5ee45be80875a3fd6f03a62097d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-1-1.png
+SPDXID: SPDXRef-item15389008
+FileChecksum: SHA1: 1c16322673cbb607e3908304a57e0d9932b7b2fb
+FileChecksum: SHA256: 2528a481efabeba8c2f86cc8e8a47158f4b82367c661af496bab48f55baa30c3
+FileChecksum: MD5: e70db5ee45be80875a3fd6f03a62097d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-3-2.png
+SPDXID: SPDXRef-item15389009
+FileChecksum: SHA1: 4230a28cd86ff24cf98131cc4a365fa4cdebc25e
+FileChecksum: SHA256: ea78672961a704002353410f4b2176d5a0e67fac95256d2f97d6d7a526ce5792
+FileChecksum: MD5: 35faab3afbf7d08f2e3ac4c006fc5c86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/media/image-3-1.png
+SPDXID: SPDXRef-item15389010
+FileChecksum: SHA1: 98d830ca5b2950b1e74a0ad6c22b4006fda9ad7e
+FileChecksum: SHA256: 981327af14ad4d70647fb255593eed63b47c27d4ce31b5b95c4d5c411b0742f9
+FileChecksum: MD5: 08e9aac9f20a79875d06478c39505dce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/ppt/_rels/presentation.xml.rels
+SPDXID: SPDXRef-item15389012
+FileChecksum: SHA1: e5d85f575c3fe0c8e7eed0c7bb3d9484c14e67bd
+FileChecksum: SHA256: 12f9911a34f5d4909a717f8e1b94a73aaf2c0790c304de5df5585f6fce7aa15b
+FileChecksum: MD5: 409d7a7ede69efb5ecec9e314e687f02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/URPX_Brand_Guidelines.pptx/_rels/.rels
+SPDXID: SPDXRef-item15389014
+FileChecksum: SHA1: 38c25c60ed486037377c3ef8a16e16458be536a5
+FileChecksum: SHA256: a73dc65f1cb1959ca09044852c3697385e6124853bf5a0fa3f0215f608e86b47
+FileChecksum: MD5: 7704ca6b326a763155cd9dc14d16a90d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/language/URPX_Branding_Language_Kit.md
+SPDXID: SPDXRef-item15389016
+FileChecksum: SHA1: 113dfe44203a212c8d5fdc1c987c4b8a88da4acb
+FileChecksum: SHA256: 8b586f8a6c818a02b713422bea17399ba77f361da5af9c4b4c8c30c5729c6711
+FileChecksum: MD5: 5fdf4eb465c23092912e7eb5d41f68f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/language/urpx-media-language-2026-03-16.md
+SPDXID: SPDXRef-item15389017
+FileChecksum: SHA1: 1d78a1cf4571803b9bdc35cc7c01a268eda02292
+FileChecksum: SHA256: a01e4a8058c59c3e1b871b37ab8e92f1adcf8f0c53e4586ece867ce7b9c164af
+FileChecksum: MD5: 66156a7c71c3e2f0fa153c982fe88f59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/language/urpx-media-language.md
+SPDXID: SPDXRef-item15389018
+FileChecksum: SHA1: 3d7cf5b2258aab2bed35f587bf61699f4319c4ec
+FileChecksum: SHA256: 408f8a323ef015359d74f161354ab62b229c200e37cdd0d256d96a4341aac829
+FileChecksum: MD5: 601d1989dad52539b337791aefd76659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/branding/language/urpx-media-language-2026-03-16_v2.md
+SPDXID: SPDXRef-item15389019
+FileChecksum: SHA1: e3c62ce9f1b9fa0b5e23cec78a482a109c1b56c9
+FileChecksum: SHA256: 035ce9c9b506d60e2cfeaac59de1c16fb786fd5711fbb778d300a9a7541e6191
+FileChecksum: MD5: bf2b9f198f4ae7b4db351e71108c5cb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: urpx-org-2026-09-29.zip/urpx-wg/README.md
+SPDXID: SPDXRef-item15389020
+FileChecksum: SHA1: d0bf5aed658169ab77153149d2d8bc65d6235c69
+FileChecksum: SHA256: 50db2f5aea19b91816b47991227dd09796bb429f5ae760d78601b8ce23b5a697
+FileChecksum: MD5: 5e09f8907a886d4de894363621a6eb1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-W3C-possibility
+LicenseName: W3C-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
