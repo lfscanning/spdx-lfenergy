@@ -1,0 +1,3228 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T16:40:22Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "((Apache-2.0 OR LGPL-3.0-only) AND BSD-3-Clause) AND CC0-1.0 AND (Apache-2.0 AND BSD-3-Clause) AND (BSD-3-Clause AND CC0-1.0) AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND (NCSA OR MIT) AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND GPL-3.0-only AND Apache-2.0 AND LicenseRef-scancode-unknown AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND MIT AND Apache-2.0 OR GPL-2.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-3-Clause-Attribution AND GPL-3.0-only WITH GCC-exception-3.1 AND LGPL-2.1-or-later AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND (BSD-3-Clause AND Apache-2.0) AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND (Zlib AND MIT) AND LicenseRef-scancode-generic-exception AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib AND Zlib AND BSD-3-Clause",
+            "licenseId": "LicenseRef-fixed-0x1cd8a2933a210891"
+        },
+        {
+            "extractedText": "BSD-3-Clause AND GPL-1.0-or-later AND LicenseRef-scancode-unknown AND BSD-3-Clause AND bzip2-1.0.6 AND ISC AND Apache-2.0 AND (MIT AND PSF-2.0) AND MIT AND (GPL-3.0-only AND GPL-1.0-or-later) AND (GPL-3.0-only AND GCC-exception-3.1 AND GPL-1.0-or-later) AND 0BSD AND BSD-2-Clause AND (LGPL-2.1-only AND GPL-1.0-or-later) AND blessing AND LGPL-2.1-or-later AND Zlib AND (X11 AND BSD-3-Clause) AND Python-2.0 AND TCL AND PSF-2.0 AND (GPL-1.0-or-later AND 0BSD AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND GPL-2.0-or-later) AND (0BSD AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND GPL-2.0-or-later AND GPL-1.0-or-later) AND (0BSD AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND GPL-2.0-or-later) AND (0BSD AND LGPL-2.0-or-later AND LGPL-2.1-or-later)",
+            "licenseId": "LicenseRef-fixed-0x11dec1228250b153"
+        },
+        {
+            "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
+            "licenseId": "LicenseRef-NOASSERTION"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Apache-2.0 AND Recipe: Apache-2.0",
+            "licenseId": "LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Apache-2.0 AND GPL-2.0-with-classpath-exception AND LicenseRef-Meta-Discuss (list of dependencies)",
+            "licenseId": "LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Apache-2.0 AND BSD-3-Clause AND LicenseRef-Python AND MIT (list of dependencies)",
+            "licenseId": "LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-3-Clause AND LicenseRef-Python AND MIT (list of dependencies)",
+            "licenseId": "LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Apache-2.0 AND EPL-2.0 AND GPL-2.0-with-classpath-exception (list of dependencies)",
+            "licenseId": "LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "Apache-2.0 AND MIT AND Unlicense (list of dependencies)",
+            "licenseId": "LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-"
+        }
+    ],
+    "name": "/tmp/tmpsbw020tm/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpsbw020tm/code-a83d0964-17c9-454f-a65f-0e4fc2a10bf4",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-9e8104f1a22b808c",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-bom/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6d0ea707f5474e5ccba97bc9f01f70189e6860f7"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5ff983e6b725ca67",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-build_version_up_system/tool/CopInfoTransformer/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "068f7c18b669fd0a5f153beb1aed2bff534c6fda"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-8d7eab8da4927726",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-ccc/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "24fb0ccc1f09c9525e1e024b41001d749341f7e4"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-343fd9f928ec1125",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-common/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7fa58949bb1cb1ab8007b8a04d52d27194dc20c5"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5d81d8a25532479c",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-dcdc_batt_comm/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4d7e1e01ac256f7f9a499ee360f747affdd5f617"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-bd629f993e6f6b0f",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-emulator/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "1d1c3991cc9a82eda6b15dd70f2294553ca7b7e0"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e4103a9cf8498923",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-log/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2537df7b4e37cbe5b3ba5842285d3fe33a423f62"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-86b0141c713fe9b3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-main/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2548a05d7558c2439420c9c845ff2e4f4121d9e5"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-main_controller/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "83c91ed358830e01f1074f9fc0eab8cf0ac4570b"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-800f1bd20730f310",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-service_center/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "63e2d324735cba53455a4d11decf5ed1722da23e"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-fd77066ce058e238",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-tester/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6c430e2cb1c9992790dd189ea541c45eb513a08c"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-87b530d079b46d97",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "apis-web/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "467035f081bc223ddd90bda7bf90e9b4bc849b8e"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1eca7b8b8de6d8cb",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@5.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "PyYAML",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-dcdc_batt_comm/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "5.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6bbd37e9017ab44e",
+            "description": "ASGI specs, helper code, and adapters",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/asgiref@3.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/django/asgiref/",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "asgiref",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Django",
+            "versionInfo": "3.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c1be1a58670df68",
+            "description": "Fast and simple WSGI-framework for small web-applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/bottle@0.12.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://bottlepy.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "bottle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main_controller/requirements.txt",
+            "supplier": "Organization: Bottle Micro Web Framework",
+            "versionInfo": "0.12.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-706dd194cce9661f",
+            "description": "Fast and simple WSGI-framework for small web-applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/bottle@0.13.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://bottlepy.org/",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "bottle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-tester/requirements.txt",
+            "supplier": "Organization: Bottle Micro Web Framework",
+            "versionInfo": "0.13.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-71f5d2c486c7525d",
+            "description": "Fast and simple WSGI-framework for small web-applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/bottle@0.13.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://bottlepy.org/",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "bottle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-emulator/requirements.txt",
+            "supplier": "Organization: Bottle Micro Web Framework",
+            "versionInfo": "0.13.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9a5d63e2bd1920ba",
+            "description": "Fast and simple WSGI-framework for small web-applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/bottle@0.12.18",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://bottlepy.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "bottle",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-dcdc_batt_comm/requirements.txt",
+            "supplier": "Organization: Bottle Micro Web Framework",
+            "versionInfo": "0.12.18"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5635c8300f09dc82",
+            "description": "logback-classic module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-classic@1.4.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
+            "name": "ch.qos.logback:logback-classic",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-929aa99e5f325aad",
+            "description": "logback-core module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/ch.qos.logback/logback-core@1.4.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://logback.qos.ch",
+            "licenseConcluded": "EPL-1.0 AND LGPL-2.1-only",
+            "licenseDeclared": "(EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only) OR (EPL-1.0 AND LGPL-2.1-only)",
+            "name": "ch.qos.logback:logback-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "1.4.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cb1ece4d86e8d3e9",
+            "description": "Core annotations used for value types, used by Jackson data binding package.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-764dfd703e1c1481",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.9.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8804c56f4ebeb8cd",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND BSD-2-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8012dd5893fcba",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.9.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-13d958263c4b4650",
+            "description": "Twirl",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.typesafe.play/twirl-api_2.12@1.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/playframework/twirl",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.typesafe.play:twirl-api_2.12",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-build_version_up_system/tool/CopInfoTransformer/pom.xml",
+            "supplier": "Organization: Play Framework",
+            "versionInfo": "1.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6243228976212942",
+            "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/django@6.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.djangoproject.com/",
+            "licenseConcluded": "((CC-BY-3.0 AND MIT) AND CC-BY-4.0) AND CC-BY-4.0 AND (CC-BY-4.0 AND (CC-BY-3.0 AND MIT)) AND LicenseRef-scancode-proprietary-license AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND (LicenseRef-scancode-unknown-license-reference AND Python-2.0) AND BSD-3-Clause AND (Python-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (Python-2.0 AND LicenseRef-scancode-other-permissive) AND Python-2.0 AND GPL-1.0-or-later AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD) AND BSD-3-Clause AND Python-2.0 AND BSD-3-Clause AND Python-2.0 AND LicenseRef-scancode-other-permissive AND GPL-1.0-or-later AND 0BSD AND CC-BY-4.0 AND OFL-1.1 AND MIT AND GPL-3.0-or-later AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (MIT AND LicenseRef-scancode-unicode) AND MIT AND CC-BY-4.0 AND Python-2.0",
+            "licenseDeclared": "BSD-3-Clause AND Python-2.0 AND LicenseRef-scancode-other-permissive AND Python-2.0 AND GPL-1.0-or-later AND Python-2.0 AND BSD-3-Clause AND Python-2.0 AND BSD-3-Clause AND 0BSD",
+            "name": "django",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Django",
+            "versionInfo": "6.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2938effba471a3ab",
+            "description": "DNS toolkit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/dnspython@2.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(LicenseRef-scancode-unknown-license-reference AND ISC) AND ISC AND ISC AND ISC AND (ISC AND MPL-2.0) AND ISC AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference AND ISC",
+            "licenseDeclared": "ISC AND MPL-2.0",
+            "name": "dnspython",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Bob Halley",
+            "versionInfo": "2.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3726512004582a1b",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-buffer@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-buffer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-623d059358baf1d",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-buffer@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-buffer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8124308907b7f7de",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-76f4995e62fe1f37",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-dns@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-dns",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0a071e312b10008",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-dns@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-dns",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74a0e4f1842d4e32",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-http@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e4f8371d70236249",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-http@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-http",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4367661580af4be2",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-http2@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-http2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fdfd035da5c5c77c",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-http2@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-http2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8795e92f25380a33",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-socks@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-socks",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d9ca3a1047a098e7",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-codec-socks@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-codec-socks",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-422ee560925ae432",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-common@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8a67583dcc14040",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-common@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1ba53e115ed28467",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-handler@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-handler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9816b6ab74c35f23",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-handler@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-handler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a51bc3bc144d81f9",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-handler-proxy@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-handler-proxy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e65758f6692b2fc7",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-handler-proxy@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-handler-proxy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-40b01c162ffdf8de",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-resolver@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-resolver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-765eb56a3e7edde6",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-resolver@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-resolver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5015cca80d27e461",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-resolver-dns@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-resolver-dns",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-79246e1ff2be93f",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-resolver-dns@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-resolver-dns",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2d4f44f0116a0da6",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-transport@4.1.34.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-transport",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.34.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8c7a4ff8f83425d",
+            "description": "Netty is an asynchronous event-driven network application framework for\n rapid development of maintainable high performance protocol servers and\n clients.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-transport@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-transport",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8791aa7c2d7510cb",
+            "description": "Static library which contains common unix utilities.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.netty/netty-transport-native-unix-common@4.1.111.Final",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://netty.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.netty:netty-transport-native-unix-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: The Netty Project",
+            "versionInfo": "4.1.111.Final"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4dd364862c64f54b",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-core@4.5.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "EPL-2.0 OR (Apache-2.0 AND EPL-2.0)",
+            "licenseDeclared": "Apache-2.0 AND EPL-2.0",
+            "name": "io.vertx:vertx-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x",
+            "versionInfo": "4.5.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7bc619a652387c16",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-core",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-web/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8e18b460545be348",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-core@3.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "(Apache-2.0 AND (EPL-2.0 OR Apache-2.0) AND EPL-2.0) OR Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.vertx:vertx-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x",
+            "versionInfo": "3.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b14099775ac78e20",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-core",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-ccc/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cb123199875d8c9f",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-core",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-log/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-501921d32300838f",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-hazelcast",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-hazelcast",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bae4400ca709c852",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-hazelcast",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-hazelcast",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-web/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dfe3fa54637f0f29",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-hazelcast",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-hazelcast",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-ccc/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-53a083e276def517",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-mongo-client",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-mongo-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-ccc/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fbf28977cdc434a9",
+            "description": "Vert.x 5 Parent pom",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.vertx/vertx-mongo-client",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/eclipse-vertx/vertx5-parent",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "io.vertx:vertx-mongo-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-log/pom.xml",
+            "supplier": "Organization: Eclipse Vert.x"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d23c756a30d17b5c",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/CopInfoTransformer@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:CopInfoTransformer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-build_version_up_system/tool/CopInfoTransformer/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-78bcf90197d2812d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-bom@3.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-bom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-bom/pom.xml",
+            "versionInfo": "3.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6c6db874347e28",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-ccc@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-ccc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-ccc/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4b612c9a7d9bc464",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-common@3.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "versionInfo": "3.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-589c7990b3358845",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-common",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-web/pom.xml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6c07da9599ccd1e3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-common",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-log/pom.xml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7cdafaa06fee5443",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-common",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-ccc/pom.xml"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d7cefb94b39d4e3d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-common@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-common",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bd08058650921792",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-log@3.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-log",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-log/pom.xml",
+            "versionInfo": "3.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7a0d8e562de1c5ad",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-main@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-main",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-afd6fd1d44cce2a9",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/jp.co.sony.csl.dcoes.apis/apis-web@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "jp.co.sony.csl.dcoes.apis:apis-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-web/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b42ab1ef5b439b28",
+            "description": "Portable network interface information.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/netifaces@0.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/al45tair/netifaces",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "netifaces",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-emulator/requirements.txt",
+            "supplier": "Organization: Alastair Houghton",
+            "versionInfo": "0.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d3774814cffd585e",
+            "description": "Portable network interface information.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/netifaces@0.10.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/al45tair/netifaces",
+            "licenseConcluded": "MIT AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "netifaces",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main_controller/requirements.txt",
+            "supplier": "Organization: Alastair Houghton",
+            "versionInfo": "0.10.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1415720461c60a21",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.4.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x1cd8a2933a210891",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-emulator/requirements.txt",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.4.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74c2cc165ff05474",
+            "description": "scala-xml",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.scala-lang.modules/scala-xml_2.12@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.scala-lang.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.scala-lang.modules:scala-xml_2.12",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-build_version_up_system/tool/CopInfoTransformer/pom.xml",
+            "supplier": "Organization: The Scala Programming Language",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fd5d4bedf524f860",
+            "description": "scala-library-bootstrapped",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.scala-lang/scala-library@2.12.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://scala-lang.org/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.scala-lang:scala-library",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-build_version_up_system/tool/CopInfoTransformer/pom.xml",
+            "supplier": "Organization: The Scala Programming Language",
+            "versionInfo": "2.12.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ad5e3e63226dde5b",
+            "description": "The slf4j API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.slf4j/slf4j-api@2.0.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.slf4j.org",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "org.slf4j:slf4j-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-common/pom.xml",
+            "supplier": "Organization: QOS.CH (Switzerland)",
+            "versionInfo": "2.0.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dbe4efc80cbe5a47",
+            "description": "A fully featured modbus protocol stack in python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymodbus@2.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pymodbus-dev/pymodbus/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pymodbus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-dcdc_batt_comm/requirements.txt",
+            "supplier": "Organization: pymodbus",
+            "versionInfo": "2.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3cc4653ace91d773",
+            "description": "PyMongo - the Official MongoDB Python driver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymongo@4.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.mongodb.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "NONE",
+            "name": "pymongo",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: mongodb",
+            "versionInfo": "4.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-426b417db1c4d4df",
+            "description": "Python Serial Port Extension",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyserial@3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyserial/pyserial",
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "pyserial",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-dcdc_batt_comm/requirements.txt",
+            "supplier": "Organization: pySerial",
+            "versionInfo": "3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cc3abb02519039fb",
+            "description": "Extensions to the standard Python datetime module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND (Python-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "name": "python-dateutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: dateutil",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4f814a7008b04a7d",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2025.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "LicenseRef-scancode-public-domain AND MIT AND MIT AND (MIT AND ZPL-2.1) AND MIT AND LicenseRef-scancode-unknown-license-reference AND (MIT AND ZPL-2.1) AND MIT AND ZPL-2.1",
+            "licenseDeclared": "MIT AND ZPL-2.1",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2025.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5ae5a4202fa90985",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2026.1.post1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (MIT AND ZPL-2.1) AND MIT AND LicenseRef-scancode-unknown-license-reference AND (MIT AND ZPL-2.1) AND MIT AND ZPL-2.1",
+            "licenseDeclared": "MIT AND ZPL-2.1",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-tester/requirements.txt",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2026.1.post1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e98f5938e131d34d",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2020.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "MIT AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main_controller/requirements.txt",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2020.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1c330c58e1d3466f",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.24.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main_controller/requirements.txt",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.24.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-543653aa3acd7d26",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.32.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND MIT AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-emulator/requirements.txt",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.32.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2b98e7deeee8339",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-tester/requirements.txt",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f3d6d0cef7a5b712",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4e8f0d31bc1fac3e",
+            "description": "A non-validating SQL parser.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sqlparse@0.5.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/andialbrecht/sqlparse",
+            "licenseConcluded": "LicenseRef-fixed-0x11dec1228250b153",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sqlparse",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Andi Albrecht",
+            "versionInfo": "0.5.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f9bd8a745ef3e57",
+            "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tornado@6.5.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.tornadoweb.org/",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND CC-BY-3.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tornado",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-tester/requirements.txt",
+            "supplier": "Organization: tornadoweb",
+            "versionInfo": "6.5.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2aed66803fbf5ba7",
+            "description": "Provider of IANA time zone data",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tzdata@2025.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/tzdata",
+            "licenseConcluded": "Apache-2.0 AND LicenseRef-scancode-public-domain",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tzdata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-service_center/requirements.txt",
+            "supplier": "Organization: Python",
+            "versionInfo": "2025.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-99ce2d8e04409ac6",
+            "description": "Command line tool for manipulating wheel files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/wheel@0.30.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "wheel",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-dcdc_batt_comm/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "0.30.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a34cfb3d147325e",
+            "description": "Command line tool for manipulating wheel files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/wheel@0.46.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "wheel",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-emulator/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "0.46.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c40a23cc37e5db2d",
+            "description": "Command line tool for manipulating wheel files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/wheel@0.30.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "wheel",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: apis-main_controller/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "0.30.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "lfenergy.hyphae",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-APIS",
+            "comment": "This package was added to the Trivy analysis for the APIS by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/APIS/archive/fc59744f2058a0b30ce35067ce9022e56912f849.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/APIS@fc59744f2058a0b30ce35067ce9022e56912f849",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "APIS",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "fc59744f2058a0b30ce35067ce9022e56912f849"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-OpenPAYGO-python",
+            "comment": "This package was added to the Trivy analysis for the OpenPAYGO-python by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/OpenPAYGO-python/archive/1862c6760b33edc9958823360aad043a9d53d6b9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/OpenPAYGO-python@1862c6760b33edc9958823360aad043a9d53d6b9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "OpenPAYGO-python",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "1862c6760b33edc9958823360aad043a9d53d6b9"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-adrc-converter-controller",
+            "comment": "This package was added to the Trivy analysis for the adrc-converter-controller by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/adrc-converter-controller/archive/98bbffd7d1d7d1045937ca477180fcd16fff8ce9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/adrc-converter-controller@98bbffd7d1d7d1045937ca477180fcd16fff8ce9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "adrc-converter-controller",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "98bbffd7d1d7d1045937ca477180fcd16fff8ce9"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-bom",
+            "comment": "This package was added to the Trivy analysis for the apis-bom by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-bom/archive/6d0ea707f5474e5ccba97bc9f01f70189e6860f7.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-bom@6d0ea707f5474e5ccba97bc9f01f70189e6860f7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-bom",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6d0ea707f5474e5ccba97bc9f01f70189e6860f7"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-build-version-up-system",
+            "comment": "This package was added to the Trivy analysis for the apis-build_version_up_system by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-build_version_up_system/archive/068f7c18b669fd0a5f153beb1aed2bff534c6fda.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-build_version_up_system@068f7c18b669fd0a5f153beb1aed2bff534c6fda",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-build_version_up_system",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "068f7c18b669fd0a5f153beb1aed2bff534c6fda"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-ccc",
+            "comment": "This package was added to the Trivy analysis for the apis-ccc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-ccc/archive/24fb0ccc1f09c9525e1e024b41001d749341f7e4.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-ccc@24fb0ccc1f09c9525e1e024b41001d749341f7e4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-ccc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "24fb0ccc1f09c9525e1e024b41001d749341f7e4"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-common",
+            "comment": "This package was added to the Trivy analysis for the apis-common by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-common/archive/7fa58949bb1cb1ab8007b8a04d52d27194dc20c5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-common@7fa58949bb1cb1ab8007b8a04d52d27194dc20c5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-common",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7fa58949bb1cb1ab8007b8a04d52d27194dc20c5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-dcdc-batt-comm",
+            "comment": "This package was added to the Trivy analysis for the apis-dcdc_batt_comm by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-dcdc_batt_comm/archive/4d7e1e01ac256f7f9a499ee360f747affdd5f617.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-dcdc_batt_comm@4d7e1e01ac256f7f9a499ee360f747affdd5f617",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-dcdc_batt_comm",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4d7e1e01ac256f7f9a499ee360f747affdd5f617"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-emulator",
+            "comment": "This package was added to the Trivy analysis for the apis-emulator by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-emulator/archive/1d1c3991cc9a82eda6b15dd70f2294553ca7b7e0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-emulator@1d1c3991cc9a82eda6b15dd70f2294553ca7b7e0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-emulator",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "1d1c3991cc9a82eda6b15dd70f2294553ca7b7e0"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-hw-info",
+            "comment": "This package was added to the Trivy analysis for the apis-hw-info by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-hw-info/archive/b78da0d16128784e8bcd916174254a3451401312.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-hw-info@b78da0d16128784e8bcd916174254a3451401312",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-hw-info",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "b78da0d16128784e8bcd916174254a3451401312"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-log",
+            "comment": "This package was added to the Trivy analysis for the apis-log by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-log/archive/2537df7b4e37cbe5b3ba5842285d3fe33a423f62.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-log@2537df7b4e37cbe5b3ba5842285d3fe33a423f62",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-log",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2537df7b4e37cbe5b3ba5842285d3fe33a423f62"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-main",
+            "comment": "This package was added to the Trivy analysis for the apis-main by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-main/archive/2548a05d7558c2439420c9c845ff2e4f4121d9e5.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-main@2548a05d7558c2439420c9c845ff2e4f4121d9e5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-main",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2548a05d7558c2439420c9c845ff2e4f4121d9e5"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-main-controller",
+            "comment": "This package was added to the Trivy analysis for the apis-main_controller by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-main_controller/archive/83c91ed358830e01f1074f9fc0eab8cf0ac4570b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-main_controller@83c91ed358830e01f1074f9fc0eab8cf0ac4570b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-main_controller",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "83c91ed358830e01f1074f9fc0eab8cf0ac4570b"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-paygo-token",
+            "comment": "This package was added to the Trivy analysis for the apis-paygo-token by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-paygo-token/archive/f1e7503aa71fd063728000cdd54c88c85e95aa5b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-paygo-token@f1e7503aa71fd063728000cdd54c88c85e95aa5b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-paygo-token",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "f1e7503aa71fd063728000cdd54c88c85e95aa5b"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-service-center",
+            "comment": "This package was added to the Trivy analysis for the apis-service_center by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-service_center/archive/63e2d324735cba53455a4d11decf5ed1722da23e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-service_center@63e2d324735cba53455a4d11decf5ed1722da23e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-service_center",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "63e2d324735cba53455a4d11decf5ed1722da23e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-tester",
+            "comment": "This package was added to the Trivy analysis for the apis-tester by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-tester/archive/6c430e2cb1c9992790dd189ea541c45eb513a08c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-tester@6c430e2cb1c9992790dd189ea541c45eb513a08c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-tester",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6c430e2cb1c9992790dd189ea541c45eb513a08c"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-hyphae-apis-web",
+            "comment": "This package was added to the Trivy analysis for the apis-web by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/hyphae/apis-web/archive/467035f081bc223ddd90bda7bf90e9b4bc849b8e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/hyphae/apis-web@467035f081bc223ddd90bda7bf90e9b4bc849b8e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "licenseDeclared": "Apache-2.0 AND MIT AND LicenseRef-Apache-2.0-AND-Recipe-Apache-2.0 AND LicenseRef-Apache-2.0-AND-GPL-2.0-with-classpath-exception-AND-LicenseRef-Meta-Discuss-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-BSD-3-Clause-AND-LicenseRef-Python-AND-MIT-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-EPL-2.0-AND-GPL-2.0-with-classpath-exception-list-of-dependencies- AND LicenseRef-Apache-2.0-AND-MIT-AND-Unlicense-list-of-dependencies-",
+            "name": "apis-web",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "467035f081bc223ddd90bda7bf90e9b4bc849b8e"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-343fd9f928ec1125",
+            "relatedSpdxElement": "SPDXRef-Package-4b612c9a7d9bc464",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5d81d8a25532479c",
+            "relatedSpdxElement": "SPDXRef-Package-1eca7b8b8de6d8cb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5d81d8a25532479c",
+            "relatedSpdxElement": "SPDXRef-Package-426b417db1c4d4df",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5d81d8a25532479c",
+            "relatedSpdxElement": "SPDXRef-Package-99ce2d8e04409ac6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5d81d8a25532479c",
+            "relatedSpdxElement": "SPDXRef-Package-9a5d63e2bd1920ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5d81d8a25532479c",
+            "relatedSpdxElement": "SPDXRef-Package-dbe4efc80cbe5a47",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5ff983e6b725ca67",
+            "relatedSpdxElement": "SPDXRef-Package-d23c756a30d17b5c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-2938effba471a3ab",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-2aed66803fbf5ba7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-3cc4653ace91d773",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-4e8f0d31bc1fac3e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-4f814a7008b04a7d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-6243228976212942",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-6bbd37e9017ab44e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-cc3abb02519039fb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-800f1bd20730f310",
+            "relatedSpdxElement": "SPDXRef-Package-f3d6d0cef7a5b712",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-86b0141c713fe9b3",
+            "relatedSpdxElement": "SPDXRef-Package-7a0d8e562de1c5ad",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-87b530d079b46d97",
+            "relatedSpdxElement": "SPDXRef-Package-afd6fd1d44cce2a9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-8d7eab8da4927726",
+            "relatedSpdxElement": "SPDXRef-Package-6c6db874347e28",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-9e8104f1a22b808c",
+            "relatedSpdxElement": "SPDXRef-Package-78bcf90197d2812d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bd629f993e6f6b0f",
+            "relatedSpdxElement": "SPDXRef-Package-1415720461c60a21",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bd629f993e6f6b0f",
+            "relatedSpdxElement": "SPDXRef-Package-543653aa3acd7d26",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bd629f993e6f6b0f",
+            "relatedSpdxElement": "SPDXRef-Package-71f5d2c486c7525d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bd629f993e6f6b0f",
+            "relatedSpdxElement": "SPDXRef-Package-a34cfb3d147325e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-bd629f993e6f6b0f",
+            "relatedSpdxElement": "SPDXRef-Package-b42ab1ef5b439b28",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e4103a9cf8498923",
+            "relatedSpdxElement": "SPDXRef-Package-bd08058650921792",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "relatedSpdxElement": "SPDXRef-Package-1c330c58e1d3466f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "relatedSpdxElement": "SPDXRef-Package-3c1be1a58670df68",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "relatedSpdxElement": "SPDXRef-Package-c40a23cc37e5db2d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "relatedSpdxElement": "SPDXRef-Package-d3774814cffd585e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "relatedSpdxElement": "SPDXRef-Package-e98f5938e131d34d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd77066ce058e238",
+            "relatedSpdxElement": "SPDXRef-Package-2b98e7deeee8339",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd77066ce058e238",
+            "relatedSpdxElement": "SPDXRef-Package-5ae5a4202fa90985",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd77066ce058e238",
+            "relatedSpdxElement": "SPDXRef-Package-706dd194cce9661f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fd77066ce058e238",
+            "relatedSpdxElement": "SPDXRef-Package-f9bd8a745ef3e57",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-common",
+            "relatedSpdxElement": "SPDXRef-Application-343fd9f928ec1125",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-dcdc-batt-comm",
+            "relatedSpdxElement": "SPDXRef-Application-5d81d8a25532479c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-build-version-up-system",
+            "relatedSpdxElement": "SPDXRef-Application-5ff983e6b725ca67",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-service-center",
+            "relatedSpdxElement": "SPDXRef-Application-800f1bd20730f310",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-main",
+            "relatedSpdxElement": "SPDXRef-Application-86b0141c713fe9b3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-web",
+            "relatedSpdxElement": "SPDXRef-Application-87b530d079b46d97",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-ccc",
+            "relatedSpdxElement": "SPDXRef-Application-8d7eab8da4927726",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-bom",
+            "relatedSpdxElement": "SPDXRef-Application-9e8104f1a22b808c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-emulator",
+            "relatedSpdxElement": "SPDXRef-Application-bd629f993e6f6b0f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-log",
+            "relatedSpdxElement": "SPDXRef-Application-e4103a9cf8498923",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-main-controller",
+            "relatedSpdxElement": "SPDXRef-Application-e5c90f5153ffb3a0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-hyphae-apis-tester",
+            "relatedSpdxElement": "SPDXRef-Application-fd77066ce058e238",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-13d958263c4b4650",
+            "relatedSpdxElement": "SPDXRef-Package-74c2cc165ff05474",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-13d958263c4b4650",
+            "relatedSpdxElement": "SPDXRef-Package-fd5d4bedf524f860",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ba53e115ed28467",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ba53e115ed28467",
+            "relatedSpdxElement": "SPDXRef-Package-765eb56a3e7edde6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ba53e115ed28467",
+            "relatedSpdxElement": "SPDXRef-Package-8791aa7c2d7510cb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ba53e115ed28467",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ba53e115ed28467",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ba53e115ed28467",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relatedSpdxElement": "SPDXRef-Package-40b01c162ffdf8de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3726512004582a1b",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40b01c162ffdf8de",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4367661580af4be2",
+            "relatedSpdxElement": "SPDXRef-Package-1ba53e115ed28467",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4367661580af4be2",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4367661580af4be2",
+            "relatedSpdxElement": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4367661580af4be2",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4367661580af4be2",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4367661580af4be2",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b612c9a7d9bc464",
+            "relatedSpdxElement": "SPDXRef-Package-4dd364862c64f54b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b612c9a7d9bc464",
+            "relatedSpdxElement": "SPDXRef-Package-5635c8300f09dc82",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4b612c9a7d9bc464",
+            "relatedSpdxElement": "SPDXRef-Package-ad5e3e63226dde5b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-1ba53e115ed28467",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-4367661580af4be2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-765eb56a3e7edde6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-79246e1ff2be93f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-8804c56f4ebeb8cd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4dd364862c64f54b",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5015cca80d27e461",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5015cca80d27e461",
+            "relatedSpdxElement": "SPDXRef-Package-40b01c162ffdf8de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5015cca80d27e461",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5015cca80d27e461",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5015cca80d27e461",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5015cca80d27e461",
+            "relatedSpdxElement": "SPDXRef-Package-e0a071e312b10008",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5635c8300f09dc82",
+            "relatedSpdxElement": "SPDXRef-Package-929aa99e5f325aad",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5635c8300f09dc82",
+            "relatedSpdxElement": "SPDXRef-Package-ad5e3e63226dde5b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-623d059358baf1d",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relatedSpdxElement": "SPDXRef-Package-1ba53e115ed28467",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74c2cc165ff05474",
+            "relatedSpdxElement": "SPDXRef-Package-fd5d4bedf524f860",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-765eb56a3e7edde6",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76f4995e62fe1f37",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76f4995e62fe1f37",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76f4995e62fe1f37",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-76f4995e62fe1f37",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-1ba53e115ed28467",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-765eb56a3e7edde6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-76f4995e62fe1f37",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79246e1ff2be93f",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7a0d8e562de1c5ad",
+            "relatedSpdxElement": "SPDXRef-Package-8e18b460545be348",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7a0d8e562de1c5ad",
+            "relatedSpdxElement": "SPDXRef-Package-d7cefb94b39d4e3d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8124308907b7f7de",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8124308907b7f7de",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8124308907b7f7de",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8791aa7c2d7510cb",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8791aa7c2d7510cb",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8791aa7c2d7510cb",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8795e92f25380a33",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8795e92f25380a33",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8795e92f25380a33",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8795e92f25380a33",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relatedSpdxElement": "SPDXRef-Package-765eb56a3e7edde6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-40b01c162ffdf8de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-5015cca80d27e461",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-764dfd703e1c1481",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-9816b6ab74c35f23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-b8012dd5893fcba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-e4f8371d70236249",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-e65758f6692b2fc7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8e18b460545be348",
+            "relatedSpdxElement": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9816b6ab74c35f23",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9816b6ab74c35f23",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9816b6ab74c35f23",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9816b6ab74c35f23",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relatedSpdxElement": "SPDXRef-Package-74a0e4f1842d4e32",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relatedSpdxElement": "SPDXRef-Package-8795e92f25380a33",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relatedSpdxElement": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51bc3bc144d81f9",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8012dd5893fcba",
+            "relatedSpdxElement": "SPDXRef-Package-764dfd703e1c1481",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8012dd5893fcba",
+            "relatedSpdxElement": "SPDXRef-Package-cb1ece4d86e8d3e9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d23c756a30d17b5c",
+            "relatedSpdxElement": "SPDXRef-Package-13d958263c4b4650",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d23c756a30d17b5c",
+            "relatedSpdxElement": "SPDXRef-Package-74c2cc165ff05474",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d23c756a30d17b5c",
+            "relatedSpdxElement": "SPDXRef-Package-fd5d4bedf524f860",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relatedSpdxElement": "SPDXRef-Package-3726512004582a1b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relatedSpdxElement": "SPDXRef-Package-8c7a4ff8f83425d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d5e8c2bfcac6f605",
+            "relatedSpdxElement": "SPDXRef-Package-e8a67583dcc14040",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d9ca3a1047a098e7",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d9ca3a1047a098e7",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d9ca3a1047a098e7",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d9ca3a1047a098e7",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0a071e312b10008",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0a071e312b10008",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0a071e312b10008",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0a071e312b10008",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e4f8371d70236249",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e4f8371d70236249",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e4f8371d70236249",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e4f8371d70236249",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e4f8371d70236249",
+            "relatedSpdxElement": "SPDXRef-Package-9816b6ab74c35f23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e65758f6692b2fc7",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e65758f6692b2fc7",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e65758f6692b2fc7",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e65758f6692b2fc7",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e65758f6692b2fc7",
+            "relatedSpdxElement": "SPDXRef-Package-d9ca3a1047a098e7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e65758f6692b2fc7",
+            "relatedSpdxElement": "SPDXRef-Package-e4f8371d70236249",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relatedSpdxElement": "SPDXRef-Package-2d4f44f0116a0da6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relatedSpdxElement": "SPDXRef-Package-422ee560925ae432",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relatedSpdxElement": "SPDXRef-Package-623d059358baf1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relatedSpdxElement": "SPDXRef-Package-8124308907b7f7de",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relatedSpdxElement": "SPDXRef-Package-9816b6ab74c35f23",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-fdfd035da5c5c77c",
+            "relatedSpdxElement": "SPDXRef-Package-e4f8371d70236249",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-APIS",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-OpenPAYGO-python",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-adrc-converter-controller",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-bom",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-build-version-up-system",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-ccc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-common",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-dcdc-batt-comm",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-emulator",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-hw-info",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-log",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-main",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-main-controller",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-paygo-token",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-service-center",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-tester",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6ccec42f366ae020",
+            "relatedSpdxElement": "SPDXRef-lfenergy-hyphae-apis-web",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
