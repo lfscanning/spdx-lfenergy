@@ -1,0 +1,106 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T17:55:24Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpjf2bnhnf/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpjf2bnhnf/code-b12c728e-4452-4cc3-b0f6-4b721dcffd8a",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-1bb46c58f56bdbee",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "CityLearn/docs/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "834575c1a0194c8ae9d648ae858376a94dfceb78"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4d7f5c7daebc3376",
+            "description": "A sphinx extension for including notebook files outside sphinx source root",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/nbsphinx-link@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/vidartf/nbsphinx-link",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "nbsphinx-link",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: CityLearn/docs/requirements.txt",
+            "supplier": "Organization: Vidar Tonaas Fauske",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-45a1432e8f4a01af",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "lfenergy.citylearn-project",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-citylearn-project-CityLearn",
+            "comment": "This package was added to the Trivy analysis for the CityLearn by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/citylearn-project/CityLearn/archive/834575c1a0194c8ae9d648ae858376a94dfceb78.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/citylearn-project/CityLearn@834575c1a0194c8ae9d648ae858376a94dfceb78",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "CityLearn",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "834575c1a0194c8ae9d648ae858376a94dfceb78"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-1bb46c58f56bdbee",
+            "relatedSpdxElement": "SPDXRef-Package-4d7f5c7daebc3376",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-citylearn-project-CityLearn",
+            "relatedSpdxElement": "SPDXRef-Application-1bb46c58f56bdbee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-45a1432e8f4a01af",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-45a1432e8f4a01af",
+            "relatedSpdxElement": "SPDXRef-lfenergy-citylearn-project-CityLearn",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
