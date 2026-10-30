@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T17:33:04Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmptduv9i2e/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmptduv9i2e/code-d699dc0f-25f9-4db9-b860-4148ea0c8584",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-c21e3a9bc721bbb1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "lfenergy.covXtreme",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "comment": "This package was added to the Trivy analysis for the covXtreme by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/covxtreme/covXtreme/archive/016a69aefaf8aa92307a8a9ff7a014d0c357e464.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/covxtreme/covXtreme@016a69aefaf8aa92307a8a9ff7a014d0c357e464",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "covXtreme",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "016a69aefaf8aa92307a8a9ff7a014d0c357e464"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-c21e3a9bc721bbb1",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c21e3a9bc721bbb1",
+            "relatedSpdxElement": "SPDXRef-lfenergy-covXtreme-covXtreme",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
