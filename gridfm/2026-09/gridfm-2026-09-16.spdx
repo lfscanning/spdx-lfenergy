@@ -1,0 +1,4956 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_gridfm-2026-09-16.zip_1793069579.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-27T02:52:59Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: gridfm-2026-09-16.zip
+PackageFileName: gridfm-2026-09-16.zip
+SPDXID: SPDXRef-upload2356
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 3e47bd280c6927c48fe186026baa825226e42f3b
+PackageChecksum: SHA1: ba64b102daaa8c75ab27df5ba5a17a02a1dc6c5c
+PackageChecksum: SHA256: d3d925eb85c6093409526591ccbf75ceed49ac0b6c24e6ebe3a8eaa3db7455fa
+PackageChecksum: MD5: 5a9b4c5d90f333c34ef7a788799f6869
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2356
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/benchmark_data/ieee14/ieee14_GeneratorDisconnections/IEEE14.par
+SPDXID: SPDXRef-item14870345
+FileChecksum: SHA1: d7d7aed2445c025e9552f31fca79e24536013dec
+FileChecksum: SHA256: 92bd22e06c778fd44f59ed6e79363778aefdc69051ce24dbd65aa7bd4f784d3a
+FileChecksum: MD5: 2c21095a2638666a6f2f6087b88d86af
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2015-2020, RTE (http://www.rte-france.com) See AUTHORS.txt All rights reserved. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, you can obtain one at http://mozilla.org/MPL </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/benchmark_data/ieee14/ieee14_GeneratorDisconnections/IEEE14.iidm
+SPDXID: SPDXRef-item14870343
+FileChecksum: SHA1: 58b85de5ac310d20d69dd85f7ea53af965cb8d02
+FileChecksum: SHA256: b006d5632a933a4dc6ae11c11d6deed98f4ebec374de43d75b8d321638d625c2
+FileChecksum: MD5: 00ebc755bf1451600c320ea5ffa85b2f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2015-2020, RTE (http://www.rte-france.com) See AUTHORS.txt All rights reserved. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, you can obtain one at http://mozilla.org/MPL </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/notebooks/dispatch_with_powermodels.ipynb
+SPDXID: SPDXRef-item14870457
+FileChecksum: SHA1: b703565e5b8bd0512da73e13ce942a654e88c7be
+FileChecksum: SHA256: 2403fa6cd8df8b6fc1b053719b1748d5d4e4c70adc42e2d4fb5339abcc0f5af4
+FileChecksum: MD5: 4fdaefe91e12a039cbf9efc92c282ca8
+LicenseConcluded: LicenseRef-fossology-EPL
+LicenseInfoInFile: LicenseRef-fossology-EPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/grids/IEEE14.par
+SPDXID: SPDXRef-item14870474
+FileChecksum: SHA1: d7d7aed2445c025e9552f31fca79e24536013dec
+FileChecksum: SHA256: 92bd22e06c778fd44f59ed6e79363778aefdc69051ce24dbd65aa7bd4f784d3a
+FileChecksum: MD5: 2c21095a2638666a6f2f6087b88d86af
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2015-2020, RTE (http://www.rte-france.com) See AUTHORS.txt All rights reserved. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, you can obtain one at http://mozilla.org/MPL </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/grids/IEEE14.iidm
+SPDXID: SPDXRef-item14870473
+FileChecksum: SHA1: 58b85de5ac310d20d69dd85f7ea53af965cb8d02
+FileChecksum: SHA256: b006d5632a933a4dc6ae11c11d6deed98f4ebec374de43d75b8d321638d625c2
+FileChecksum: MD5: 00ebc755bf1451600c320ea5ffa85b2f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2015-2020, RTE (http://www.rte-france.com) See AUTHORS.txt All rights reserved. This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, you can obtain one at http://mozilla.org/MPL </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/process/dummy.m
+SPDXID: SPDXRef-item14870541
+FileChecksum: SHA1: cd251bda0b10eea5a5467d55be9d1c9f6b45a7ff
+FileChecksum: SHA256: 3f2bf5cd7686cde1b6fe403da0c0627192005d958d402ee924b14c1bb1516046
+FileChecksum: MD5: fdc92d25341dfd2d3d952d30aaf23f45
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2010 by The Institute of Electrical and Electronics Engineers (IEEE) Licensed under the Creative Commons Attribution 4.0 International license, http://creativecommons.org/licenses/by/4.0/ </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/idx_brch.py
+SPDXID: SPDXRef-item14870506
+FileChecksum: SHA1: 0fff112395a1ba08dfebce9ed501cce52aa6fddb
+FileChecksum: SHA256: b5bb9782b828e6f5a010c933e4e6e294369ff3bbd59dbfa6ae8577b673452e95
+FileChecksum: MD5: 9abd1fae69b665206f97570a53521beb
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright 1996-2015 PSERC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
+Copyright (c) 2016-2024 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. All rights reserved. </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/idx_bus.py
+SPDXID: SPDXRef-item14870505
+FileChecksum: SHA1: 352b2f3b9005322a9273b09694a7ed17eb7dad9f
+FileChecksum: SHA256: e5061b7efbcccda22d399c29dcb4a65c69d529ca370b5208b0c7e675cf86882d
+FileChecksum: MD5: b43698da0c170999fa9a51307ca82232
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright 1996-2015 PSERC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
+Copyright (c) 2016-2024 by University of Kassel and Fraunhofer Institute for Energy Economics and Energy System Technology (IEE), Kassel. All rights reserved. </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/idx_cost.py
+SPDXID: SPDXRef-item14870504
+FileChecksum: SHA1: 6e52f58805e84b22b48828f60b11197b48559a37
+FileChecksum: SHA256: 6dba1d4591d0d01c5340645a7f3872d94a0510c15dac67741b79c05412710a4a
+FileChecksum: MD5: 2cf222893e83b7a7383ccf464a10b494
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright 1996-2015 PSERC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/idx_gen.py
+SPDXID: SPDXRef-item14870503
+FileChecksum: SHA1: 5810646c05621ce6a8a1cf426d5bc0d2b60b51c2
+FileChecksum: SHA256: 747b92e77d9e413c9f5f1dac17143f413168f054873aa8815b00f9b55e8476ef
+FileChecksum: MD5: 01a404055e5fda2f5d9e00d684d01e0b
+LicenseConcluded: LicenseRef-fossology-BSD
+LicenseInfoInFile: LicenseRef-fossology-BSD
+FileCopyrightText: <text> Copyright 1996-2015 PSERC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file. </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/CONTRIBUTING.md
+SPDXID: SPDXRef-item14870256
+FileChecksum: SHA1: 3fb2c0a94ef29728af0f0922b0c9783bb18c1519
+FileChecksum: SHA256: 21e791bf33c0462bbfe0b4994a8dff338dca3f724df8ae34276aaf3cbd27e902
+FileChecksum: MD5: 0a080c68b4c557e25d23519d6184e20b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/LICENSE
+SPDXID: SPDXRef-item14870438
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/LICENSE
+SPDXID: SPDXRef-item14870252
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/pyproject.toml
+SPDXID: SPDXRef-item14870442
+FileChecksum: SHA1: 5e13484323dba7e3d01507bc6fb93633a36d32d6
+FileChecksum: SHA256: a67b2b1a71e59bcd483cbaeee3aecd7e81ec3bc46fd44bcd6cc1f15d34cb7b68
+FileChecksum: MD5: 32fcd1bae289ebc8cba70d5ece754a94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/pyproject.toml
+SPDXID: SPDXRef-item14870255
+FileChecksum: SHA1: 0999a9f45e88dd1216cd79dedde68e517611531a
+FileChecksum: SHA256: 6bcd27ece488f1a1bf988fb43c3280e1bc409e679d2249e4222be5556b1d0be4
+FileChecksum: MD5: be30b1fe9d132a83a2a178d95c851b8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_streaming_partitions.py
+SPDXID: SPDXRef-item14870082
+FileChecksum: SHA1: ef00b2f0f7f4ca5a7de6f41189bd8572d382bbee
+FileChecksum: SHA256: 24842babba9bcc951b488268ccb2e620d02f082610c4715f8e1a9811666c6afc
+FileChecksum: MD5: a7d6c477766448dd37e641558bbe2a44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2026 GridFM Contributors </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/opf_ac_dc_baseline.py
+SPDXID: SPDXRef-item14870031
+FileChecksum: SHA1: 9b18b8207043d5b4018855bd0c7dcb6f165df678
+FileChecksum: SHA256: cc5d6617f1b0c0e2f1c3d68d0a2fac8290b3379374dd3435916bf5ef0b8e8b78
+FileChecksum: MD5: 0a8acaa975da73cd25593360d3a19351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/base_task.py
+SPDXID: SPDXRef-item14870032
+FileChecksum: SHA1: 3a90d16d87d147d7dd2612513a1fc42052be3fd3
+FileChecksum: SHA256: afd61dcdfb1b28db03aff61bc884b28db576796c2e149fb9dfcd695bda44c083
+FileChecksum: MD5: 537c8b09ceea6ddf69bb19d6d73e32f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/__init__.py
+SPDXID: SPDXRef-item14870033
+FileChecksum: SHA1: 8723120e144ebded35507ba1cfb28644f2dbe441
+FileChecksum: SHA256: a3dff95f6c7d5336bc51643bdeac00c1bedd7de8c73f7e3b2f22411839431e6c
+FileChecksum: MD5: 41ca97276d1463ba208b7b77fc670472
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/reconstruction_tasks.py
+SPDXID: SPDXRef-item14870034
+FileChecksum: SHA1: f6eb44c73af76c1527f90bbe608c0935c4c46e31
+FileChecksum: SHA256: 4082f81c4b313b6a89b819d2f83588d82ba37a261836e01dfb73207e7f79f3b4
+FileChecksum: MD5: b4082470b01fc887da65779b1bc72ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/pf_ac_dc_baseline.py
+SPDXID: SPDXRef-item14870035
+FileChecksum: SHA1: 62e77df6d0c096bdd92f36b1f45364d74bbec15b
+FileChecksum: SHA256: 3e51dbf0dc9573f80896a3e8c1e6cf249cc12e318250b50840822c1cd7da7dfd
+FileChecksum: MD5: bb89c7af1d5419a43d0caba11240e098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/pf_task.py
+SPDXID: SPDXRef-item14870036
+FileChecksum: SHA1: c39208cc4ebe1abaaaee24ff9a45fc872dac3241
+FileChecksum: SHA256: bca3c1151f0825b887d6b1c430bf0b7065c0fb21bbfd478a8557967216fb8562
+FileChecksum: MD5: 6810dbf6f97ebaa26cf2eb1822d10582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/se_task.py
+SPDXID: SPDXRef-item14870037
+FileChecksum: SHA1: d6ae05cf95cb21357b023a3351fc0dca57fea2e6
+FileChecksum: SHA256: 7e62c8d7cb81aa904a81dc4515ff31100af9ffd98bd9659bb622db71eb732f64
+FileChecksum: MD5: 262eaffa78bea30d2fd7e945dfeed078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/opf_task.py
+SPDXID: SPDXRef-item14870038
+FileChecksum: SHA1: 6924adfdfe699400aedd16649f1cddc39e37cb5e
+FileChecksum: SHA256: 6955987daf13d0703b3367f75be5da713b0e6cc50b3e4aec6c67d588a1f9fe9b
+FileChecksum: MD5: 716ecd9a2e84f61b500932c270ef18e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/tasks/utils.py
+SPDXID: SPDXRef-item14870039
+FileChecksum: SHA1: effaacfb522d353671ce930b9907b9432063e5b4
+FileChecksum: SHA256: 9545302db88cbd196d6ab00cc8ada280caa0fea2448850929de2a5002c52c5a1
+FileChecksum: MD5: 6436bc831f8b9446c09c1a7dcdb0ffc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/normalizers.py
+SPDXID: SPDXRef-item14870041
+FileChecksum: SHA1: 486964085847ebd76c1fb9863e7b7b50fb69a6d7
+FileChecksum: SHA256: 749049526a0304751eb62428cdfd9ccefecaefdea0784e8d256a45813e04cd0b
+FileChecksum: MD5: 6a042d12f62dd2711a981d6f63ef263a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/rrwp.py
+SPDXID: SPDXRef-item14870042
+FileChecksum: SHA1: b81b98a614e916715f6f43820c1cacf32fe6bfef
+FileChecksum: SHA256: cedccff630af4f4a6b6c80e62d68b24554a646f14377aa3f9808576a01a1660f
+FileChecksum: MD5: fa968ec06e4c5092d29675264e568320
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/hetero_powergrid_datamodule.py
+SPDXID: SPDXRef-item14870043
+FileChecksum: SHA1: 8a0dff8999b075aba2dfeccd1cdba61f60018262
+FileChecksum: SHA256: 11bd66e356c44f3f50096eb90076d80591a5f4d2499b4ca172c919c5ce01ba49
+FileChecksum: MD5: 21d92facd21cb68f29a1c6565e0458a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/globals.py
+SPDXID: SPDXRef-item14870044
+FileChecksum: SHA1: 6c006ddd6aa2beb0fb79816b8377e7d3f62f0729
+FileChecksum: SHA256: 46c320057be4d79aee782538d57c1500116f56eeed3a4593a4811f7baa3fb36c
+FileChecksum: MD5: 17b0534a5a2d19f512faa50646a43d0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/cached_transform.py
+SPDXID: SPDXRef-item14870045
+FileChecksum: SHA1: 77feb8367c00f1e9ac9d2ae0dfe7926df39d70e0
+FileChecksum: SHA256: 21b9b0d11ef59fb783a554ec11d21747ec8004bf8652a2e8f3a30ee050db0251
+FileChecksum: MD5: 45dc0655cc7b0eca2316bcdff885f1f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/postprocessing.py
+SPDXID: SPDXRef-item14870046
+FileChecksum: SHA1: 1f7d642a419a96eb52fe0b903bb009bf7c6e1e8c
+FileChecksum: SHA256: bcbe8bd51322836d3d8ce41292ac02ca254bc643fec68e05724d0e68306e25c7
+FileChecksum: MD5: d48825b9c5d1a75226f5f783ae108361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/transforms.py
+SPDXID: SPDXRef-item14870047
+FileChecksum: SHA1: c924f80b4be901b9d25abcbd72b1ef863f1a9bd2
+FileChecksum: SHA256: 806a8915cbd6cfd08fcaa229f07fbd97f65591a32dd1066a599937def5e7e113
+FileChecksum: MD5: a3e8948de630b7c8b61eb112053da326
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/__init__.py
+SPDXID: SPDXRef-item14870048
+FileChecksum: SHA1: 2f0b85ce3f850cd0e4c0f1365ce9d31f46931025
+FileChecksum: SHA256: 006b91ece86c03bcd7f9ce9c246e1e8f955d9c69824afcb1ee2687bcd37bd88f
+FileChecksum: MD5: add00922e071fe02a299a365cdb2985e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/task_transforms.py
+SPDXID: SPDXRef-item14870049
+FileChecksum: SHA1: ba31977fa2e83da4d005aa9217598ac7a77ff638
+FileChecksum: SHA256: 1632f505d5c51e3eee4c359490dba65ab1f7d10ae5c41733e68ef1cc1399c9fb
+FileChecksum: MD5: 54d2aa57d4ae1177a321cad7d8427e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/masking.py
+SPDXID: SPDXRef-item14870050
+FileChecksum: SHA1: ec55d221d3d7c8db1be6b8e3756fe4353c3c5aaf
+FileChecksum: SHA256: b7b937caeb40e32bf21d28fe30ffa3a6850e44a8743b9c5511d98a22fa6b6ae0
+FileChecksum: MD5: bcbf5939d053ffb77861e64a39b221e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/posenc_stats.py
+SPDXID: SPDXRef-item14870051
+FileChecksum: SHA1: d9cace05f1c9f9727a7bed965ecc0f5a9cf39afa
+FileChecksum: SHA256: 132315cdf5d7d0c8f71786df8788b8e478743984ea5b753eb1c844ff922afbaf
+FileChecksum: MD5: 394c4d0df49708d59db2b91183c43b21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/powergrid_hetero_dataset.py
+SPDXID: SPDXRef-item14870052
+FileChecksum: SHA1: 9d9b19af8b0a261490d6dd37de666138909ab8fe
+FileChecksum: SHA256: fe973e1f992b578fd0e927f5e84003ba6a8d43e5c3e40a1def77afd267874e5d
+FileChecksum: MD5: a56e3f96d00fb4bfa6cbe9a04bf73a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/datasets/utils.py
+SPDXID: SPDXRef-item14870053
+FileChecksum: SHA1: 084ca8154a68192b35e6c17a7883eeb9828c8a12
+FileChecksum: SHA256: 772d6b19f34262a8d7b8f13d63f3816aee65b61af7c954b1c0bae238027efc5a
+FileChecksum: MD5: 7f4e733990a84c381a9617e53c1d1f94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/cli.py
+SPDXID: SPDXRef-item14870054
+FileChecksum: SHA1: 7a2695639ab97966a4026cba496b2b246f7ef514
+FileChecksum: SHA256: 85375ad0054987dacae61108447aaa9422e068b60eba0d21ceff5930ce614343
+FileChecksum: MD5: 772dab9d6d8b9b70b7968a294037b221
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/utils/visualization.py
+SPDXID: SPDXRef-item14870056
+FileChecksum: SHA1: 680c8ab90dbd34e3e82bc5dc3e328c29aae7c73e
+FileChecksum: SHA256: 1da0eeb5e1610bf776e95e17ac3a1e30acc4c5802f81296d4f8327631489f5a6
+FileChecksum: MD5: 2d18867b83f7e977c42db5e8997e79f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/utils/utils.py
+SPDXID: SPDXRef-item14870057
+FileChecksum: SHA1: 8ea96586c41167674314f6b9891d76cd6dc0d091
+FileChecksum: SHA256: 6b6cc37c68a1e3a0dfad4c8a8603bf1ec48de486e8d306d90373d9feb405e796
+FileChecksum: MD5: b053cadfe8da78a89640ab4e29adae1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/grit_transformer.py
+SPDXID: SPDXRef-item14870059
+FileChecksum: SHA1: e407169df5c6de366fc721d4af11d31635beea7e
+FileChecksum: SHA256: ce02293acf92695b592f3f3e9d5f54b8fe25116a4dd43ef1526b61962c60d708
+FileChecksum: MD5: d630913bf267a0a72bcb8aa8dbc4e15a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/gnn_heterogeneous_gns.py
+SPDXID: SPDXRef-item14870060
+FileChecksum: SHA1: b1fc02bdb23bafe5859976e263fa3d252af9bea8
+FileChecksum: SHA256: 0ae2c1351629884e0b1358bf953fa70601df0b9cc5ef308c419f424dde28821e
+FileChecksum: MD5: 24f7079333b37d79ff8962f0a7d2f7b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/grit_layer.py
+SPDXID: SPDXRef-item14870061
+FileChecksum: SHA1: ab4193778e320fb40c47c478a6b7d15a8c63ec76
+FileChecksum: SHA256: 13b11edec9892fd86b22c7e1de3cc3b170c78f6a051922a4faf33fe78aa20871
+FileChecksum: MD5: d52c4045b5106b83e44f88e61144d571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/__init__.py
+SPDXID: SPDXRef-item14870062
+FileChecksum: SHA1: 62af56034ed9167fd7c743dbc7fa9491efaec2b9
+FileChecksum: SHA256: 699535cca428cfd3e8cf0365d0e136a122854be91530a4fbd3677d4758998c30
+FileChecksum: MD5: 40df1f51008f42cd4e5b0c02353fb879
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/kernel_pos_encoder.py
+SPDXID: SPDXRef-item14870063
+FileChecksum: SHA1: b748711a6cfa9ec8927c7334e593eb875a9a163f
+FileChecksum: SHA256: 6f9128652285e02ab9c70d530f830c1c052fa4952d4f5e0d239f21dd5e6c4b9b
+FileChecksum: MD5: 280ac780b96943c74564c86ca04be6c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/rrwp_encoder.py
+SPDXID: SPDXRef-item14870064
+FileChecksum: SHA1: 96359199d3c159f95e612ea86711a30d882a2eaa
+FileChecksum: SHA256: 36453e6474cd48f80f3e6a83369777ed6536af8cb763dc7cbc86c052143a2c73
+FileChecksum: MD5: 5dd324154dd8c769472f25f4d3662aa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/models/utils.py
+SPDXID: SPDXRef-item14870065
+FileChecksum: SHA1: 982b63a2d4c21d401866563024f09f6592f4593e
+FileChecksum: SHA256: b776c8323c52b87f88bd975487f3829080933c1908f8d56ce17fe49beb3c8ea3
+FileChecksum: MD5: 0845da410fb776cd9b7f4efddbb20c3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/training/__init__.py
+SPDXID: SPDXRef-item14870067
+FileChecksum: SHA1: 07fc8db4771906f187d8cc6308869f4fde9872ef
+FileChecksum: SHA256: 1d761e930e4e0b561f21f3d27046faf95f9dd3956c306ea52ccb078fe90ea200
+FileChecksum: MD5: 70dedad3338fab90c3f38fbce099c979
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/training/callbacks.py
+SPDXID: SPDXRef-item14870068
+FileChecksum: SHA1: f03270ebafd43cd8057a734739c6545d45dd447a
+FileChecksum: SHA256: 189b1cdd7893f20d4e837032a830e6578da59e9c266e9569649e7104408794f4
+FileChecksum: MD5: bca72143fa7cb5e64847e02e16ec18fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/training/loss.py
+SPDXID: SPDXRef-item14870069
+FileChecksum: SHA1: 655481e363dc9cbd4ae91ce2a8ada0c7dbbe32f6
+FileChecksum: SHA256: d86172636b12c2e031ddfa8fd5522ac7974782cbaa2e2d5c7ea7f5c8d3de59a6
+FileChecksum: MD5: 8a1f986332ed0a1753fccaa5b071106d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/__init__.py
+SPDXID: SPDXRef-item14870070
+FileChecksum: SHA1: 84a4d64c57254b552f920f692f1523e18a1c0fe3
+FileChecksum: SHA256: 0b1f1cf9fa9da7f0653b14f6bbac19d5d79481d914450fe35ba2a01d6648fe9d
+FileChecksum: MD5: 5b2d42457b76ce3969afacd1f9814324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/__main__.py
+SPDXID: SPDXRef-item14870071
+FileChecksum: SHA1: b54dafbe4b0a3b91fe2dd2a9ec9d4e6ac8a74f10
+FileChecksum: SHA256: 598c71d143a1a8168aa325b2b04ab527bd5824ec7e4445104aa5491fd39db09a
+FileChecksum: MD5: ea2aa7cba255a007acd2f8580de9e74d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/io/param_handler.py
+SPDXID: SPDXRef-item14870073
+FileChecksum: SHA1: e7d54906956e82a1bf64c4b7ef96fa95fd59abfc
+FileChecksum: SHA256: 531a92c6641a2cfcd98d0ebef4a8cceb73ddb463f6cca8174b50b390740a592e
+FileChecksum: MD5: 412b0634297913c59e83c857449f0e02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/io/config_version.py
+SPDXID: SPDXRef-item14870074
+FileChecksum: SHA1: d71d01164bc51b926201b9e054ab144ffee6859d
+FileChecksum: SHA256: 3ba511657617411789abfcc8546bdfb90ec928897ac90e395857fcf5909b0106
+FileChecksum: MD5: 7f39db4f2e97e2c88d97d7081dfc5db5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/io/__init__.py
+SPDXID: SPDXRef-item14870075
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/gridfm_graphkit/io/registries.py
+SPDXID: SPDXRef-item14870076
+FileChecksum: SHA1: 20faf49125ae5bc1a19573c3139bbae463d1a703
+FileChecksum: SHA256: 7c0e3c24ef2d044fc12e0ebadf0e60009e5fb5932ba844e66226bd3fd0dd2a52
+FileChecksum: MD5: 370937095daa1dbc0ce055f0109863f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/integrationtests/generate_test_data.py
+SPDXID: SPDXRef-item14870078
+FileChecksum: SHA1: e774ca4555155dbac0b5f95884ac2be920d8eb92
+FileChecksum: SHA256: e2d52f0c5aba73e398b5f445a10d5da4fa4f6cb9cd564b944633effe78062a41
+FileChecksum: MD5: 9071fb60d8cbef20308f94654912078f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/integrationtests/test_base_set.py
+SPDXID: SPDXRef-item14870079
+FileChecksum: SHA1: 3bde1e74341b5ca76356bac729d59b0e19e4b83e
+FileChecksum: SHA256: 1876d9c74a371b3016766055e614997322a9827a40ce0ecb3ac372bb5481cf07
+FileChecksum: MD5: 1f5eda8d576bb1e628a6e644a4c88ba0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/integrationtests/conftest.py
+SPDXID: SPDXRef-item14870080
+FileChecksum: SHA1: 3da5f75f83c65365558fcb958aebddfd3f9c01cb
+FileChecksum: SHA256: 9284be30f8037f75ff40fa586aeddc50ce511b8e94e2e45a149f70d2313e3dbf
+FileChecksum: MD5: 70b7699be33986fc566f382893bbdf46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_data_module.py
+SPDXID: SPDXRef-item14870083
+FileChecksum: SHA1: e00b4f0193f21c599d8535f9f5aacbd2c33fcb72
+FileChecksum: SHA256: d57387e8b6f19dde63efa9ce14831a10cb40c08f5079a376a871d89b97651eee
+FileChecksum: MD5: 4275827f64a2a0d3ad5f4c4e7d174c8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_node_rank.py
+SPDXID: SPDXRef-item14870084
+FileChecksum: SHA1: 1a235941af64dbee054e77cec22fb3e933aa9c23
+FileChecksum: SHA256: a869b1cf6c0e3fd53f2ab5753686a2504518cfd2a06545cdceaf8b6bb1aea694
+FileChecksum: MD5: a90cb2f98f447f9fbdf876e4c508d35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_edge_flows.py
+SPDXID: SPDXRef-item14870085
+FileChecksum: SHA1: baea406b3e0c40287a66141a877315bd2a5ab07a
+FileChecksum: SHA256: 81bf14f338af9155cd8ad5ca3d5b28a83dd03dc75938ebb9b89878fc364e8722
+FileChecksum: MD5: c2ddfcfe364cf07b5f67195d6d338041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_config_version.py
+SPDXID: SPDXRef-item14870086
+FileChecksum: SHA1: 65e7d05d041a1fbad4a5ea5d5c53d6390c323f7b
+FileChecksum: SHA256: be45859fb33a08ce3ef867ce09e3563bb17d8f42405086f66e465f6993661f8d
+FileChecksum: MD5: 4c4e6b157db199c8aede96fb312042b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_yaml_configs.py
+SPDXID: SPDXRef-item14870087
+FileChecksum: SHA1: 6ae0a42c05de9118f702d1155a67e44c272dd617
+FileChecksum: SHA256: da77dc4e42e654ae5cd1026af8435b84bd1a3b6f0e658ce56730f0e879147059
+FileChecksum: MD5: 7c70d30c2a1e151d0fdfe2ba5d20eb4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/runtime_data.parquet/scenario_partition=0/a2befd34169c467b9ee467d58143570c-0.parquet
+SPDXID: SPDXRef-item14870093
+FileChecksum: SHA1: 30b5e007f6fe1bd00d0f4f9f7b5f17ce55eec00f
+FileChecksum: SHA256: 237dc1d0f6a445f3f57b04ef7ebd15a69e6ec43af52f2edcf463cf753ae8ca33
+FileChecksum: MD5: 43c43d8625b9ce499e4ba61e1653fc12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/runtime_data.parquet/scenario_partition=0/daccfd30e3634a6da6bc0cb9dcf63c6b-0.parquet
+SPDXID: SPDXRef-item14870094
+FileChecksum: SHA1: 70444962c5d535cf1c5fcf2d45a03d90b1e0a653
+FileChecksum: SHA256: 9371b0e2172fecd345b983bca3f07bd28a441d2d4ca0874482d8bd34ba6dd8c5
+FileChecksum: MD5: 527966ead40b22c755bb9b54ee5c62a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/branch_data.parquet/scenario_partition=0/d202aa074592423f8b2196522fc5c453-0.parquet
+SPDXID: SPDXRef-item14870097
+FileChecksum: SHA1: ed3fda9c4e2af78212370ef049b33ebbff8dbcae
+FileChecksum: SHA256: 52d2e61c6078c74ec34b0d6ee8a6cdbc9f2e70a6b500f4e530744661a9e1fbd3
+FileChecksum: MD5: c7afdabf665582f33a025b8d3af23fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/branch_data.parquet/scenario_partition=0/54e3c0dcc5074e739d692c4f1690930a-0.parquet
+SPDXID: SPDXRef-item14870098
+FileChecksum: SHA1: 51fe444ab601dcdad2405d4220ba146d3ffabf2d
+FileChecksum: SHA256: 27325cc63e1e058e1ec14adfb6dcac1635f43fd66e20c07eaa8017b3c8ff1daf
+FileChecksum: MD5: f5035bfd909cc973c30e00d710d99c99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/y_bus_data.parquet/scenario_partition=0/f562b0cacf764d2d9a77efb18aa03c9f-0.parquet
+SPDXID: SPDXRef-item14870101
+FileChecksum: SHA1: c68d63959cfada8d0da1949078f9fe93161a49e5
+FileChecksum: SHA256: ff1ec535dbebed43bc4d0808c59b2660a8dbb7b0ca9a294deeb9722c7298ede8
+FileChecksum: MD5: 1227568741e79c3e988c2de8e70be015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/y_bus_data.parquet/scenario_partition=0/1d2e07e1164c4e53bab3f8411fe89fed-0.parquet
+SPDXID: SPDXRef-item14870102
+FileChecksum: SHA1: e6e1ba314b1805161ad26084c34165b53f15e6ce
+FileChecksum: SHA256: 3dab3a951cea7ce6a52968ffd2417fc72c59c6aed3ed9f0b2575d7e9843dab87
+FileChecksum: MD5: 6cfc8c71665cb027766a10882756bb45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/bus_data.parquet/scenario_partition=0/1d80ed48185f4aab9f99dde645c11584-0.parquet
+SPDXID: SPDXRef-item14870105
+FileChecksum: SHA1: 0903c992fe5881203c9c095983eedf5840c3d53f
+FileChecksum: SHA256: 8cc33b0095bc1d35074aa05726ffd50011ea429ff1ab59ce7fba17a7d14d3a8e
+FileChecksum: MD5: cc5ef9cf10fa10433347022b43d4aa07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/bus_data.parquet/scenario_partition=0/4f141f7e2e71404c85667f5928db206d-0.parquet
+SPDXID: SPDXRef-item14870106
+FileChecksum: SHA1: b2694e7faac4c510472597bb81cc58e08970ab56
+FileChecksum: SHA256: 916eb2a3f6913b8b81efde0cd5998a6a710605333672abc65246305f7725d910
+FileChecksum: MD5: c26ebd555e4f0c9f05f5856a1a7ce14d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/gen_data.parquet/scenario_partition=0/7da995898c1744b0b7da38edd3887232-0.parquet
+SPDXID: SPDXRef-item14870109
+FileChecksum: SHA1: 135cfc3158bd1433c5eae0f52740d8146e3c1530
+FileChecksum: SHA256: ddc788356118211f53dfdf2bf3669ccf985b2904ec88cf98e88d6a522e889d15
+FileChecksum: MD5: 01a04a76fcd13f7b82e46fcde938940c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/data/case14_ieee/raw/gen_data.parquet/scenario_partition=0/5cca08a1e0974ef9a15abaf879b06324-0.parquet
+SPDXID: SPDXRef-item14870110
+FileChecksum: SHA1: b8c3773214fca5f5f051fb8ec9e3bdbecc1e1167
+FileChecksum: SHA256: 16453c5f4012825dd1d458a0b5ed52b91f6789276e1c08089c4464c6af4e8f80
+FileChecksum: MD5: e71e44a2ba141d1d01bfafb2062f2f66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/util/test_util_implementation_equivalence.py
+SPDXID: SPDXRef-item14870112
+FileChecksum: SHA1: b838c3f15404ef0230c038033f796effc3b5aa41
+FileChecksum: SHA256: 86bfece6d7309e683ee90153101e3afaa44c1a58f1bf173064450403831ae990
+FileChecksum: MD5: 1a8aa66c440e94b58e5391612c7ecf01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/56
+SPDXID: SPDXRef-item14870119
+FileChecksum: SHA1: 743f45acc0664bfca2f4871b36008316a2ef4846
+FileChecksum: SHA256: 923cf69b58191f4ae356179b2226674fb4605625640c62238b97a736676263c1
+FileChecksum: MD5: d53edca517419a77dccd0b39b5d19707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/55
+SPDXID: SPDXRef-item14870120
+FileChecksum: SHA1: 4a6e9a02502ef324c5488b8a624efbfe520732a1
+FileChecksum: SHA256: 338b52662fcf78560567c0649e180b3a69217c606105a2a0037b86d4aabbdf8c
+FileChecksum: MD5: a6a5576b548034e6eb189821a52e72fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/18
+SPDXID: SPDXRef-item14870121
+FileChecksum: SHA1: dfe2cf2360f3701969eaca756b4e2d078a0be8bb
+FileChecksum: SHA256: 9d899cf761cb77b0d1712ee0d689b213a4d1a9986d44131ab2c522ea458fea17
+FileChecksum: MD5: e0cc31dedfa3e3c7dff0e97786fadff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/0
+SPDXID: SPDXRef-item14870122
+FileChecksum: SHA1: 63f215e638e01bbc621ea51ad39f4ac3a8fc42a6
+FileChecksum: SHA256: 4eb6268cc3273c41cab196500fbfb98f1d5b8593fb16f99ff028faf325fac09e
+FileChecksum: MD5: 9975ac7f5c480159fbe3bbe37d6c5cac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/84
+SPDXID: SPDXRef-item14870123
+FileChecksum: SHA1: 1610c1c12e537afdc05ff04251b0ce54a6ec71d5
+FileChecksum: SHA256: 46727ab22c9135ddd9a8179347785fa57d7865d7fd7dab92a1f001194c42aae8
+FileChecksum: MD5: d26aca068c07a88cc45e5ce461a25284
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/8
+SPDXID: SPDXRef-item14870124
+FileChecksum: SHA1: c875963ad8c53b1cbe308578093805b5c119664d
+FileChecksum: SHA256: 04b62df5214940ddcd670aa49486c79a36ec9829a10552595f12965abd14f8c0
+FileChecksum: MD5: 632571f6e34d7e2280c9cf66947dc8f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/78
+SPDXID: SPDXRef-item14870125
+FileChecksum: SHA1: 1d4c3297ca5b35ca4caa82daede1262256eb2602
+FileChecksum: SHA256: 34e87f7b70eb3c065bda3d9bd4af88c36c053c3b5fa5a2d36e231fc88f7daac0
+FileChecksum: MD5: 366114036ee27ec6340e5e6ad50490f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/94
+SPDXID: SPDXRef-item14870126
+FileChecksum: SHA1: 6b4d284473d93b45e84de0339679b1841ef87ff3
+FileChecksum: SHA256: 741fb58772c95597c986166e2ccc29c9c569e45095502b9f49781d8d3dfcd0f5
+FileChecksum: MD5: 2219fefaae31c916e6d27b7ad9fe6437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/59
+SPDXID: SPDXRef-item14870127
+FileChecksum: SHA1: aca402ebf1e8474607518e01c210e05daa92bbd7
+FileChecksum: SHA256: 76c152e28315ffc8fb0964485f9ec6b9e7dffcb1da5ea0b9a4bd99d403a14405
+FileChecksum: MD5: 06c0a6e1028f4c72493f90c71a94397d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/76
+SPDXID: SPDXRef-item14870128
+FileChecksum: SHA1: 73e42469df3254a9c9b2921dc83717a90fa723dc
+FileChecksum: SHA256: 58fab98e3a5f5409c6b20a82005117347b4bad2192352bf9e6a8f2533a1fe912
+FileChecksum: MD5: 21e0c0ab8859a2fee0e829a1843b2571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/87
+SPDXID: SPDXRef-item14870129
+FileChecksum: SHA1: 5a1d49b6a167441c7b3aee8f2181ed05a1a51633
+FileChecksum: SHA256: a9990a599fafbfdef27484ebeb6279aac5501c3b3d766816b334be40c6db7f39
+FileChecksum: MD5: 398897aa67a351b268567e11d8f19d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/43
+SPDXID: SPDXRef-item14870130
+FileChecksum: SHA1: e4d2a2b84172ff05ca2ad72dc5ea332a81366b50
+FileChecksum: SHA256: 04088385acbd82b20f198c553ebbadeacf396b38a4f48c39351444346a60a29e
+FileChecksum: MD5: 76df286998e1efdf7a83b3896c3dfe9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/66
+SPDXID: SPDXRef-item14870131
+FileChecksum: SHA1: 7aef26302e5aa34efc0d1414b6aa6e1bb141c903
+FileChecksum: SHA256: eb275e9766b525f546584af148ce3ec0639927fa72868ac6e452979cdc3abd49
+FileChecksum: MD5: ea925057aaaddc42b505fb6929f9d0d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/72
+SPDXID: SPDXRef-item14870132
+FileChecksum: SHA1: 915da7212577eabfd65bc52741b7ad5cda4f12b5
+FileChecksum: SHA256: 900c0e3fd508217f878b0c0480b84243319ecf578f9e768c6b154da577cc3efa
+FileChecksum: MD5: 9837ae409043054fb3f6a8e5214790f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/68
+SPDXID: SPDXRef-item14870133
+FileChecksum: SHA1: c6951746ad237f5df5bb95b9f0d2108ec0bf60cb
+FileChecksum: SHA256: b35fa1963015aa5f8432415c8680f0338f12d1adefcf13d857b967e57b44eb49
+FileChecksum: MD5: 3315d848c143d7f8ae9bee7ee38a1fa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/38
+SPDXID: SPDXRef-item14870134
+FileChecksum: SHA1: f8e356167710dc3182323c0c6258e43b6e5ba34e
+FileChecksum: SHA256: b055ae881104d4f5e35b317dd9b4f3fc911ee56d42ccc0b40017cc334b11f7b5
+FileChecksum: MD5: fe84cc8c04a41722fcff61d88171e893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/11
+SPDXID: SPDXRef-item14870135
+FileChecksum: SHA1: c03bc694858a17fa6f34db0c4d75c3724db85c87
+FileChecksum: SHA256: 6c5fd383c146607077ce4a83f9054ffd078a7ce77c6273ed69c32f9b9c0a5a43
+FileChecksum: MD5: 76ca0a60c11e6eca50e16f96a2270e15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/89
+SPDXID: SPDXRef-item14870136
+FileChecksum: SHA1: 9d43678efdddbfb523de44912f2a76565935ad8d
+FileChecksum: SHA256: c6e9ee9ad87c72ef9b834c1bad62e2d04c833e452f16def6b646fcfb2cb0fde5
+FileChecksum: MD5: 014ada3a8aca3472a8f8473f3ae10fc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/12
+SPDXID: SPDXRef-item14870137
+FileChecksum: SHA1: 7cb70b01af5cbe71d8bb023c9435ea10b518f6eb
+FileChecksum: SHA256: b67c6df4526b4963361658792d3fc94ca8a0a7790edaf16ba0c1d52f7fbe0e61
+FileChecksum: MD5: fcf60f55d7629d246ce7ba13676eb91b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/15
+SPDXID: SPDXRef-item14870138
+FileChecksum: SHA1: 308ef9502eb9f0ceeb4f2e51813d2730cb02635f
+FileChecksum: SHA256: 0b787051e0976018657615f45a53a19da79110ccaa472d61dd2340a2ea4df1ef
+FileChecksum: MD5: 4819be9dbb7c364dbccd3b33dc32c037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/82
+SPDXID: SPDXRef-item14870139
+FileChecksum: SHA1: 904fae152b2bce95d1dbbd32ac51bd11ce903651
+FileChecksum: SHA256: 2cedc8d2a9e68e636da6c08ef7759828d2c40f2fa2606443738588163fbaaa4f
+FileChecksum: MD5: 390a86e3323f9dc800399e16cf16578f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/16
+SPDXID: SPDXRef-item14870140
+FileChecksum: SHA1: 7fc2078f82e7ef606bc68013a8b4e6eca28853fe
+FileChecksum: SHA256: eed6771f7f5f287086f22ca0d00eb3107a45d298834736efcc4b48158ee085e6
+FileChecksum: MD5: 6b83cb16c59239979a7c97f6734739a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/93
+SPDXID: SPDXRef-item14870141
+FileChecksum: SHA1: c8d7d0ef0eedfa82d2ea1aa592845b9a6d4b02b7
+FileChecksum: SHA256: f5a5fd42d16a20302798ef6ed309979b43003d2320d9f0e8ea9831a92759fb4b
+FileChecksum: MD5: 3b5d3c7d207e37dceeedd301e35e2e58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/13
+SPDXID: SPDXRef-item14870142
+FileChecksum: SHA1: f34b8be08f341250af7c9f20cecdacc2f5d8d6f5
+FileChecksum: SHA256: ce0e258a67ab9b4895e28d42000f3bfa6806005438eb208fb3d74af99f53f16f
+FileChecksum: MD5: 1a231b98c9be7168688b16cd1f7c748f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/22
+SPDXID: SPDXRef-item14870143
+FileChecksum: SHA1: e1ea58dd4759659e355b87f23a4958da037ca939
+FileChecksum: SHA256: 7b852fe670a690c7b33ca58782614ee3fa22dde6923afb2cd9d2958ecb5e1f88
+FileChecksum: MD5: 612934cb663301f8b62619a5245eb72c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/34
+SPDXID: SPDXRef-item14870144
+FileChecksum: SHA1: 782f9d9fefa313db38c066c0464be254481f76ba
+FileChecksum: SHA256: a1db1197fb8893e83d62ba3ff374c3f8c609a2f47109f29d09d1ad3c2feb5e05
+FileChecksum: MD5: 3fd19590a3824203ae6bb8b3fd9f4739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/73
+SPDXID: SPDXRef-item14870145
+FileChecksum: SHA1: 0d868c1e4e05625982529005527db0e208e0b76d
+FileChecksum: SHA256: 2c98045a9de3f078327da614744fa10046d5ef76669ca4776c02fb1340f6d554
+FileChecksum: MD5: 674be81e47e8c314735a0bf9ab173e5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/1
+SPDXID: SPDXRef-item14870146
+FileChecksum: SHA1: 99d61fc02f4a569ac53a19564b7993e9aa6e3f2f
+FileChecksum: SHA256: 53be07704ff5c379602806c496bdb4482985f79494069e640e7f4c0815cd3766
+FileChecksum: MD5: 52b9c290bd3d69e46638412152398b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/47
+SPDXID: SPDXRef-item14870147
+FileChecksum: SHA1: 8e514f15aeb83abb1a58234987be97fc1f9d46ed
+FileChecksum: SHA256: 05ae82a81cba8b014dacf1a608ea780b7600fa5e2ed2fc54e6294bff9a5d863e
+FileChecksum: MD5: 94fa4e356c14fd417eff4f163f9dabd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/53
+SPDXID: SPDXRef-item14870148
+FileChecksum: SHA1: c79c256f238fcc5dcecadec81a75a3767e75c9c6
+FileChecksum: SHA256: af8842e21cf67b35644a95f6ba04ec0491a96692a8f9b361c375823f3bbe5633
+FileChecksum: MD5: b72530a565b68b064b0a525aa70da574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/60
+SPDXID: SPDXRef-item14870149
+FileChecksum: SHA1: 183b5e19f88fe58d550c32b25b70f1ea2e275061
+FileChecksum: SHA256: 6fc48c627cf85e80ba7c2bbbc51a022e83b5856e71544c9fa19b1b21cb9e7e86
+FileChecksum: MD5: 2c4534f3591971715e0cd81144282f2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/88
+SPDXID: SPDXRef-item14870150
+FileChecksum: SHA1: 64553a4482b94df5e5ccc198fc3b801eb98a9459
+FileChecksum: SHA256: e55b7f5f34a7c1390d57785c4c3e0834b094617c8cd3802581958e2f7bf714ce
+FileChecksum: MD5: 9baa7c4ecc6042c2753bb56de94a8555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/48
+SPDXID: SPDXRef-item14870151
+FileChecksum: SHA1: 1f50597b1f5a9c2544155b60a52f21f33c439020
+FileChecksum: SHA256: aeddb94d871f5a2fa744726b9c511ca715667074d692d8ccd68987dd2781551b
+FileChecksum: MD5: e65ceb872bf1ab707b13cbb86405e94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/51
+SPDXID: SPDXRef-item14870152
+FileChecksum: SHA1: 38142dd2a587158f7ee551badfe30729b37ca818
+FileChecksum: SHA256: 2cbfc7eca376beb6d4ec48a19eee58c47b58a22364b2ba0a98b9673c58f9a589
+FileChecksum: MD5: c8eb1a74bfe825a9de5a60d1429c4110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/75
+SPDXID: SPDXRef-item14870153
+FileChecksum: SHA1: 2aceefcdc0dc7edeeda5eddb8bd1d288dfbbd137
+FileChecksum: SHA256: bfdd441faf9130c017f0949ce3ec5f0e936b096496acf220cde1ea1a92592a5c
+FileChecksum: MD5: d3a38052e72127c45b89b6857e6df894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/54
+SPDXID: SPDXRef-item14870154
+FileChecksum: SHA1: e6ae930e504a86271eb8fe0697ba0289fd0b7350
+FileChecksum: SHA256: fd88c44667407ad2680bfb9ebd472126b90eb303593f06d594f09360f573dcba
+FileChecksum: MD5: 9e5fa3c07433a11ca0daf84a0f5acbd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/19
+SPDXID: SPDXRef-item14870155
+FileChecksum: SHA1: b5756f8d81bca176b89d7824e6824bf03d3c0aa0
+FileChecksum: SHA256: f1807b7db7563bfa08b8271da53496e2b6b1035056154f1dad3679a40c13ed4e
+FileChecksum: MD5: e7744c1839665d9ea4f32ff1bef62926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/40
+SPDXID: SPDXRef-item14870156
+FileChecksum: SHA1: 926e06155d56e7b32f52ba9e99355c7882814e30
+FileChecksum: SHA256: febf86d97fc46a05b7c163961daa4e160b20a9e8a48c9ab9b3f4806b23cf7cf4
+FileChecksum: MD5: 59bdda79948e094c3f91682cafe15a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/9
+SPDXID: SPDXRef-item14870157
+FileChecksum: SHA1: 5f8129e60db3015586652d8029b0ebe7904dd9e4
+FileChecksum: SHA256: 4bc142e20cd9ccba49df01e14b9b51a202d7557269e8b96010bb57b61f9987f0
+FileChecksum: MD5: 9883ae92f8063b0c2aa3c20b527a20d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/65
+SPDXID: SPDXRef-item14870158
+FileChecksum: SHA1: 3fc5415447e97fd6838b84bab4b05794f9427534
+FileChecksum: SHA256: 255b2cbc5641646744265499a4a92c6a254e921cf40470e2460aecfa3970af99
+FileChecksum: MD5: 94aace7b35d10e99147b27353e262a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/28
+SPDXID: SPDXRef-item14870159
+FileChecksum: SHA1: 89fe207281fe9998b890b6022a4dedecd359ed69
+FileChecksum: SHA256: 64a6ba3b30c6d5e951022ac96aae4ed376b58cafffb1d9becbe74fb7648128b7
+FileChecksum: MD5: 60533b1cf8894f0de1bbf53dd3a92544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/31
+SPDXID: SPDXRef-item14870160
+FileChecksum: SHA1: dbd912f15dd4f0c5a686182886ec60abbf71cf0c
+FileChecksum: SHA256: f4e921a8f68560126863a635fa63a6f2d238c4f73be37bf63bc70e8ba60744d9
+FileChecksum: MD5: ffd301955007094613a480b0e8e09474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/58
+SPDXID: SPDXRef-item14870161
+FileChecksum: SHA1: daa91b4788fa2b4072cb040d40c4880fb77fa441
+FileChecksum: SHA256: 165398517c1a5cee5368f31436136c567e330cdf778790ab21685bf167a3e12f
+FileChecksum: MD5: dfe0a10dc7165256bebc2e173f0df96c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/36
+SPDXID: SPDXRef-item14870162
+FileChecksum: SHA1: 87b96fa2578601fa0d83b98dd2468085de3f5afe
+FileChecksum: SHA256: 1d14de56be1ad63362fe63ae8ee0eb5f7ddb9cf00c530ecb8212518e6d0329a8
+FileChecksum: MD5: a0440113aab948ccfa95124c935b5bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/24
+SPDXID: SPDXRef-item14870163
+FileChecksum: SHA1: 5851c9c41116b062557cf28cf37ad2b9c0a14814
+FileChecksum: SHA256: ee569158b119fefb23152b4d01a21385fd4332008c7002eedfcc857931c7869d
+FileChecksum: MD5: 0975fd7191774fffbf5bb91b28220e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/70
+SPDXID: SPDXRef-item14870164
+FileChecksum: SHA1: 56ab741810cb77d5546284a99839ea5e16071129
+FileChecksum: SHA256: c06d39998bb2efdf673b429407658dab00c1337c3f2f590783f2fc805ad2f493
+FileChecksum: MD5: 5d0245d448dbc5403133401af114f333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/6
+SPDXID: SPDXRef-item14870165
+FileChecksum: SHA1: 37a6519af81acb526ff7ae17db5595b6cf500919
+FileChecksum: SHA256: 797c48fb18a6ba85213ffa6c11d9a6c0bacbb2d6dbec864661c266a6edbc7d62
+FileChecksum: MD5: 39997d7c83a3535597fdfc45bb7b8d60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/14
+SPDXID: SPDXRef-item14870166
+FileChecksum: SHA1: ee3df7da01f13609f1f7333757ce275f35a19857
+FileChecksum: SHA256: 9dcf43d2c5a9bae31c02a1c91dcf0d70618dc5aaa87482b351be4d3b9f505a8a
+FileChecksum: MD5: b15c6376649e0b10bf3311982af16d69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/32
+SPDXID: SPDXRef-item14870167
+FileChecksum: SHA1: 784407aafc965296372c1f60061e75a1aeb9690c
+FileChecksum: SHA256: 9715c7b87c9a54a58b9363d3f4b8465db76609eccdae64e50031d5a64c3e29bd
+FileChecksum: MD5: 90cc1b902ba6aa3bdd90e363ea82178f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/41
+SPDXID: SPDXRef-item14870168
+FileChecksum: SHA1: 974bb92ba3a3f5ca16fa23aa6d96ae98d810fd2b
+FileChecksum: SHA256: 094207fbde2acf80218964c2075ebfe05813e7b28a024cecfcb3dbfe658709ac
+FileChecksum: MD5: bdaa0c0d0ba1c96bca4c115864e7a047
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/95
+SPDXID: SPDXRef-item14870169
+FileChecksum: SHA1: ac8ca2687aa58605c22cf1d53474d4096aaf00b9
+FileChecksum: SHA256: 52764d504a2f748e156cb4cb6554a89d4122d3e68c9973b462f482e50f25029c
+FileChecksum: MD5: 10c7db65fc0d4e7392fc9d2cf71f5234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/30
+SPDXID: SPDXRef-item14870170
+FileChecksum: SHA1: 0e7b8be31953bb1067e6fecf9c9062057c3b292d
+FileChecksum: SHA256: 65816a990413c4570f5c7f31ceb0d65cb3354746ea34a2bfe7918a91d64c3b28
+FileChecksum: MD5: 83be08a6dadcd421f33ec2f3ddcf08f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/61
+SPDXID: SPDXRef-item14870171
+FileChecksum: SHA1: 36c17f0784af21104db3b2d0a26e70f39d5a5979
+FileChecksum: SHA256: 8d2fd60a34a1a54fa2b10e499312f7afda406a0c4580b3324fa0834b53201c47
+FileChecksum: MD5: 97bda166fb6524cf14f16479580d0b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/74
+SPDXID: SPDXRef-item14870172
+FileChecksum: SHA1: 4cd066a2afedfeac9574bd31c1d5b3eb9690445b
+FileChecksum: SHA256: 3ee64d8e6570e232749abb7cc249c6074c870345369f13c7a05e2e83e5bea58f
+FileChecksum: MD5: 15138bd7b551032a9e34aa94cdabefb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/33
+SPDXID: SPDXRef-item14870173
+FileChecksum: SHA1: afc646afd0f0e51639ce5074de608416575abc2a
+FileChecksum: SHA256: c9286c7f04a6f86ce7223ce2aea2ce74a64789d37d60e3ce6bc4dd2a8ebe5edb
+FileChecksum: MD5: a8d2388c5b17d987e288eec9427ef8e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/49
+SPDXID: SPDXRef-item14870174
+FileChecksum: SHA1: 28145dbf42cafe47b4567ebc278a76ce2aae334f
+FileChecksum: SHA256: d8bc1caa7520a99510f97892c2b9e34b8314af3981932780526f3f5233817bee
+FileChecksum: MD5: d0ab054cc1f03d638eaff8be149bce24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/3
+SPDXID: SPDXRef-item14870175
+FileChecksum: SHA1: 16d1fd6c567a36c51b3593045a1e54d83eea8b85
+FileChecksum: SHA256: e63d9d0ccd664c7995c68e3b9951871d125c2851d2dc9c79596421e9c4d14795
+FileChecksum: MD5: 41b1cc3cc2d57067519581835729f8cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/83
+SPDXID: SPDXRef-item14870176
+FileChecksum: SHA1: 0ae4f711ef5d6e9d26c611fd2c8c8ac45ecbf9e7
+FileChecksum: SHA256: 38723a2e5e8a17aa7950dc008209944e898f69a7bd10a23c839d341e935fd5ca
+FileChecksum: MD5: f09f35a5637839458e462e6350ecbce4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/35
+SPDXID: SPDXRef-item14870177
+FileChecksum: SHA1: 451dc2fd6e5ec0e82dff45c5fb4ef02a32c8914b
+FileChecksum: SHA256: 5f4f32080392abe3306c0c4c9325d0b63c8edf877c261ab3b9f0b40c9ea576b1
+FileChecksum: MD5: e265f8aedd51b55eb9ea542ea2565bd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/85
+SPDXID: SPDXRef-item14870178
+FileChecksum: SHA1: ec4af31a46d8874720ad49facba631bc797cc320
+FileChecksum: SHA256: 1449ad551d24caff02f5586a45afb6cc8873ccfb88993a9a344433eac2b21dde
+FileChecksum: MD5: 2b53965d1ba4566a6021e3b57f90d951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/5
+SPDXID: SPDXRef-item14870179
+FileChecksum: SHA1: b2e499edcbc28b75e827b826b64e087f5de30901
+FileChecksum: SHA256: 9431e4968cffe0741a2d62fe62346f8b924a7da950c331a4d2e02e1ce1d4a4fb
+FileChecksum: MD5: 760b2db639ca78eccfe80166572117a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/25
+SPDXID: SPDXRef-item14870180
+FileChecksum: SHA1: c1020bc9094cd2beca4a595952453b97bee5aad6
+FileChecksum: SHA256: 538b23b67fa202077b513ae1136e982efb9a370703ecb9ed87731d0c1a8a9a33
+FileChecksum: MD5: b4067270acf81ce07f491417a8548f63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/80
+SPDXID: SPDXRef-item14870181
+FileChecksum: SHA1: bab442dd5c72c41b90fe95fb73b6c7b836f15630
+FileChecksum: SHA256: 9e47ce7efd86620a23ca849ed7ffe9016c9590d6d6ed1a4ca959baeb9234a751
+FileChecksum: MD5: b655e7050483df9d0f8773437ef65882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/10
+SPDXID: SPDXRef-item14870182
+FileChecksum: SHA1: 36b06aa1bc061078a960063e292eb7ef4efe5d13
+FileChecksum: SHA256: 300ace65559be6e7d9869c79e97e1528adbfa78cfee49f75cfcd7118c9700dec
+FileChecksum: MD5: 5a97ec98e93fe52ba08de4c741eb2d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/4
+SPDXID: SPDXRef-item14870183
+FileChecksum: SHA1: d2bd2f9fb9956b5b891d005444228e2686883f32
+FileChecksum: SHA256: 4ffebe95b475a24936a4aa59738464c5cce1e9ba353501e4c8cac444806693f3
+FileChecksum: MD5: 42aed5f538fe1a3a8349b2a729894be5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/64
+SPDXID: SPDXRef-item14870184
+FileChecksum: SHA1: 7894ad9f87a9193d5daaf14713601285517a84dd
+FileChecksum: SHA256: aa4df20e7888510555d68cd5854da6b3cdeddd457d07802e01e61a0c32c47096
+FileChecksum: MD5: 40647814329025c61a6c26075d3b377c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/39
+SPDXID: SPDXRef-item14870185
+FileChecksum: SHA1: a4d21bdc1f94d8f7a296273e4263831936c655e2
+FileChecksum: SHA256: 31d80f45e12c2a05ec06734c7258e438d85001b3af9a00bb9d00110741435aa3
+FileChecksum: MD5: 2bc85ddcd943ac6df2554206099f9e3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/57
+SPDXID: SPDXRef-item14870186
+FileChecksum: SHA1: b268c963247edd5240f9a18b3e6b8cc675639531
+FileChecksum: SHA256: b7a5f34c8d2fbf30d7b0f537b138d0d2dbd2de90d8f488172ed1ff202f684597
+FileChecksum: MD5: 8ec139f94fd65a58f11533f27fb897b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/91
+SPDXID: SPDXRef-item14870187
+FileChecksum: SHA1: c9eb288ae779e1ec0e2f7a19a4907472b1d20256
+FileChecksum: SHA256: c53f0bbea094c4c3a57fbb339f3ac973b8f2b5541076ae8b64f2d743bce87e13
+FileChecksum: MD5: 3b8c876b64fedbfa667ead99e4e44a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/26
+SPDXID: SPDXRef-item14870188
+FileChecksum: SHA1: d0961302dad5b321d1f3eac78339ce6560730bc3
+FileChecksum: SHA256: 1ae13cdd74bb0a6c9e03a64118d5950090b706194beff53c35d2bea144658960
+FileChecksum: MD5: 1f1d383fe52caf02dad59842102f8145
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/23
+SPDXID: SPDXRef-item14870189
+FileChecksum: SHA1: 234c16b2c401e6090e2b7b7c96b5043dca5f40c0
+FileChecksum: SHA256: 13dd41f235493192a9287a0bfc56a8d4e18796005e8c08cd3ed59b22f072beb2
+FileChecksum: MD5: f1c9f0f342a46cd0224b2641821f2633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/77
+SPDXID: SPDXRef-item14870190
+FileChecksum: SHA1: 431a3ebd37c8d491c7983e409e463a8124fab1a6
+FileChecksum: SHA256: 48c642d899c9ae455982981e032e55dd54ccd43971ca9285e50b2f27a05aecc7
+FileChecksum: MD5: 4e103ecc473aca764e60bb15d929fba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/67
+SPDXID: SPDXRef-item14870191
+FileChecksum: SHA1: 8754b924d225edec121285b1a4b828aa1342a7c8
+FileChecksum: SHA256: ba88421a6150379f5ed64133b3b070d1713f63dc42c642123900416340482b32
+FileChecksum: MD5: 0f3592acd43a874819d845e97d1363fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/44
+SPDXID: SPDXRef-item14870192
+FileChecksum: SHA1: 546a1bac68770789e3e7ffaac3d3d729aaf48848
+FileChecksum: SHA256: f7063cfbe9898c49649252ddb4f1dbdd8c03e693d9724333904c2947155e032b
+FileChecksum: MD5: 24d5d9bbde5055989149235a19dee9e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/69
+SPDXID: SPDXRef-item14870193
+FileChecksum: SHA1: 06f0d980ab1cc51557212bc38a4b6519bd367986
+FileChecksum: SHA256: d7736a3d560de3b6e691405784cc2bc31465b519bfef5b871fd3e554fe593735
+FileChecksum: MD5: e1ec163795d66d563d27a7517265e0f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/29
+SPDXID: SPDXRef-item14870194
+FileChecksum: SHA1: 867cdbef6da9c01b76e1780fcf81d26ad27ee503
+FileChecksum: SHA256: 8665ed172cb03b7c02e03d7648e41a2361033f5cc6edcf331b93b26f7bdc62a3
+FileChecksum: MD5: 5201b30e7b923a4d804aceb6617f547a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/20
+SPDXID: SPDXRef-item14870195
+FileChecksum: SHA1: 2ffad1b31323ba78ae50b17689b5f102673ea0a2
+FileChecksum: SHA256: 61fc9924f424cfd6e0bc1d68cff256d017b198b98da178888c21a1e0c10f580a
+FileChecksum: MD5: 2b5b72a7f81e311e18c6db6266b65c4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/71
+SPDXID: SPDXRef-item14870196
+FileChecksum: SHA1: 10c95480482baa8b5d22fb53509f8886597c1a53
+FileChecksum: SHA256: d71782b7922c84399e5a057b68187f48f58e8ca3296b7b97a6fa6da5369b9c81
+FileChecksum: MD5: 10bde1738277c00d37d3d38554c001fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/21
+SPDXID: SPDXRef-item14870197
+FileChecksum: SHA1: 6afec68146acdae2dedca6eee717461bee410a5b
+FileChecksum: SHA256: 8717e480f950b2af26aba3b88b74e20fbebb0f93f75993459eac6ebf3ca9abc5
+FileChecksum: MD5: 161436818eda3279ae4acf22df7e297f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/52
+SPDXID: SPDXRef-item14870198
+FileChecksum: SHA1: d3aaa8f35018aa4517642ce34909a8218879ddd9
+FileChecksum: SHA256: aa50f9ea6611be4e6a373ae534f94cc87b8b1d3c22296a735a4b4924fb3c5e25
+FileChecksum: MD5: f6a812fe8f11d894b5dc009fb1119f47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/81
+SPDXID: SPDXRef-item14870199
+FileChecksum: SHA1: 83acdcd9fa2592b29a3aabdc212b9f8315d25ad8
+FileChecksum: SHA256: e9691e883b6c6ccbb382e24ad7c0cf98699e11dedb96afd5e5e71f341d1c3529
+FileChecksum: MD5: 15b5d5e3bbca40647b402b0523db4cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/90
+SPDXID: SPDXRef-item14870200
+FileChecksum: SHA1: f8c6c5864f35133e5afdba9926e0f6716aaa600b
+FileChecksum: SHA256: d6ca1a9891b9aa8d88bf7c91ce7ffbc642db7b83cc9b825944f89ce974cc0d82
+FileChecksum: MD5: b5149bda5dd048b4066a21983e4676a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/42
+SPDXID: SPDXRef-item14870201
+FileChecksum: SHA1: 6989f0fe3028b1b102d044ee758d7e047023577a
+FileChecksum: SHA256: 2ed88b05779b498aa128ad44f291c305a255e4f37db84cde42885829902ad488
+FileChecksum: MD5: 9dc3bf6ca9acdfbf56f4db27d1d3a4f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/45
+SPDXID: SPDXRef-item14870202
+FileChecksum: SHA1: a8ba3560bfd4a3c3117c6b0df850cdba80f238b3
+FileChecksum: SHA256: 4e56cfa79ef8cfe3510432528a3d690390483d4ac1618625f00959e16f3807b1
+FileChecksum: MD5: 826011648467a26b3487efb0b1f03c56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/7
+SPDXID: SPDXRef-item14870203
+FileChecksum: SHA1: 83cf52f30295e934112c2cdb47007ad15b6e6be9
+FileChecksum: SHA256: 04ad899ec52b401149ab91bcad92dc1a6bffae62d1459f2d058f4084bfbe1325
+FileChecksum: MD5: c17b53eb2e39a635e12e29d5484b1ee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/79
+SPDXID: SPDXRef-item14870204
+FileChecksum: SHA1: 716db60e03850742661d10541bf22ee02a2cccd8
+FileChecksum: SHA256: 208d6d5348f64cae726903723fcfaecd840da21d174d00a3198f754adc53bbfc
+FileChecksum: MD5: 20b764faef67fb1ab4ff79d716c04c13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/63
+SPDXID: SPDXRef-item14870205
+FileChecksum: SHA1: 34b7154dd9859209041d4bb43e8577dda0290294
+FileChecksum: SHA256: d4a23dd2390a9f609cc35931bbabd6b2ba7a04efdf35e87c73bae4fd510daf80
+FileChecksum: MD5: 06bbaaf0bb2afb607b881a2ebbbc5ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/27
+SPDXID: SPDXRef-item14870206
+FileChecksum: SHA1: e6926aa3d4ae65284758013039debcbb3d134bb4
+FileChecksum: SHA256: 07f74c928e2665839bf3f2b339cdb3c01cee0113178cac4600d651f9327d52ed
+FileChecksum: MD5: 83f3fe3c6a836c15133fcfd746cbbf6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/17
+SPDXID: SPDXRef-item14870207
+FileChecksum: SHA1: 5a092632a2950941ff5a3dc83bea6601ebdb79c2
+FileChecksum: SHA256: 309f1a91c17ddb2c3b8791226b0a9a9eb4d59c4448e3a03b82996a4f5ab1e7b3
+FileChecksum: MD5: 085fa09ad42fa696a57da3661b23328c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/50
+SPDXID: SPDXRef-item14870208
+FileChecksum: SHA1: 868e84461469bf8f2e9bf4ef9fcc71fb2fb287d7
+FileChecksum: SHA256: f6a1c06bea1bd09bf7fa9f2692befd1d9c7709c5cf1c6b088ebed999be74eaaa
+FileChecksum: MD5: e2280ec82953d4cdef9bf12413605843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/62
+SPDXID: SPDXRef-item14870209
+FileChecksum: SHA1: 26b3113710428af74e4653a8eddc88412478d406
+FileChecksum: SHA256: dbc9837c7517ce36d69e0880514a56130a4a988492a5d8612cc1487fb67cc073
+FileChecksum: MD5: e6fb41ffdf372591116a98fd9fa8730d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/92
+SPDXID: SPDXRef-item14870210
+FileChecksum: SHA1: c0c738379842cf7033c22465c2919491f31ec8bb
+FileChecksum: SHA256: 483bd4c92d2ef67f87f914adf9f58cd438adecea92c0ae4cd62821ab5f898423
+FileChecksum: MD5: 030fda965bbcb40db6d944b02df189a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/46
+SPDXID: SPDXRef-item14870211
+FileChecksum: SHA1: 2f6dfe0d5252832e4a53c29575a7d18c6e83fe53
+FileChecksum: SHA256: a73712e287a046ff44fc3ca8be7e63c6b511c36e7934b9079e7c1d3484ce2ac1
+FileChecksum: MD5: 0269434c164feb1010bb6b52efd0308b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/86
+SPDXID: SPDXRef-item14870212
+FileChecksum: SHA1: 92bb3dc3fb63ae8c224cd4d021e664d795629bc3
+FileChecksum: SHA256: c08937abbe439acf2d534621f7a813e35cacf4f893f65bb95d3eeb13a4c01564
+FileChecksum: MD5: f42b71a811c317e318bad646da354f10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/37
+SPDXID: SPDXRef-item14870213
+FileChecksum: SHA1: 1d2ec79ac4225f51529111d148882d84572c318a
+FileChecksum: SHA256: e884ee49c47f0707154625e17604de3ceb0e8f183f0ff60c70bc609f295b0682
+FileChecksum: MD5: 642259cc29fe068452629f64f7a52a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data/2
+SPDXID: SPDXRef-item14870214
+FileChecksum: SHA1: 3a43da6cd0ee3cbb715d2777a6006a8655c96509
+FileChecksum: SHA256: 5aea8d4c4168b97b7bc2fd5b6fed42f23918d3f5b6512a0d2080f648c7da917d
+FileChecksum: MD5: 1375463a1a3544c3469408a41a0673c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/.data/serialization_id
+SPDXID: SPDXRef-item14870216
+FileChecksum: SHA1: 451116454dad16a5c2526d63f6d8e6fd53ea3ce5
+FileChecksum: SHA256: b65836da569ac70803b04c019b625a1689b359f97b965ca29094f727ae771a67
+FileChecksum: MD5: c513c2ddaa4d5573662259710d041037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/version
+SPDXID: SPDXRef-item14870217
+FileChecksum: SHA1: a3db5c13ff90a36963278c6a39e4ee3c22e2a436
+FileChecksum: SHA256: 1121cfccd5913f0a63fec40a6ffd44ea64f9dc135c66634ba001d10bcf4302a2
+FileChecksum: MD5: 6d7fce9fee471194aa8b5b6e47267f03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/data.pkl
+SPDXID: SPDXRef-item14870218
+FileChecksum: SHA1: 37f598628a15b7f572e41fa2ca7225116cb683bb
+FileChecksum: SHA256: 6cd7bd044c50d6250ad9a6de36d99ce572c548e20929ce876fba2d6a1637f166
+FileChecksum: MD5: a4b0673b457c69ef2cbb291f83acb5ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/.format_version
+SPDXID: SPDXRef-item14870219
+FileChecksum: SHA1: 356a192b7913b04c54574d18c28d46e6395428ab
+FileChecksum: SHA256: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b
+FileChecksum: MD5: c4ca4238a0b923820dcc509a6f75849b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/.storage_alignment
+SPDXID: SPDXRef-item14870220
+FileChecksum: SHA1: c66c65175fecc3103b3b587be9b5b230889c8628
+FileChecksum: SHA256: a68b412c4282555f15546cf6e1fc42893b7e07f271557ceb021821098dd66c1b
+FileChecksum: MD5: ea5d2f1c4608232e07d3aa3d998e5135
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/models/dummy_model.pt/best_model_state_dict/byteorder
+SPDXID: SPDXRef-item14870221
+FileChecksum: SHA1: 4502229742dda5345d35a1c216dfadb1a96b3c68
+FileChecksum: SHA256: 180ca01b95f0dfdd36fbb600e51cf6e46c8ef468de56b017847886fefaf7b6f9
+FileChecksum: MD5: aae6635e044ac56046b2893a529b5114
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_pipeline.py
+SPDXID: SPDXRef-item14870222
+FileChecksum: SHA1: 6f549b3c8984960745270a64c76a8dbdc87b014f
+FileChecksum: SHA256: 93690e48769d4e727a79598e61fd2dbe488c9845cab745866cd2595ef6b59b79
+FileChecksum: MD5: 7981d4ecf8746cb98c643eac3c280432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_losses.py
+SPDXID: SPDXRef-item14870223
+FileChecksum: SHA1: 4e03ed8755d7b958fb87d60a04e16746050328c1
+FileChecksum: SHA256: 549d7c5c2cb07a0d8c833b2c26f8c25da8e9e5f046c7ed8150235128076d3a0e
+FileChecksum: MD5: fa4c48abc7a66716bfe8128067e82f2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/conftest.py
+SPDXID: SPDXRef-item14870224
+FileChecksum: SHA1: e4b602fca7e869322063ee72ad10d77765a8a08d
+FileChecksum: SHA256: 55cfbe4045eb2ee4ea927c26769ac527a1f1cd2730e5b3e2cedf2e8a6ba02b12
+FileChecksum: MD5: 7f4ebfd9f5ed48f2e57f8b0692bf79bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_simulate_measurements.py
+SPDXID: SPDXRef-item14870225
+FileChecksum: SHA1: 329f9d8421acf89b0a8e80786ecd8a31514f1b7e
+FileChecksum: SHA256: 9f7bf4fbdd25dd3bcc3fc31a2899bbfd86ab8c01d04d04f993da066d046c70b6
+FileChecksum: MD5: 9e62adba9695b0cd6f21f9cc8292c500
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_predict_embeddings.py
+SPDXID: SPDXRef-item14870226
+FileChecksum: SHA1: c1f0d315bf7de1a0bef4fb5224dc807e75787946
+FileChecksum: SHA256: a282c8f216db4e2e7130daea56c776d1cdae1e83526dd49fb63b9ec37d20c5f7
+FileChecksum: MD5: 34f7e21001e3ec444bb74439d5db8315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/__init__.py
+SPDXID: SPDXRef-item14870227
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/test_configure_optimizers.py
+SPDXID: SPDXRef-item14870228
+FileChecksum: SHA1: ce99d22c89bab3e95812e438e54f9105f7c5f18d
+FileChecksum: SHA256: 4c1e3e98f000379768f287abffa90eb86d0d409d5bc398260848b1c76adcba76
+FileChecksum: MD5: 20e0b32270557f05916b24195dc0e689
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/config/datamodule_test_base_config2.yaml
+SPDXID: SPDXRef-item14870230
+FileChecksum: SHA1: 6dad42b52bdde8782c6719e27c7c099f788e18a1
+FileChecksum: SHA256: 711909f1ab574ba3e009b0c6a253f2dcd9fa8d1ec6e34bbadc7330f1bb2ce4f6
+FileChecksum: MD5: 196de9aa68c6ba536f2fd7f2e85f5b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/config/datamodule_test_base_config3.yaml
+SPDXID: SPDXRef-item14870231
+FileChecksum: SHA1: cc35f331ee9596a553c5da7cf8bb8361153d8141
+FileChecksum: SHA256: d045b5965da8421905b86744380e2e25ec592752421c8f54efc40e5483352deb
+FileChecksum: MD5: c0a1e475b3a8a85cbbd6915fea3a668f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/config/SE_simulate_measurements.yaml
+SPDXID: SPDXRef-item14870232
+FileChecksum: SHA1: f37b32fbb50cd780b3d129384db2f73ad327a3d4
+FileChecksum: SHA256: 432f867a605eb725b5fce5e0a2d7c188f813a03f4def614f1f4677fbc8ab6367
+FileChecksum: MD5: 1a5fcedb5a0b4657bcc168e5fa4bf05d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/tests/config/datamodule_test_base_config.yaml
+SPDXID: SPDXRef-item14870233
+FileChecksum: SHA1: f936fe9a5dfab3d03c0201d39dad6b5e567b4abd
+FileChecksum: SHA256: a974d3aa9f478148d29e1ac665e5e18b41bc51d5fcb51e7313128f4523dbdcce
+FileChecksum: MD5: 012a93d4309db82a71c18e65752b9ebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item14870234
+FileChecksum: SHA1: 669d3f1d3f48b9d97a8b65b04173cfcade89a1f8
+FileChecksum: SHA256: 31035641cc394bae59fd57a55f5ea7895f137009f0c5b5dc9b541410d0ff664c
+FileChecksum: MD5: 79fd9bda0f75c4c2749bffbf0e81fb74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/Containerfile
+SPDXID: SPDXRef-item14870235
+FileChecksum: SHA1: ef2176250c8280f0aed3a05b8790456a348d2baa
+FileChecksum: SHA256: b89f629b6ab0ccf07ebcf939c4981e8423a0234b1e191190acb95aca21305b4f
+FileChecksum: MD5: e09e0e9d81a73dd8670ee92ab5114e83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/quick_start/quick_start.md
+SPDXID: SPDXRef-item14870238
+FileChecksum: SHA1: d57401e4f7e95f3cb3d766707bde63fc6ee5debc
+FileChecksum: SHA256: 2308e5b67b271a241d5107c4e15b77504c618559875391d5b230919c55b56a8d
+FileChecksum: MD5: b03afb226b4c13fd2375fcaabb027aaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/quick_start/yaml_config.md
+SPDXID: SPDXRef-item14870239
+FileChecksum: SHA1: be991b59dec19a5c46df76c333bdf81ade010bf0
+FileChecksum: SHA256: 607e63d4882101b84c555247418c36cebcd7059ebafa17a8fbbe03ec704ce35a
+FileChecksum: MD5: abef58b8431797e1d25647bdeb075473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/stylesheets/extra.css
+SPDXID: SPDXRef-item14870241
+FileChecksum: SHA1: 49477307465a915b3113f54471b233d6c29a1c93
+FileChecksum: SHA256: 1cf0fb198110b770777dd3d1ee9f57b8df24845b16f91237a41227a0aba15105
+FileChecksum: MD5: ea2ae38fbe150242647bbd68dfe6ce9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/index.md
+SPDXID: SPDXRef-item14870242
+FileChecksum: SHA1: d040b14ef91f6896e936845ed98604c2d2ab64af
+FileChecksum: SHA256: 3da0bd2c49077d0f81728c050d736fe1525b7914ab9d86646ba582da4010e344
+FileChecksum: MD5: 6006d0bc36462b5218051927585f404e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/javascripts/katex.js
+SPDXID: SPDXRef-item14870244
+FileChecksum: SHA1: ed7b59c45f83d8dd97b487bad0700a93535d8ca2
+FileChecksum: SHA256: fccfe5d0b308ad9e48b18077848b45372f54cbd63ea6195c15b10f35f74980a5
+FileChecksum: MD5: 59985f6fc70c56ce275077bb53e0b025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/install/installation.md
+SPDXID: SPDXRef-item14870246
+FileChecksum: SHA1: e9874548d6c7fedff82a738bbc28a22117fc5357
+FileChecksum: SHA256: 28828bff95857da92d87dff7015497201ae1246f82a49f512ba55ab755e82ada
+FileChecksum: MD5: 65b50481b6c0cab9b5838abb0bc75ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/install/docker.md
+SPDXID: SPDXRef-item14870247
+FileChecksum: SHA1: 3ea60de6376b041c48856fc124647db494b6261a
+FileChecksum: SHA256: 6c5f2c7dc15a99176e49565242ae3ca361e8224df5b632ef84c32207489999ff
+FileChecksum: MD5: 1a5603ce49ff41070ca3c24def4c1716
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/docs/figs/KIT.png
+SPDXID: SPDXRef-item14870249
+FileChecksum: SHA1: 500fb86dfd54888d5c2106fb62194dddcd748d6b
+FileChecksum: SHA256: 54a1738b7dc690b2fc765bfd5942ebf8d994b0ad08fcc80450a2084552046f46
+FileChecksum: MD5: 8ab7fcf677085ba88d62f9c61f50dacb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/GOVERNANCE.md
+SPDXID: SPDXRef-item14870250
+FileChecksum: SHA1: 11efdf47f4dfce46201e602430e9f4614ee12cd3
+FileChecksum: SHA256: 9f2596b17dbce7bbf0705f98703349f463062ae89121f4e0217916dd96c3a804
+FileChecksum: MD5: 77fb509f220489f4b4bd7bfcc475c7c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/RELEASE.md
+SPDXID: SPDXRef-item14870251
+FileChecksum: SHA1: b35be25408b76d94f1395e45f4c745cf3b0e5530
+FileChecksum: SHA256: 1fe16ddee940e13a3a02c50c2fc0633fd69fd23c6dabff4a0eebf7da0fe113c9
+FileChecksum: MD5: 48cfb967b87ba7e22ec2b95653adbfe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.secrets.baseline
+SPDXID: SPDXRef-item14870253
+FileChecksum: SHA1: 8785622e2d8e6d475a2881f597f7468eb4c04e8f
+FileChecksum: SHA256: 5719125fac2246feb8be94b0d9042d52557aebe719dc03fc1b24912f8defa473
+FileChecksum: MD5: 805dee6171acde85f367b60f6ca25a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.semgrep.yaml
+SPDXID: SPDXRef-item14870254
+FileChecksum: SHA1: 5d31b382d8b03ddd1080083c09648fb6f1f64d3c
+FileChecksum: SHA256: 7908fe8628aa952f105fc2bd028fce57a9c6fc6924d88dd687da692bbb5f267c
+FileChecksum: MD5: 910143053c53cf9f4f0b9a16901572e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/feature-proposal.md
+SPDXID: SPDXRef-item14870257
+FileChecksum: SHA1: 4bb0a9ce0f7c307198ef91f03f09073bea316a42
+FileChecksum: SHA256: dcb29ee16e262ab041b11a9052b29121d702ed19f31e978ba2a3e25f210b27f9
+FileChecksum: MD5: 59c2e14bb919778c22647212242e6e43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.github/workflows/deploy_docs.yaml
+SPDXID: SPDXRef-item14870260
+FileChecksum: SHA1: 0c09fb706900c3ab6c5ed15ea32feceae76120b6
+FileChecksum: SHA256: a82a24eae31759925098aac0a810a9068c805fe47b8b1c14c85abc7de0dcf9a6
+FileChecksum: MD5: a2665cb6a68755efac0d6ba0b1dd1f1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.github/workflows/release.yaml
+SPDXID: SPDXRef-item14870261
+FileChecksum: SHA1: 9b89ed5b16c9a6e2346b0cead602ed63f058dbee
+FileChecksum: SHA256: e5bf0cbec1036888fa13d97e15324f2001b41a14a12e3556befca3f4a19a4377
+FileChecksum: MD5: 1ed9f8ff511ff06d19499bf59317561b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.github/workflows/ci-build.yaml
+SPDXID: SPDXRef-item14870262
+FileChecksum: SHA1: d621f3c5051a43a8ffae30739fefd5cebfacaeb4
+FileChecksum: SHA256: 492288a91d62d3e758e8b7b5069e5bca0a56c30e28f110e0c58860a23d8a9af8
+FileChecksum: MD5: ba4021ebf199137ba821aa290ae3b15e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.github/workflows/scorecard.yml
+SPDXID: SPDXRef-item14870263
+FileChecksum: SHA1: 6fd76a1bf74606dc357756adf362c8117de9f7ea
+FileChecksum: SHA256: f1d3f8484022c15cca34a46a3c7a5e72bfcac4a2fd36c0e95ee24006ccfff81b
+FileChecksum: MD5: 7380bffa9f0a32ad8f02cd2df4ec3462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-item14870265
+FileChecksum: SHA1: 41dfd7e30cfb81c2f7c9de1da718740f5cdf6d9e
+FileChecksum: SHA256: 8c8577918a5bcbbb601f31fcf02b2e2dce52da63360ce5c821c5625642851d92
+FileChecksum: MD5: f3d6af2d334792e34b3221d94f19fcf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/AI_POLICY.md
+SPDXID: SPDXRef-item14870266
+FileChecksum: SHA1: a7f8b6c0d49287d22f19b032e3bbab45eab0b765
+FileChecksum: SHA256: 0bdc48c0a34e779fb8f52de44c97b1df876a6effdd80e94550ec1a0d1bf2d38e
+FileChecksum: MD5: ce4329f052266e77d0eb2384b5d768d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/notebooks/Tutorial_contingency_analisys.ipynb
+SPDXID: SPDXRef-item14870269
+FileChecksum: SHA1: 26ae1158c3d3f9f9855a9e504776a6a9d4d33e02
+FileChecksum: SHA256: bf6f33cbcda953521c96a3932ea61e826cae61b31439c5ceb5a70a95b870d8dc
+FileChecksum: MD5: 04d9e92a226a3194df1e071a255f659b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/notebooks/Tutorial_reconstruction_visualization.ipynb
+SPDXID: SPDXRef-item14870270
+FileChecksum: SHA1: 2ed48afa4efe0ceb63520c9511ae0e3d1a1bbc3f
+FileChecksum: SHA256: 225b39176a8a591524eb3c8d866fbfcc7103769b5ff1f09d72aebc737d570c92
+FileChecksum: MD5: 966ab854594701c76a9c26a128f4153b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/data/contingency_texas/pf_node_10_examples.csv
+SPDXID: SPDXRef-item14870273
+FileChecksum: SHA1: 3a6a3b2ace10b728f1bddc5f9087224cc4bc74fa
+FileChecksum: SHA256: a835feac4e5186356259001149e3a3e546265911b0744c51c667a78d3f790fdb
+FileChecksum: MD5: ca404b3816ebfd47c169a2f7ecc1b3a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/data/contingency_texas/edge_params.csv
+SPDXID: SPDXRef-item14870274
+FileChecksum: SHA1: f54dc547a46272cf8c0c859d9183866aaf0a52f2
+FileChecksum: SHA256: a406f20e1e7bad4d9842d77057e8719bd1d5972cf8456e333fe228259a0167f7
+FileChecksum: MD5: 4245a513ad85abcc21db6df99a639d85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/data/contingency_texas/predictions_10_examples.csv
+SPDXID: SPDXRef-item14870275
+FileChecksum: SHA1: 8d155bbe048cdecb9467e5e2e09a8d483998bef8
+FileChecksum: SHA256: da5e5dc8438febde9c5c7736a704d1d0b30dd87f5bc61cef57653c83e0646d7b
+FileChecksum: MD5: 461f01747edb0f220227213889bb7f39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/data/contingency_texas/branch_idx_removed.csv
+SPDXID: SPDXRef-item14870276
+FileChecksum: SHA1: d4e5c587e49fee18bdcc3f4a6fbb9c45e2302c1c
+FileChecksum: SHA256: 04928d52e15724662466e4ba4daa16a5f44baaa59e54eab28a12bac0914db39f
+FileChecksum: MD5: 276260ae6c93c7faa74a0c8b5b32af9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/data/contingency_texas/bus_params.csv
+SPDXID: SPDXRef-item14870277
+FileChecksum: SHA1: 4e15bb7a228e62da1c05ad5d0ee35720fd766680
+FileChecksum: SHA256: 6eff193d56e466ab73c9ad5d4de9ebb977a13fce9fbf829e3351eb879d0a826d
+FileChecksum: MD5: c7b181558c49dd748fef8476c3b83340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/__init__.py
+SPDXID: SPDXRef-item14870278
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_Ola_case118.yaml
+SPDXID: SPDXRef-item14870280
+FileChecksum: SHA1: 04f49d9f5bfbf0ce6c9e498e3428a19b2c88b974
+FileChecksum: SHA256: dc7db49b2f0cf7c25796d4e53782a8536d19750ff033fda11520ee1a18b1010e
+FileChecksum: MD5: daad379611784c2dc2f658d4333d112a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_datakit_case500.yaml
+SPDXID: SPDXRef-item14870281
+FileChecksum: SHA1: a458414673ed1953726a1655ec38c4cb64ffd691
+FileChecksum: SHA256: 01b153e65dc41d57a9db4e1c309a2ca86a374124aafa23cc96a1dd6daf37a73b
+FileChecksum: MD5: 860b676b634855221b71ed57723f55c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_datakit_case57.yaml
+SPDXID: SPDXRef-item14870282
+FileChecksum: SHA1: 8144bfe5dd9203221560dedf5d4c731d99ea3f6c
+FileChecksum: SHA256: de9790ffc30f1527facbd2af20ab07ccd130586aa5e10ef47704dfba25b45ded
+FileChecksum: MD5: d2d301d2fddd0192bfa1168f59045249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_Ola_case500.yaml
+SPDXID: SPDXRef-item14870283
+FileChecksum: SHA1: 3f71e30fffe2ed5b5aee31a4c6ae3e14cfd568a5
+FileChecksum: SHA256: 5c27f2bdfc522bebe36df6770394afd2376faf7d69682d86255725d1383628b2
+FileChecksum: MD5: 0e3bd6bfc9bbe4e626e79dc5cee8b0d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/hello_world_train_case14.yaml
+SPDXID: SPDXRef-item14870284
+FileChecksum: SHA1: 4d74ba40b6089fbe77fb8eba3bbfbc3c295699a8
+FileChecksum: SHA256: 7dc976c1c446aaf8249678e4f05c749677f4422db993800b876ce45810475078
+FileChecksum: MD5: 6d1e0cfca3ba4b13a36f2f9b3487eca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_case2000.yaml
+SPDXID: SPDXRef-item14870285
+FileChecksum: SHA1: cec26e003293d4ee1c4ca75f902fa9cd8fa0cbcd
+FileChecksum: SHA256: b2a2df81f4267ddaffd9c5d2ab83bd1d010e54d504f02945c11b776fc4aeb1e0
+FileChecksum: MD5: 6a7ba8a07c544d74b6d9fbef5765547a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/datakit/hello_world_datagen_case14.yaml
+SPDXID: SPDXRef-item14870287
+FileChecksum: SHA1: ec250072a1c52d32ce18457b6da633aff2b0080e
+FileChecksum: SHA256: c03a01b9c987fff2421f7f0d4f6e7a6375a5cc603b2a9a3fee38803cedb06b7c
+FileChecksum: MD5: 18e13489a5c7828a7beb6625eb1e35b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_case118.yaml
+SPDXID: SPDXRef-item14870288
+FileChecksum: SHA1: 7930f67ab6a6d55cc47209d72d30c1f469c5e298
+FileChecksum: SHA256: b4d7f19d24a5ceb67b88c490d9c1d7054d3af6a19381773bf2a453d7f6d5f94d
+FileChecksum: MD5: c9464bdd3c233c860b5f673dca15d281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_datakit_case14.yaml
+SPDXID: SPDXRef-item14870289
+FileChecksum: SHA1: 16601c29df6bb4ceb88767aab66c69796eab7375
+FileChecksum: SHA256: 410902432c99bf638c39e5244b197485b143f4dde78214ce544f66bfbf72d562
+FileChecksum: MD5: f43611b3dc082b0d46b67f56e5f478ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_case14.yaml
+SPDXID: SPDXRef-item14870290
+FileChecksum: SHA1: 089f8e7fd5a34350c90d36f0a9ff00f66183496e
+FileChecksum: SHA256: 6ade649e97ae02ba73256817706e886f25b7c16bd7f6efec6c9a00dfff87acb8
+FileChecksum: MD5: b98ac00bdfb5a58c854264ea8a8c6714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_datakit_case118.yaml
+SPDXID: SPDXRef-item14870291
+FileChecksum: SHA1: 79d23316ff43aaee18ca00c80afff8bb8b29533e
+FileChecksum: SHA256: 4fca7185a9ff3b84b92a75d92174b4a26f23cd05189f7a12e6dee468644f9d28
+FileChecksum: MD5: 47d279a308116e72a10c8ad95a1164c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_datakit_case30.yaml
+SPDXID: SPDXRef-item14870292
+FileChecksum: SHA1: e7c46fdb87e49e08208afcfcfc6a1a0886dd024a
+FileChecksum: SHA256: cfaa9681387beaf08ca3306cff0a3d658aec79053090f10aa9b3020bcab53baf
+FileChecksum: MD5: 0aca2ea7944b2d5db704a4536535b078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/GRIT_PF_datakit_case14.yaml
+SPDXID: SPDXRef-item14870293
+FileChecksum: SHA1: bc4d1b2e85f634855f7181226625e83e349ebf9f
+FileChecksum: SHA256: bd468c2618852c0954413df350b3fe495c6ae5f51afe82ff80c1e24b3776cdee
+FileChecksum: MD5: 461c2ccabeffcf9788b0332806245b38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/__init__.py
+SPDXID: SPDXRef-item14870294
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_case30.yaml
+SPDXID: SPDXRef-item14870295
+FileChecksum: SHA1: 42b0fd5f4ff0d81ca23c78ecdd567d210b475b48
+FileChecksum: SHA256: 74a82d2117d951ee58c4913be71df637ef26e1922cad631c6ca0e4fce59cd528
+FileChecksum: MD5: 626243e8e6d0c363b943b6073d03e248
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_case500.yaml
+SPDXID: SPDXRef-item14870296
+FileChecksum: SHA1: ce00b06bed1b8d5e9e3104581c99ca91fb7b7443
+FileChecksum: SHA256: 2cb0af04fcc851606b3a0287cf16d6fb3c8182b67526d2e6349842dc5710baf3
+FileChecksum: MD5: 10a427ea0e2236a86538447a88639199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_Ola_case2000.yaml
+SPDXID: SPDXRef-item14870297
+FileChecksum: SHA1: 76bb7dd820ea10353764fdfcea9313fd3b55d537
+FileChecksum: SHA256: 3ad9ddc2c58d3a8908451bd9fa549107f5a490174b456eb97973fffb57583001
+FileChecksum: MD5: da314985ca810904e3ac2c516bab17b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_Ola_case14.yaml
+SPDXID: SPDXRef-item14870298
+FileChecksum: SHA1: 5b519dc11abe6407c46fd1208f9e8a4ba892285f
+FileChecksum: SHA256: 0d40e8c732f1c1a16cbf3f88c9c7c7d6dfa1d2c7b5880737cb6bc5a9600a973f
+FileChecksum: MD5: aa05a4c2362746e8ae8add50678b7b72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_case57.yaml
+SPDXID: SPDXRef-item14870299
+FileChecksum: SHA1: c7d08c9f0786a34ac938f2426e6a3bdc13ddcb51
+FileChecksum: SHA256: 7c2ed2e1c2aa1dbc72d9366e63ca2246d0adb50e82fc565d000d5e1788143a68
+FileChecksum: MD5: f437b051ef98aa28c51b5688d81b71ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_PF_datakit_caseTexas.yaml
+SPDXID: SPDXRef-item14870300
+FileChecksum: SHA1: 2045d6d99bdb1be77e21ee45eddf87714f53b683
+FileChecksum: SHA256: 4f9109b0f3cbf8ea2499d897bbc2f84368d3e4b39a5e0952518d582a9d414799
+FileChecksum: MD5: 90377b5d9fab1da4ba0a4000089d768a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_datakit_case2000.yaml
+SPDXID: SPDXRef-item14870301
+FileChecksum: SHA1: 99895b392373101ff12122f5b0e3435ed5fe0250
+FileChecksum: SHA256: 561d652678fb6f17fcc77b49a7b5fa51cf7e27d9537ef2e36bc75fc93e37dbcb
+FileChecksum: MD5: 5382492bf9a2a7d117522dda2a371994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_Ola_case30.yaml
+SPDXID: SPDXRef-item14870302
+FileChecksum: SHA1: 46ee5c4d85dfd8aeff9eff4aa61fcb6d2d689414
+FileChecksum: SHA256: d302fd2e0be71b03414ebc68baed6a13363018060a3f57b563051c8493d0c088
+FileChecksum: MD5: 54ba5b1ba206e068ab8bf2d8121df7bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/examples/config/HGNS_OPF_Ola_case57.yaml
+SPDXID: SPDXRef-item14870303
+FileChecksum: SHA1: 1c7a46c66959e9311a3498988abb74dae68c3c56
+FileChecksum: SHA256: 8d9a0a02539a90fa5c1959ef8c02e112bb91ea739f0a50744fc34548ee768ae6
+FileChecksum: MD5: 4dfbbc329543044b9dbe11fd83ae988d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.gitignore
+SPDXID: SPDXRef-item14870304
+FileChecksum: SHA1: ad08e57ceead5291f356c710fc0c0fcffbb01675
+FileChecksum: SHA256: 0dfffb5a0cf5255eef9ab4f073a9226c44abf7fcb20fc26a74111ee012075922
+FileChecksum: MD5: ff414d20e932f9480af1197c64a536ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/uv.lock
+SPDXID: SPDXRef-item14870305
+FileChecksum: SHA1: 172db88ff0dcb49524bdd9cc01160fd4781e03aa
+FileChecksum: SHA256: 4904e52c1102a1aa203703314e161c5d58e3708f7e2374a3291881004606a54e
+FileChecksum: MD5: 9d6a9b017a3fd9618bbd206621d5603f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/SUPPORT.md
+SPDXID: SPDXRef-item14870306
+FileChecksum: SHA1: e52956ab3218f009d2310001cd288c2f13dcdc06
+FileChecksum: SHA256: e3748f2423a8a03f36c2b884bab828c938b2d93a05143f066717518de1826a79
+FileChecksum: MD5: c0486dfc01e96f5c2dc11eb802606c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/Dockerfile
+SPDXID: SPDXRef-item14870307
+FileChecksum: SHA1: 4c5f458bdb7ed13e30f68c3616880be03b126bc2
+FileChecksum: SHA256: 2c322428360b8c6b2c76fe755267076a1503932200d534e607bfe8e927f6b257
+FileChecksum: MD5: 13158b700c21fb1af902077588b2d7f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/scripts/run_benchmark.sh
+SPDXID: SPDXRef-item14870309
+FileChecksum: SHA1: 6a60b27d1c01a7d3f2aee826a62d9fec39809c3b
+FileChecksum: SHA256: b85deba85a4721cd8b559b14265b6937197a0e1714db62d6de97cf5cfcbe8c63
+FileChecksum: MD5: 043677701590e854e2607148b9da6be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/scripts/benchmark_model_inference.py
+SPDXID: SPDXRef-item14870310
+FileChecksum: SHA1: 87d17708326a5f363fe1c44c3189771f7070a489
+FileChecksum: SHA256: 201bef3186c3294135c5d256a45c762f604da07db39bfe3fb1e567347eb86fc2
+FileChecksum: MD5: 55d26cf75e62a40851511a59bbb1eec5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/mkdocs.yml
+SPDXID: SPDXRef-item14870311
+FileChecksum: SHA1: 690542704d79226f25a992cc0d67060f528c6d4e
+FileChecksum: SHA256: 5abfe5a719920fc7cd62d170d62fd6f102c7314e164d25dd213c34d035008144
+FileChecksum: MD5: 37122a9f4f0c503a284a5c293fc39fc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/README.md
+SPDXID: SPDXRef-item14870312
+FileChecksum: SHA1: c973b51532ddc954350225dd682fac7d3d85b5ab
+FileChecksum: SHA256: 32b2720a10a2565a2aa7256208e1320509c4a26f03d38fee87ecc99b0c52cc23
+FileChecksum: MD5: fd31fe6af85c393f6810eba41b5cd566
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.trivyignore
+SPDXID: SPDXRef-item14870313
+FileChecksum: SHA1: 599bea4fc68f068f130d189410d9ec3a3f8a8fed
+FileChecksum: SHA256: 9ce10c655a0db9817ea6b391ee5f471f301c9cf205dc5144926b8b8a11a7e5ed
+FileChecksum: MD5: a3da367fa240a64589c89ab33db057ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/SECURITY.md
+SPDXID: SPDXRef-item14870314
+FileChecksum: SHA1: 601fa857e0d71e1761287f57db577b0e7c06d766
+FileChecksum: SHA256: 69fa0f09fe3c0cfc8bbc91dd0fd9054037f12ba3b43c2a98772ed2bbaa1b5811
+FileChecksum: MD5: e2dc4273122a90c28b8a9faa0f4c57d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/COMMITTERS.csv
+SPDXID: SPDXRef-item14870315
+FileChecksum: SHA1: fff929942bb4e287ed68c0c4557550605cf3c121
+FileChecksum: SHA256: 8402a750879b051012ce291067bb68d729408edb980721acd51ecdaf0619121d
+FileChecksum: MD5: 6dcffadf63aab6c88f3c22917c695ad9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.dockerignore
+SPDXID: SPDXRef-item14870316
+FileChecksum: SHA1: 904eb1f8c21d12f86e8bcb1e95be93dcf1cc00e9
+FileChecksum: SHA256: e77610e5bc181f8c6f7470c1aedffecd91f8b0f0bc8ccdbc82d94e555a62b07b
+FileChecksum: MD5: 9dec811d03270661fba1d82e8ecfcc34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-graphkit/.pre-commit-config.yaml
+SPDXID: SPDXRef-item14870317
+FileChecksum: SHA1: 7689daca2649973e79d5a33652fcf245858a7153
+FileChecksum: SHA256: 698e7afaadf09d8f7ed3f87cea70099945841540db7dabcf3861b71f965bd106
+FileChecksum: MD5: bacdaaafa74cd42e2078476c4fc876de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_pm_data_path.py
+SPDXID: SPDXRef-item14870320
+FileChecksum: SHA1: 8c29f5b6caa5564de31d8270247315ef1d8f6335
+FileChecksum: SHA256: 9950ed401f9e66ae2037594d7a98bfda9378884f22b1c0ac592f3b0273b7aab6
+FileChecksum: MD5: 59eb5d0bb54616f1898726be8689e54b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_topology_perturbation.py
+SPDXID: SPDXRef-item14870321
+FileChecksum: SHA1: 25e285e1af4918e45915b0a5a13c8c8a0e27bbc1
+FileChecksum: SHA256: 10a11eebe87bd1f7403d0a6e939c3cc7959af5fa0fd08fd36ab76b23e34bbde3
+FileChecksum: MD5: 231a2dc86e99ab3b875070cd67ef3d13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_generator_perturbation.py
+SPDXID: SPDXRef-item14870322
+FileChecksum: SHA1: a97caa26cebae8d9c41d9d43efcbffb9bfcb60f1
+FileChecksum: SHA256: 3348ac197d9424975c9ad6f885512098ea2f80b9844cf0358649aa65e98c0cd7
+FileChecksum: MD5: 35e033c946b88eae12a7b428568b7f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_random_seed.py
+SPDXID: SPDXRef-item14870323
+FileChecksum: SHA1: 2e06fee13645a5a2d9ecd08d76cb6a43295ccf38
+FileChecksum: SHA256: e2596b09b7417fee0eb43bc9abd77107ddbffc48693dcaada85d0cb2ead37533
+FileChecksum: MD5: c63b31cb796971d8d61e0b41793458d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_admittance_perturbation.py
+SPDXID: SPDXRef-item14870324
+FileChecksum: SHA1: d87c89c75b49a538fc678f59aef3264ee1eab029
+FileChecksum: SHA256: 4c2d49a594e16da01c6220b5b64444e658abeb7290191f9aa28eeafa822447ea
+FileChecksum: MD5: 0fc59ece8e7e595f9122080a4be1edf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_network.py
+SPDXID: SPDXRef-item14870325
+FileChecksum: SHA1: 5e0d0ebfa1e85eea705e865e8d80c110911c3ecd
+FileChecksum: SHA256: dc5d701a1797f64566678766422f76809ef955ce3f6c62d8121cbb1038345e97
+FileChecksum: MD5: 75299a475b2a068e6c60625ee1326b1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_pglib_download.py
+SPDXID: SPDXRef-item14870326
+FileChecksum: SHA1: f441e4388beb3c12d9906df72bc118dd1abf84bc
+FileChecksum: SHA256: 3ca36d929742fa2c8d11efa5515ca80407271c9f887df80f885125880a0e903d
+FileChecksum: MD5: d902f2efa3e14030fc06b5587431927d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_compare_pf_opf_results_all_pglib.py
+SPDXID: SPDXRef-item14870327
+FileChecksum: SHA1: 8802cae0d6a6a2c5136659516984011c56652b07
+FileChecksum: SHA256: 7bd26b5ad3e3da8720807b13c243df94f2b436177feb42fef0e141810ccbd13d
+FileChecksum: MD5: 83790d92489d93063d6e95a40fa4dbf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_generate.py
+SPDXID: SPDXRef-item14870328
+FileChecksum: SHA1: c2b5403a8ee54ca82153b600b948c29293319abd
+FileChecksum: SHA256: 059fc690db1f14a4f162861c3e59de6463f404c8a1109c9b80a95bab8da41192
+FileChecksum: MD5: 1f4e8fb9850a8eab0c25e0e5fd2713b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_solve.py
+SPDXID: SPDXRef-item14870329
+FileChecksum: SHA1: a1cdd3161c32e1bdc94dbaf1ae57139be359a6f1
+FileChecksum: SHA256: 83d37ddac17669d85341d0436b12d21a8a5e8579bd04a1ef1982669f3df5a153
+FileChecksum: MD5: b7c276593c793784fe5619a90db7f7ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_load_raw_inputs.py
+SPDXID: SPDXRef-item14870331
+FileChecksum: SHA1: 04f2297fd03345bbe1a09a41dec3fcd3421fdb82
+FileChecksum: SHA256: af904f5eff753b929b0d7ea64957b2a12533d80e8e35a90798c16efd3eb770fa
+FileChecksum: MD5: 5fa199299a394e9cb0a74820d93bb086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_generate_dynamic.py
+SPDXID: SPDXRef-item14870332
+FileChecksum: SHA1: d33f524577fce8d4c49e716a33ca639352a180d3
+FileChecksum: SHA256: 9e7ad2606ba1d2bf1237fe24e1ee5902e84c39c7f3a151d76ce298e7b8026282
+FileChecksum: MD5: 54d665ac141ec7f76627445c9237ad0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/conftest.py
+SPDXID: SPDXRef-item14870333
+FileChecksum: SHA1: af414b5c95d1bf3f271b6873c37ac0ecb9c5d6c9
+FileChecksum: SHA256: 4965700519b49bf1a42fd4f6aa716735dc35aa46a8ed7e1c56df2775603a7c5a
+FileChecksum: MD5: 5932cfc181725722c1bec2407ee7f6ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/test_dynawo_mapping.py
+SPDXID: SPDXRef-item14870335
+FileChecksum: SHA1: b18cfaa6d4ed3745615efd38ae470dec639e94e0
+FileChecksum: SHA256: 2865566ae02c26c3043764ba5f9c76477255bc7372bf31e1d4675aac4c7a3176
+FileChecksum: MD5: ca622ef0cbb5591a2aa1223cf7d467e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/unit_test_data/unit_tests.par
+SPDXID: SPDXRef-item14870337
+FileChecksum: SHA1: 6b2d9e46c6d5d848f817e9822a452299e01cf03a
+FileChecksum: SHA256: dade5b0e4091b547c60929df958091d02eb1004d0489af1640aa947de55893aa
+FileChecksum: MD5: 0c15857053e5936ef92083c0c5249d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/test_get_dynawo_simulation_parameters.py
+SPDXID: SPDXRef-item14870338
+FileChecksum: SHA1: 1059cf7abf2884b27d62579cf1afc5bf55b1fb5c
+FileChecksum: SHA256: cdcc8539da83b81b18c45761648d147c598c1a1227044166073ac50bf81136e6
+FileChecksum: MD5: e41662dec62b77bd75673a4b459b74aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/conftest.py
+SPDXID: SPDXRef-item14870339
+FileChecksum: SHA1: 7ea906e74443009574dacd0c65572ea296ac0c63
+FileChecksum: SHA256: b668aaf110d34723de0ef24a0b69e83f3334067b3b93a4feee9747e9b6439cf8
+FileChecksum: MD5: a107498fd868d85f8265afa6a3572c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/benchmark_data/ieee14/ieee14_GeneratorDisconnections/ref_output_curves.csv
+SPDXID: SPDXRef-item14870344
+FileChecksum: SHA1: a5bda7a4b178878bf5c41ebb6fa4da471f925409
+FileChecksum: SHA256: a5f3c7349cb09c5dfa95004a8f1cb90e8c3a281b3d543b6d72cfc2b6cf228d3c
+FileChecksum: MD5: 1bf90cd952b54ac0088c008a59cbb426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/dynawo/test_dynawo_simulate.py
+SPDXID: SPDXRef-item14870346
+FileChecksum: SHA1: e50e7381a062483c611c7ca19f59401c9c81b835
+FileChecksum: SHA256: 4fdef31786d2bf638fc127e4ce9ba73e2a5c66295f7f107d58765c814e59d8bd
+FileChecksum: MD5: 478d69132274a3765e884143abea93b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_optional_import.py
+SPDXID: SPDXRef-item14870347
+FileChecksum: SHA1: f4da03c5e424f5dd3bca12465bb65d26aad36011
+FileChecksum: SHA256: a68dcc27eeb7b7e19286c00f7c758873f2934c9e6ee97f156c7fa49dc5288719
+FileChecksum: MD5: 1d1c66b3975bee3b5106a258af8d6993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_solver_parameters.py
+SPDXID: SPDXRef-item14870348
+FileChecksum: SHA1: b464df22dae2158852d6731122d811c41d28c263
+FileChecksum: SHA256: d232db73aaff806d9a97cdbbe6b46ffc9a22d29b2a567b881d117a4fba55ccc7
+FileChecksum: MD5: f50d4e30b0958c43c01e1b0eb4be4fe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_cli_dispatch.py
+SPDXID: SPDXRef-item14870349
+FileChecksum: SHA1: 3f686ecc625aa80d6eb734413955e09d2af67059
+FileChecksum: SHA256: b6f69c42c7656c595e3366dfc4b4efaebf93e2ae92026f57eb109a85e24fe9bb
+FileChecksum: MD5: 08ff79a08bc779a937fe700ed7ef4dce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_output_format.py
+SPDXID: SPDXRef-item14870350
+FileChecksum: SHA1: 4d87261807df79c5e33f0760bf517ca6e1f5eea1
+FileChecksum: SHA256: 3ace0748dbfb8d122404bf50af5b9558d497c65c7379fecffcf408e9936c4873
+FileChecksum: MD5: 7850864d762e7cc79d176fdf86a18486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/test_process_dynamic.py
+SPDXID: SPDXRef-item14870351
+FileChecksum: SHA1: efeb17c9dad21028dff4e6e41ca822f01f25e30e
+FileChecksum: SHA256: eb342d136c5dd32af53f942c9d5d6a9dbf1498b22d60c832bbd8332038a42d1a
+FileChecksum: MD5: 19404b9815c3dee77a282cce5f52b2a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/dynamic/markers.py
+SPDXID: SPDXRef-item14870352
+FileChecksum: SHA1: e0886a6ed8eca6cc8f9b470ec4a2d8759196b7d3
+FileChecksum: SHA256: 02289af02b92fa6e25d9d17b2fad85fa0110eddd6f73a617d805f97b14b3a3d1
+FileChecksum: MD5: e9b9a1eaf48f47e43dacc3bb8f0624bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_data_validation.py
+SPDXID: SPDXRef-item14870353
+FileChecksum: SHA1: 93d7d31c8af1b8cb84c04746b7ecdb81a8c4b996
+FileChecksum: SHA256: 2950fdd6c2c9747527999375ebafe889fedbb6a187e387b7e150d87a56efac9b
+FileChecksum: MD5: c62af1ad8cadf22bd9bbfc5220b2afac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_solver_output.py
+SPDXID: SPDXRef-item14870354
+FileChecksum: SHA1: 319dfcebe34a1301c34065f87a6d929c3c0e2a75
+FileChecksum: SHA256: 57f66a6b9d2d022aae70b9c59265f90f8cffbb282d0cbdbfa8dc886bfa96c724
+FileChecksum: MD5: d9333083666a390a56b461397dc2e928
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_run_config.py
+SPDXID: SPDXRef-item14870355
+FileChecksum: SHA1: 18b7c76e5bac5d85dfa41a3d6f11b68a3af8289b
+FileChecksum: SHA256: a9015ac0933691d1c68075bd3b6bae15ba061447cd3b75d13ccb9b0d6a5a358e
+FileChecksum: MD5: cab5830ca282460e3d496043895214d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_convert.py
+SPDXID: SPDXRef-item14870357
+FileChecksum: SHA1: 8918bb5b108b2b4bacdf79c8a6f432a1ec86b7b4
+FileChecksum: SHA256: a49dcba9536157620bba059894de20aa73e46117dbaf8a79ec35271576fde018
+FileChecksum: MD5: e03e1f9f9a87f29c57978a7851655717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.mat
+SPDXID: SPDXRef-item14870359
+FileChecksum: SHA1: fe0fb4808fd778d0003079664b00393867a914f6
+FileChecksum: SHA256: 0f82b3f003529860789b16a425d4aa41436e827377144da19b0396f2e6ab1988
+FileChecksum: MD5: 6b0ec1be98f6506ba955f14f8cc3a53c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.raw
+SPDXID: SPDXRef-item14870360
+FileChecksum: SHA1: a270f6ccee885210f67b1e3207f0e094a3deec0a
+FileChecksum: SHA256: 581a248a281bbbb3a52d19b366cdb1b434f415e2ee905e96e7f1bd49f5bd4aa1
+FileChecksum: MD5: aa4c081add4ca4a9b3bddb1ddcd2cb02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.m
+SPDXID: SPDXRef-item14870361
+FileChecksum: SHA1: 7b143fb9d2ec00c9cad149152140b9f13dea0076
+FileChecksum: SHA256: 2c9ed28b85e32cac6e1651f20ad32ce16c710712551f343f7c3506226a7045bc
+FileChecksum: MD5: 140cda8a1dcb1e9287ca3548f666053a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.zip/ieee14_EQ.xml
+SPDXID: SPDXRef-item14870365
+FileChecksum: SHA1: 762ad9c6d0de9f0c4b86c9c21e724fc6cea22610
+FileChecksum: SHA256: 9fa1d276401ddd4db15701df5836e66879552fc70451a331c3718543ebd10ddc
+FileChecksum: MD5: 45cef384a0bf319f005daf32310e55b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.zip/ieee14_SV.xml
+SPDXID: SPDXRef-item14870366
+FileChecksum: SHA1: 1bcc4698e64ed3ee6e4f1a73a91d10fcc030cbd4
+FileChecksum: SHA256: 2619be89e3bb642a43d805e93a5d2d36194cf117a09375a0730b3ba1d37a4096
+FileChecksum: MD5: e06d228f383a1d04af18783edfb1bcd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.zip/ieee14_SSH.xml
+SPDXID: SPDXRef-item14870367
+FileChecksum: SHA1: 284ab2b48fe039c6ca61339f77814c773a556bc3
+FileChecksum: SHA256: 7960ba8d6011bedb90e1fd5eab14631e2cf27305fedc06b201ecac3fb409b01b
+FileChecksum: MD5: d74f6996b1f0139449eeb11f08e4a59b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.zip/ieee14_TP.xml
+SPDXID: SPDXRef-item14870368
+FileChecksum: SHA1: a0104c6e4b1302fabe9a47b0bf6a60b29c6de923
+FileChecksum: SHA256: a104d6d70330e0a8d858575a12587dbef7354ec447831273c9a3131429ad34f6
+FileChecksum: MD5: acebaebcf4afaebe873aba3e63a98f40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/grids/ieee14.xiidm
+SPDXID: SPDXRef-item14870369
+FileChecksum: SHA1: 59a4700763befc7523a21d813d077e5627f28f37
+FileChecksum: SHA256: 3e3150303ca4fc1c058e2e29e1c890fb2cc5f03a2c80eb41f301db597cb079e6
+FileChecksum: MD5: 88ac19e7c0b9eedaa9c90569469ddb22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_generate.py
+SPDXID: SPDXRef-item14870370
+FileChecksum: SHA1: 58f15afea1c48ebc6680b164183aa062a0ee9e45
+FileChecksum: SHA256: 5d5f7b7d084c7e240777cf50b9b88a72464aec0607d0509aa40d22dc205e5890
+FileChecksum: MD5: cce053427023d6516b67fe13ff1361a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_preprocess.py
+SPDXID: SPDXRef-item14870371
+FileChecksum: SHA1: 0fce960374015b4442bbb45b13d80b5584c2ba15
+FileChecksum: SHA256: 057f41dbe00189850d1d23941c9886fcfccbd70431c67fcef495b9a00a032523
+FileChecksum: MD5: c253815bacfb3ea0e761175ab4b8746a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_workflow.py
+SPDXID: SPDXRef-item14870372
+FileChecksum: SHA1: d41793ae2a50dd4f51ead115c7902953e374800f
+FileChecksum: SHA256: 729602c78cd9f88b2188f9814da04f17d223a57e7ba404c4485e1b5201e77ca4
+FileChecksum: MD5: e36acf4c8b3fef3ad7b01219b5baeab9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/__init__.py
+SPDXID: SPDXRef-item14870373
+FileChecksum: SHA1: 0ee401b7e8393454b3aad5b88f5f4d18c22feb58
+FileChecksum: SHA256: 4db58cd61bd8414666cb1d2cbfce9b9da8007a35ad3092f32c583d409f177453
+FileChecksum: MD5: aa3677ea7a2531f1f74d546522a293ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_convert_net.py
+SPDXID: SPDXRef-item14870374
+FileChecksum: SHA1: 471037d02685b2cd087aa017e38d22d182e3dc42
+FileChecksum: SHA256: 291e82c726a7378fa6443ac1539ac60a98e84e7c1b864b7134343885d9666ea9
+FileChecksum: MD5: 1ffd04fea7d3df632ab665ee0b33a6ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_mapping.py
+SPDXID: SPDXRef-item14870375
+FileChecksum: SHA1: f5f4655ae770a519593dbdf6e1669882fecd01d2
+FileChecksum: SHA256: 9add5fdfb04d2bd008f51b932b7547d6da9648c3bb4fda7592073d3943d8b76b
+FileChecksum: MD5: d2fde703534e1259240a0b6279260733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/powsybl/test_load_net.py
+SPDXID: SPDXRef-item14870376
+FileChecksum: SHA1: b9610cf572a056cd3d93ccf9014ee62548c3ee99
+FileChecksum: SHA256: 32a67bb916ffa11204902d42952e18cb9aaaa1be2fce88472bcc6ebe54e1ff49
+FileChecksum: MD5: 86711d70e90ce48b8e8d4d4e71ef8edc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_verify_network.py
+SPDXID: SPDXRef-item14870377
+FileChecksum: SHA1: f94263fcdad28062c415a7ef38ec76455d68b229
+FileChecksum: SHA256: d7affcc661b7f6ac50c80abc763a0fa7ac3f4f0e6fb392676ba3fbdd0b955e6d
+FileChecksum: MD5: ecc476d3e6d0b3c7b4bd0b8db6d9fb86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_all_perturbations.py
+SPDXID: SPDXRef-item14870378
+FileChecksum: SHA1: c2c74eb9952b27eddd6fdcd3431b296a5c1f7263
+FileChecksum: SHA256: fa81c26ec2617f49d4e90ae0662c7cb28cc66963a2f1409025615187d2ba3702
+FileChecksum: MD5: 1009135306b79a751e4306d12e254346
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/conftest.py
+SPDXID: SPDXRef-item14870379
+FileChecksum: SHA1: 8d0f42765ebabc870928bc913aae4d99fd890dd0
+FileChecksum: SHA256: b866e9d875248e4c4336e7795bde4744dff04d6013896a4a5252aded47bb3d2a
+FileChecksum: MD5: 9f37da3cf1596d112812d79265c7846a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/reference_data/case24_ieee_rts/raw/branch_data.parquet
+SPDXID: SPDXRef-item14870383
+FileChecksum: SHA1: fe9365f6f5dddb169d3420fbb9de8d974cb155a4
+FileChecksum: SHA256: 0a9b04762f3c411132c08b94bb8371dc5094ef5bd89356dd7ceff3880d29a626
+FileChecksum: MD5: 7a20c8607d5b34e6dafb62d94727e900
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/reference_data/case24_ieee_rts/raw/y_bus_data.parquet
+SPDXID: SPDXRef-item14870384
+FileChecksum: SHA1: f64aaeec815f9b6ee239edf752a5b40454e3285a
+FileChecksum: SHA256: 3753186498d98c0b7eec7fdc6ca65da60984ade361af80c702f0445b7e1952b4
+FileChecksum: MD5: d39e3b8e94896702b8ce58346f12f9fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/reference_data/case24_ieee_rts/raw/bus_data.parquet
+SPDXID: SPDXRef-item14870385
+FileChecksum: SHA1: 4ba2131e94a50b0632fb6edc4450f95a348ede1a
+FileChecksum: SHA256: e49689330a1a9113f95987b974b293110d66376382dba8955f07bbe191e3d4c2
+FileChecksum: MD5: c327e9198b83fa0d6bdf73ed75abdd1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/reference_data/case24_ieee_rts/raw/gen_data.parquet
+SPDXID: SPDXRef-item14870386
+FileChecksum: SHA1: e46f7aa441702cac1f1bb2762af963c60a7de964
+FileChecksum: SHA256: 2380a8105c758500c54cb391aa394d58cbd9a431b6c1b28b281f96afaedcf7d1
+FileChecksum: MD5: 70b68bfbef50ded5e190bfb93a808591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_data_generation_consistency.py
+SPDXID: SPDXRef-item14870387
+FileChecksum: SHA1: 41d1e6d16167c4d47ea2e53760643e8dc2cc7c14
+FileChecksum: SHA256: 8efe44c8bc1012d50a27d7b3c15b34ddd76f2b428488b582c9180e8e25bdd4b0
+FileChecksum: MD5: 0469dce14f41c5bec76026a0fd77226f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_compare_pf_opf_results.py
+SPDXID: SPDXRef-item14870388
+FileChecksum: SHA1: b1a3d821dfff6753d904295d7171680967cfba0b
+FileChecksum: SHA256: 732d6624441dae08c65ca3c83d5de685222f250895b501ebea0dc7e01145ea49
+FileChecksum: MD5: 938169a67469d523900604f7ba405385
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_load_perturbation.py
+SPDXID: SPDXRef-item14870389
+FileChecksum: SHA1: 5436213d9d7e7647d5578d971fe14c8953e4f843
+FileChecksum: SHA256: f81ea3422132950c198582625761c56cacbb7002a280fb1e5466d18990f454ac
+FileChecksum: MD5: 2d79bed3d8dec561b56f02c268a28c63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_distributed_generation.py
+SPDXID: SPDXRef-item14870390
+FileChecksum: SHA1: 1d2731c44ed8ce51407c9460b1fbed70073b2acc
+FileChecksum: SHA256: 43bb546b32c39ea0ebd559e7f74328321667e79199fb8be7017679256f8e5946
+FileChecksum: MD5: 30e7295be8d68804d3c5a7d361cc839c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/test_dc_fast.ipynb
+SPDXID: SPDXRef-item14870391
+FileChecksum: SHA1: d1c2d9d2342e16d4d245a96a4ed8299b215977db
+FileChecksum: SHA256: d7bd1c2df0cb4a1debc8e26a560ed48a89078ccc76aa081338fe97465160cbc6
+FileChecksum: MD5: 210c8fcc466f6c9caa3f4b705d8a30c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/config/default_opf_mode_test.yaml
+SPDXID: SPDXRef-item14870393
+FileChecksum: SHA1: aa9e5ed042772a4718b6847394aaa705e3bb1625
+FileChecksum: SHA256: d1935b475954d1e101aa138f7e74a6844ff845b7babf40a5a299a2e678d2a437
+FileChecksum: MD5: 09f6268e78eb40340ae5892b07e6ca8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/config/default_pf_mode_test.yaml
+SPDXID: SPDXRef-item14870394
+FileChecksum: SHA1: 4b09a4c54f1dcdbf4e2953fe89c6940929a6d399
+FileChecksum: SHA256: 6468f4f05b874149e721d3bbdd1dd39cdb133f0b08a3e12fd60a3fed79d26bba
+FileChecksum: MD5: d9167361a20520cc7eedb9dd74617e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/config/default_without_perturbation_test.yaml
+SPDXID: SPDXRef-item14870395
+FileChecksum: SHA1: 5c6f7299ad3ecf19282060d68e7a9a7aac477beb
+FileChecksum: SHA256: 7d7bc3fa1453fbdefdf04c174a2eebb45492a57444b141f0b162057a29e2ed59
+FileChecksum: MD5: 6bbc32b5a3633e493909622aedcd29e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/tests/config/consistency_test.yaml
+SPDXID: SPDXRef-item14870396
+FileChecksum: SHA1: 135a4d57c5953e60c49fb773b99b043d00b57601
+FileChecksum: SHA256: 8d22024e31b3d63ce108b2e0d129cbf74c83f0e7ea3e3247fda543aed54e369c
+FileChecksum: MD5: 1c9d766950fa96c6f330a90162950568
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item14870397
+FileChecksum: SHA1: 669d3f1d3f48b9d97a8b65b04173cfcade89a1f8
+FileChecksum: SHA256: 31035641cc394bae59fd57a55f5ea7895f137009f0c5b5dc9b541410d0ff664c
+FileChecksum: MD5: 79fd9bda0f75c4c2749bffbf0e81fb74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/stylesheets/extra.css
+SPDXID: SPDXRef-item14870400
+FileChecksum: SHA1: 49477307465a915b3113f54471b233d6c29a1c93
+FileChecksum: SHA256: 1cf0fb198110b770777dd3d1ee9f57b8df24845b16f91237a41227a0aba15105
+FileChecksum: MD5: ea2ae38fbe150242647bbd68dfe6ce9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/index.md
+SPDXID: SPDXRef-item14870401
+FileChecksum: SHA1: d886c76a70e38328592c0dfd56a8fb4fd124e773
+FileChecksum: SHA256: b3311e8d0e5aca8d00512c8e68e21420162b1d629e75087daac3d6a95d892db4
+FileChecksum: MD5: b1c635e62591f136c8ce13e8623084c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/installation.md
+SPDXID: SPDXRef-item14870402
+FileChecksum: SHA1: c1d36a263e6e03cdc610460bd56f8be1ed7afe93
+FileChecksum: SHA256: 5d20f396ca885dd9338fc97c29bb0b6180f5eb38506e9c3a869eeae770423f23
+FileChecksum: MD5: 79d0d32745006e711bb8d855c69ef066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/utils.md
+SPDXID: SPDXRef-item14870404
+FileChecksum: SHA1: 4323ceaa2447761277d15a87d8b3966987438ef1
+FileChecksum: SHA256: 93f17c268534765ab12d8843037675c24b668218a904c3b0b454a00c40792231
+FileChecksum: MD5: 9682809c01152cb201da7a885ea3f379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/solvers.md
+SPDXID: SPDXRef-item14870405
+FileChecksum: SHA1: 9d5511587d6b044390d9ef6db1f68be4fd06498d
+FileChecksum: SHA256: 954eef9b5ea7f1bd67bcba66cd1ab581d74bd5a40c46f7fe28402dc47f73011f
+FileChecksum: MD5: 9f39868e6f33ea16fab09d53aa52db9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/topology.md
+SPDXID: SPDXRef-item14870406
+FileChecksum: SHA1: a89893f922ba5de1f39602e9c7364a7a5852ad24
+FileChecksum: SHA256: 1efa77a7d620515d1168ce07cb994ef344505890b1351189aaa8387384bb7f9b
+FileChecksum: MD5: c44ab6696ebd7a98208a139598614e90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/network.md
+SPDXID: SPDXRef-item14870407
+FileChecksum: SHA1: b25eca9f957287053c01bd1860eb4b0f40547a28
+FileChecksum: SHA256: e9ccb867a1626cb4bf671c6f856c019266c58658022a2801b31311e30e1e8520
+FileChecksum: MD5: 63b0a2421f88dc051f1ab100bc61f600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/dynamic.md
+SPDXID: SPDXRef-item14870408
+FileChecksum: SHA1: d067c8645e880a8783e6f56281277fcf5178c717
+FileChecksum: SHA256: 95bc639a7d103e0c95f1825d633e2c7aef029ab4d54a2fb633b6b1b94feb9571
+FileChecksum: MD5: 27b8bc87baf2f4f17363322f6e36e3e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/process_network.md
+SPDXID: SPDXRef-item14870409
+FileChecksum: SHA1: 32684f6c00b7bc2b2e1c87406235369a6762136b
+FileChecksum: SHA256: 7283b1f16654983cf7f3df943c2631013d9f93879db59adedbb274cb81ec28c2
+FileChecksum: MD5: 72fcad73d550e75309db25e9b32a547d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/power_balance.md
+SPDXID: SPDXRef-item14870410
+FileChecksum: SHA1: 4b21875b4865d6a628bc605b9457544bfbc278c9
+FileChecksum: SHA256: 51d71f34109daafdeaf7134c009596f7461a863af5998723a683f4692da19f11
+FileChecksum: MD5: 0fdd82d248b88b0dab25730fd913ee6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/admittance_perturbation.md
+SPDXID: SPDXRef-item14870411
+FileChecksum: SHA1: 39c6d08473cbf781ca9179f1a85c63d4b2c23e06
+FileChecksum: SHA256: 2cd9a427426f7cd8cce30aed603a3585a52699d93c2c2f9bed5e12aa535c87f4
+FileChecksum: MD5: 404e080d8574f90571a4d547b5264f74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/generate.md
+SPDXID: SPDXRef-item14870412
+FileChecksum: SHA1: 703765ebe4aec2971032afeb774de17e28e7b0d7
+FileChecksum: SHA256: 9276389585a9e1e995595b9af9b39aa54813808a163210149e0860c4d5c6404a
+FileChecksum: MD5: 767064ffabaf4620e5ba5459b0f650ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/cli.md
+SPDXID: SPDXRef-item14870413
+FileChecksum: SHA1: 40f03c3e6cb52b1b5e2af227a50c14f3efe1aebc
+FileChecksum: SHA256: 191853e1455501cec902e589cacefa6b3f46550189296c5dee67ae5b19828036
+FileChecksum: MD5: 835538aa26e3e4280ccda8addc692728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/param_handler.md
+SPDXID: SPDXRef-item14870414
+FileChecksum: SHA1: 67213624abb2153f1717379aab895e692e132d93
+FileChecksum: SHA256: 3cf3b69903ba9ac3fdb4d0c501068b7188f5f58f2f546a150567adf0bb146860
+FileChecksum: MD5: 2da2347e230de12b7d89054d2c6228df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/stats.md
+SPDXID: SPDXRef-item14870415
+FileChecksum: SHA1: dd5b8e395a32172ab4f48dba271650353c9e3d77
+FileChecksum: SHA256: 371d68fefdea7d26ae0797c1f8999f88eda784aceab05c15c0e7d83b7fd723b4
+FileChecksum: MD5: c87d614c2741bd5303104ada6db67f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/validation.md
+SPDXID: SPDXRef-item14870416
+FileChecksum: SHA1: e977927c74a06d5723fd8f45dde66554aac46a84
+FileChecksum: SHA256: 1dfc6b847701263b2c887c1adbd4864c4ace41bad3bf05db00b167ad6b63bd10
+FileChecksum: MD5: c395076e9ed7b36104f8b3c1768627ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/generator_perturbation.md
+SPDXID: SPDXRef-item14870417
+FileChecksum: SHA1: 54e991e450c073308d10114ff85c5619bd06a689
+FileChecksum: SHA256: 6c459d520ac93f38043663b15e478e99005a2ee3e980dfa7d66a670b4ab9152b
+FileChecksum: MD5: 885cddd0aea9af81c745d3f2ab9c11a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/load.md
+SPDXID: SPDXRef-item14870418
+FileChecksum: SHA1: 7478eb8a2d9fc91b0d750f6811df10dbaeea0a61
+FileChecksum: SHA256: a4f465e90b5bf2e251453688b26002d16b0939ea36946a22539a5f0416715568
+FileChecksum: MD5: 1f0d64de560e42b795316cefad4110dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/components/save.md
+SPDXID: SPDXRef-item14870419
+FileChecksum: SHA1: d3299b1155d326cff1d0392590d4dcd1a7dbc613
+FileChecksum: SHA256: 8e777c19cccead1c4883f246a5ab35337b42c6582b5a7df14e8ce2995b009f84
+FileChecksum: MD5: e8a0ad922a7fe7b2a8e74830d2ef106c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/javascripts/katex.js
+SPDXID: SPDXRef-item14870421
+FileChecksum: SHA1: ed7b59c45f83d8dd97b487bad0700a93535d8ca2
+FileChecksum: SHA256: fccfe5d0b308ad9e48b18077848b45372f54cbd63ea6195c15b10f35f74980a5
+FileChecksum: MD5: 59985f6fc70c56ce275077bb53e0b025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/improvements/gridfm-datakit-review.md
+SPDXID: SPDXRef-item14870423
+FileChecksum: SHA1: 1af8a4f11fdcf0bc6749c92255113c30019609dd
+FileChecksum: SHA256: 93e249c14542b180a06bd89d8ecccbfdc166d968f605c3f7810de19755f6712e
+FileChecksum: MD5: dd51a8e4d4bd56213eb27cbf667304ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) two failure modes cause indefinite hangs, which then run until GitHub's 6-hour job limit terminates them. </text>
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/figs/KIT_logo.png
+SPDXID: SPDXRef-item14870425
+FileChecksum: SHA1: 4f8775875637c339fd02af2d1e793ff82d842e1b
+FileChecksum: SHA256: 2fcceeb4eb899a1a020dff63ad4b58329e9f009e8b146a969536ca3f7dd738f3
+FileChecksum: MD5: 30839883c2bd2d55952aaeba4cd50fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/figs/comparison_table.png
+SPDXID: SPDXRef-item14870426
+FileChecksum: SHA1: 745ba4c64b1f60ed5dc0e365437c6f8f9fbb6ccd
+FileChecksum: SHA256: c9157e6b616f2c04d06be9fc1e913973e8535c308eaf251f7b62e0842ae5e834
+FileChecksum: MD5: 3596808f30bab23b3944a583c35351b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/dynamic_simulation.md
+SPDXID: SPDXRef-item14870428
+FileChecksum: SHA1: c9685e7f8d26f21bece5d74ea149593813e039a2
+FileChecksum: SHA256: f8cee1a9786e3a3d47b281186cd1fad9aeefe6fd90c6e0118b16f0f288ed723d
+FileChecksum: MD5: 865827924aa1132dfab12be840ffc4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/generation_perturbations.md
+SPDXID: SPDXRef-item14870429
+FileChecksum: SHA1: 297e47444a3642c33a206a605972ab167405d0f4
+FileChecksum: SHA256: b534e853ed32bb379de642282671a5d1f71dc87855c3dbd9b872795369982a8f
+FileChecksum: MD5: 97a19892126216194bf932b6967d1b20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/outputs.md
+SPDXID: SPDXRef-item14870430
+FileChecksum: SHA1: a26d860f2878f4a2ba078fbc2b2225e0741abae6
+FileChecksum: SHA256: c3de3c67e7c996a7c3d42b7faeaddce742d8ce8ef18d5a27f5ab2acf2008df16
+FileChecksum: MD5: e19358c6dc31808d36f01a91717021ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/load_scenarios.md
+SPDXID: SPDXRef-item14870431
+FileChecksum: SHA1: db1ac920b6ddd8711b12aa5af9039362fa607ce4
+FileChecksum: SHA256: 137e719468897cdfe0e52670b446c43bdf724795a75ff6d23c7f3d81f4cd0a1c
+FileChecksum: MD5: 3f4e60d9c57c01377506d7a07e765a5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/network.md
+SPDXID: SPDXRef-item14870432
+FileChecksum: SHA1: c6f480ebc7307ace7118470a5034243ddd7f12cc
+FileChecksum: SHA256: 54e661cea2dfb7420b9a89fb87ff611059d6a35c1bd1eae0708a5ee933b2c7dd
+FileChecksum: MD5: eeab4d83ea65c4e0465719f219ccf75c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/getting_started.md
+SPDXID: SPDXRef-item14870433
+FileChecksum: SHA1: 13544a1919309bf2161face4f25566d51beaa71a
+FileChecksum: SHA256: dbe70d8632108346343fa904e3a16306d6af06d24948b7ecf42a73ebabcbe1ad
+FileChecksum: MD5: af4177d8ec7c1f2b96b479259357c922
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/topology_perturbations.md
+SPDXID: SPDXRef-item14870434
+FileChecksum: SHA1: 8ba7a3208c312a02425667ad47a88368010a559e
+FileChecksum: SHA256: eb4e038a839ab58c857d8b7e2e7ac9467babcb2a1d447a4d5bec4f1b1d6d8979
+FileChecksum: MD5: 505a4c2084701d9107bf06e36821316f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/docs/manual/admittance_perturbations.md
+SPDXID: SPDXRef-item14870435
+FileChecksum: SHA1: c80559dca1e490f836b9f78ea55e3bc688ef2421
+FileChecksum: SHA256: 962e0214f2b2285c0e5af91d310d030d97cf0e289d813cd1a2f3d0ae686e402e
+FileChecksum: MD5: 7fc0c31ceb22dfb6eb03fead4b06f665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/GOVERNANCE.md
+SPDXID: SPDXRef-item14870436
+FileChecksum: SHA1: 518dcb1644826a36989122e588e22c37efb3b70e
+FileChecksum: SHA256: cb2707b70e529075c76921cde2a478cbc0e8f3f8f57798384909f3c2c643feb8
+FileChecksum: MD5: 8936e2b545c46a8f1c7225b4170408e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/RELEASE.md
+SPDXID: SPDXRef-item14870437
+FileChecksum: SHA1: b35be25408b76d94f1395e45f4c745cf3b0e5530
+FileChecksum: SHA256: 1fe16ddee940e13a3a02c50c2fc0633fd69fd23c6dabff4a0eebf7da0fe113c9
+FileChecksum: MD5: 48cfb967b87ba7e22ec2b95653adbfe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.secrets.baseline
+SPDXID: SPDXRef-item14870439
+FileChecksum: SHA1: 614911cb439529509fd0d0c21429bbb36e34cc26
+FileChecksum: SHA256: 4635122a03bc5c903a986445fd486ab07637eaa7445cd5e139a1cb9e5dec5cbe
+FileChecksum: MD5: 981ab966d733442b01f87d153379f40e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/MANIFEST.in
+SPDXID: SPDXRef-item14870440
+FileChecksum: SHA1: 40a6c49dbc54d048ed24f00817fdf5d360dda7f8
+FileChecksum: SHA256: ca2c57b439ebaa8add5d858d7ecfa726c65553e84913b24323d5550ead2fc150
+FileChecksum: MD5: 08b1bf61cbab397032cf677c500aba20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.coverage
+SPDXID: SPDXRef-item14870441
+FileChecksum: SHA1: 074eb6c36651ff6b6a469778e1b63938493e4016
+FileChecksum: SHA256: 04b2922781ded11cba263b993887a94ec02339068b57e4e479a53ee071cd4716
+FileChecksum: MD5: 6a3e000b7b6295dc9e1bf352aa384344
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/CONTRIBUTING.md
+SPDXID: SPDXRef-item14870443
+FileChecksum: SHA1: 71655bfdc4202ae177386be749a79af91295d1cc
+FileChecksum: SHA256: e533757d4f310bc0110ca1c07d20466918225b56d436659640bca3e29ec99ad3
+FileChecksum: MD5: 7091abb2d44679ceec91d31cea445e93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/feature-proposal.md
+SPDXID: SPDXRef-item14870444
+FileChecksum: SHA1: 4bb0a9ce0f7c307198ef91f03f09073bea316a42
+FileChecksum: SHA256: dcb29ee16e262ab041b11a9052b29121d702ed19f31e978ba2a3e25f210b27f9
+FileChecksum: MD5: 59c2e14bb919778c22647212242e6e43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.github/workflows/deploy_docs.yaml
+SPDXID: SPDXRef-item14870447
+FileChecksum: SHA1: 3422c569731a15821b1ec78848316ef988c6f758
+FileChecksum: SHA256: 9cf38ff4d44a17c72774eed972896414cd5d532abc68ad6fc36c7b98c2822ffb
+FileChecksum: MD5: 1fcccaf2be37770c3e9585d4f100d8b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.github/workflows/release.yaml
+SPDXID: SPDXRef-item14870448
+FileChecksum: SHA1: 16f06fdc1793530f21dc16f630f2f9636e50a909
+FileChecksum: SHA256: 1915b52bc818fb752b6c5ffa468947363d28c261bb50d9a39f2afa3c8e0cc51b
+FileChecksum: MD5: 27235070e7a869e9993c2c44fa39f87a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.github/workflows/ci-build.yaml
+SPDXID: SPDXRef-item14870449
+FileChecksum: SHA1: 01e3775adf39204d6323ccf377533c2e59e1fc3e
+FileChecksum: SHA256: 364bc4ab7ac3a9ce2b12b55d8d656a8867003b5686fb579aaf54a18b4414e0ef
+FileChecksum: MD5: 8846bebc6d7f2e74ecad394b1cab3fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.github/workflows/scorecard.yml
+SPDXID: SPDXRef-item14870450
+FileChecksum: SHA1: fba8a532d5ae9ed4aa506090ed50a5768023d297
+FileChecksum: SHA256: 31728262ce400aedfea317bb28dcc64b2186cda1387a6d23b3f858fa66583448
+FileChecksum: MD5: d10f78a0fe5066324f894d30567c58a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/coveragerc
+SPDXID: SPDXRef-item14870451
+FileChecksum: SHA1: 5c1938e253e3a5e74274bd0a42578aec682f92f1
+FileChecksum: SHA256: dd4d77d30d5b037f6ec4ff747367b9e06cb540e9c469ab8cfe3cca1dc959e480
+FileChecksum: MD5: 900c65a131014c508e05a4bf639bba68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.gitignore
+SPDXID: SPDXRef-item14870452
+FileChecksum: SHA1: e6109de69ed2de813995f1491e48a0020dc8052f
+FileChecksum: SHA256: d47110c1e6de75cb62fbf86e3de3e1f984f30d102c6f14681ae6db8fe1ec5834
+FileChecksum: MD5: 80de3939f68a2d49dded80d62a003557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/SUPPORT.md
+SPDXID: SPDXRef-item14870453
+FileChecksum: SHA1: e52956ab3218f009d2310001cd288c2f13dcdc06
+FileChecksum: SHA256: e3748f2423a8a03f36c2b884bab828c938b2d93a05143f066717518de1826a79
+FileChecksum: MD5: c0486dfc01e96f5c2dc11eb802606c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.gitattributes
+SPDXID: SPDXRef-item14870454
+FileChecksum: SHA1: 4a5ce2904b7fb3c71f65cdcff4d15848e08bf828
+FileChecksum: SHA256: f7b4d53b3a08468742e55bbec33173a3faf896d9a3e86fa09f6c0359b2135f3e
+FileChecksum: MD5: bf7d30d784bf5b9eb27c35cc11ba919c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/notebooks/comparison_perturbations.ipynb
+SPDXID: SPDXRef-item14870458
+FileChecksum: SHA1: f4b3c233aaeedd992d6b9e6da5a56a52bfc30160
+FileChecksum: SHA256: 6226f4ab0d87c54bcb1f82cfe3d7dfc2b49bb6228197a70329133c825851a337
+FileChecksum: MD5: f445fd9e0c3bad7130e33bf5239bed38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/notebooks/development/test_load_partitions.py
+SPDXID: SPDXRef-item14870460
+FileChecksum: SHA1: 7cf25d6a2920717e325aa369a190b0081a5f9dc0
+FileChecksum: SHA256: 4b471d0065a39409ca1d48b3240cd157448e7dfc7b2ba15c668c7d224cc481e9
+FileChecksum: MD5: d499bd554c3aada0c21e55b6df7b3d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/notebooks/development/test_save_time.py
+SPDXID: SPDXRef-item14870461
+FileChecksum: SHA1: 15b9a98d15e9d31dc53ff800a99a34a51814a842
+FileChecksum: SHA256: 835c53a7566c968e88108f4d682e0acdfc6f773c49cf3f7f7b91ac30849eed72
+FileChecksum: MD5: 65942af395bf2c491ad136c7ce1428f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/notebooks/comparison_opf.ipynb
+SPDXID: SPDXRef-item14870462
+FileChecksum: SHA1: 9836dff564b6530a72c70f53d87e6f976259c15d
+FileChecksum: SHA256: 88070ab8f01c907151b09a227fc198633d460f3baaf8e74ee6ca58e286eb3e35
+FileChecksum: MD5: d9b6d8d3e9c04e0cac1ad36c93b9f4b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/parse_ipopt_logs.py
+SPDXID: SPDXRef-item14870463
+FileChecksum: SHA1: 332473c1e1ee68754c3a6a15a45ac398fee8b06e
+FileChecksum: SHA256: ff96e2f2b67b7f858318c7807a73f26dd8bbaf841f76445313a32c2930958851
+FileChecksum: MD5: ae240e66b40a260d7332c470198d1e64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/grids/Texas2k_case1_2016summerpeak.m
+SPDXID: SPDXRef-item14870465
+FileChecksum: SHA1: c7edd177c046f2f2681396a4226668f6099477f1
+FileChecksum: SHA256: 3744f75be7ca85456eb4ff2f365ebe0fdca78c8738ba8cce5506647207f0eb9d
+FileChecksum: MD5: 5c14f4af13ea9eae315876042b8e60df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/inputs/variables.csv
+SPDXID: SPDXRef-item14870468
+FileChecksum: SHA1: 2355af0171059db8b419f2b3cd67074592b5a361
+FileChecksum: SHA256: 7e1983ae76a576ac72aac99cab34f31cf537b6c4d0513dc49a7b8297a56e76e7
+FileChecksum: MD5: 6c4d31e3616323b35fcd0d9ac65350b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/inputs/events.csv
+SPDXID: SPDXRef-item14870469
+FileChecksum: SHA1: c14f59fc59db879c8b30b5630c8956f42b353e47
+FileChecksum: SHA256: 08ca9764f82944207fffacee3c38fe99ca134a4a28e0f44771093567eae82485
+FileChecksum: MD5: 5ff760342403d402c9befed3580d639a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/inputs/automation_systems.csv
+SPDXID: SPDXRef-item14870470
+FileChecksum: SHA1: 636f37e268b3fdecb54b6a7caab84767f7daf130
+FileChecksum: SHA256: a61ac5efcf77a1cbcb98ef75fa01d5c7721044e5638b6c542644f84051ad526e
+FileChecksum: MD5: bb5c6facd95d2a7eeb800f43e2abd811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/inputs/static_element_dynamic_models.csv
+SPDXID: SPDXRef-item14870471
+FileChecksum: SHA1: 055052734166617caf311b953c950081a43020d5
+FileChecksum: SHA256: 11a15e3f55f017ea69b0cb936a134bb256cd39c11a3f2c152e054493ea3b5861
+FileChecksum: MD5: 6022d90458976242f8da773150357008
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/.gitignore
+SPDXID: SPDXRef-item14870475
+FileChecksum: SHA1: f1d7d97e0e3843739a2de06aa43276e2d1b2d212
+FileChecksum: SHA256: b30d5762e5e7667dc65eeaeac44b989a7629d819f448d9b76fc547c8640b4f35
+FileChecksum: MD5: 13b12c24cf7c70f4b2f6fd13ba26836e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/run.py
+SPDXID: SPDXRef-item14870476
+FileChecksum: SHA1: 4c42d16b25b0dbd3e4e1d8c70369e2479fff470c
+FileChecksum: SHA256: 54783ece1d2855f41fb3f203916ff521d53459038a071a28263cd23b5872cf0f
+FileChecksum: MD5: fa98a3e78fc24b66bff88a35478ae52d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/README.md
+SPDXID: SPDXRef-item14870477
+FileChecksum: SHA1: afe28c1abf9a0751cf24bc5738afa99c3f4ac080
+FileChecksum: SHA256: b3b87a0d0acc8a670c98ab429a00f09e8f1dc2cdc4bdf36818fb43d2d62e8592
+FileChecksum: MD5: 93ab14a479b19f0de1fde2152d980cd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/dynamic_example/config.yaml
+SPDXID: SPDXRef-item14870478
+FileChecksum: SHA1: 9ad9d2ddc799406cf035c98f9c7a3d4623815ed3
+FileChecksum: SHA256: 28568a22a4ca28f6c8fb210baf5f574437b401a32019600beecc1e1eef4228c5
+FileChecksum: MD5: 1a717a693efabecad7498cf94025085b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/summary_data_gen.py
+SPDXID: SPDXRef-item14870479
+FileChecksum: SHA1: 7fe634ab66b7784728d919d732b7fc52ced7e5a0
+FileChecksum: SHA256: b6ff95f8e2cfd95f3218ed9f99780013cc53cc4d91798ad17c6bfd84df0a0efd
+FileChecksum: MD5: 30ff38e92643404e9fdadad79f4a7fe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/__init__.py
+SPDXID: SPDXRef-item14870480
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/debug.py
+SPDXID: SPDXRef-item14870481
+FileChecksum: SHA1: 0c9242b0002141615398517913576ce92189317f
+FileChecksum: SHA256: 5cc4d51a4d39b554abe544e8d41ae048942ee7f94d61ef15332caa6735a83803
+FileChecksum: MD5: aefd71ef1fd288163111decb4b875f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/interactive_interface.ipynb
+SPDXID: SPDXRef-item14870482
+FileChecksum: SHA1: dafd6ed4c1b28c43beecea838656ccf000efbf28
+FileChecksum: SHA256: 7b8a25e4354953e85e9f7051f5051adab59c12bd886163656c411f5c7f236413
+FileChecksum: MD5: b28dfd4fb977e04d06bcdeb2f1c85db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/convert_to_partitioned_parquet.py
+SPDXID: SPDXRef-item14870483
+FileChecksum: SHA1: eb47c37c2bff5486f128d0cdf51bb7e9ea3c946e
+FileChecksum: SHA256: 6d76810095dd6db39251c8e4f6e623fb0c8ab1ba34b1b187d531da5f4728c944
+FileChecksum: MD5: 653aef92e44fd31d44e600802b50413c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/config/default.yaml
+SPDXID: SPDXRef-item14870485
+FileChecksum: SHA1: 4a2d8194405061d2faea47205f2e10996deddb5e
+FileChecksum: SHA256: 881ce0281a828c1d549e18432ade1babf1a8397e44c07621580af88f4688146a
+FileChecksum: MD5: 1abf460d49dd60fa1fa409a49d4e16ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/config/Texas2k_case1_2016summerpeak.yaml
+SPDXID: SPDXRef-item14870486
+FileChecksum: SHA1: 9715f94d486656d9ca2c882f057abe997637126c
+FileChecksum: SHA256: 408c43e18806550176429d017a217dab8b8dd64837aebedb76396676648a95e5
+FileChecksum: MD5: e58d840c6b28e9daf5d74bb027acae7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/scripts/compare_parquet_files.py
+SPDXID: SPDXRef-item14870487
+FileChecksum: SHA1: bbc7f81a075784e013fb019b529e4061f20dc2c2
+FileChecksum: SHA256: 567a9b298de61cccc04e7acb0f547fc12b1286af233687261b4b1c78170522f5
+FileChecksum: MD5: 9152afd159f1d82c55983b36b58f5c65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/mkdocs.yml
+SPDXID: SPDXRef-item14870488
+FileChecksum: SHA1: 6ae8e4b5232725baab4a2ba06bd3f4e04427e8ab
+FileChecksum: SHA256: 67d1a265a0bf73d01428fee43e416094cc087f90d5dc39dcae13cf66ddeac4f3
+FileChecksum: MD5: ff12e83592d5aba74a404119de0228aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/README.md
+SPDXID: SPDXRef-item14870489
+FileChecksum: SHA1: d256d91d23777dad1f9953fb1c8ba5a280cbd33f
+FileChecksum: SHA256: 9b2e3a6046a7d6a6d7cbf1008a74a580ff040b4e31b5aa1cf079ab0f95596145
+FileChecksum: MD5: 85e20a6e03fccf830a97eccd9b2f75af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/save.py
+SPDXID: SPDXRef-item14870491
+FileChecksum: SHA1: 0eb08774f89bb45c0a4db8e35ef8f65c68d3de16
+FileChecksum: SHA256: bfb32fd37ce17870ea852843da4e2b2bf4726f876cdb554c3fdb4f0c7f16b29d
+FileChecksum: MD5: ffab0fc73eedf680b9b83e6f7d2fc11c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/interactive.py
+SPDXID: SPDXRef-item14870492
+FileChecksum: SHA1: eb3b4b31ca538c66e96c9e3ec6357ac55c71cb57
+FileChecksum: SHA256: 7272bf8bd5ca3899b3ca505b5a99e75222eb91594d1662f87263a852a058ebe9
+FileChecksum: MD5: 9ca3069809f825b3f63d1ed2bef12ddb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/cli.py
+SPDXID: SPDXRef-item14870493
+FileChecksum: SHA1: 63fb6be9919f7e600bfec0a85b08a2cf34a47666
+FileChecksum: SHA256: 3b16c77c2da6d6db35a319b7adf2190eba3ea3f00bf252d5dc9d13e621921186
+FileChecksum: MD5: e2fd3491efa185cd4ea1374552b316aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/grids/__init__.py
+SPDXID: SPDXRef-item14870495
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/column_names.py
+SPDXID: SPDXRef-item14870497
+FileChecksum: SHA1: 6c294826aaecccb315b1294256228cb28b5865db
+FileChecksum: SHA256: c7f32e1dc3f74ca599a677c4cd51dfd93505ec0044b33c5812deb5d751efe340
+FileChecksum: MD5: 4da9b436814800ac0064c6db9481b7f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/param_handler.py
+SPDXID: SPDXRef-item14870498
+FileChecksum: SHA1: 5888d5d3b1bbfd7f7843807cc34a2aed0c25af0e
+FileChecksum: SHA256: 73fa96576002231d9e09c0356d00e8cc041507ffda06c17fd48dae855396f365
+FileChecksum: MD5: 27797740258808538c818a8db68619c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/random_seed.py
+SPDXID: SPDXRef-item14870499
+FileChecksum: SHA1: 8c45488f1ee4ece0aa32b20f9f97835b5736dd2b
+FileChecksum: SHA256: d3a82de258d399a963d282b70cd374d3a5ee1c8f4bcf4dae1f8b0995640287fd
+FileChecksum: MD5: cafe0e6b47627ab571c90ed6413e5c58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/power_balance.py
+SPDXID: SPDXRef-item14870500
+FileChecksum: SHA1: 945e3edccd389d8d48c1eb08319754d0dd6bc506
+FileChecksum: SHA256: f8cd9a0899e61feb166d1acd723e28616964a48c770fb6467885210ee0a91860
+FileChecksum: MD5: 919010d779a027bc771074eba064441b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/stats.py
+SPDXID: SPDXRef-item14870501
+FileChecksum: SHA1: 67f2b010d92227f1d0317a69938204d45687c67b
+FileChecksum: SHA256: 76c830b3eaed7ea7dc73d4182ed4576aadf6dc70c16098df22aec8edef792a6a
+FileChecksum: MD5: 18b7389808e6f0a650170950fb4102fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/__init__.py
+SPDXID: SPDXRef-item14870502
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/utils/utils.py
+SPDXID: SPDXRef-item14870507
+FileChecksum: SHA1: ed0721821fed542acec62672700cfca47a419848
+FileChecksum: SHA256: 56da7d7cad447cb8c274f7cae2c62b7663c965838c0a8b902bac89a2669c16e4
+FileChecksum: MD5: b76562c1a4270dda67860e1b1cc41d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/process_dynamic.py
+SPDXID: SPDXRef-item14870509
+FileChecksum: SHA1: 826b14b9eeb8eed999949a25f166e71af6043cd4
+FileChecksum: SHA256: a45366abbccf6aa427c751f7d2fdfa43ae131c0cd93743a0ff5dcafaa739d2c8
+FileChecksum: MD5: 596500219d8a3501fd215197904e37a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/generate_dynamic.py
+SPDXID: SPDXRef-item14870510
+FileChecksum: SHA1: 82756eb3086f1f7c65d58537eb5646470456fbc1
+FileChecksum: SHA256: 97131f34d5e5e4fa36ad0ba319b5e1332058fdfd6f968c4f5b00e66ace0c5bf6
+FileChecksum: MD5: 1542f8bd15181db902c149f6cb6ff62e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/dynawo/__init__.py
+SPDXID: SPDXRef-item14870512
+FileChecksum: SHA1: e7c8d12efe5fae505c22181a75c5126cc736e606
+FileChecksum: SHA256: f098da465f8a801c39f6708c2b02c90f3b38b56bd062b9cc98a07d752d63607d
+FileChecksum: MD5: 417fd0e6d71337ecfaad7f6ea515790a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/dynawo/simulate.py
+SPDXID: SPDXRef-item14870513
+FileChecksum: SHA1: f59fd881586f8b4a37c1e2ac22b1ad284856fe65
+FileChecksum: SHA256: 7519ab69ce1e86771b4b18475f2d0fcdae35519014367e39e6127b76dc5c191e
+FileChecksum: MD5: 3972bdf3aa06aef1419b2eb8e3b56cb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/dynawo/api.py
+SPDXID: SPDXRef-item14870514
+FileChecksum: SHA1: cc36025607f2e1bac82ebafe58952f507e53b356
+FileChecksum: SHA256: 75cce736b63e2e326ac7936608ba2e203b9af3889bc5f0b950b4fdbf6a0ba0f9
+FileChecksum: MD5: 815f23e0672c27663d8e847605a68274
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/dynawo/utils.py
+SPDXID: SPDXRef-item14870515
+FileChecksum: SHA1: 20f6716dbb7122d741b3b0a430411622aac6de78
+FileChecksum: SHA256: 4b924d2ceae167ffd288611033ffeb47ab0ad381ec81131db3de2590954f2813
+FileChecksum: MD5: 4f5235120d50f245fbd1110bcb2738eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/dynamic/__init__.py
+SPDXID: SPDXRef-item14870516
+FileChecksum: SHA1: bf66e1c1d807db9d923305036fef67863153ca00
+FileChecksum: SHA256: 8337c8f826378586f99f3e03842dc0a9a3f5bc7507c8bb18cef14114948cd350
+FileChecksum: MD5: 6f697eec9669156a3064ff3739cc697d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/generate.py
+SPDXID: SPDXRef-item14870517
+FileChecksum: SHA1: ab81e72914a20c3ccebef73f9b6bfb45b4119ff3
+FileChecksum: SHA256: 3ba3f491c6604021624e246c27cad30c69f8f115d50da28771281ae5c9aa3240
+FileChecksum: MD5: c8e19619e4cd0f030e3a55d8430acd47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/powsybl/params.py
+SPDXID: SPDXRef-item14870519
+FileChecksum: SHA1: 4cc967f887f4f71240e3b49b656f98691caefc5b
+FileChecksum: SHA256: 3566e1eae187ac3fbe4648e16bad50b016f4615493052dd0497ae956a2eb3fd1
+FileChecksum: MD5: 2c75230dc227e1e25f851bcca14583aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/powsybl/preprocess.py
+SPDXID: SPDXRef-item14870520
+FileChecksum: SHA1: 1935fb16905025d726fd363c9008b48bb86d099e
+FileChecksum: SHA256: 41560df31b3815350ff122b1327dde4c9a43d8eb1e66a478ac601cba7e7853ac
+FileChecksum: MD5: 0a2f32435e7d3b98a8b0f7e52513234f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/powsybl/convert.py
+SPDXID: SPDXRef-item14870521
+FileChecksum: SHA1: 5ff880e7e2d3e0bc46abc6d925e8dd00b477f3e1
+FileChecksum: SHA256: b8e7422d9c138b7f8a7c753e904a098475427242bf456f725eb6a8f0cef9564e
+FileChecksum: MD5: ab28b7fcc140a475cbfe32c960099c54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/powsybl/__init__.py
+SPDXID: SPDXRef-item14870522
+FileChecksum: SHA1: 47faf6c583bdcd4a70ee8618daa274163af6577d
+FileChecksum: SHA256: c725de8796c07b23fc766a755091a06c699c360744f84f1dcf3ebd9ffba277d2
+FileChecksum: MD5: 0db09736a6b15b2b1b86dff69b35b67c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/powsybl/mapping.py
+SPDXID: SPDXRef-item14870523
+FileChecksum: SHA1: 517f23cbe519b984520bd78877e5db8bda414c71
+FileChecksum: SHA256: 6ea350c03d48e58715cd6dea05c6334cff544d63a345458d741ae74a8626fd25
+FileChecksum: MD5: f9eb9270d90a4b55455289af70a70057
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/powsybl/api.py
+SPDXID: SPDXRef-item14870524
+FileChecksum: SHA1: c7a84afc756fd5ab7275a00b8d8404991932b6dc
+FileChecksum: SHA256: a92d597e0b67eb0f510ea19c67b27b1acc59fa34b80ff956af52462d13e672c5
+FileChecksum: MD5: f0f1cc989c789bb67c7ce43e06a8f1d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/juliapkg.json
+SPDXID: SPDXRef-item14870525
+FileChecksum: SHA1: b6a1218cd0a8d74141a9f380fe1f67e6f672a6a2
+FileChecksum: SHA256: 1c949ed2625318911d683a2fdd3bd92b3a6d0e52193426757b68cdeaaf40379f
+FileChecksum: MD5: 01b6988265896183e9b4757b0cd53d3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/__init__.py
+SPDXID: SPDXRef-item14870526
+FileChecksum: SHA1: 5eef6d15994bce1472db87099844f5c5dbb85725
+FileChecksum: SHA256: 4472b2baae5eed7c3e431a709c82aebb72c557fbd61a4c1ed49a2d430019b8c2
+FileChecksum: MD5: bae4807d68ff86a46f5a8b1ace69739f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_coast.csv
+SPDXID: SPDXRef-item14870528
+FileChecksum: SHA1: 724ed790fe46e9e2237030b2bd46de9001a9b56d
+FileChecksum: SHA256: 042d838a15d90ab98e08c7b98dab19216de768c840e3e720247c105582f9e762
+FileChecksum: MD5: 3467bd3d79fcefc43e6f84cb954e98ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/eval_range.ipynb
+SPDXID: SPDXRef-item14870529
+FileChecksum: SHA1: 26b9346ab945418d00cb7e29c9ce015d52355de6
+FileChecksum: SHA256: a104681509f644c07c4d8fb74ec880fea75cfeb0c73d35174da4e1a8ac8b7801
+FileChecksum: MD5: e5e61d0e3f11454c9380e021d9d71cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_far_west.csv
+SPDXID: SPDXRef-item14870530
+FileChecksum: SHA1: 5883e577f040b1bec8f61d2ea9f1119eeb961d8c
+FileChecksum: SHA256: 8f42ac9088465663db186491918e9dbb4d958dddc3ce3f28d8983ae72162588f
+FileChecksum: MD5: 4507356eba247e481a8734baf16e3817
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_west.csv
+SPDXID: SPDXRef-item14870531
+FileChecksum: SHA1: 37a51b552b3e2bab1900dcbb966922c67b8754e2
+FileChecksum: SHA256: a308313b7daeb2c02c7d7681802cfa33e4d9b2db86689c8d196da7863e4c0109
+FileChecksum: MD5: 1d2f7c99d6963e73ed80d0690d00d312
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_south_central.csv
+SPDXID: SPDXRef-item14870532
+FileChecksum: SHA1: 47c1fc8e6c393ec6480d16855157bf0c90ee6483
+FileChecksum: SHA256: d3fbe13cfb3813901cded677ad2c9b6ecce3015937b4cb7f555e9c6c24b56176
+FileChecksum: MD5: 89379ab103a6bcd1bdd07cf424954b6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_north.csv
+SPDXID: SPDXRef-item14870533
+FileChecksum: SHA1: b23330f7dacd63f38efef50e7314fc35539003bc
+FileChecksum: SHA256: 442b82b07afa40d4a9723041c6d789b31e68a3b8e4da8535a613b269dc738e0d
+FileChecksum: MD5: 7272a1a74eae80a123e08a63448b9e1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_east.csv
+SPDXID: SPDXRef-item14870534
+FileChecksum: SHA1: 4b749bc7d60886b5b012139e7539838b4cfaa04c
+FileChecksum: SHA256: 04fe7efa344b23eb884ffc44747034ad4387e089c29930dde7d1c45b0ae91214
+FileChecksum: MD5: 76407d6e12a435e51625b7c5cfe72518
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_total.csv
+SPDXID: SPDXRef-item14870535
+FileChecksum: SHA1: cdce40211b05f64ae329b05d36edb751992210eb
+FileChecksum: SHA256: 564fc83acd18e14ff58d79fa2dc59bb2b9c542b378bd07baf52e7cda425e5063
+FileChecksum: MD5: 85e67df1a5bfcda41c3126483465fe32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/__init__.py
+SPDXID: SPDXRef-item14870536
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_north_central.csv
+SPDXID: SPDXRef-item14870537
+FileChecksum: SHA1: 01e59d647febd5142c54ac299394855756394979
+FileChecksum: SHA256: 9af1b913509bec9d1af82c19398f2703d3a96baf89bf104b34255bc2ce6719fc
+FileChecksum: MD5: 94dd20a4731f0ae03da3e0948e98038b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/default.csv
+SPDXID: SPDXRef-item14870538
+FileChecksum: SHA1: a65e42c06fa01fe6b58cda5ff22cdf5024b7d7f1
+FileChecksum: SHA256: 403bea23f66120dd6ebdcbcf84278b0f9ac70df5cb91fd9332cbc028602cee2b
+FileChecksum: MD5: 22698a19bd3a512f994838ede2521b4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/load_profiles/ercot_load_act_hr_2024_southern.csv
+SPDXID: SPDXRef-item14870539
+FileChecksum: SHA1: 74eaf4d194f86d06e446c604e6a42934ef6cdf0c
+FileChecksum: SHA256: 13e9db067c78d64e5742eaeee866aad71d8203e9265a1bd0f1a950ffda22f600
+FileChecksum: MD5: 961a0220bbbfc1c6dd7634f84b0452f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/process/solver_output.py
+SPDXID: SPDXRef-item14870542
+FileChecksum: SHA1: 836d6867b36b300ea8b461f8a48490b2c2751aa0
+FileChecksum: SHA256: 12c5d31597ba5185241dca67eb4e21b0a22264e3c3da45a1a3fda44c0061d8ce
+FileChecksum: MD5: fe334cd067bbe0895fdd5e6940cc84cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/process/process_network.py
+SPDXID: SPDXRef-item14870543
+FileChecksum: SHA1: b5ab81f9f3d3c0f99f42da2ec801b04f73bccb31
+FileChecksum: SHA256: 118f374d69402bf21d9cb846c90f97b922740b50339f3de460233609516a11d5
+FileChecksum: MD5: 3cd2a0158bc6824d69107c27becddc95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/process/solvers.py
+SPDXID: SPDXRef-item14870544
+FileChecksum: SHA1: 965650914b023ca77d9de5e888ba5a9eeb546ba4
+FileChecksum: SHA256: b1bf4f4c30b681430861242c113781da95b811353da8a3bebc2cc94fb4045854
+FileChecksum: MD5: b132ecde1f82bedcec1c728d7df69802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/process/__init__.py
+SPDXID: SPDXRef-item14870545
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/network.py
+SPDXID: SPDXRef-item14870546
+FileChecksum: SHA1: 472db3b7cd183f2904d24c40a281a507d46f5022
+FileChecksum: SHA256: 7cc9b5c0099909ba1283dec4877f09d2d696c651c5c0b196c5b2979a11e2f02f
+FileChecksum: MD5: 717aca2f0598a8b35d6f8f4e441cd734
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/validation.py
+SPDXID: SPDXRef-item14870547
+FileChecksum: SHA1: 145eac71c90bc7c517cba0891047d5d5d700eca4
+FileChecksum: SHA256: 4e20f75aa687bd5f3b833a03568a32acfb4fce6af921401506e5308baa6d4c90
+FileChecksum: MD5: f971142369c63cf0cb89b4b1c4401f3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/perturbations/load_perturbation.py
+SPDXID: SPDXRef-item14870549
+FileChecksum: SHA1: a826f458380a06ff4c676c642dc94c07df5a0e2a
+FileChecksum: SHA256: 57cba9ed21cc394dc84708409652297d7e06868ca96c959ecec58ce31639270a
+FileChecksum: MD5: 1ced9e52e378ab42707e614d8b593cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/perturbations/admittance_perturbation.py
+SPDXID: SPDXRef-item14870550
+FileChecksum: SHA1: d6ab7862595ad4a589f4b887cf6aa59f777afeea
+FileChecksum: SHA256: 2e7fce635607503f06ed788607a70dc4fd47a45f0ac95cde0fbc41be801e1ed0
+FileChecksum: MD5: 55827a18140a4bbedcd9672949744457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/perturbations/generator_perturbation.py
+SPDXID: SPDXRef-item14870551
+FileChecksum: SHA1: c69e5ae730d07f1d7c700dd424c308afb3c6c40c
+FileChecksum: SHA256: ccf61d2fc02b7fee85a3ce277679a0b12ecf0b70324442315bfc28f9ea928aae
+FileChecksum: MD5: b51068dd7c0fe793c78cb261067f448a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/perturbations/__init__.py
+SPDXID: SPDXRef-item14870552
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/gridfm_datakit/perturbations/topology_perturbation.py
+SPDXID: SPDXRef-item14870553
+FileChecksum: SHA1: 3485f46327141aa6dd55357bfecea67b6432d705
+FileChecksum: SHA256: 46c999b3e8d384b21e9e66cc3f94b9991c057fc64977f5d414e06525c2f886ef
+FileChecksum: MD5: 9b7e01ab9000bcaf60d34223499001fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/SECURITY.md
+SPDXID: SPDXRef-item14870554
+FileChecksum: SHA1: 601fa857e0d71e1761287f57db577b0e7c06d766
+FileChecksum: SHA256: 69fa0f09fe3c0cfc8bbc91dd0fd9054037f12ba3b43c2a98772ed2bbaa1b5811
+FileChecksum: MD5: e2dc4273122a90c28b8a9faa0f4c57d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.whitesource
+SPDXID: SPDXRef-item14870555
+FileChecksum: SHA1: 5a0364d5b8988359587a05d4dd0a2a5ae071278a
+FileChecksum: SHA256: 6435ca759fd51d87ff05b7aed54d061fd387a0974da5d5e584322f9b006670a3
+FileChecksum: MD5: c7c9fc3b6a263570f97dbe3846b57976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/pfdelta/README.md
+SPDXID: SPDXRef-item14870557
+FileChecksum: SHA1: 5bbb13b886bab959608110f4b7a0ae635084b508
+FileChecksum: SHA256: cab30a346a52dd4a5d18b7dbb001fc83fe428ffbfc8da990a22909ac18c4c25d
+FileChecksum: MD5: 7e361b8b3e7e18682ae042b752b559b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/pfdelta/batch_convert_pfdelta.py
+SPDXID: SPDXRef-item14870558
+FileChecksum: SHA1: a95d3b41d7e9a3d19f4baee0903899919b48198b
+FileChecksum: SHA256: 1ba4545f75dc43cd40d42b12b3c6fefbfd0d3b1e3c70806568fce2f50b3095b5
+FileChecksum: MD5: 8403358ef002d95567e735ff02e7779c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/COMMITTERS.csv
+SPDXID: SPDXRef-item14870559
+FileChecksum: SHA1: fff929942bb4e287ed68c0c4557550605cf3c121
+FileChecksum: SHA256: 8402a750879b051012ce291067bb68d729408edb980721acd51ecdaf0619121d
+FileChecksum: MD5: 6dcffadf63aab6c88f3c22917c695ad9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/.pre-commit-config.yaml
+SPDXID: SPDXRef-item14870560
+FileChecksum: SHA1: 53e62a65df36186af46b01af473539c775edc886
+FileChecksum: SHA256: 2307b0e872002fbee2928f323bb073e278a79b8bee7e73daa42e7f0e87813ab6
+FileChecksum: MD5: 53ef7004b56e9249e0f13f4eec4928b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/opf_data/README.md
+SPDXID: SPDXRef-item14870562
+FileChecksum: SHA1: 14b6c904392f1ec3e6671632a05ec0b1c13458ce
+FileChecksum: SHA256: 764302108c6ae16a311ed2ed6569f0ef70a032d64c290ac64d974babcee7645d
+FileChecksum: MD5: eb9d5acf478f8aa1ff0c87688570ade3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: gridfm-2026-09-16.zip/gridfm-datakit/opf_data/batch_convert.py
+SPDXID: SPDXRef-item14870563
+FileChecksum: SHA1: 92f4a5b4ea9aea21e6768a1af4b3b5fc44d7c0b5
+FileChecksum: SHA256: a1f385b01e92c8f4510d3295fc8d86460960f87a692da6583bbb873e7dec8786
+FileChecksum: MD5: 89515bf57c8e54d2414830bbb2512c30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-EPL
+LicenseName: EPL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
