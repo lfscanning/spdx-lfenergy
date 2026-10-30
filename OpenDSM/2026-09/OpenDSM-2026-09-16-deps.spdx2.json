@@ -1,0 +1,520 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T16:34:24Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
+            "licenseId": "LicenseRef-NOASSERTION"
+        }
+    ],
+    "name": "/tmp/tmpgrc7ahwo/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpgrc7ahwo/code-9df9bd99-b585-4c0b-ba21-94848ed78a99",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-a0a1ce949e67960b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "opendsm-website-prerelease/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "90b2dfc94f0d1ff858b3fb673f1ba540f59e3566"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-25022ba2b959e88a",
+            "description": "Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/griffe@0.47.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/griffe",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "griffe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "0.47.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-46d25181d65a58c1",
+            "description": "Project documentation with Markdown.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs@1.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND CC0-1.0 AND MIT AND MIT AND OFL-1.1 AND MIT AND MIT) OR (GPL-2.0-only AND LicenseRef-NOASSERTION AND OFL-1.1 AND MIT)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "mkdocs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "1.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f04808289c494fa5",
+            "description": "Automatically link across pages in MkDocs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-autorefs@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/autorefs",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "mkdocs-autorefs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-52c3662582a10bb8",
+            "description": "An extra command for MkDocs that infers required PyPI packages from `plugins` in mkdocs.yml",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-get-deps@0.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-get-deps",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: MkDocs",
+            "versionInfo": "0.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8ea3b46c8449e0f",
+            "description": "Mkdocs plugin that enables displaying the localized date of the last git modification of a markdown file.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-git-revision-date-localized-plugin@1.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/timvink/mkdocs-git-revision-date-localized-plugin",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-git-revision-date-localized-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Tim Vink",
+            "versionInfo": "1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b3df5ecad15f121",
+            "description": "Unleash the power of MkDocs with macros and variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-macros-plugin@1.3.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/fralau/mkdocs_macros_plugin",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "mkdocs-macros-plugin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Laurent Franceschetti",
+            "versionInfo": "1.3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f66f244b11c24e16",
+            "description": "Documentation that simply works",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material@9.5.29",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "0BSD AND MIT AND Apache-2.0 AND MIT AND LicenseRef-NOASSERTION AND BSD-3-Clause AND CC-BY-4.0 AND MIT AND OFL-1.1 AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Martin Donath",
+            "versionInfo": "9.5.29"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d544faf009ab14ba",
+            "description": "Extension pack for Python Markdown and MkDocs Material.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-material-extensions@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/mkdocs-material-extensions",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-material-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-387460eabb9f80a8",
+            "description": "MkDocs plugin to allow clickable sections that lead to an index page",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-section-index@0.3.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-section-index",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Oleh Prypin",
+            "versionInfo": "0.3.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b4b7863960ff6733",
+            "description": "A MkDocs plugin that adds support for site-relative URLs",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocs-site-urls@0.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OctoPrint/mkdocs-site-urls",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0",
+            "licenseDeclared": "MIT",
+            "name": "mkdocs-site-urls",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: OctoPrint",
+            "versionInfo": "0.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75e942745b95815f",
+            "description": "Automatic documentation from sources, for MkDocs.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocstrings@0.25.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "mkdocstrings",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "0.25.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8ca0aa9434ff2d16",
+            "description": "A Python handler for mkdocstrings.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mkdocstrings-python@1.10.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mkdocstrings.github.io/python",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "mkdocstrings-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: mkdocstrings",
+            "versionInfo": "1.10.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cdfabcb422b7c672",
+            "description": "Extension pack for Python Markdown.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pymdown-extensions@10.15",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/facelessuser/pymdown-extensions",
+            "licenseConcluded": "(MIT AND LicenseRef-scancode-unknown-license-reference) AND MIT AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND MIT AND BSD-3-Clause AND MIT AND CC-BY-4.0",
+            "licenseDeclared": "BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "name": "pymdown-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: opendsm-website-prerelease/requirements.txt",
+            "supplier": "Organization: Isaac Muse",
+            "versionInfo": "10.15"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "lfenergy.OpenDSM",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-caltrack",
+            "comment": "This package was added to the Trivy analysis for the caltrack by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/caltrack/archive/6b630eeefd6d3a7b1249f3d26548aced65b98b17.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/caltrack@6b630eeefd6d3a7b1249f3d26548aced65b98b17",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "caltrack",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "6b630eeefd6d3a7b1249f3d26548aced65b98b17"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-eeweather",
+            "comment": "This package was added to the Trivy analysis for the eeweather by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/eeweather/archive/7997914cb63ddd81c9bde7a7e0e4b259990ae78e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/eeweather@7997914cb63ddd81c9bde7a7e0e4b259990ae78e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "eeweather",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7997914cb63ddd81c9bde7a7e0e4b259990ae78e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-opendsm",
+            "comment": "This package was added to the Trivy analysis for the opendsm by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/opendsm/archive/4ded7aec70c841b62ad1ec31415971bfce515260.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/opendsm@4ded7aec70c841b62ad1ec31415971bfce515260",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "opendsm",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4ded7aec70c841b62ad1ec31415971bfce515260"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-opendsm-website",
+            "comment": "This package was added to the Trivy analysis for the opendsm-website by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/opendsm-website/archive/22798ff49bb23796021e836975614a944b14beb9.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/opendsm-website@22798ff49bb23796021e836975614a944b14beb9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "opendsm-website",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "22798ff49bb23796021e836975614a944b14beb9"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-OpenDSM-opendsm-website-prerelease",
+            "comment": "This package was added to the Trivy analysis for the opendsm-website-prerelease by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/opendsm/opendsm-website-prerelease/archive/90b2dfc94f0d1ff858b3fb673f1ba540f59e3566.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/opendsm/opendsm-website-prerelease@90b2dfc94f0d1ff858b3fb673f1ba540f59e3566",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND BSD-3-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "opendsm-website-prerelease",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "90b2dfc94f0d1ff858b3fb673f1ba540f59e3566"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-1b3df5ecad15f121",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-25022ba2b959e88a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-387460eabb9f80a8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-46d25181d65a58c1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-52c3662582a10bb8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-75e942745b95815f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-8ca0aa9434ff2d16",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-b4b7863960ff6733",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-cdfabcb422b7c672",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-d544faf009ab14ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-e8ea3b46c8449e0f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-f04808289c494fa5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a0a1ce949e67960b",
+            "relatedSpdxElement": "SPDXRef-Package-f66f244b11c24e16",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-OpenDSM-opendsm-website-prerelease",
+            "relatedSpdxElement": "SPDXRef-Application-a0a1ce949e67960b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-caltrack",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-eeweather",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-opendsm",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-opendsm-website",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b4a929f351b2aca5",
+            "relatedSpdxElement": "SPDXRef-lfenergy-OpenDSM-opendsm-website-prerelease",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
