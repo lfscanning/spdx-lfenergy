@@ -1,0 +1,377 @@
+{
+    "@context": "https://spdx.org/rdf/3.0.1/spdx-context.jsonld",
+    "@graph": [
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo0",
+            "created": "2026-10-30T17:41:48Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd7",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd3",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd2"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd4",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd6",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd5",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd0",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd1"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo1",
+            "comment": "This is a generated SPDX License object from the SPDX license list",
+            "created": "2026-09-16T00:00:00Z",
+            "createdBy": [
+                "https://spdx.org/licenses/creatoragent/3_29_0"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo2",
+            "created": "2026-10-30T17:41:48Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd29",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd30",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd34"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd27",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd28",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd32",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd33",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd31"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd10",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd11"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd11",
+            "software_downloadLocation": "https://github.com/fidopower/optimal_sizing_placement/archive/fe9159e6bf55e9378b509efce8933907f8da02c9.zip",
+            "software_packageUrl": "pkg:github/fidopower/optimal_sizing_placement@fe9159e6bf55e9378b509efce8933907f8da02c9",
+            "software_packageVersion": "fe9159e6bf55e9378b509efce8933907f8da02c9",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd15",
+            "comment": "This package was added to the Trivy analysis for the optimal_sizing_placement by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": "optimal_sizing_placement"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd12",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd13"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd13",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/BSD-3-Clause",
+                "http://spdx.org/licenses/MIT",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd14"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_CustomLicense",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd14",
+            "simplelicensing_licenseText": "BSD (version unspecified)",
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "creationInfo": "_:CreationInfo0",
+            "name": ""
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd15",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project lfenergy"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd16",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/BSD-3-Clause"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd17",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd18"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd18",
+            "software_downloadLocation": "https://github.com/fidopower/model_viewer/archive/4cd76f65638a44ffe80ec8d46ef2465378c54c28.zip",
+            "software_packageUrl": "pkg:github/fidopower/model_viewer@4cd76f65638a44ffe80ec8d46ef2465378c54c28",
+            "software_packageVersion": "4cd76f65638a44ffe80ec8d46ef2465378c54c28",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd21",
+            "comment": "This package was added to the Trivy analysis for the model_viewer by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": "model_viewer"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd19",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd18",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd20"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd2",
+            "creationInfo": "_:CreationInfo0",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd20",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/BSD-3-Clause",
+                "http://spdx.org/licenses/MIT",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd14"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd21",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project lfenergy"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd22",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd18",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/BSD-3-Clause"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd23",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd24"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd24",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/BSD-3-Clause",
+                "http://spdx.org/licenses/MIT",
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd14"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd25",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project lfenergy"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd26",
+            "from": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/BSD-3-Clause"
+            ],
+            "creationInfo": "_:CreationInfo0"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd29",
+            "creationInfo": "_:CreationInfo2",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd3",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd30",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd34",
+            "creationInfo": "_:CreationInfo2",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "expandedlicensing_CustomLicense",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd35",
+            "simplelicensing_licenseText": "BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions.",
+            "comment": "",
+            "creationInfo": "_:CreationInfo0",
+            "name": "BSD"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd7",
+            "creationInfo": "_:CreationInfo0",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "2026-09",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "suppliedBy": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd25",
+            "creationInfo": "_:CreationInfo0",
+            "name": "lfenergy.FIDOPower"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd1",
+            "creationInfo": "_:CreationInfo0",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd27",
+            "creationInfo": "_:CreationInfo2",
+            "name": "protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd28",
+            "creationInfo": "_:CreationInfo2",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd31",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd32",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd33",
+            "creationInfo": "_:CreationInfo2",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd4",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd5",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/additionalToolSPDXRef-gnrtd6",
+            "creationInfo": "_:CreationInfo0",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "SpdxDocument",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/document0",
+            "dataLicense": "http://spdx.org/licenses/CC0-1.0",
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/sbom"
+            ],
+            "creationInfo": "_:CreationInfo2",
+            "name": "/tmp/tmpxvlry7_y/code"
+        },
+        {
+            "type": "software_Sbom",
+            "spdxId": "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/sbom",
+            "software_sbomType": [
+                "source"
+            ],
+            "element": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9"
+            ],
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-lfenergy/FIDOPower/2026-09/lfenergy-FIDOPower-full/9d650729-2ecf-4c85-82a3-892501c6944f-specv3/SPDXRef-gnrtd9"
+            ],
+            "creationInfo": "_:CreationInfo2"
+        },
+        {
+            "type": "Agent",
+            "spdxId": "https://spdx.org/licenses/creatoragent/3_29_0",
+            "creationInfo": "_:CreationInfo1",
+            "description": "This object is created and maintained by the SPDX legal team (https://spdx.dev/engage/participate/legal-team/)",
+            "name": "SPDX Legal Team"
+        }
+    ]
+}
