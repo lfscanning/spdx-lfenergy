@@ -1,0 +1,4267 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T18:18:11Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "BSD License",
+            "licenseId": "LicenseRef-fixed-0x4565436803fa65da"
+        },
+        {
+            "extractedText": "Python Software Foundation License",
+            "licenseId": "LicenseRef-fixed-0x432316e7d852ae99"
+        },
+        {
+            "extractedText": "((Apache-2.0 OR LGPL-3.0-only) AND BSD-3-Clause) AND CC0-1.0 AND (Apache-2.0 AND BSD-3-Clause) AND (BSD-3-Clause AND CC0-1.0) AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND (NCSA OR MIT) AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND Apache-2.0 AND (0BSD OR CC0-1.0 OR WTFPL OR Apache-2.0 OR LGPL-2.0-or-later) AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSL-1.0 AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND GPL-3.0-only AND Apache-2.0 AND LicenseRef-scancode-unknown AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND MIT AND Apache-2.0 OR GPL-2.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-3-Clause-Attribution AND GPL-3.0-only WITH GCC-exception-3.1 AND LGPL-2.1-or-later AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND (BSD-3-Clause AND Apache-2.0) AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND MIT AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND GPL-2.0-or-later WITH Linux-syscall-note AND GPL-2.0-or-later AND LGPL-2.1-or-later AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-spdx AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND (Zlib AND MIT) AND LicenseRef-scancode-generic-exception AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib AND Zlib AND BSD-3-Clause",
+            "licenseId": "LicenseRef-fixed-0x72e6ad6bdc696b8b"
+        },
+        {
+            "extractedText": "((Apache-2.0 OR LGPL-3.0-only) AND BSD-3-Clause) AND CC0-1.0 AND (Apache-2.0 AND BSD-3-Clause) AND (BSD-3-Clause AND CC0-1.0) AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND (NCSA OR MIT) AND BSD-3-Clause AND 0BSD AND Apache-2.0 AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND GPL-3.0-only AND Apache-2.0 AND LicenseRef-scancode-unknown AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND MIT AND Apache-2.0 OR GPL-2.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-3-Clause-Attribution AND GPL-3.0-only WITH GCC-exception-3.1 AND LGPL-2.1-or-later AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND (BSD-3-Clause AND Apache-2.0) AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND BSD-3-Clause AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND (Zlib AND MIT) AND LicenseRef-scancode-generic-exception AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib AND Zlib AND BSD-3-Clause",
+            "licenseId": "LicenseRef-fixed-0x1cd8a2933a210891"
+        },
+        {
+            "extractedText": "(Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause) AND (Apache-2.0 AND BSD-2-Clause) AND (Apache-2.0 AND (MIT OR Apache-2.0) AND BSD-3-Clause AND MPL-2.0) AND (Classpath-exception-2.0 AND GCC-exception-3.1 AND (MIT OR Apache-2.0)) AND (CC0-1.0 AND Apache-2.0 AND BSD-2-Clause) AND (Apache-2.0 AND BSD-2-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND (Apache-2.0 OR GPL-2.0-or-later) AND BSD-2-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-2-Clause OR Apache-2.0) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause OR Apache-2.0 AND LicenseRef-scancode-unknown AND (Classpath-exception-2.0 AND GCC-exception-3.1 AND (MIT OR Apache-2.0)) AND MIT AND (Apache-2.0 AND BSD-2-Clause)",
+            "licenseId": "LicenseRef-fixed-0x3109ad623dff1ff8"
+        },
+        {
+            "extractedText": "(BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference) AND LicenseRef-scancode-unknown-license-reference AND (GPL-2.0-or-later AND LGPL-2.0-or-later) AND GPL-1.0-or-later AND (GPL-2.0-or-later WITH Autoconf-exception-generic AND GPL-1.0-or-later) AND (LicenseRef-scancode-generic-exception AND LicenseRef-scancode-warranty-disclaimer) AND (LGPL-2.1-only WITH Qt-LGPL-exception-1.1 OR GPL-3.0-only OR LicenseRef-scancode-commercial-license) AND LicenseRef-scancode-generic-exception AND (LGPL-3.0-only OR MPL-2.0) AND (MPL-1.0 OR GPL-2.0-or-later OR LGPL-2.0-or-later) AND AFL-3.0 AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND LLVM-exception AND Apache-2.0 AND LicenseRef-scancode-bsl-1.0 AND BSD-2-Clause AND BSD-2-Clause AND (LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-unknown-license-reference) AND BSD-3-Clause AND BSL-1.0 AND CPL-1.0 AND GPL-1.0-or-later AND GPL-2.0+ AND GPL-2.0-or-later AND GPL-2.0-or-later AND GPL-2.0-or-later AND ((GPL-2.0-or-later OR BSD-3-Clause) AND GPL-2.0-or-later) AND (GPL-1.0-or-later AND GPL-2.0-or-later) AND GPL-2.0-or-later AND GPL-2.0-only AND GPL-1.0-or-later AND BSD-2-Clause AND GPL-2.0-or-later WITH Autoconf-exception-generic AND LicenseRef-scancode-warranty-disclaimer AND GPL-2.0-or-later WITH Bison-exception-1.24 AND GPL-2.0-or-later WITH harbour-exception AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-2.0-or-later AND LGPL-2.0-or-later WITH OCaml-LGPL-linking-exception AND LGPL-2.1-only AND LGPL-2.1-only WITH Qt-LGPL-exception-1.1 OR GPL-3.0-only OR LicenseRef-scancode-commercial-license AND LGPL-2.1-or-later AND LGPL-3.0-only AND LicenseRef-scancode-iso-8879 AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-pipedream-sal-1.0 AND BSL-1.0 AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain-disclaimer AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-spdx AND LicenseRef-scancode-warranty-disclaimer AND MIT AND MIT AND (MIT AND LicenseRef-scancode-proprietary-license) AND MIT AND AGPL-3.0-or-later AND AGPL-3.0-only AND MIT AND BSD-2-Clause AND MIT-Modern-Variant AND MPL-1.1 OR GPL-2.0-or-later OR LGPL-2.1-or-later AND MPL-2.0 AND PostgreSQL",
+            "licenseId": "LicenseRef-fixed-0x2788bc2a4306bf09"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND LicenseRef-scancode-other-permissive AND GPL-1.0-or-later AND Apache-2.0) AND (BSD-3-Clause AND GPL-1.0-or-later) AND (BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer) AND BSD-3-Clause AND (BSD-3-Clause AND MIT AND BSD-3-Clause-LBNL) AND (LicenseRef-scancode-dhb-lbnl-bsd-2007 AND Apache-2.0 AND LLVM-exception) AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND Apache-2.0 AND BSL-1.0 AND LicenseRef-scancode-warranty-disclaimer AND Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND (MIT AND BSL-1.0 AND BSD-3-Clause) AND Qhull AND (BSD-3-Clause AND BSD-3-Clause-LBNL AND Apache-2.0 AND LLVM-exception) AND MIT AND (BSD-3-Clause AND MIT) AND BSL-1.0 AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND LicenseRef-scancode-proprietary-license AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause AND GPL-1.0-or-later) AND (CC-BY-SA-3.0 AND BSD-3-Clause) AND GPL-1.0-or-later AND BSD-3-Clause AND (GPL-3.0-only AND BSD-3-Clause) AND BSD-3-Clause AND BSD-3-Clause-LBNL AND BSD-3-Clause AND BSD-3-Clause-LBNL AND Apache-2.0 AND LLVM-exception AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND BSD-3-Clause AND BSD-3-Clause-Open-MPI AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND LGPL-2.1-or-later AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-other-permissive AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND BSD-3-Clause AND MIT AND BSD-3-Clause AND Minpack AND BSL-1.0 AND BSL-1.0 AND BSD-3-Clause AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-unknown AND BSD-3-Clause AND MIT AND (LGPL-2.1-or-later AND LGPL-2.0-or-later) AND Apache-2.0 AND (GPL-2.0-or-later AND GPL-1.0-or-later) AND (MIT AND Apache-2.0) AND bzip2-1.0.6 AND ISC AND Python-2.0 AND LicenseRef-scancode-proprietary-license AND BSD-2-Clause AND (CC-PDDC AND BSD-3-Clause AND BSD-2-Clause AND ZPL-2.1) AND (MIT AND PSF-2.0) AND Unlicense AND ((EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND GPL-2.0-or-later AND LGPL-3.0-or-later) AND (GPL-2.0-or-later AND LGPL-3.0-or-later) AND (LGPL-3.0-or-later AND LGPL-2.0-or-later) AND MPL-2.0 AND GPL-3.0-only AND (Apache-2.0 AND LLVM-exception) AND (GPL-3.0-only AND GCC-exception-3.1 AND GPL-1.0-or-later) AND LGPL-2.1-only AND 0BSD AND (LGPL-2.1-only AND GPL-1.0-or-later) AND blessing AND LGPL-2.1-or-later AND (MIT AND BSD-3-Clause-Clear) AND Zlib AND (MPL-2.0 AND Apache-2.0) AND (LGPL-3.0-only AND LGPL-2.0-or-later) AND (X11 AND BSD-3-Clause) AND Linux-OpenIB AND (GPL-3.0-only AND GPL-1.0-or-later) AND (0BSD AND CC0-1.0) AND BSL-1.0 AND TCL AND PSF-2.0 AND (BSD-3-Clause AND MPL-2.0) AND LicenseRef-scancode-unknown AND BSD-3-Clause AND MIT AND (LGPL-3.0-or-later AND CC-BY-SA-3.0 AND LGPL-2.0-or-later) AND (LGPL-2.1-or-later AND GPL-1.0-or-later) AND BSD-2-Clause AND Apache-2.0 AND (LGPL-2.1-or-later AND LGPL-2.0-or-later) AND LGPL-2.0-or-later AND (GPL-2.0-or-later AND GPL-1.0-or-later) AND GPL-3.0-only AND bzip2-1.0.6 AND (NCSA AND BSD-3-Clause) AND ISC AND (LGPL-2.1-only AND MPL-1.1) AND (GPL-3.0-only AND GPL-1.0-or-later) AND APSL-2.0 AND (Apache-2.0 AND LLVM-exception) AND (GPL-3.0-only AND GCC-exception-3.1 AND GPL-1.0-or-later) AND Python-2.0 AND LicenseRef-scancode-proprietary-license AND BSD-3-Clause-Attribution AND PSF-2.0 AND (CC-PDDC AND BSD-3-Clause AND BSD-2-Clause AND ZPL-2.1) AND (MIT AND PSF-2.0) AND Unlicense AND OFL-1.1 AND Ubuntu-font-1.0 AND MPL-2.0 AND GPL-2.0-only AND LGPL-2.1-or-later AND ((EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND LGPL-2.1-or-later AND LGPL-2.0-or-later) AND ((GPL-2.0-or-later OR LGPL-2.0-or-later) AND LGPL-2.1-or-later) AND (LGPL-3.0-only AND LGPL-2.0-or-later) AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-1.0-or-later) AND (Zlib AND GPL-3.0-only AND GCC-exception-3.1 AND GPL-1.0-or-later) AND (GPL-2.0-or-later AND LGPL-3.0-or-later) AND (LGPL-3.0-or-later AND LGPL-2.0-or-later) AND LGPL-3.0-or-later AND (LGPL-3.0-or-later AND (Apache-2.0 OR LGPL-3.0-only)) AND ((GPL-2.0-or-later OR LGPL-2.0-or-later) AND LGPL-2.0-or-later) AND EPL-1.0 AND ((GPL-2.0-or-later OR LGPL-2.0-or-later) AND LGPL-2.0-or-later AND GPL-2.0-or-later AND GPL-1.0-or-later) AND BSL-1.0 AND GD AND LGPL-2.1-only AND (IJG AND BSD-3-Clause) AND 0BSD AND (LGPL-2.1-only AND GPL-1.0-or-later) AND zlib-acknowledgement AND PostgreSQL AND blessing AND HPND AND (MIT AND BSD-3-Clause-Clear) AND Zlib AND (MPL-2.0 AND Apache-2.0) AND (X11 AND BSD-3-Clause) AND OLDAP-2.8 AND Linux-OpenIB AND (0BSD AND CC0-1.0) AND (LGPL-2.1-or-later AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0) AND (LGPL-2.0-or-later AND GPL-2.0-or-later AND GPL-1.0-or-later) AND NCSA AND TCL AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND EPL-1.0 AND MIT-0 AND PSF-2.0 AND Qhull AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x58747e4ef2ba15da"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND LicenseRef-scancode-other-permissive AND GPL-1.0-or-later AND Apache-2.0) AND (BSD-3-Clause AND GPL-1.0-or-later) AND (BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer) AND BSD-3-Clause AND (BSD-3-Clause AND MIT AND BSD-3-Clause-LBNL) AND (LicenseRef-scancode-dhb-lbnl-bsd-2007 AND Apache-2.0 AND LLVM-exception) AND (BSD-3-Clause OR GPL-2.0-or-later) AND (BSD-3-Clause AND GPL-2.0-or-later) AND (BSD-3-Clause OR GPL-2.0-or-later) AND (BSD-3-Clause AND GPL-2.0-or-later) AND BSD-3-Clause AND (BSD-3-Clause OR GPL-2.0-or-later) AND BSD-3-Clause AND (BSD-3-Clause OR GPL-2.0-or-later) AND BSD-3-Clause AND GPL-2.0-only AND (BSD-3-Clause OR GPL-2.0-or-later) AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0 AND Apache-2.0 AND BSL-1.0 AND Apache-2.0 AND BSL-1.0 AND LicenseRef-scancode-warranty-disclaimer AND Apache-2.0 AND MIT AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND (MIT AND BSL-1.0 AND BSD-3-Clause) AND Qhull AND (BSD-3-Clause AND BSD-3-Clause-LBNL AND Apache-2.0 AND LLVM-exception) AND MIT AND (BSD-3-Clause AND MIT) AND BSL-1.0 AND BSD-2-Clause AND BSL-1.0 AND MIT AND BSD-2-Clause AND LicenseRef-scancode-proprietary-license AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause AND GPL-1.0-or-later) AND (CC-BY-SA-3.0 AND BSD-3-Clause) AND GPL-1.0-or-later AND BSD-3-Clause AND (BSD-3-Clause OR GPL-2.0-only) AND GPL-2.0-or-later AND BSD-3-Clause AND (GPL-3.0-only AND BSD-3-Clause) AND BSD-3-Clause AND BSD-3-Clause-LBNL AND BSD-3-Clause AND BSD-3-Clause-LBNL AND Apache-2.0 AND LLVM-exception AND BSD-3-Clause AND Boehm-GC AND BSD-3-Clause AND LGPL-2.0-or-later AND BSD-3-Clause AND LicenseRef-scancode-other-permissive AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-warranty-disclaimer AND BSD-3-Clause AND MIT AND BSD-3-Clause OR Apache-2.0 AND BSL-1.0 AND BSL-1.0 AND BSD-3-Clause AND BSL-1.0 AND LicenseRef-scancode-unknown-license-reference AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-unknown AND BSD-3-Clause AND (LGPL-2.1-or-later AND GPL-1.0-or-later) AND MIT AND ((EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND LGPL-2.1-or-later AND LGPL-2.0-or-later) AND (LGPL-2.1-or-later AND LGPL-2.0-or-later) AND LGPL-2.0-or-later AND (GPL-2.0-or-later AND GPL-1.0-or-later) AND (BSD-3-Clause AND EPL-2.0) AND (GPL-3.0-only AND GPL-1.0-or-later) AND bzip2-1.0.6 AND (LGPL-2.1-only AND MPL-1.1) AND GPL-3.0-only AND (GPL-3.0-only AND GCC-exception-3.1) AND (GPL-3.0-only AND GCC-exception-3.1 AND GPL-1.0-or-later) AND Apache-2.0 AND LicenseRef-scancode-proprietary-license AND BSD-3-Clause-Attribution AND (AFL-2.1 AND GPL-2.0-or-later) AND GPL-2.0-only AND LGPL-2.1-or-later AND (GPL-2.0-or-later AND LGPL-3.0-or-later) AND (LGPL-3.0-or-later AND LGPL-2.0-or-later) AND ((GPL-2.0-or-later OR LGPL-2.0-or-later) AND LGPL-2.0-or-later) AND EPL-1.0 AND BSL-1.0 AND (LGPL-2.1-or-later AND GPL-2.0-or-later AND Apache-2.0) AND (Apache-2.0 AND LLVM-exception) AND BSD-2-Clause AND GD AND LGPL-2.1-only AND (IJG AND BSD-3-Clause) AND 0BSD AND (LGPL-2.1-only AND GPL-1.0-or-later) AND (GPL-3.0-or-later AND GPL-1.0-or-later) AND zlib-acknowledgement AND PostgreSQL AND ISC AND ((EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND LGPL-2.0-or-later) AND (GPL-2.0-or-later AND (GPL-2.0-or-later OR LGPL-2.0-or-later)) AND blessing AND HPND AND Zlib AND PSF-2.0 AND (MPL-2.0 AND Apache-2.0) AND (LGPL-3.0-only AND LGPL-2.0-or-later) AND (X11 AND BSD-3-Clause) AND OLDAP-2.8 AND ((EPL-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later) AND GPL-2.0-or-later AND GPL-1.0-or-later) AND ((MIT OR Apache-2.0 OR EPL-2.0 OR LGPL-3.0-or-later OR GPL-3.0-or-later) AND LGPL-2.0-or-later) AND Python-2.0 AND Linux-OpenIB AND (LGPL-2.1-or-later AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0) AND TCL AND MPL-2.0 AND (LGPL-3.0-or-later AND CC-BY-SA-3.0 AND LGPL-2.0-or-later) AND (CC-PDDC AND BSD-3-Clause AND BSD-2-Clause AND ZPL-2.1) AND (MIT AND PSF-2.0) AND Unlicense AND OFL-1.1 AND Ubuntu-font-1.0 AND (LGPL-2.0-or-later AND GPL-2.0-or-later AND GPL-1.0-or-later) AND (NCSA AND BSD-3-Clause) AND APSL-2.0 AND (GPL-3.0-or-later AND GCC-exception-3.1 AND GPL-1.0-or-later) AND (Zlib AND GPL-3.0-only AND GCC-exception-3.1 AND GPL-1.0-or-later) AND NCSA AND (MIT AND BSD-3-Clause-Clear) AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT AND EPL-1.0 AND MIT-0 AND PSF-2.0 AND Qhull AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x65821fa71ae04e06"
+        },
+        {
+            "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
+            "licenseId": "LicenseRef-NOASSERTION"
+        },
+        {
+            "extractedText": "License by Nomos.",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        },
+        {
+            "extractedText": "An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license.",
+            "licenseId": "LicenseRef-fossology-UnclassifiedLicense",
+            "name": "UnclassifiedLicense"
+        }
+    ],
+    "name": "/tmp/tmpp599pv1b/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-lfenergy/assetlife-project/2026-09/lfenergy-assetlife-project-full/5c200506-baa4-4e4d-aabe-ca9f87263845",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-a7aa0e3eea166b8d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "assetlife/uv.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "311a4a58c3ce347cb0e5da98f8ac43dc17f4ae7d"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-28e6065e12bc2565",
+            "description": "A light, configurable Sphinx theme",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/alabaster@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://alabaster.readthedocs.io/",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "alabaster",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ecf58a53928aec80",
+            "description": "Python library leveraging stochastic modeling to guide decision-making in asset management",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/assetlife@0.1.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "assetlife",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "versionInfo": "0.1.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8340ce543aca8c06",
+            "description": "Internationalization utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/babel@2.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://babel.pocoo.org/",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unicode AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND CC0-1.0 AND LicenseRef-scancode-jython AND Apache-2.0 AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-spdx AND BSD-3-Clause AND Unicode-3.0",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "babel",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: python-babel",
+            "versionInfo": "2.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a45863c80da86eb0",
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2026.7.22",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0 AND MPL-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2026.7.22"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f6dd5b0749c36136",
+            "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@3.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(0BSD AND MPL-1.1) AND LGPL-2.0-or-later AND (0BSD AND MIT) AND CC-BY-SA-3.0 AND MIT AND MIT AND (0BSD AND MPL-1.1) AND LGPL-2.0-or-later AND (0BSD AND MIT) AND MIT AND LicenseRef-scancode-warranty-disclaimer",
+            "licenseDeclared": "MIT",
+            "name": "charset-normalizer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Jawah",
+            "versionInfo": "3.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eff3520bd323dad",
+            "description": "Cross-platform colored terminal text.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/colorama@0.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tartley/colorama",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "colorama",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Jonathan Hartley",
+            "versionInfo": "0.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0a008d7b96fad10",
+            "description": "Python library for calculating contours of 2D quadrilateral grids",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/contourpy@1.3.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/contourpy/contourpy",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "contourpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: contourpy",
+            "versionInfo": "1.3.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d24886eacbffc14a",
+            "description": "Composable style cycles",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cycler@0.12.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-3-Clause AND MIT",
+            "name": "cycler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "0.12.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3d622db447e16dd5",
+            "description": "Docutils -- Python Documentation Utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/docutils@0.22.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docutils.sourceforge.io",
+            "licenseConcluded": "(BSD-2-Clause AND FSFAP) AND BSD-3-Clause AND (BSD-3-Clause AND BSD-2-Clause) AND BSD-2-Clause AND (LicenseRef-scancode-public-domain AND BSD-3-Clause AND GPL-1.0-or-later) AND (LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND BSD-2-Clause AND GPL-3.0-only) AND LicenseRef-scancode-public-domain AND 0BSD AND BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-2-Clause AND FSFAP AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-public-domain AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND (LicenseRef-scancode-public-domain AND CC-PDDC) AND (BSD-3-Clause AND BSD-2-Clause) AND (GPL-3.0-or-later AND BSD-3-Clause AND BSD-2-Clause) AND (GPL-3.0-or-later AND GPL-3.0-only) AND (GPL-1.0-or-later AND BSD-2-Clause AND BSD-3-Clause) AND (LicenseRef-scancode-free-unknown AND LicenseRef-scancode-other-copyleft) AND LicenseRef-scancode-public-domain AND BSD-2-Clause AND LicenseRef-scancode-public-domain AND BSD-3-Clause AND 0BSD AND LicenseRef-scancode-public-domain AND BSD-3-Clause AND GPL-1.0-or-later AND LicenseRef-scancode-public-domain AND CC0-1.0 AND LicenseRef-scancode-public-domain AND ZPL-2.1 AND BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause AND CC-PDDC AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND LicenseRef-scancode-free-unknown AND LicenseRef-scancode-other-copyleft AND LicenseRef-scancode-public-domain",
+            "name": "docutils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "versionInfo": "0.22.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ab9b123ec6667c56",
+            "description": "Tools to manipulate font files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fonttools@4.65.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/fonttools/fonttools",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "NONE",
+            "name": "fonttools",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: FontTools",
+            "versionInfo": "4.65.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c3e426a7216a0423",
+            "description": "Internationalized Domain Names in Applications (IDNA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/idna@3.19",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "idna",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Kim Davies",
+            "versionInfo": "3.19"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61760e68accd0746",
+            "description": "Get image size from headers (BMP/PNG/JPEG/JPEG2000/GIF/TIFF/SVG/Netpbm/WebP/AVIF/HEIC/HEIF)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/imagesize@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "imagesize",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Yoshiki Shibukawa",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-823642243dbd3865",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.1.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9e9c84ae39f910d0",
+            "description": "A fast implementation of the Cassowary constraint solver",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/kiwisolver@1.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x4565436803fa65da",
+            "licenseDeclared": "NONE",
+            "name": "kiwisolver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: nucleic",
+            "versionInfo": "1.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-555253971150877e",
+            "description": "Safely add untrusted strings to HTML/XML markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/markupsafe@3.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "markupsafe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "description": "Python plotting package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/matplotlib@3.11.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://matplotlib.org",
+            "licenseConcluded": "LicenseRef-fixed-0x432316e7d852ae99",
+            "licenseDeclared": "NONE",
+            "name": "matplotlib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Matplotlib Developers",
+            "versionInfo": "3.11.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2a41ebe05995f67c",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x72e6ad6bdc696b8b",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ffdbea439023639",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x1cd8a2933a210891",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-71bffbbfd3500c6c",
+            "description": "Static typing compatibility layer for older versions of NumPy",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy-typing-compat@20260602.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "NONE",
+            "name": "numpy-typing-compat",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Joren Hammudoglu",
+            "versionInfo": "20260602.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ef4311848728caf5",
+            "description": "Static typing compatibility layer for older versions of NumPy",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy-typing-compat@20251206.2.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "numpy-typing-compat",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Joren Hammudoglu",
+            "versionInfo": "20251206.2.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a51cb06b6f6583e2",
+            "description": "Sphinx extension to support docstrings in Numpy format",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpydoc@1.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://numpydoc.readthedocs.io",
+            "licenseConcluded": "LicenseRef-fixed-0x4565436803fa65da",
+            "licenseDeclared": "NONE",
+            "name": "numpydoc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "1.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2c6b1d7093c8498",
+            "description": "Building Blocks for Precise & Flexible Type Hints",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/optype@0.17.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "NONE",
+            "name": "optype",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Joren Hammudoglu",
+            "versionInfo": "0.17.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b43d4d463380342",
+            "description": "Building Blocks for Precise & Flexible Type Hints",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/optype@0.18.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "NONE",
+            "name": "optype",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Joren Hammudoglu",
+            "versionInfo": "0.18.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-309e59e801f04911",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@26.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x3109ad623dff1ff8",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "26.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5689426b2172fee4",
+            "description": "Python Imaging Library (fork)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pillow@12.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-pillow.org",
+            "licenseConcluded": "0BSD AND MIT",
+            "licenseDeclared": "NONE",
+            "name": "pillow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Pillow",
+            "versionInfo": "12.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d228ea188903d514",
+            "description": "Pygments is a syntax highlighting package written in Python.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pygments@2.21.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pygments.org",
+            "licenseConcluded": "LicenseRef-fixed-0x2788bc2a4306bf09",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "pygments",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: pygments",
+            "versionInfo": "2.21.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a37f12a35049920e",
+            "description": "pyparsing - Classes and methods to define and execute parsing grammars",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyparsing@3.3.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyparsing/pyparsing/",
+            "licenseConcluded": "(GPL-1.0-or-later AND MIT) AND MIT AND GPL-3.0-only AND BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND MIT AND MIT AND MIT-CMU AND Python-2.0 AND MIT",
+            "licenseDeclared": "MIT AND Python-2.0",
+            "name": "pyparsing",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Pyparsing",
+            "versionInfo": "3.3.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f9e4aec5f7441e55",
+            "description": "Extensions to the standard Python datetime module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND (Python-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "name": "python-dateutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: dateutil",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a088d7229a676035",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.34.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.34.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ff0be861863cc59",
+            "description": "Manipulate well-formed Roman numerals",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/roman-numerals@4.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(0BSD AND CC0-1.0) AND (BSD-3-Clause AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference) AND (BSD-3-Clause AND CC0-1.0) AND (0BSD AND CC0-1.0) AND 0BSD AND CC0-1.0 AND BSD-3-Clause AND CC0-1.0 AND BSD-3-Clause AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-3-Clause AND 0BSD AND CC0-1.0 AND LicenseRef-scancode-unknown-license-reference",
+            "name": "roman-numerals",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Adam Turner",
+            "versionInfo": "4.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-96b19732f839947f",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.17.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x58747e4ef2ba15da",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.17.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dc55665d40e6eb06",
+            "description": "Fundamental algorithms for scientific computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/scipy@1.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x65821fa71ae04e06",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "scipy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: SciPy",
+            "versionInfo": "1.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-45af16015982be3",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d4a7c96c577ca3f3",
+            "description": "This package provides 36 stemmers for 34 languages generated from Snowball algorithms.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/snowballstemmer@3.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/snowballstem/snowball",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "snowballstemmer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Snowball Stemming language and algorithms",
+            "versionInfo": "3.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1170278692580641",
+            "description": "Python documentation generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx@9.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause",
+            "licenseDeclared": "NONE",
+            "name": "sphinx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "9.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9d9a46519c0e6743",
+            "description": "Python documentation generator",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinx@9.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-2-Clause AND LGPL-3.0-only AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND (BSD-2-Clause-Views AND BSD-2-Clause) AND BSD-2-Clause-Views AND BSD-2-Clause AND HaskellReport AND MIT AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "licenseDeclared": "BSD-2-Clause-Views AND BSD-2-Clause AND LGPL-3.0-only",
+            "name": "sphinx",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "9.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-421d86980ed9695d",
+            "description": "sphinxcontrib-applehelp is a Sphinx extension which outputs Apple help books",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-applehelp@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sphinxcontrib-applehelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3222b5556d9dea8d",
+            "description": "sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp documents",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-devhelp@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "sphinxcontrib-devhelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-17156d382f8faf20",
+            "description": "sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-htmlhelp@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "sphinxcontrib-htmlhelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8a7e297bbc63075",
+            "description": "A sphinx extension which renders display math in HTML via JavaScript",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-jsmath@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "sphinxcontrib-jsmath",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-12f260215fa5e6e1",
+            "description": "sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp documents",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-qthelp@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sphinxcontrib-qthelp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4f0db1886f52a743",
+            "description": "sphinxcontrib-serializinghtml is a sphinx extension which outputs \"serialized\" HTML files (json and pickle)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/sphinxcontrib-serializinghtml@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.sphinx-doc.org/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND LicenseRef-NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "sphinxcontrib-serializinghtml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Sphinx",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9d2b86ceca00c6a7",
+            "description": "Backported and Experimental Type Hints for Python 3.9+",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/typing-extensions@4.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/typing_extensions",
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Python-2.0 AND GPL-1.0-or-later AND BSD-3-Clause AND 0BSD AND Python-2.0 AND GPL-1.0-or-later AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseDeclared": "Python-2.0 AND GPL-1.0-or-later AND Python-2.0 AND BSD-3-Clause AND Python-2.0 AND BSD-3-Clause AND 0BSD",
+            "name": "typing-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "4.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-98671db75b84042d",
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@2.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: assetlife/uv.lock",
+            "supplier": "Organization: urllib3",
+            "versionInfo": "2.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-fe5e78d8857c9c95",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause",
+            "name": "lfenergy.assetlife-project",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "comment": "This package was added to the Trivy analysis for the assetlife by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/assetlife-project/assetlife/archive/311a4a58c3ce347cb0e5da98f8ac43dc17f4ae7d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/assetlife-project/assetlife@311a4a58c3ce347cb0e5da98f8ac43dc17f4ae7d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause",
+            "name": "assetlife",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "311a4a58c3ce347cb0e5da98f8ac43dc17f4ae7d"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item15415006",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "39413685083449ad0f48294ca800fd341a663f5eee5d5d8840fb1622a4176cb4"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c7bb4e64316a62157eb565dd0edc61f7e998cabf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "61027f0eb087c50b006cdcf8ad1a9d79"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/CODE_OF_CONDUCT.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415007",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49a506dd32096b010d75205acf3430c9ae6c40351888129499e5a5e487126c93"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c0479ff484dacd51dc5ba0461b16b9bf"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "56d82d930855f2b801ddc5b7b28abae5a86ee034"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.python-version",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415009",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2be856df3072a41f2d96bfb2c33ccf896dd30d82"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e33bf74d59130029ba24168a813112dd923d7044d780ce942db6645d93f56acf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "45ecc4dd568420521f285e291939ecf1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/Makefile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415010",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef366ce7777e7a9eeac10d85ef3cab546141ccf2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2f82394fbb835088f01b231127ecbd1684fad6cc48c82b9a62e2722edf1cfa70"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "31a400c00b28c398f2490a8f05b6e168"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/make.bat",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415011",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2f5e8bfc819cdf41a03ec2d2c5ba67e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7e48d15dafb129b7437e96100ed0d5e7f04b4082"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d92fc698623827d7204139dee7874fbd7447f9256b8199acbd71cf8ee53d6f64"
+                }
+            ],
+            "copyrightText": "Copyright (c) 2018, pandas All rights reserved.",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/LICENSE.txt",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseInfoInFiles": [
+                "BSD-3-Clause"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415013",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0e4f86b0b8a8144c869485bbf4dcc843"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2de23b662784275c7d43acf52689375a9d9f9f2b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c78466a202911eb2cc9261574f7906d80c8614c29fb3b49a9865214638d2a820"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/docs_versioning_build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415014",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9d8562e08b15aeae00467bdce24e7757"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6365f05e66779e85e818707efbdb7a2e0616be7b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d2931663940999c8a071e07bc2c820326d1c7ede77fc061abdcdbdc219e18a2b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/index.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415015",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f78cf6184117d7f20ffd299a5e512a27"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "447f3d07c52280ad3e0c264dae4a7efaebbb7725"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "445bec6e102eff294d0d495d61a27aa521f73c595e270ed254324531e0a16771"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/install.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415017",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f49504446278561f1a9586423cedbe3899f2eebf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b904884f58e609fb72b395fa9d18af0efdbf6fe79c27ca2e0cd60a3b60ddf4e5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b8b87337a50f1159d5f32530f50d4526"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/function_template.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415018",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1318e52c5abc7f01ea95d5758509377b"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7d663bb14698318a0dacec462f258f5de0a9a1f4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6899b6361848a9ace0480a28e8e52fc5521d915c392477aafd2dbce921d7697e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/class_template.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415019",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bba18d07b95acc1c5b9f8473a83e5551585ca6b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "901ef1a8a1464341ff8f15c28df36fa519697089fbd6507c0f12fddf5effeeb7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5f773ae430d753979b93c514f3ef407a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/version.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415020",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8cc86bd196f89cfa4f4f71976acf433e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a46a842849edc19fb0263dc5d33ea082b0e67ba5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "08361f97c676b9a77813a631a2be419afb8dcbbc51a44b8c445ec03c19b9a246"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/data_template.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415021",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2e4ff9bed7f1cefb34966c682ffd11c06697cbf3dcf1e3ec08f51716708c0049"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "79fdca073eb9c65a5c080fa1b0feb78f"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "38637e8a4ccd14dd6c5e5b775fbe91d5bb9ce3dd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_templates/index.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-UnclassifiedLicense"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415023",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cdef6b4b272a98682edf27a6da69a98f4e369968"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d01e9a1d27ecbf82bad31f2002aeaa098976fceb5e65c9b1f4f6518505ecc0b5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1704e794c5b33c96c77f136bd3fd3a7d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/api/index.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415026",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "835c718fa5333022ceef796de965f76719390df6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2fe4de266ee522a7e760cc198faeb37c4e73d4b5ca32cbdad728a143e7382be2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5de2912e19550ceda82a5c66d70332b8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/css/custom.css",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415027",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "74c673998d7aa5ff9e0a8576dab9c54da9c88e7cf6a3d470d91c1bfbf110208b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0b2c2d144db05b09799b8c8fb87e9e60"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e995508ae8b8cefbd94a6d4bf296bb0f554e71c9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/custom-icon.js",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415028",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6129340c5c05825f746d1833e3a46da04f396c89"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9faf503c893e8256f716a2f215e97a532f0ca00ccc3e62330b02b29e163c35c5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "556c6e399ea981429fb6d3fb9548f34b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-color.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415029",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ec46f58bb765d900a766261d5c0d9073"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6339dd0b96563e453faead71818bae79330f67ae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1f9c57d76538981aa497caff0de01818f820481fda551d869008f0c6c15b5958"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-icon-white.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415030",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c2d1e5c35a9b1667357e77cc5106065af8144392"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c92d244e64e0d8c83db341472755778017dcc1a595a6e67f31528a228b2a532a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0d34261ad42fa1876d4c99030f9b2ec1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-icon-color.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415031",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "15e0103aad3ce91b79d849a82e66fe5db474c04c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0f534a3899b0ab7e154b8ddd1fdddc6f9e479365ac0c605163a93664aa59e0a8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d8740bc0fe92593222ec877b976706a7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-color.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415032",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5b6353cf015e7ceefbfa09e3bc787784bf4104aa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "293f3b6aa46ec4f8b00b4225e0ede4839364d790a1dfa2eabbbfb186911de252"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f8f94ef7e3b7cbb8a650883c5b1bdca0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-white.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415033",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "97097e0c54db0b75cf4b055c2b66189a"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "14e66717b97c928f314cda1354418d5f4fc5b15d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "11269e3cf100ad83cb18ceb1356a48553e9dc469e0dd7bda94f44ca82566b2aa"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/assetlife-horizontal-white.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415034",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b8687a287cfbfc14b1f399fc454438bc"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a840b015e4bd0be4dc07ea995c4171122e960559"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "addbca390e133d0ed63fc82c2594caa9b72de94e501ebad443b7b46f393dc3c9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/workflow.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415035",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f30d71b0c05012e43e62a34315e73bff2454bd05"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "167e254f15c400c893c8224e7563587d7f9eb73594796469d07aebf283e1b35f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "eb2bbfba03a7ffc21fe8789704d9e3ba"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/artelys.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415036",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6a4ddbc3477873597da7c39af94341e5"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7c85423a05d81eab1b8e8cd4e5a4e62052db620"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "16f4715a323fd9f310dc1e6bc9eef35666ddfae5722d9c27c98abf3cf1ab6cef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/_static/rte.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415037",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d81f685a86672375eddaf4629f7d804a1aa9a383d9712433f407a5c2a9636854"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f9130757f5ff23cf54b031965371cee4"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4ee3eb6b646d88ee36324c15de903c4e98cc7db7"
+                }
+            ],
+            "copyrightText": "copyright = f\"2007 - {datetime.now().year}, {author} (Apache 2.0 License)\" version = get_version(\"assetlife\")",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/conf.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415039",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d61ba31b4d3b8365d10fe7e900332ebe"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6569d2464233575ea1e78bbe36875d3dfeed3df2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "55e2b09edae02823e876eb8fb35e1d6d746e596e3b44e8478edc3e43b0af8cc5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/non_parametric_lifetime_models.ipynb",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415040",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f979628b2a5f3251180486ff89ad8d4d"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "55e7c854e0c34c74adb98d871c03071e397e5dd6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6cb4f454ad6917d3d8ec51a68014c788ef4052f2efe600206ac082eaea253412"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/about_numpy.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415041",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e5d42ef4c03c2481a621b5776ee16c60"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a4a575765377440df9595c01217e46def7ff2b29"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a508662f1f059399ae612ddd11f855acbcf0faa0b97cb364c018548e7d667f49"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/index.rst",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415042",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9b833574a87359af1650d437b1e26b4a388a9727"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "54902e2b5e12e592a80ccaedc29a4704f78a5cf4db46d19bc3f2813e0ba154c9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a5ed1fbc39bf8ed4f48ed992223ddc8e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/lifetime_distributions.ipynb",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415043",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f6c19611477d169fa87c50174c03aec3911e1e74"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d43d8bd344be08bfcd4b1d5fd2553950cfee15b35e7c14b4819d9d43c892e29b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cc62b4c98144d8e95f6c3bf3e6cda33e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/lifetime_regressions.ipynb",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415044",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "48715928cfbfbaf2df398b827f7c9931"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "24e1132b6a7e6cc29b887aee08b7be1ae910147c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "84a2c4260148ad048243b359deb18be5b8022e190fdb7121e1e712e7235d1505"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/sampling.ipynb",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415045",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ea7fb9ac3ce2ef6e14478d782382ea16ebfba3458081b58e69158bec60b330e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "502f509513b1965fb05b215c23a186de"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "118272f63dfd5ee6c2ad72364286cf7be77cf593"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/workflow_demo.ipynb",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415046",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c9abf32dd9e053345a1ca1cae66861160d6c64cd8bef11f223ad6d187697246d"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fe81fe1bf7f66778f17888fdb0173f70166fdbea"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4efd5f961fba3f0e889aef6ababa2a80"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/docs/source/user_guides/semiparametric_regression.ipynb",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415047",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5cbbbb3ad1123fcb9a7b7db8722c9a5bbc75406f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5d54042f671a17912f4f0781e0c8f3ad646963333eba7720d7b1e7ec1cd67f92"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4da6ecc9b535e69034db3c5dc20faf04"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/CNAME",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415048",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                }
+            ],
+            "copyrightText": "copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner]",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415049",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5507a54f873e99fc1e0dcd5d4dfee9c34f9735f0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bc2f85a8b02d8233874a600f45f5fec051558747f8731b8cba72997312ee2295"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c1df734f598b19092c1bc8a49ea23288"
+                }
+            ],
+            "copyrightText": "copyright FIX\", # flake8-fixme D\", # pydocstyle COM812\", # conflict with formatter docstring-missing-returns\", # pydoclint raise-vanilla-args\", # tryceratops non-empty-init-module\", # ruff",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/pyproject.toml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415050",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3ee163433fe2398635283db52ebe324bb2fe0c1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0af48a57df0b45168d2eae42a9db3462"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "501b00af269116df43aeba575bbf44d6c43039612c26a54f03bb23cdc1797f22"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/CONTRIBUTING.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415054",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/tests/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415055",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1ebc1b5ee76b70b60ebedefde70385280432ac75c75debb785483702f5c0fae0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4912f14fde3651f7076f560c48a8f0fe"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5979e794f85e166b9ec4a77482106ab5a58e00aa"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/tests/test_quadratures.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415056",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "892233c201dee866b6ce76faec81f49b0b6dbed2a992c03471ebfd4bd2f3608e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f4426fb4dfba376d11029e94cbb0d898"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1f040d3b86138c851a61977a34b087a8f880ae21"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/tests/test_base.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415059",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/tests/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415060",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/tests/test_nhpp_data.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415061",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "01d900a7bc347b89867aaadd92156129"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5cd4d619d554f140abfe02a056584b8cac5621c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4f96156f24fe547cde352a32593eccb95bd50d09a0dcb1aa4b3430ba002bf63"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415063",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "710a6c6bae8dc1faa7f22cad0f21feb64a0a963395d495137c865065ab2fceba"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ad18eb133d582e0da15ec85b46d29ffa"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1862ebbb769946f6b81e9f834b2cb49985e3c4e7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/power_transformer.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415064",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "258e45caeebc9a8dfb25c95317b1914368186165"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e0f2c17e67fd488e1a949a0bbcd0f4fff2b758810d7dc762449ef56bc9ebb47f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a7d674d1652d1c4b8fc077b382150370"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/insulator_string.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415065",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fa3fc5a0322dca4a5ecdb91d4aa1c3eff43eeac3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8353edb5574e1c35c493d43329f6e73d81117835d6713d1bd6402bd4a0ead498"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3add30aada1bf83b960d127368a492d5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/input_turnbull.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415066",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415067",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a0c5802daddea4bca48c257f47c2790a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "640abe65605f37e30ce930158327120c02eb621d070cd9326822ac3d8d57729d"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7efcedd788e7bcab021b4d84f59ff24561ebf5ba"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/csv/circuit_breaker.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415068",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "05b9fa25bf6bd30f1a5a6c3260a80885"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a6a0198a8c224151a02f8e0a741d421826b0db08"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "92f38c2e22decdb3c3b9a52fde93bcfb9587ade539036b8073268d7a94d8ae4e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/datasets/load.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415071",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "31f3e8a21b03bbac65856e851e7ab4154de02eb6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2a5e7e44692ebca19068525a4503f69607100d029a48032f4deb41e86c82ad5f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c5372899b546dd917397da74ff2d7dc6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/tests/conftest.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415072",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ab7ea90030e7c8003c2cb74774f7dc79"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bbc2229c46125dfcfd575adfddb3a80c5f04c3c7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "00e5ce568f5cbef1ef381496e624d34fa18e6343d58a3c52ea70668f17e1c4e7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/tests/test_iterables.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415073",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/tests/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415074",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "65bc38c7772fd4107dfda5cdce87ff1c0cc43a181563e3482d86027e41094064"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a6976af955ec9ce0f0513902b7834e85"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "11ab262fdfc6536f5aa3ba2b06f8ad0833910f29"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_base.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415075",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "92ddd5748a03a0cf37ce78ef8ccfe343"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "849ff0e7584f4786386eff1c74376c53273ddd97"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ef67f61eaf3286b7db4a70b79cbdbff99f5f2f4be20dd5e4cefe66fb181fe47a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415076",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0877ad7ffe00f606dbd00318dd2acf1a3b6a17217f8135628433a52a672db49a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2b0d4d1cda9f80cc3635c2dcce121463"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "66434b27b8196c45c19e15bb5c9235db164f6c89"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_iterables.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415077",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d88cc31bc8f3ddd54789167914f8aaee"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "663dc2a566949411ea920edc767ba31031a445fb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4730d1b0516ecd69f2b12a8b7ffd75865ed268b8e08aae44416b3e1db9e4a763"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_sample_processes.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415078",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "efabe57b9e3e1ea910bd1ac67f62634a"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c631fac1088aead5dbc3cf213a847e7dea277fa5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "01549a8935002afd1cd1dd10a00e3da4a8ef3400b306c16e308976919e4b6b32"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_iterators.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415079",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ab3753e71b7730be3f8683a60a787202e45368de"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a28352a143e666168a94df620097440dea94ae5d57ee2def05ddeb6d9c4dacba"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "97e4d82905a6becb45c16a046cbd26b3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/sampling/_sample_lifetimes.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415081",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e0e5e68cba2c1c1e34fae0344ace4c955d5c71ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1c5359ca6edcc27370a4dbc0c56066107df6bdfd25ca3e6f05de7a8df08b4249"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "87e7089eb98fc48db3bda121283aed67"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_semi_parametric_regressions.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415083",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fd2c16c8a9bcf6b8c15bb1bedac4c18c"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "22009de92c5684edd060a8653db7abdaf593393d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "529a908da8e22b971e02591d30753f8821f13643ca8f37fd0fefcd9a28313b40"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/test_distributions.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415084",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5e2ca62bdcacd884fc0635e9cd138e9dc210ed2900cbcc5b44b6a27daaa73cfc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9e7c2648d3eef36eea01d1ce84dc65a5"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "efa6715e9305137bb66c26763a4096a19ffbcdf1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/conftest.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415085",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415086",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8d7c8f624135558a9bf08b264fd5aaa8"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7043b526f9ec6cabd589889b056debcb73f9ba55"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b79c05353cf568029ad01a2e517e5c5db7f76602dd6e07281d13a6787da19886"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/test_semi_parametric_regressions.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415087",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f3ecdd3ded30cd3b0735c09f63e1cc5f1f6a290cfa292570074083769b3a7964"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2b4cba0891849763236c82e3cd795fd4"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bfa8602bbf2d9747a24057ac67616e577c1a1a1d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/test_parametric_regressions.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415088",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bcbd80302eee1fb819d74df6228d89576cb72011"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba9a0500df75f76989fd35eac026068ab13bddbf262f43110dc79f7f51c68d1d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b713059bb96a841b2695642520d96a15"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/tests/utils.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415089",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ca7b7972a38af3f901c2d4b60190e02746c02a9f2eebb45a6b001e377da4c487"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "108b5d12bb0a6e2fc9e74808b4cfe8f6"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4611151c92b46aa3eec6a438b8d1829d70467ebc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_distributions.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415090",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0c512c5025f5ed9a69d63ecad031f9d8bc6cc789"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "371ab2e44e7924a6123336429be19acb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "60fb47e97c031b72771e1e110f143d72cff00c2bf23a61bb3e1fe649c24320b6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_parametric_regressions.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415091",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6b97f136011b06c3005b611755f0f933e8f1653f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "663f6828831a1652f39d769f11bba0cc8a1343dfd081ae2f94c84b88973fe4e8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea012c760edf9c1e56bf8084e56bd5ca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_non_parametric_models.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415092",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a02bfe4db92faff223fd85b780038bc8213bd090"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "39d5195d1df9a559ff8dd2bbc4a5267c3a534347e32fa1dc59cc2478d2f4e4b0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4e8b476905175e20172d1b20a421fab7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_base.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415093",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3cad4f501d06c7721639a7d9f2f702c0a5a4508e1f90e7619cc9afda8dc4e0bf"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7c509b0687d21c297c26813b9e6669a1"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "11f0059faeae2e58a15bbb75c5e9de16dd9aaaed"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415094",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79e9ebdb9863f6820776337044fb62bd48c4e3af"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8ff46463e796120c5fd5b95864e3208d7baf8d32428db36ee447a095c918fd17"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a638092de223fe39819eb042544c9195"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_minimum_distribution.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415095",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "847b6214d3807a7ad9449393a96c9953"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0d304154c9fa4c7fc81210517c8ab65caccb5599"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "30386a5a06baf109e234275a1b1aafc2f8438ef434dc80f67706a1cd97dafa89"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/lifetime_models/_equilibrium_distribution.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415096",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2033a6d61b3a13e9d16ea2acbb72ff2842697b09782855fbebd04b43f2c3ec27"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "677026976f0fc2ae59d58c2853571d8f"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a8d57c36933dbfda6a70d63923a6e7ba01d7877"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/_rewards.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415097",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8e709788249bd2aa155cf4aeb5720c71909de3b62ce95e02c1d4dbd39b208472"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2d3a7180c60cdf29bc08f9c84a3d5027"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6e5c04f4074a973bfd52a3fa08b03d591e65720e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/typing.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415100",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "37e29a988011ee1d2ffdeb8b624ea77092a67464"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "806d9e8425c60e1dc751b8b87d6ad20656587fdd1283a17775d528ab23a18f92"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dbcf4c5247280477acd7582a828e7ef3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/tests/conftest.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415101",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/tests/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415102",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4d687bab57fda6ba2416590b569057c4"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af26f7ac49d67fa86740da9e3a7a44c1b5dd72a6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "272abaef9b04c917014d0ba5a152d5d10e3fe43e99d55f9379c9d3b317c6e919"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/tests/test_renewal_processes.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415103",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8ea9329e6411c29275e378e5209c139de41de165"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6fd5d06e71ac71847fba87f85e8b158e47d93af7dc4629335cb51ed1d9f42ac7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "942b3415d2a3ba58866bd3d5d7c878c2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/_kijima_processes.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415104",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "782acd183a18b28f5780c98bfb83d8f2"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "61b35592745415d6f85298f60cde3d7855ae6734"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "be813809ce3b75cbf51d9c374ac56476d29e7508a04e454eeff689007450b5c0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415105",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4df37148db04c16fcbbd50655aa33ef90d497602cb46c4880dcd44405c774c3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a215788cafc9c46b7351899986e32fd"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "582908a33a980308d1e894fe9f78a5cff30afac1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/_non_homogeneous_poisson_process.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415106",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c11269a004d4ef9347225201b1e69a934d1775c68044b03be10bb329ba81ab0a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bad059f5cd8c9609a279f27a8d32bdec"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e9567c868bb0a10564dcf87268b1693729d03317"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/stochastic_processes/_renewal_processes.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415107",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/py.typed",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415110",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d96dadeca1a2d082cf97474bf02dc08a135308f9340315630e922276cab186db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4191ce73ecc124302ea1add41acada7c"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d9a1dd6bd7de6610530d0596cdb126f67ecc3cd4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/test_preventive_age_replacement_policies.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415111",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a6a370229077b70065b9653ed09954b997851c1f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2e3e2d4f897fca3423378a52a5a8d0be"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "041ce6276a7abe219d58daba42b5255a7203a0225c2c27ff2c84d39ccc37a207"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/conftest.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415112",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f045a6cd80e4bfea280ecb846cd3d6707f66fd4891f02a2cd329cc0dadf5c5e2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3b31163585d2863ff2a53dee0bcc14b0"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ca9fb06cea4ee0f1571b53da42966b0db8f58296"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/test_run_to_failure_policies.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415113",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/tests/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415114",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8cce0614b2526259b1463e9dbea77de2"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e65f675667b51ea925b5bf0e1bf715ac38bb359"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2edd0eea6297fefa2b32352049d51e971dc3e7a57503b1d4fd1ca5f4d8148257"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/_run_to_failure_policies.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415115",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "487f16ff4ebad0bc34c87c92913a18f4b18b59af"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "03d5843fda41d390370138df7824b666572854c3a189fb039813be50ba00fc41"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5e09eeb8f0f92817e39f2c12f211d02f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/_preventive_age_replacement_policies.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415116",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c9561bf74fbcbf2d6149aaf648f3063781963aa0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09facd08387a3dc91faaf2888a32c8dbe6b17ddb725ccc2a81c85406d8a952d0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dd9ff83141cd6178d593f26bdc98a42e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/_base.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415117",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "79494e9d5a15afa3403e203f8f89d1e42e253311"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6bd2d1f0032ab87196acb4ec8f0284de2e560f2659887fd4e527ca720bd32386"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a7893b9cf2c03ef3731c6b1bed74e43a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/policies/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415118",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9867c05303b990f674a4e6f00390e710cafdd7651e0cee9da894ef09f8789e7e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bc5eab685d460561bae343185e4da2f5"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "52adc869ba0132a3e5402e0755cb77af5b3cc7dc"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415119",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3cdb7bea3bafac126185a268215ff9d9e9d89f2b5a0b6f878e286e7b84145a8a"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9b5c0b96dde14e06d651d44eafe97f12be55a47b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "468da41331b4071438a6e966193b880a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/base.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415120",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f649d975c818902f9839cd55795f49a80b5df32eb5187701ba026cfb82fcb643"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0967ad4239ae20e59c355903525919dc"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "280eb953a7df5c4f4d04ae1054fbf10639365a27"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/src/assetlife/quadratures.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415123",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6576b1c8a6a0339196c49f52f8283635fedabcf9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d392dadbda3bdd89a2e25ef39f0e88b6c7356981e8b36e943676cc3427709c8a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8fd05d29e7b5a105378aa8e3fd575b36"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.github/workflows/release.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415124",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "99fafc26b6a0a28cd3100a259954e9a60e5d7e510013b1fd61751d88c5c5cb20"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4c9f498681fb7c46a009a79d240d68ae"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e4915c9601388d5ad6e0d7b9633cd32817ee2f8d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.github/workflows/gh-pages.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415125",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1925ebdd0d28afbdfb3186578fdc3bbf66f8ede0850fa084d9c1c273ca064c36"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6c3d84f9b5527993b62d833d26d9c255"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b4038d99c9b3a996ea0e33d5fcfd7123031e0c76"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.github/workflows/ci.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415126",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9533bfc0fecfdb464eb88afa9ac2fab651f2dae3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5b313adf28b462c9e24dcd41708c76b5f7b9b2c785d9e52ed2b06baf5d9a12a4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "35508df6cd00e685e1f476f534b305f0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.github/dependabot.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415127",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "62a9cb1263133f6ccac57f8e8f3b3edd6c512006"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8d3df02ab3b135af52c38f1152d1b2ca69ac05f014f240e96b6a77002eeb101c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a120464a84d3c36b214a4c741bc26301"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415128",
+            "checksums": [
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f6743a07d753c6ccafd89eb0a173131e"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e62a679b9a3eba6084afa1140ac3542a17f44c83"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cef282c70a4c4f9d130843a8c9c25a9b32d7f7b9afab130fde1496d7b75a2de6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/uv.lock",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415129",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f757a386aec3c50de6b6adf50954f77b8ec63e1b9379755cd60fc2b87a30d316"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "32681722a9ea167def4755e45a6c4107"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "972d0df196001006b806bee1f563ada65100457b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.lefthook.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415130",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef8d2ea24743cbfaeb42c3e9ba0264e797f1a502"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a40600a96760940b04703499e62a8cc9ff5132684cc47e7d59b1ef2352a01733"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "95e19b47d9a952d7c831398720b36cca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item15415131",
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cdca198a3e9cb9ed38e5aaeb01a9e96fe9befd031bb08a8823ee768e9b2fa84d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6d46dcb57e446beb8121d253c5c70111"
+                },
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e42a4a178ca8b068a512e3721c95f49fc8f0b5e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "assetlife-project-2026-09-29.zip/assetlife/.dprint.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-a7aa0e3eea166b8d",
+            "relatedSpdxElement": "SPDXRef-Package-ecf58a53928aec80",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a7aa0e3eea166b8d",
+            "relatedSpdxElement": "SPDXRef-Package-ef4311848728caf5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-Application-a7aa0e3eea166b8d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-12f260215fa5e6e1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-17156d382f8faf20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-28e6065e12bc2565",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-309e59e801f04911",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-3222b5556d9dea8d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-3d622db447e16dd5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-3ff0be861863cc59",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-421d86980ed9695d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-4f0db1886f52a743",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-61760e68accd0746",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-823642243dbd3865",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-8340ce543aca8c06",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-a088d7229a676035",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-d228ea188903d514",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-d4a7c96c577ca3f3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-e8a7e297bbc63075",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1170278692580641",
+            "relatedSpdxElement": "SPDXRef-Package-eff3520bd323dad",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2c6b1d7093c8498",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2c6b1d7093c8498",
+            "relatedSpdxElement": "SPDXRef-Package-71bffbbfd3500c6c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2c6b1d7093c8498",
+            "relatedSpdxElement": "SPDXRef-Package-9d2b86ceca00c6a7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-309e59e801f04911",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-5689426b2172fee4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-9e9c84ae39f910d0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-a37f12a35049920e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-ab9b123ec6667c56",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-d24886eacbffc14a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-e0a008d7b96fad10",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relatedSpdxElement": "SPDXRef-Package-f9e4aec5f7441e55",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-71bffbbfd3500c6c",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-823642243dbd3865",
+            "relatedSpdxElement": "SPDXRef-Package-555253971150877e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-96b19732f839947f",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b43d4d463380342",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b43d4d463380342",
+            "relatedSpdxElement": "SPDXRef-Package-71bffbbfd3500c6c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b43d4d463380342",
+            "relatedSpdxElement": "SPDXRef-Package-9d2b86ceca00c6a7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-12f260215fa5e6e1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-17156d382f8faf20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-28e6065e12bc2565",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-309e59e801f04911",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-3222b5556d9dea8d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-3d622db447e16dd5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-3ff0be861863cc59",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-421d86980ed9695d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-4f0db1886f52a743",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-61760e68accd0746",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-823642243dbd3865",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-8340ce543aca8c06",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-a088d7229a676035",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-d228ea188903d514",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-d4a7c96c577ca3f3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-e8a7e297bbc63075",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9d9a46519c0e6743",
+            "relatedSpdxElement": "SPDXRef-Package-eff3520bd323dad",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a088d7229a676035",
+            "relatedSpdxElement": "SPDXRef-Package-98671db75b84042d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a088d7229a676035",
+            "relatedSpdxElement": "SPDXRef-Package-a45863c80da86eb0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a088d7229a676035",
+            "relatedSpdxElement": "SPDXRef-Package-c3e426a7216a0423",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a088d7229a676035",
+            "relatedSpdxElement": "SPDXRef-Package-f6dd5b0749c36136",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a51cb06b6f6583e2",
+            "relatedSpdxElement": "SPDXRef-Package-1170278692580641",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dc55665d40e6eb06",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e0a008d7b96fad10",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-1170278692580641",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-3ca0c2c54476e4cf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-9b43d4d463380342",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-9d2b86ceca00c6a7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-a51cb06b6f6583e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ecf58a53928aec80",
+            "relatedSpdxElement": "SPDXRef-Package-dc55665d40e6eb06",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ef4311848728caf5",
+            "relatedSpdxElement": "SPDXRef-Package-2a41ebe05995f67c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f9e4aec5f7441e55",
+            "relatedSpdxElement": "SPDXRef-Package-45af16015982be3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-fe5e78d8857c9c95",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-fe5e78d8857c9c95",
+            "relatedSpdxElement": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415006",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415007",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415009",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415010",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415011",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415013",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415014",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415015",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415017",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415018",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415019",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415020",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415021",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415023",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415026",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415027",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415028",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415029",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415030",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415031",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415032",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415033",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415034",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415035",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415036",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415037",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415039",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415040",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415041",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415042",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415043",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415044",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415045",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415046",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415047",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415048",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415049",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415050",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415054",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415055",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415056",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415059",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415060",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415061",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415063",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415064",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415065",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415066",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415067",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415068",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415071",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415072",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415073",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415074",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415075",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415076",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415077",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415078",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415079",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415081",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415083",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415084",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415085",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415086",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415087",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415088",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415089",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415090",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415091",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415092",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415093",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415094",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415095",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415096",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415097",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415100",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415101",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415102",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415103",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415104",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415105",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415106",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415107",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415110",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415111",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415112",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415113",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415114",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415115",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415116",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415117",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415118",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415119",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415120",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415123",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415124",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415125",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415126",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415127",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415128",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415129",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415130",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-assetlife-project-assetlife",
+            "relatedSpdxElement": "SPDXRef-item15415131",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
