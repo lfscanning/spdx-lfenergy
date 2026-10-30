@@ -1,0 +1,2979 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T16:39:22Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "This license represents a situation where a license for a component could not be found or concluded",
+            "licenseId": "LicenseRef-NOASSERTION"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "GPL (version unspecified)",
+            "licenseId": "LicenseRef-GPL-version-unspecified-"
+        }
+    ],
+    "name": "/tmp/tmpswsm1gef/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpswsm1gef/code-f1a50686-97e5-4990-b18f-719dc06d0b17",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-4233e61c9eea2efd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cockpit-cluster-dashboard/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "95685076a154ea15822033e44ec30d5eb14e6f72"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-284d83a25c98a805",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cockpit-cluster-vm-management/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "0c8111b73912701fc11ee0fcdba5f7be43f62d7d"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-f5b2bf3251e6628e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cockpit-update/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d0b5eba21a32917a066b3c0f4c8f07a6a7550c28"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-2c1a38e19441e0ea",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "seapath-exporter/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "afd84784d4b2afece0f5c9f4f389e8379bcae437"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1f22fa0554881c64",
+            "description": "Assets, source, tooling, and content for PatternFly",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/patternfly@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly#readme",
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/patternfly",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4770d5edcbf995bc",
+            "description": "Assets, source, tooling, and content for PatternFly",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/patternfly@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly#readme",
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/patternfly",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ffc466e5e9eec9a",
+            "description": "Assets, source, tooling, and content for PatternFly",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/patternfly@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly#readme",
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND OFL-1.1 AND MIT AND CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/patternfly",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "description": "This library provides a set of common React components for use with the PatternFly reference implementation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-core@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-690767307575a17b",
+            "description": "This library provides a set of common React components for use with the PatternFly reference implementation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-core@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f23a859a73574e",
+            "description": "This library provides a set of common React components for use with the PatternFly reference implementation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-core@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-27343dec86739fbf",
+            "description": "PatternFly 4 Icons as React Components",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-icons@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-icons",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-79cc33e02e9ffe19",
+            "description": "PatternFly 4 Icons as React Components",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-icons@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-icons",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-83d3c86ca28a98c4",
+            "description": "PatternFly 4 Icons as React Components",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-icons@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "CC0-1.0 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-icons",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31dca497b13c4cc2",
+            "description": "CSS-in-JS class maps and utilities for PatternFly.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-styles@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-styles",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-52e30bf4daa982b9",
+            "description": "CSS-in-JS class maps and utilities for PatternFly.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-styles@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-styles",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f5cfb037e43d4389",
+            "description": "CSS-in-JS class maps and utilities for PatternFly.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-styles@5.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-styles",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "versionInfo": "5.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-41e002e6c157586b",
+            "description": "This library provides access to the design tokens of PatternFly 4 from JavaScript",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-tokens@5.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-tokens",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7deed06183c05ddb",
+            "description": "This library provides access to the design tokens of PatternFly 4 from JavaScript",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-tokens@5.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-tokens",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e91e6ebadd997f45",
+            "description": "This library provides access to the design tokens of PatternFly 4 from JavaScript",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40patternfly/react-tokens@5.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/patternfly/patternfly-react#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@patternfly/react-tokens",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: PatternFly",
+            "versionInfo": "5.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-76528a5bef2e4337",
+            "description": "Nested/Data-driven/Framework-agnostic Routing",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40remix-run/router@1.23.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/remix-run/react-router#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@remix-run/router",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Remix",
+            "versionInfo": "1.23.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-709154a496990293",
+            "description": "JavaScript implementation of the \"accept\" attribute for HTML5 <input type=\"file\">",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/attr-accept@2.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/attr-accept#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attr-accept",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "2.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-76e8f66861290b12",
+            "description": "JavaScript implementation of the \"accept\" attribute for HTML5 <input type=\"file\">",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/attr-accept@2.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/attr-accept#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attr-accept",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "2.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ae15b75f62eb3b6c",
+            "description": "JavaScript implementation of the \"accept\" attribute for HTML5 <input type=\"file\">",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/attr-accept@2.2.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/attr-accept#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attr-accept",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "2.2.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a8269dd0d8d4f9ac",
+            "description": "Convert DataTransfer object to a list of File objects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/file-selector@2.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/file-selector",
+            "licenseConcluded": "0BSD AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "file-selector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "2.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af9779b3e2e91840",
+            "description": "Convert DataTransfer object to a list of File objects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/file-selector@2.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/file-selector",
+            "licenseConcluded": "0BSD AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "file-selector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "2.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f5964ecd22bea945",
+            "description": "Convert DataTransfer object to a list of File objects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/file-selector@2.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/file-selector",
+            "licenseConcluded": "0BSD AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "file-selector",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "2.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a149e1467e91cd9b",
+            "description": "Trap focus within a DOM node.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/focus-trap@7.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/focus-trap/focus-trap#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "focus-trap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: focus-trap",
+            "versionInfo": "7.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0075c3b083950bf",
+            "description": "Trap focus within a DOM node.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/focus-trap@7.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/focus-trap/focus-trap#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "focus-trap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: focus-trap",
+            "versionInfo": "7.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f2b4ef2f3f8b67dd",
+            "description": "Trap focus within a DOM node.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/focus-trap@7.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/focus-trap/focus-trap#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "focus-trap",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: focus-trap",
+            "versionInfo": "7.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-74d4f6ec7213451c",
+            "description": "fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as recursive mkdir, copy, and remove.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/fs-extra@11.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jprichardson/node-fs-extra",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "fs-extra",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: JP Richardson",
+            "versionInfo": "11.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cad3afc2b952d145",
+            "description": "fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as recursive mkdir, copy, and remove.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/fs-extra@11.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jprichardson/node-fs-extra",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "fs-extra",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: JP Richardson",
+            "versionInfo": "11.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-198b926b50a08ad2",
+            "description": "A drop-in replacement for fs, making various improvements.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/graceful-fs@4.2.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/isaacs/node-graceful-fs#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "graceful-fs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: isaacs",
+            "versionInfo": "4.2.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-42e12e5a0f353588",
+            "description": "A drop-in replacement for fs, making various improvements.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/graceful-fs@4.2.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/isaacs/node-graceful-fs#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "graceful-fs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: isaacs",
+            "versionInfo": "4.2.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-61fa7e48d2716ef4",
+            "description": "Tiny JavaScript tokenizer.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/js-tokens@4.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lydell/js-tokens#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "js-tokens",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: Simon Lydell",
+            "versionInfo": "4.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9a9585c296d178c",
+            "description": "Tiny JavaScript tokenizer.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/js-tokens@4.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lydell/js-tokens#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "js-tokens",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: Simon Lydell",
+            "versionInfo": "4.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bbc3e4a1c1195ef1",
+            "description": "Tiny JavaScript tokenizer.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/js-tokens@4.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/lydell/js-tokens#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "js-tokens",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Simon Lydell",
+            "versionInfo": "4.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b8b824b45c728b3f",
+            "description": "Easily read/write JSON files.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/jsonfile@6.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jprichardson/node-jsonfile#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jsonfile",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: JP Richardson",
+            "versionInfo": "6.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e9154e4740cd28ba",
+            "description": "Easily read/write JSON files.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/jsonfile@6.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jprichardson/node-jsonfile#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jsonfile",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: JP Richardson",
+            "versionInfo": "6.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2882eec22f660505",
+            "description": "Fast (and loose) selective `process.env` replacer using js-tokens instead of an AST",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/loose-envify@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/zertosh/loose-envify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "loose-envify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: Andres Suarez",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-803c15eb8088b349",
+            "description": "Fast (and loose) selective `process.env` replacer using js-tokens instead of an AST",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/loose-envify@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/zertosh/loose-envify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "loose-envify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: Andres Suarez",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b1337f9a558d9f3a",
+            "description": "Fast (and loose) selective `process.env` replacer using js-tokens instead of an AST",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/loose-envify@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/zertosh/loose-envify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "loose-envify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Andres Suarez",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-26a6a793b5b9234b",
+            "description": "ES2015 `Object.assign()` ponyfill",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/object-assign@4.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/object-assign#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "object-assign",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "4.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bf2149b127592e5f",
+            "description": "ES2015 `Object.assign()` ponyfill",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/object-assign@4.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/object-assign#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "object-assign",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "4.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d51fe62b605bbea",
+            "description": "ES2015 `Object.assign()` ponyfill",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/object-assign@4.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/object-assign#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "object-assign",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "4.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-409a1247e0502cbc",
+            "description": "Python client for the Prometheus monitoring system.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/prometheus-client@0.26.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/prometheus/client_python",
+            "licenseConcluded": "(Apache-2.0 AND BSD-2-Clause) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause",
+            "name": "prometheus-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: seapath-exporter/requirements.txt",
+            "supplier": "Organization: Prometheus",
+            "versionInfo": "0.26.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-584563773d67a3eb",
+            "description": "Runtime type checking for React props and similar objects.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/prop-types@15.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://facebook.github.io/react/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "prop-types",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Meta",
+            "versionInfo": "15.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a9c712d7044d7020",
+            "description": "Runtime type checking for React props and similar objects.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/prop-types@15.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://facebook.github.io/react/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "prop-types",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: Meta",
+            "versionInfo": "15.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d4cb07e30c732e31",
+            "description": "Runtime type checking for React props and similar objects.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/prop-types@15.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://facebook.github.io/react/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "prop-types",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: Meta",
+            "versionInfo": "15.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31c736855aeb18cb",
+            "description": "Cross-platform lib for process and system monitoring.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psutil@5.9.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/giampaolo/psutil",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "psutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: seapath-exporter/requirements.txt",
+            "supplier": "Organization: Giampaolo Rodola",
+            "versionInfo": "5.9.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "description": "React is a JavaScript library for building user interfaces.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react@18.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "18.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b97ec148889ff050",
+            "description": "React is a JavaScript library for building user interfaces.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react@18.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "18.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f04e3468c0e2833",
+            "description": "React is a JavaScript library for building user interfaces.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react@18.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "18.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-934348529d902bfd",
+            "description": "React package for working with the DOM.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-dom@18.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-dom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "18.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b924f620849fbfe",
+            "description": "React package for working with the DOM.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-dom@18.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-dom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "18.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b6a681c624d74f0b",
+            "description": "React package for working with the DOM.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-dom@18.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-dom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "18.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b6f00b4df109ec28",
+            "description": "Simple HTML5 drag-drop zone with React.js",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-dropzone@14.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/react-dropzone",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-dropzone",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "14.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d87e59ef6da0e9ec",
+            "description": "Simple HTML5 drag-drop zone with React.js",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-dropzone@14.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/react-dropzone",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-dropzone",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "14.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-faf72bbfb07f0fb0",
+            "description": "Simple HTML5 drag-drop zone with React.js",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-dropzone@14.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/react-dropzone/react-dropzone",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-dropzone",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: React Dropzone",
+            "versionInfo": "14.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-68045f9f45ad214f",
+            "description": "Brand checking of React Elements.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-is@16.13.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-is",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "16.13.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-af3cd247bd4e90a2",
+            "description": "Brand checking of React Elements.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-is@16.13.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-is",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "16.13.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b5a3b133ab25a74b",
+            "description": "Brand checking of React Elements.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-is@16.13.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-is",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "16.13.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c363ca87f59d277d",
+            "description": "Declarative routing for React",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-router@6.30.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-router",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Remix",
+            "versionInfo": "6.30.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8c65df7988249aa8",
+            "description": "Declarative routing for React web applications",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/react-router-dom@6.30.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/remix-run/react-router#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "react-router-dom",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Remix",
+            "versionInfo": "6.30.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ef30c1b20217ee8",
+            "description": "Cooperative scheduler for the browser environment.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/scheduler@0.23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "scheduler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "0.23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b5351832be64a505",
+            "description": "Cooperative scheduler for the browser environment.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/scheduler@0.23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "scheduler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "0.23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ea511a025a4bd448",
+            "description": "Cooperative scheduler for the browser environment.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/scheduler@0.23.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://react.dev/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "scheduler",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: react",
+            "versionInfo": "0.23.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-207f01e645102677",
+            "description": "Returns an array of all tabbable DOM nodes within a containing node.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/tabbable@6.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/focus-trap/tabbable#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "tabbable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: focus-trap",
+            "versionInfo": "6.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-50c13870a977028b",
+            "description": "Returns an array of all tabbable DOM nodes within a containing node.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/tabbable@6.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/focus-trap/tabbable#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "tabbable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: focus-trap",
+            "versionInfo": "6.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fb01844994f5b806",
+            "description": "Returns an array of all tabbable DOM nodes within a containing node.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/tabbable@6.5.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/focus-trap/tabbable#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "tabbable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: focus-trap",
+            "versionInfo": "6.5.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-92be3c65cc383b",
+            "description": "Runtime library for TypeScript helper functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/tslib@2.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.typescriptlang.org/",
+            "licenseConcluded": "0BSD",
+            "licenseDeclared": "0BSD",
+            "name": "tslib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "2.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-998c98a54234dcca",
+            "description": "Runtime library for TypeScript helper functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/tslib@2.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.typescriptlang.org/",
+            "licenseConcluded": "0BSD",
+            "licenseDeclared": "0BSD",
+            "name": "tslib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "2.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a30780f3a2ec3be5",
+            "description": "Runtime library for TypeScript helper functions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/tslib@2.8.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.typescriptlang.org/",
+            "licenseConcluded": "0BSD",
+            "licenseDeclared": "0BSD",
+            "name": "tslib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "2.8.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1fe240762b82a411",
+            "description": "Make a callback- or promise-based function support both promises and callbacks.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/universalify@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/RyanZim/universalify#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "universalify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-update/package-lock.json",
+            "supplier": "Organization: Ryan Zimmerman",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b815e29047388cc1",
+            "description": "Make a callback- or promise-based function support both promises and callbacks.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/universalify@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/RyanZim/universalify#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "universalify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-dashboard/package-lock.json",
+            "supplier": "Organization: Ryan Zimmerman",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ce5a5c277ff92e6",
+            "description": "Full xterm terminal, in your browser",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/xterm@5.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/xtermjs/xterm.js#readme",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-NOASSERTION AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "xterm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: xterm.js",
+            "versionInfo": "5.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-808972035f465a6d",
+            "description": "An addon for [xterm.js](https://github.com/xtermjs/xterm.js) that enables a canvas-based renderer using a 2d context to draw. This addon requires xterm.js v5+.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/xterm-addon-canvas@0.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/xtermjs/xterm.js#readme",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "MIT",
+            "name": "xterm-addon-canvas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cockpit-cluster-vm-management/package-lock.json",
+            "supplier": "Organization: xterm.js",
+            "versionInfo": "0.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "lfenergy.seapath",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-.github",
+            "comment": "This package was added to the Trivy analysis for the .github by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/.github/archive/67b6f8bca8a19423d57af8af468477e003d91b45.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/.github@67b6f8bca8a19423d57af8af468477e003d91b45",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": ".github",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "67b6f8bca8a19423d57af8af468477e003d91b45"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-SEAPATH-CentOS-Stream-Kickstart",
+            "comment": "This package was added to the Trivy analysis for the SEAPATH_CentOS_Stream_Kickstart by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/SEAPATH_CentOS_Stream_Kickstart/archive/924aeffb0b0e707e59019681cc740c49936c43d0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/SEAPATH_CentOS_Stream_Kickstart@924aeffb0b0e707e59019681cc740c49936c43d0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "SEAPATH_CentOS_Stream_Kickstart",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "924aeffb0b0e707e59019681cc740c49936c43d0"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-TSC",
+            "comment": "This package was added to the Trivy analysis for the TSC by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/TSC/archive/647d2929807f71364cfaa38158f19a2e19608d6e.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/TSC@647d2929807f71364cfaa38158f19a2e19608d6e",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "TSC",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "647d2929807f71364cfaa38158f19a2e19608d6e"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-ansible",
+            "comment": "This package was added to the Trivy analysis for the ansible by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/ansible/archive/e10aaf2eaa36b981666304aa56ba2d7aeb3f6288.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/ansible@e10aaf2eaa36b981666304aa56ba2d7aeb3f6288",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "ansible",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "e10aaf2eaa36b981666304aa56ba2d7aeb3f6288"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-build-debian-iso",
+            "comment": "This package was added to the Trivy analysis for the build_debian_iso by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/build_debian_iso/archive/1bbaf4c5a16b65a0cbc16652ec01f827b8637f41.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/build_debian_iso@1bbaf4c5a16b65a0cbc16652ec01f827b8637f41",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "build_debian_iso",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "1bbaf4c5a16b65a0cbc16652ec01f827b8637f41"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-build-debian-iso-webui",
+            "comment": "This package was added to the Trivy analysis for the build_debian_iso_webui by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/build_debian_iso_webui/archive/4c20228de96ae78a6bb153bbd60b46e036e869c2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/build_debian_iso_webui@4c20228de96ae78a6bb153bbd60b46e036e869c2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "build_debian_iso_webui",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4c20228de96ae78a6bb153bbd60b46e036e869c2"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-ci",
+            "comment": "This package was added to the Trivy analysis for the ci by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/ci/archive/e89daaf9dca2f970b431a6f1e4ad6f4b56450200.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/ci@e89daaf9dca2f970b431a6f1e4ad6f4b56450200",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "ci",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "e89daaf9dca2f970b431a6f1e4ad6f4b56450200"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-cockpit-cluster-dashboard",
+            "comment": "This package was added to the Trivy analysis for the cockpit-cluster-dashboard by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/cockpit-cluster-dashboard/archive/95685076a154ea15822033e44ec30d5eb14e6f72.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/cockpit-cluster-dashboard@95685076a154ea15822033e44ec30d5eb14e6f72",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "cockpit-cluster-dashboard",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "95685076a154ea15822033e44ec30d5eb14e6f72"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-cockpit-cluster-vm-management",
+            "comment": "This package was added to the Trivy analysis for the cockpit-cluster-vm-management by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/cockpit-cluster-vm-management/archive/0c8111b73912701fc11ee0fcdba5f7be43f62d7d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/cockpit-cluster-vm-management@0c8111b73912701fc11ee0fcdba5f7be43f62d7d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "cockpit-cluster-vm-management",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "0c8111b73912701fc11ee0fcdba5f7be43f62d7d"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-cockpit-plugin-tests",
+            "comment": "This package was added to the Trivy analysis for the cockpit-plugin-tests by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/cockpit-plugin-tests/archive/609c4886fe446a118b69bbd581dad8151b82c744.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/cockpit-plugin-tests@609c4886fe446a118b69bbd581dad8151b82c744",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "cockpit-plugin-tests",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "609c4886fe446a118b69bbd581dad8151b82c744"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-cockpit-update",
+            "comment": "This package was added to the Trivy analysis for the cockpit-update by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/cockpit-update/archive/d0b5eba21a32917a066b3c0f4c8f07a6a7550c28.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/cockpit-update@d0b5eba21a32917a066b3c0f4c8f07a6a7550c28",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "cockpit-update",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "d0b5eba21a32917a066b3c0f4c8f07a6a7550c28"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-kiwi-descriptions",
+            "comment": "This package was added to the Trivy analysis for the kiwi-descriptions by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/kiwi-descriptions/archive/3e9524ef6f048f06147f189d5f5e3cf07a721d8b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/kiwi-descriptions@3e9524ef6f048f06147f189d5f5e3cf07a721d8b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "kiwi-descriptions",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "3e9524ef6f048f06147f189d5f5e3cf07a721d8b"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-meta-seapath",
+            "comment": "This package was added to the Trivy analysis for the meta-seapath by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/meta-seapath/archive/0db3dd31ae517f61390449005d5c619c85922196.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/meta-seapath@0db3dd31ae517f61390449005d5c619c85922196",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "meta-seapath",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "0db3dd31ae517f61390449005d5c619c85922196"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-meta-seapath-qcom",
+            "comment": "This package was added to the Trivy analysis for the meta-seapath-qcom by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/meta-seapath-qcom/archive/569e3eebe5eb6652209cb5f4b8bfae4ff3294396.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/meta-seapath-qcom@569e3eebe5eb6652209cb5f4b8bfae4ff3294396",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "meta-seapath-qcom",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "569e3eebe5eb6652209cb5f4b8bfae4ff3294396"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-python3-setup-ovs",
+            "comment": "This package was added to the Trivy analysis for the python3-setup-ovs by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/python3-setup-ovs/archive/7bf6c859a40495edcb4856628f05b85ef1fc19f4.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/python3-setup-ovs@7bf6c859a40495edcb4856628f05b85ef1fc19f4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "python3-setup-ovs",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "7bf6c859a40495edcb4856628f05b85ef1fc19f4"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-r2-dir-list",
+            "comment": "This package was added to the Trivy analysis for the r2-dir-list by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/r2-dir-list/archive/797cee81e5efb80dede9b6fb2b269fa0cff0f982.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/r2-dir-list@797cee81e5efb80dede9b6fb2b269fa0cff0f982",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "r2-dir-list",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "797cee81e5efb80dede9b6fb2b269fa0cff0f982"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-repo-manifest",
+            "comment": "This package was added to the Trivy analysis for the repo-manifest by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/repo-manifest/archive/3178ee079280cbb6dd2a3b745ea1aff7f387353a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/repo-manifest@3178ee079280cbb6dd2a3b745ea1aff7f387353a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "repo-manifest",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "3178ee079280cbb6dd2a3b745ea1aff7f387353a"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-seapath-benchmark",
+            "comment": "This package was added to the Trivy analysis for the seapath-benchmark by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/seapath-benchmark/archive/9c315fa3112b739ca42db5da482ac373e912ca82.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/seapath-benchmark@9c315fa3112b739ca42db5da482ac373e912ca82",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "seapath-benchmark",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "9c315fa3112b739ca42db5da482ac373e912ca82"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-seapath-installer",
+            "comment": "This package was added to the Trivy analysis for the seapath-installer by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/seapath-installer/archive/66be0be8d697f7377265a13cdc5718b447d3b767.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/seapath-installer@66be0be8d697f7377265a13cdc5718b447d3b767",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "seapath-installer",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "66be0be8d697f7377265a13cdc5718b447d3b767"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-seapath-live-installer",
+            "comment": "This package was added to the Trivy analysis for the seapath-live-installer by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/seapath-live-installer/archive/439dc65e0138aaa5d83f4531490b21b8857378b0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/seapath-live-installer@439dc65e0138aaa5d83f4531490b21b8857378b0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "seapath-live-installer",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "439dc65e0138aaa5d83f4531490b21b8857378b0"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-snmp-passpersist",
+            "comment": "This package was added to the Trivy analysis for the snmp_passpersist by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/snmp_passpersist/archive/8254e66c6fac5c3390630c28fbf31ab56bd2c4fb.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/snmp_passpersist@8254e66c6fac5c3390630c28fbf31ab56bd2c4fb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "snmp_passpersist",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "8254e66c6fac5c3390630c28fbf31ab56bd2c4fb"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-sv-pcap-generator",
+            "comment": "This package was added to the Trivy analysis for the sv-pcap-generator by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/sv-pcap-generator/archive/ee27a4e02b0923f214112b658517f210db583ba2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/sv-pcap-generator@ee27a4e02b0923f214112b658517f210db583ba2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "sv-pcap-generator",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "ee27a4e02b0923f214112b658517f210db583ba2"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-sv-timestamp-analysis",
+            "comment": "This package was added to the Trivy analysis for the sv-timestamp-analysis by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/sv-timestamp-analysis/archive/3fe12712055677d740946731764ebde45f1ab271.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/sv-timestamp-analysis@3fe12712055677d740946731764ebde45f1ab271",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "sv-timestamp-analysis",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "3fe12712055677d740946731764ebde45f1ab271"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-sv-parser",
+            "comment": "This package was added to the Trivy analysis for the sv_parser by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/sv_parser/archive/21c0792263c36b8c2418b11bdcf5a1a685e337f1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/sv_parser@21c0792263c36b8c2418b11bdcf5a1a685e337f1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "sv_parser",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "21c0792263c36b8c2418b11bdcf5a1a685e337f1"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-sv-timestamp-logger",
+            "comment": "This package was added to the Trivy analysis for the sv_timestamp_logger by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/sv_timestamp_logger/archive/4910d64136ee2b824525203ca51683530656500f.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/sv_timestamp_logger@4910d64136ee2b824525203ca51683530656500f",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "sv_timestamp_logger",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "4910d64136ee2b824525203ca51683530656500f"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-svtrace",
+            "comment": "This package was added to the Trivy analysis for the svtrace by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/svtrace/archive/00f6dfedb04ce85e3e58ce383cc5948351957ad1.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/svtrace@00f6dfedb04ce85e3e58ce383cc5948351957ad1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "svtrace",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "00f6dfedb04ce85e3e58ce383cc5948351957ad1"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-svtrace-ansible",
+            "comment": "This package was added to the Trivy analysis for the svtrace-ansible by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/svtrace-ansible/archive/80eb085c25722f99837ee8ac192ef80f989946ac.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/svtrace-ansible@80eb085c25722f99837ee8ac192ef80f989946ac",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "svtrace-ansible",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "80eb085c25722f99837ee8ac192ef80f989946ac"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-virtual-cluster",
+            "comment": "This package was added to the Trivy analysis for the virtual-cluster by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/virtual-cluster/archive/1f7e7990414e037c1beae144d0cabf418daf6876.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/virtual-cluster@1f7e7990414e037c1beae144d0cabf418daf6876",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "virtual-cluster",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "1f7e7990414e037c1beae144d0cabf418daf6876"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-vm-manager",
+            "comment": "This package was added to the Trivy analysis for the vm_manager by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/vm_manager/archive/0856ab9955063654a577dc627b0207e864a1bdcc.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/vm_manager@0856ab9955063654a577dc627b0207e864a1bdcc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "vm_manager",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "0856ab9955063654a577dc627b0207e864a1bdcc"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-yocto-bsp",
+            "comment": "This package was added to the Trivy analysis for the yocto-bsp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/yocto-bsp/archive/cdecf61f0a186d5e94595ce6799de24950fdf551.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/yocto-bsp@cdecf61f0a186d5e94595ce6799de24950fdf551",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "yocto-bsp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "cdecf61f0a186d5e94595ce6799de24950fdf551"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-seapath-seapath-exporter",
+            "comment": "This package was added to the Trivy analysis for the seapath-exporter by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/seapath/seapath-exporter/archive/afd84784d4b2afece0f5c9f4f389e8379bcae437.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/seapath/seapath-exporter@afd84784d4b2afece0f5c9f4f389e8379bcae437",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0 AND LicenseRef-GPL-version-unspecified- AND GPL-2.0 AND GPL-2.0+ AND GPL-3.0 AND GPL-3.0+ AND LGPL-2.1+ AND LGPL-3.0 AND LGPL-3.0+ AND CC-BY-SA-3.0 AND LGPL-2.1 AND (Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND CC-BY-3.0 AND MIT AND BSD-2-Clause AND (Apache-2.0 AND MIT) AND CC0-1.0",
+            "name": "seapath-exporter",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "afd84784d4b2afece0f5c9f4f389e8379bcae437"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-1f22fa0554881c64",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-27343dec86739fbf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-808972035f465a6d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-b6a681c624d74f0b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-ce5a5c277ff92e6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-f04e3468c0e2833",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-f23a859a73574e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-284d83a25c98a805",
+            "relatedSpdxElement": "SPDXRef-Package-f5cfb037e43d4389",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2c1a38e19441e0ea",
+            "relatedSpdxElement": "SPDXRef-Package-31c736855aeb18cb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-2c1a38e19441e0ea",
+            "relatedSpdxElement": "SPDXRef-Package-409a1247e0502cbc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-52e30bf4daa982b9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-79cc33e02e9ffe19",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-934348529d902bfd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-9ffc466e5e9eec9a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-b97ec148889ff050",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4233e61c9eea2efd",
+            "relatedSpdxElement": "SPDXRef-Package-cad3afc2b952d145",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-31dca497b13c4cc2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-4770d5edcbf995bc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-690767307575a17b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-74d4f6ec7213451c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-83d3c86ca28a98c4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-8c65df7988249aa8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-9b924f620849fbfe",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-seapath-cockpit-cluster-vm-management",
+            "relatedSpdxElement": "SPDXRef-Application-284d83a25c98a805",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-seapath-seapath-exporter",
+            "relatedSpdxElement": "SPDXRef-Application-2c1a38e19441e0ea",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-seapath-cockpit-cluster-dashboard",
+            "relatedSpdxElement": "SPDXRef-Application-4233e61c9eea2efd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-lfenergy-seapath-cockpit-update",
+            "relatedSpdxElement": "SPDXRef-Application-f5b2bf3251e6628e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27343dec86739fbf",
+            "relatedSpdxElement": "SPDXRef-Package-b6a681c624d74f0b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27343dec86739fbf",
+            "relatedSpdxElement": "SPDXRef-Package-f04e3468c0e2833",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-52e30bf4daa982b9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-79cc33e02e9ffe19",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-7deed06183c05ddb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-934348529d902bfd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-a30780f3a2ec3be5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-b97ec148889ff050",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-d87e59ef6da0e9ec",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-27b0d3a5dc5e2338",
+            "relatedSpdxElement": "SPDXRef-Package-f2b4ef2f3f8b67dd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2882eec22f660505",
+            "relatedSpdxElement": "SPDXRef-Package-9a9585c296d178c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3ef30c1b20217ee8",
+            "relatedSpdxElement": "SPDXRef-Package-b1337f9a558d9f3a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-584563773d67a3eb",
+            "relatedSpdxElement": "SPDXRef-Package-26a6a793b5b9234b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-584563773d67a3eb",
+            "relatedSpdxElement": "SPDXRef-Package-68045f9f45ad214f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-584563773d67a3eb",
+            "relatedSpdxElement": "SPDXRef-Package-b1337f9a558d9f3a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-31dca497b13c4cc2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-83d3c86ca28a98c4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-92be3c65cc383b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-9b924f620849fbfe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-a149e1467e91cd9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-e91e6ebadd997f45",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-690767307575a17b",
+            "relatedSpdxElement": "SPDXRef-Package-faf72bbfb07f0fb0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74d4f6ec7213451c",
+            "relatedSpdxElement": "SPDXRef-Package-198b926b50a08ad2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74d4f6ec7213451c",
+            "relatedSpdxElement": "SPDXRef-Package-1fe240762b82a411",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-74d4f6ec7213451c",
+            "relatedSpdxElement": "SPDXRef-Package-b8b824b45c728b3f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79cc33e02e9ffe19",
+            "relatedSpdxElement": "SPDXRef-Package-934348529d902bfd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-79cc33e02e9ffe19",
+            "relatedSpdxElement": "SPDXRef-Package-b97ec148889ff050",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-803c15eb8088b349",
+            "relatedSpdxElement": "SPDXRef-Package-61fa7e48d2716ef4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-808972035f465a6d",
+            "relatedSpdxElement": "SPDXRef-Package-ce5a5c277ff92e6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-83d3c86ca28a98c4",
+            "relatedSpdxElement": "SPDXRef-Package-9b924f620849fbfe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-83d3c86ca28a98c4",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c65df7988249aa8",
+            "relatedSpdxElement": "SPDXRef-Package-76528a5bef2e4337",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c65df7988249aa8",
+            "relatedSpdxElement": "SPDXRef-Package-9b924f620849fbfe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c65df7988249aa8",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c65df7988249aa8",
+            "relatedSpdxElement": "SPDXRef-Package-c363ca87f59d277d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-934348529d902bfd",
+            "relatedSpdxElement": "SPDXRef-Package-2882eec22f660505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-934348529d902bfd",
+            "relatedSpdxElement": "SPDXRef-Package-b97ec148889ff050",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-934348529d902bfd",
+            "relatedSpdxElement": "SPDXRef-Package-ea511a025a4bd448",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b924f620849fbfe",
+            "relatedSpdxElement": "SPDXRef-Package-3ef30c1b20217ee8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b924f620849fbfe",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9b924f620849fbfe",
+            "relatedSpdxElement": "SPDXRef-Package-b1337f9a558d9f3a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a149e1467e91cd9b",
+            "relatedSpdxElement": "SPDXRef-Package-50c13870a977028b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relatedSpdxElement": "SPDXRef-Package-b1337f9a558d9f3a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a8269dd0d8d4f9ac",
+            "relatedSpdxElement": "SPDXRef-Package-a30780f3a2ec3be5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9c712d7044d7020",
+            "relatedSpdxElement": "SPDXRef-Package-803c15eb8088b349",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9c712d7044d7020",
+            "relatedSpdxElement": "SPDXRef-Package-b5a3b133ab25a74b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a9c712d7044d7020",
+            "relatedSpdxElement": "SPDXRef-Package-d51fe62b605bbea",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-af9779b3e2e91840",
+            "relatedSpdxElement": "SPDXRef-Package-998c98a54234dcca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b1337f9a558d9f3a",
+            "relatedSpdxElement": "SPDXRef-Package-bbc3e4a1c1195ef1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b5351832be64a505",
+            "relatedSpdxElement": "SPDXRef-Package-803c15eb8088b349",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6a681c624d74f0b",
+            "relatedSpdxElement": "SPDXRef-Package-803c15eb8088b349",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6a681c624d74f0b",
+            "relatedSpdxElement": "SPDXRef-Package-b5351832be64a505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6a681c624d74f0b",
+            "relatedSpdxElement": "SPDXRef-Package-f04e3468c0e2833",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6f00b4df109ec28",
+            "relatedSpdxElement": "SPDXRef-Package-709154a496990293",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6f00b4df109ec28",
+            "relatedSpdxElement": "SPDXRef-Package-a9c712d7044d7020",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6f00b4df109ec28",
+            "relatedSpdxElement": "SPDXRef-Package-af9779b3e2e91840",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b6f00b4df109ec28",
+            "relatedSpdxElement": "SPDXRef-Package-f04e3468c0e2833",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8b824b45c728b3f",
+            "relatedSpdxElement": "SPDXRef-Package-198b926b50a08ad2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b8b824b45c728b3f",
+            "relatedSpdxElement": "SPDXRef-Package-1fe240762b82a411",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b97ec148889ff050",
+            "relatedSpdxElement": "SPDXRef-Package-2882eec22f660505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c363ca87f59d277d",
+            "relatedSpdxElement": "SPDXRef-Package-76528a5bef2e4337",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c363ca87f59d277d",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cad3afc2b952d145",
+            "relatedSpdxElement": "SPDXRef-Package-42e12e5a0f353588",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cad3afc2b952d145",
+            "relatedSpdxElement": "SPDXRef-Package-b815e29047388cc1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cad3afc2b952d145",
+            "relatedSpdxElement": "SPDXRef-Package-e9154e4740cd28ba",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d0075c3b083950bf",
+            "relatedSpdxElement": "SPDXRef-Package-207f01e645102677",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4cb07e30c732e31",
+            "relatedSpdxElement": "SPDXRef-Package-2882eec22f660505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4cb07e30c732e31",
+            "relatedSpdxElement": "SPDXRef-Package-af3cd247bd4e90a2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d4cb07e30c732e31",
+            "relatedSpdxElement": "SPDXRef-Package-bf2149b127592e5f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d87e59ef6da0e9ec",
+            "relatedSpdxElement": "SPDXRef-Package-76e8f66861290b12",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d87e59ef6da0e9ec",
+            "relatedSpdxElement": "SPDXRef-Package-a8269dd0d8d4f9ac",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d87e59ef6da0e9ec",
+            "relatedSpdxElement": "SPDXRef-Package-b97ec148889ff050",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d87e59ef6da0e9ec",
+            "relatedSpdxElement": "SPDXRef-Package-d4cb07e30c732e31",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e9154e4740cd28ba",
+            "relatedSpdxElement": "SPDXRef-Package-42e12e5a0f353588",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e9154e4740cd28ba",
+            "relatedSpdxElement": "SPDXRef-Package-b815e29047388cc1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ea511a025a4bd448",
+            "relatedSpdxElement": "SPDXRef-Package-2882eec22f660505",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f04e3468c0e2833",
+            "relatedSpdxElement": "SPDXRef-Package-803c15eb8088b349",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-27343dec86739fbf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-41e002e6c157586b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-998c98a54234dcca",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-b6a681c624d74f0b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-b6f00b4df109ec28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-d0075c3b083950bf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-f04e3468c0e2833",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f23a859a73574e",
+            "relatedSpdxElement": "SPDXRef-Package-f5cfb037e43d4389",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f2b4ef2f3f8b67dd",
+            "relatedSpdxElement": "SPDXRef-Package-fb01844994f5b806",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5964ecd22bea945",
+            "relatedSpdxElement": "SPDXRef-Package-92be3c65cc383b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf72bbfb07f0fb0",
+            "relatedSpdxElement": "SPDXRef-Package-584563773d67a3eb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf72bbfb07f0fb0",
+            "relatedSpdxElement": "SPDXRef-Package-a4ba2b64d8d14d1d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf72bbfb07f0fb0",
+            "relatedSpdxElement": "SPDXRef-Package-ae15b75f62eb3b6c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-faf72bbfb07f0fb0",
+            "relatedSpdxElement": "SPDXRef-Package-f5964ecd22bea945",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-.github",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-SEAPATH-CentOS-Stream-Kickstart",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-TSC",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-ansible",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-build-debian-iso",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-build-debian-iso-webui",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-ci",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-cockpit-cluster-dashboard",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-cockpit-cluster-vm-management",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-cockpit-plugin-tests",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-cockpit-update",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-kiwi-descriptions",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-meta-seapath",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-meta-seapath-qcom",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-python3-setup-ovs",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-r2-dir-list",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-repo-manifest",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-seapath-benchmark",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-seapath-installer",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-seapath-live-installer",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-snmp-passpersist",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-sv-pcap-generator",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-sv-timestamp-analysis",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-sv-parser",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-sv-timestamp-logger",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-svtrace",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-svtrace-ansible",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-virtual-cluster",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-vm-manager",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-yocto-bsp",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-2cc9e62ab9008462",
+            "relatedSpdxElement": "SPDXRef-lfenergy-seapath-seapath-exporter",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
