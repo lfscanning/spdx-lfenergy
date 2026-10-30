@@ -1,0 +1,2666 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_energnn-2026-09-29.zip_1793069831.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-10-27T02:57:12Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: energnn-2026-09-29.zip
+PackageFileName: energnn-2026-09-29.zip
+SPDXID: SPDXRef-upload2431
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: ed8130cfd98536209efbc0a0df567a5a7c309110
+PackageChecksum: SHA1: 0f61784412cc9d8042c89221e7ef049f83aedc8f
+PackageChecksum: SHA256: 15032c9a23b8a0a3cf4c5fe28ed2c977b6c0fa70ec46314cfeffe5d4073e559e
+PackageChecksum: MD5: f49f3f1b0f69de5470de35e7afa05c5d
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2431
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/LICENSE
+SPDXID: SPDXRef-item15383295
+FileChecksum: SHA1: d7e3ed5ac149ac1e2d2e0f4daff081c1dafef1c0
+FileChecksum: SHA256: 3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04
+FileChecksum: MD5: f75d2927d3c1ed2414ef72048f5ad640
+LicenseConcluded: MPL-2.0-no-copyleft-exception
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: <text> (c) under Patent Claims infringed by Covered Software in the absence of its Contributions.
+copyright doctrines of fair use, fair dealing, or other equivalents.
+copyright ownership. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/LICENSE
+SPDXID: SPDXRef-item15383278
+FileChecksum: SHA1: d7e3ed5ac149ac1e2d2e0f4daff081c1dafef1c0
+FileChecksum: SHA256: 3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04
+FileChecksum: MD5: f75d2927d3c1ed2414ef72048f5ad640
+LicenseConcluded: MPL-2.0-no-copyleft-exception
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: <text> (c) under Patent Claims infringed by Covered Software in the absence of its Contributions.
+copyright doctrines of fair use, fair dealing, or other equivalents.
+copyright ownership. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/LICENSE
+SPDXID: SPDXRef-item15383510
+FileChecksum: SHA1: d7e3ed5ac149ac1e2d2e0f4daff081c1dafef1c0
+FileChecksum: SHA256: 3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04
+FileChecksum: MD5: f75d2927d3c1ed2414ef72048f5ad640
+LicenseConcluded: MPL-2.0-no-copyleft-exception
+LicenseInfoInFile: MPL-2.0-no-copyleft-exception
+FileCopyrightText: <text> (c) under Patent Claims infringed by Covered Software in the absence of its Contributions.
+copyright doctrines of fair use, fair dealing, or other equivalents.
+copyright ownership. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/problem/example/__init__.py
+SPDXID: SPDXRef-item15383570
+FileChecksum: SHA1: ed84945a68c299ab8a91851019b0dbd954f9a304
+FileChecksum: SHA256: 4898c30fc8532e0da193d9d12155943772f8c257cac364758e7e0e62d62e64c9
+FileChecksum: MD5: a57ef24235596c8efcc2f2adc3db6f38
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/decoder/__init__.py
+SPDXID: SPDXRef-item15383539
+FileChecksum: SHA1: f8964493c59e288365f7291ff720596869f79e28
+FileChecksum: SHA256: 3f5799a12abbc90b07889ea6ae0f6e42fc0ebe6ef9312b87f6c5ac091df31ff0
+FileChecksum: MD5: 35798d09c9bd34ff52790baffe205648
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/trainer/__init__.py
+SPDXID: SPDXRef-item15383532
+FileChecksum: SHA1: f7bc58858a9bbfed5854d00c1adc58bf19b3a861
+FileChecksum: SHA256: bc61eb277bfeba842d90743774b6d86bb2d45a3106892888ad7369341d671fb7
+FileChecksum: MD5: e48c80bb2bf08ceaf0bd52e49fe03912
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/src/pypowsybl_to_energnn/__init__.py
+SPDXID: SPDXRef-item15383303
+FileChecksum: SHA1: bcc96cda8e3842fd57a554cb23b025fb5a7cd2da
+FileChecksum: SHA256: 36f04dc3ccf9298c8f83602de80fd49c6b2d75832b0a742999763cc1596c77fe
+FileChecksum: MD5: 01fb0056d8b1bfe3b1a3be1a9b23aff7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/tracker/__init__.py
+SPDXID: SPDXRef-item15383574
+FileChecksum: SHA1: 55a31f71379df04da25f455362e34ab136606f8e
+FileChecksum: SHA256: 096758313cb06a81383bf4bc9a731ce017b42aedff0fc94a11fbe2bf28c9af71
+FileChecksum: MD5: 032acd93b3b178e78f992b27a5b939a0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/encoder/__init__.py
+SPDXID: SPDXRef-item15383559
+FileChecksum: SHA1: 39dd291f72d55a62d814fb23eb4eb0d0de3e44c4
+FileChecksum: SHA256: a241e802a756d39e5ce6860d12a03b2b718c828fb6f2fb22b7b1128d386c0dc8
+FileChecksum: MD5: f093c8c19b6bf8c865869945cd7417b9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/problem/__init__.py
+SPDXID: SPDXRef-item15383567
+FileChecksum: SHA1: 3b9dfc7c0557680185b3a149f4eb0a0e7de7f1f6
+FileChecksum: SHA256: f3d40f18124233a64b407cc486be3e8777fa71bb831f20fb030695985bcaa1b6
+FileChecksum: MD5: 6eb5668915027635b17617a50c052bee
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/normalizer/__init__.py
+SPDXID: SPDXRef-item15383555
+FileChecksum: SHA1: db7651ad1d42113fafed11e007c43a3df73acc1c
+FileChecksum: SHA256: 64e1db4c05366bc9882444d141e7e333a5130b06d7504e92766c380aae651d51
+FileChecksum: MD5: 95cdf74ff4295f033ac6e20f604b3c54
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/__init__.py
+SPDXID: SPDXRef-item15383551
+FileChecksum: SHA1: 3df5ad565889026d1ec526818aba8cf9a2bfdda0
+FileChecksum: SHA256: 318e9beb5627d1f5eacd6969df2ac7540ed1071372d259a5a4954204b9e469d0
+FileChecksum: MD5: 2a6e49dd61a896afe6f629800abaffd3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/__init__.py
+SPDXID: SPDXRef-item15383370
+FileChecksum: SHA1: 934bbbca0ca1d456427b9e3bac2a8b5ec0697826
+FileChecksum: SHA256: 2100e57f23ed4539b2aabf8a7bf5aa9082a02f57c90b49f3bc0b40e66e9ff92d
+FileChecksum: MD5: 60c2abceb84faeb270d471eb3f924d1a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/jax/__init__.py
+SPDXID: SPDXRef-item15383521
+FileChecksum: SHA1: 6dd0b825483d1d748c2df0ef72d7db7e5f5fc4b4
+FileChecksum: SHA256: 311c5b27b03d84e90406c6dd757653f544ceedb38a5a58d22bc6d1e32d0dc0cf
+FileChecksum: MD5: 886ecbfcffa4b5e4eedca1072e37c072
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/__init__.py
+SPDXID: SPDXRef-item15383527
+FileChecksum: SHA1: 2034418971133d04617a809c258493eeacc9bd24
+FileChecksum: SHA256: f6a72a530008d37aff77cfee7f6e0ce3935acdcc9c3d9c968d94f88982701ef4
+FileChecksum: MD5: 308b8ff5040a938b04f1bc7466fe834e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/src/pandapower_to_energnn/ready_to_use/__init__.py
+SPDXID: SPDXRef-item15383285
+FileChecksum: SHA1: 519cee019b149683347d1f69b82fb8d09937c6ef
+FileChecksum: SHA256: 05550ade3b626ce8020e66cb829bc92cbe6864d67fe257c09c1013d5578dac0f
+FileChecksum: MD5: 727a0a39ba8bc39bb8819c2ebb677f86
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/src/pandapower_to_energnn/__init__.py
+SPDXID: SPDXRef-item15383286
+FileChecksum: SHA1: d9bdfdcf7c38140c8384098e4063b836ffaecd17
+FileChecksum: SHA256: 6f96935dc2ff33b9d6d9896bd044cfe1fde18210996217280c271b35a11579ce
+FileChecksum: MD5: e04dab75664f5099b39691b6622c0629
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/converter/__init__.py
+SPDXID: SPDXRef-item15383516
+FileChecksum: SHA1: 0f9ce0e0cba714a5617e66af892c5e97933b1707
+FileChecksum: SHA256: 56566a6d8ae4e8bfd2d1f8e75f7ab7c37ad1be585adc3ecf3f74e5be0c859a6f
+FileChecksum: MD5: efa6f1b8708c3a1081ec17ecd3d71576
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/converter/__init__.py
+SPDXID: SPDXRef-item15383397
+FileChecksum: SHA1: 3cba60cd245b33f80e654aa287022225dc8ae97d
+FileChecksum: SHA256: 27d796b49335d9397102194edf0210ba3f65144138560ef510345d811d66a09e
+FileChecksum: MD5: 7c47e9ebaf9653384711a668af1b4525
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/coupler/message_passing/__init__.py
+SPDXID: SPDXRef-item15383546
+FileChecksum: SHA1: 52d53d973501c13faa6f14caac4b92e3d5d5c90e
+FileChecksum: SHA256: 18217438c5614191f08170aa61ba0fe5ccb2718d774876e13b88848474fa4f4f
+FileChecksum: MD5: 42f2f126dea6f369a3830ad85a6f30cd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/__init__.py
+SPDXID: SPDXRef-item15383562
+FileChecksum: SHA1: 7f356039a4efcd7b8700046bb6c2d0de09adfdc5
+FileChecksum: SHA256: 25bb9154c8882ad52562f012cf4267de77ee6b6dc46cd368ff187c831b91ef5c
+FileChecksum: MD5: 4fbcf351d6c1bf1f74479a5810bc58bf
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/src/pypowsybl_to_energnn/ready_to_use/__init__.py
+SPDXID: SPDXRef-item15383302
+FileChecksum: SHA1: d1ff77ae916a6ed5afb7117e7fd3a56bfef88b97
+FileChecksum: SHA256: ad595ff91b5b730cfeaa91e83af52db7072184ca3f71bdb7ffc8a8164c4c23d3
+FileChecksum: MD5: af006ee5c4d945988380ceab69a4eb0c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/coupler/__init__.py
+SPDXID: SPDXRef-item15383547
+FileChecksum: SHA1: 7a28cae81aedd424c7eb1fc4dad00b1b16af5427
+FileChecksum: SHA256: bd14dee86cfc5fd29ff2e39712bd94232ce011448cdefedfaead4e973539641b
+FileChecksum: MD5: 7a8cc0547cf88b79a0e10dbbd315c98d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/__init__.py
+SPDXID: SPDXRef-item15383440
+FileChecksum: SHA1: 792f11e7c2e9c3a8c60315299a35255539da83e4
+FileChecksum: SHA256: 133564261617a0b2fe962b2a14b75346b4715617daa4cf56b8192b95868d29c8
+FileChecksum: MD5: f0ccdbe8615e5be737287b618781d18c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/src/pypowsybl_to_energnn/ready_to_use/ac_load_flow.py
+SPDXID: SPDXRef-item15383301
+FileChecksum: SHA1: 12536c47fe3460a205ef9c6230478ffe402ddec9
+FileChecksum: SHA256: ebab5d788898523597c7d26acf58cf67ddf92036784fe9ff3c0a8ae87480c8a3
+FileChecksum: MD5: 4f60324f4c9ba51b8b59571dbae58a7f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/src/pandapower_to_energnn/ready_to_use/ac_load_flow.py
+SPDXID: SPDXRef-item15383284
+FileChecksum: SHA1: 7e47598395a31437669c91701056ee0fae1c24a5
+FileChecksum: SHA256: 137142275cf4d670b9bf9cbc5f492f1d28b94d2fd61ad58ffed5e861ba90cbc8
+FileChecksum: MD5: c11f76d9c5a463f8502e59825b89292d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/backend.py
+SPDXID: SPDXRef-item15383523
+FileChecksum: SHA1: a8cd7e698733af23c49f4044d5ea91ff357e44e3
+FileChecksum: SHA256: 75610b2528b607a76183fd1fef73d52f2c77be509fb7fba9b9f2cc66e796a8f5
+FileChecksum: MD5: bf3640d0e82b9128d9ffe5b9f0fff127
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/problem/batch.py
+SPDXID: SPDXRef-item15383564
+FileChecksum: SHA1: 41ef52a8d27d182a3640d85cb759d8eaf111d4c1
+FileChecksum: SHA256: 0dcc9359f8ef81cdcd4451a3b9c9b4a6323e5e168d3065ea6f2cd7d655b98f1d
+FileChecksum: MD5: 4f48f1b9fe6c629cd3b1a66c4c68d54f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/normalizer/center_reduce_normalizer.py
+SPDXID: SPDXRef-item15383556
+FileChecksum: SHA1: 4a87e57e71300d1a9bed1862085f752477b698f1
+FileChecksum: SHA256: 8b8aebe96a801a147d96d11b683b4a416c7f1e2084d551ee175ef864387b4731
+FileChecksum: MD5: b898897e2522425b238c560081631038
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/config_info.py
+SPDXID: SPDXRef-item15383368
+FileChecksum: SHA1: 4467570df37e666509f43d7359411f3f5fe3dd01
+FileChecksum: SHA256: 97dc45e5f0a792ddc7b59fe1409cc388ff63412196b35b6a22a3e6eb6995bcd5
+FileChecksum: MD5: ad784c4720a8d61d24dd763c78d3720a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/conftest.py
+SPDXID: SPDXRef-item15383403
+FileChecksum: SHA1: e6012a676ab9f797228207d33e1861836969b68d
+FileChecksum: SHA256: 8187b8e2542bfabc9e94701544938ffe46f4e5f7d9b41c231a5ab27a65f076e5
+FileChecksum: MD5: 71fb4fdb1099c746ade0bcced94d2800
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/converter/core.py
+SPDXID: SPDXRef-item15383515
+FileChecksum: SHA1: d8a1feeda641804b2e57dc91698d7ddc809ae66d
+FileChecksum: SHA256: ab0d113b68bb9e6bd707efdfef9ca525bd4d86cfef58aa8ee90a8465c4a36124
+FileChecksum: MD5: efb448836edb314de4878b668deb6f64
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/coupler/coupler.py
+SPDXID: SPDXRef-item15383548
+FileChecksum: SHA1: 11392cfb25362c9d45c78d43c0041d7ddd6fc238
+FileChecksum: SHA256: 55ae0c8c2a0885798db0a225ca59ed50106f5b97ceced9c985d63ce9a4b04760
+FileChecksum: MD5: 55a6f5bf2e85a3133f6924643294075d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/dataset.py
+SPDXID: SPDXRef-item15383372
+FileChecksum: SHA1: 7d37221d93f96a10ea680f0a03a28701b39177b7
+FileChecksum: SHA256: 1eae678d0f794e0805d49e859fd0787d9bb6036c981217c0d91de8e5ecda694e
+FileChecksum: MD5: dceca4789ba15c86194bd1c6ce330834
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/decoder/decoder.py
+SPDXID: SPDXRef-item15383540
+FileChecksum: SHA1: 47c57cb2cb43c91fd0ac7d3295099c81f054ecb3
+FileChecksum: SHA256: 71312a2307b199d9964b8305d6d13e8d527d0699d158f4bf547e573db8e3969b
+FileChecksum: MD5: b7aed88f1cdee128cbc2db44131dc263
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/converter/element_converter.py
+SPDXID: SPDXRef-item15383517
+FileChecksum: SHA1: c089a259282ca86d58f571fec6d6a6d4299d89a4
+FileChecksum: SHA256: cee0fe67b6ad46adfb9a9d35c59f4078bef2dfd2aa74e62687d53864bf0e90cc
+FileChecksum: MD5: 98a723a4c707c3228c4caf4cdac2ea37
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/src/pypowsybl_to_energnn/elements.py
+SPDXID: SPDXRef-item15383299
+FileChecksum: SHA1: 1ea0c2e9924966e8645204d3506e5c6945aa8be5
+FileChecksum: SHA256: 115cb698ac1cb70a589350e34cac385d4135659347fef06078c0355e00230561
+FileChecksum: MD5: 84c99b58af3cc958825d3e510a074924
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/src/pandapower_to_energnn/elements.py
+SPDXID: SPDXRef-item15383282
+FileChecksum: SHA1: 8a50a1e4c24d6086ced81aa177111bb0383b040e
+FileChecksum: SHA256: adacf551839cd1f3aeba78fb49ac8fe7d1b65c690efdb8348d879bed64bfe16d
+FileChecksum: MD5: 456eb5adb14f511f36e82aebbf2ccb82
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/encoder/encoder.py
+SPDXID: SPDXRef-item15383560
+FileChecksum: SHA1: 9902fd705f937a960cb3f86e154fd419aee14b95
+FileChecksum: SHA256: e8f64180d14082ee8c7a92ee3e615cbf04578461cb73d58cf6292cb2834e9926
+FileChecksum: MD5: d013f42369781c4cb997069b26e747a3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/decoder/equivariant_decoder.py
+SPDXID: SPDXRef-item15383538
+FileChecksum: SHA1: 5722e3873f7b2e83fc7bf2467a696b44d8cf7f42
+FileChecksum: SHA256: f5b627497c8ca521da67bcf53ce814824d1d104f6799adec1018500699139d15
+FileChecksum: MD5: b8778241edb667a3f5d6a6a1440f3750
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/feature_store_client.py
+SPDXID: SPDXRef-item15383371
+FileChecksum: SHA1: d06783fb95b45bbc26ea7782285443063700bd7e
+FileChecksum: SHA256: c31b5b6bfa5f6a054b3856d9c01d24f9738889d5aecbddd1fee2d899a1fb2aad
+FileChecksum: MD5: da35327c33f3eb9ec4fd2cc7cfd9d097
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/formatting.py
+SPDXID: SPDXRef-item15383525
+FileChecksum: SHA1: 08dc82309900e7fc59bf65fe9ee9d7bf80efc417
+FileChecksum: SHA256: 76f95c7467e1b906d7ca71ff44ee5dd826b1bc8e995c51311c1cab62db7ce8a8
+FileChecksum: MD5: 340a399bda6cc6e7385cb3501b0d9a1e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0
+(c) for c in cells), default=0)) for name, cells in columns] content = sum(widths) + 2 * (len(columns) - 1) if len(group_name) > content: widths[0] += len(group_name) - content content = len(group_name) specs.append((group_name, columns, widths, conten </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/gnn.py
+SPDXID: SPDXRef-item15383550
+FileChecksum: SHA1: c99dabaa68814244bececeae94a0c10f321e4a35
+FileChecksum: SHA256: 2208336182b74703c3656791e6c7700fbd9e3809219be02065069fa60fc8f53e
+FileChecksum: MD5: 7e835ba010a2f6d94d5e9533c0d797b4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/graph.py
+SPDXID: SPDXRef-item15383526
+FileChecksum: SHA1: 1b565ed72c8bb89659ad59693f295dd6609092c5
+FileChecksum: SHA256: 35f86577799c508683668bf425804bb8ae78dd8996c75af4a2a7b85cb6913d74
+FileChecksum: MD5: 3f7c8f92cb76376f0e8bd1ab87fc77c9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/hyper_edge_set.py
+SPDXID: SPDXRef-item15383528
+FileChecksum: SHA1: 085ceca8f9308ff5e23fd177f72e23b7696c1666
+FileChecksum: SHA256: 3a259f9b5fdf934a1c4b832aa7b0bbc103db1cfe346e133342b500bd2da09477
+FileChecksum: MD5: 4eebd220d31ed8bf91075e30aa5160c5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/decoder/invariant_decoder.py
+SPDXID: SPDXRef-item15383537
+FileChecksum: SHA1: 971ff8582fc9528e5a832e14882a5136591dfe94
+FileChecksum: SHA256: daf5273afb65238e7e0aad96b84f74ad10035364506709369e9c819298ab2be8
+FileChecksum: MD5: 1474db0b9d3d96789a180ab2e5592ac3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/problem/example/linear_system.py
+SPDXID: SPDXRef-item15383569
+FileChecksum: SHA1: 8d0c61df30d199c39db9c24cd13c49e77da695d0
+FileChecksum: SHA256: 6cccac5ca799f38dfdeb2cb5a03ef0df22cc0e62a905072fce9fdd90a7d2a9d5
+FileChecksum: MD5: e0bb78766c6ebdf62ab1216c39fc9e9c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/problem/loader.py
+SPDXID: SPDXRef-item15383566
+FileChecksum: SHA1: 231379de9671a30c596dd2e8739aa5a089dd2980
+FileChecksum: SHA256: 009328f76f0a812021436ce9dfc8ad9f1a11436fec3acaec72280c8560b41e15
+FileChecksum: MD5: 265303d436f400edd95592456200be37
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/coupler/message_passing/message_passing_function.py
+SPDXID: SPDXRef-item15383545
+FileChecksum: SHA1: c1da6a27c105c64eb59df447640e21fbd16bac1f
+FileChecksum: SHA256: 7094b267404cce3624de2d7cdb0e2d4a6c5ef15cd4550f90b9a0df59eb462af5
+FileChecksum: MD5: 0dda089c47e1963d16fe0dbd4744a6d5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/metadata.py
+SPDXID: SPDXRef-item15383369
+FileChecksum: SHA1: 16d85c4e20550a2a213ecb527b585817cfaad686
+FileChecksum: SHA256: 3606413337b43b9f396c9e15aa7282d0d4cc4eee82cdd4108c496955a16964f2
+FileChecksum: MD5: 8f1195c29663e0f6a86e4047667ed500
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/tracker/mlflow.py
+SPDXID: SPDXRef-item15383573
+FileChecksum: SHA1: 0163ac3463993c3e36db65ce50d1423a1e2cf755
+FileChecksum: SHA256: 492874bb40a78e7eee5f52ff74c3346aa1f4f5b8bb698e010cef14fd4bf30b1d
+FileChecksum: MD5: fdb45e17ed16265f58d9e904b71bcd0b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/encoder/mlp_encoder.py
+SPDXID: SPDXRef-item15383558
+FileChecksum: SHA1: b1b426b39c3228ade8298c72f000d98c37b7a383
+FileChecksum: SHA256: 162ace130acc88affdecd6bdc8c957f491a32c5bb23c3d32f0f9664af1edea81
+FileChecksum: MD5: 47a50b69e661680600d997dde1a05e38
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/coupler/message_passing/node_coupler.py
+SPDXID: SPDXRef-item15383544
+FileChecksum: SHA1: ebb9ca4d8ecdca6ecdf1a39535a4ce0d391d0ec8
+FileChecksum: SHA256: 904b47aa82dba50b59598bfbfb3b952eddf3c61d2e84778d25624870925cbd56
+FileChecksum: MD5: 0205189d9f83ba9828e68b5108ebf713
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/normalizer/normalizer.py
+SPDXID: SPDXRef-item15383554
+FileChecksum: SHA1: dff5a1c67fdf8a82936c72cfaf563bf8678d267b
+FileChecksum: SHA256: ef8a7800cf0355ad450e22359ff59a1825c6f1902785e8450aff6b5763d9ded6
+FileChecksum: MD5: 02589c4ef44f4049fdc70fa09ff66d97
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/problem/problem.py
+SPDXID: SPDXRef-item15383565
+FileChecksum: SHA1: 697b127fc39915bde423ba45b3904a161726e291
+FileChecksum: SHA256: cb84d92f46f3c40d17365c4fc71f6b5229a8965dfeedad1043c071bbee6551d5
+FileChecksum: MD5: 55cff7601ef53b1046b589df21fd5428
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/ready_to_use.py
+SPDXID: SPDXRef-item15383549
+FileChecksum: SHA1: c82e650582748a10752d11c215e0fdafdd44aeec
+FileChecksum: SHA256: c1f841a45cae313161e9e9c5d935469f6b34c329ef78f9873c32affa7ca7ac40
+FileChecksum: MD5: 00a813ce14f0b4538eb1eea8d1a4d200
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/coupler/message_passing/recurrent_coupler.py
+SPDXID: SPDXRef-item15383543
+FileChecksum: SHA1: 2e33b489749f433411f18d12040479af732bca32
+FileChecksum: SHA256: 6cd763bcfc40e762d727769ab0860f0fd52cacd76f9c4ae830dda0570d58b4f1
+FileChecksum: MD5: 1dd0941eb2e944458d0c2b44a447a589
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/remote_checkpoint_manager.py
+SPDXID: SPDXRef-item15383366
+FileChecksum: SHA1: 0f269c7eedcbbe709c3c4dc00f28b65c8109d757
+FileChecksum: SHA256: 358e2136ca2733384a374b04ac3b231830a402f3e77d1858971f00298257dca6
+FileChecksum: MD5: 2efb3555d7beeb97451740b37c393d5f
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/src/energnn_feature_store_client/remote_registry.py
+SPDXID: SPDXRef-item15383367
+FileChecksum: SHA1: 37846c1ee06c301c44265648c48c734e5ba06cdd
+FileChecksum: SHA256: 5ef72a80817ede8d46f40d7ba0f5e8106fc5e97bdf7da0d982868ff54914aa6b
+FileChecksum: MD5: ab3a48ef5afa4e5c9d8c9395e7b53f23
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/shape.py
+SPDXID: SPDXRef-item15383524
+FileChecksum: SHA1: e6420926ddbee939240e519eaa72d4d34290229d
+FileChecksum: SHA256: 6ead5a3cddd7804cc3b7a4767bc5ff0688f5c17366e99535d17a46429787daa8
+FileChecksum: MD5: 8c732b209847aa5450342baf7eebc072
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/structure.py
+SPDXID: SPDXRef-item15383519
+FileChecksum: SHA1: d279d945bbe95535876ec7f74fb693695b0de1de
+FileChecksum: SHA256: 41af29f6f52a3cf784e6bfcb8667cda47bda3a519961a0308294368cd7b13318
+FileChecksum: MD5: b9bd13749d0294813ed277c7a48f45f5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/normalizer/tdigest_normalizer.py
+SPDXID: SPDXRef-item15383553
+FileChecksum: SHA1: 4ecd63a79b97c792d5fa1deb74c04fb620590ecd
+FileChecksum: SHA256: 055fe3b8bd3e26ccbfc86ff333a7b982275173f2ccdfe74369458474461eaf2b
+FileChecksum: MD5: e3f8a8549761b2dd896f6c5ddbf4454d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_center_reduce_normalizer.py
+SPDXID: SPDXRef-item15383430
+FileChecksum: SHA1: 7393a5de3e228d5993e4f49814f6bd99ddbcf634
+FileChecksum: SHA256: a2f69ef03b5702a8cc12bb17141ebdc9c8046772bbbb9c7025101c0fbd4a6684
+FileChecksum: MD5: dd36b9b30c2e306ac4adcc8aa4c636e0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/tests/test_client.py
+SPDXID: SPDXRef-item15383362
+FileChecksum: SHA1: 5c4dd1fa5349e24d0992e0a7354a54af4b99e24d
+FileChecksum: SHA256: 4bf1a52c5dc628b16b0d66726efe908d6d9e39f61ffc8db5e941174bdd15bd28
+FileChecksum: MD5: 6913717e297be030d5dee4db74d5a8dd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/tests/test_converter.py
+SPDXID: SPDXRef-item15383275
+FileChecksum: SHA1: 99553faec8e462642670603166253baad68ce03f
+FileChecksum: SHA256: fcf4c18b87620879c2f1a4858d6ac6ae1635f452eb579d2f58da57e78ca583da
+FileChecksum: MD5: 49df47df08206a8c02b290c18460327c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/tests/test_converter.py
+SPDXID: SPDXRef-item15383292
+FileChecksum: SHA1: f15411568916f8bb22b70c2dc7fc4297a22cf09f
+FileChecksum: SHA256: 32f478927634f3bb3a725a8d7e3704dc141af876e6849b221e0424bd6e8e6414
+FileChecksum: MD5: fc825ed96508f73b209da31ab88563c0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/converter/test_core.py
+SPDXID: SPDXRef-item15383396
+FileChecksum: SHA1: ce513c51d821f09e368e69c360c95206eab22ff3
+FileChecksum: SHA256: 6844016720ecdb61912d125116f2ec652e725502d91cff5e179a7ae2b3169396
+FileChecksum: MD5: e15e79da9af614f5e609be65026cbeec
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/integration/test_coupler.py
+SPDXID: SPDXRef-item15383423
+FileChecksum: SHA1: e264a06fbaed9fc33ea92ff0ae322120ff62317a
+FileChecksum: SHA256: 21f6ea11f5ede676aec69a7ddb8bc9430a98868a83ce1706f2a31606d40f05f7
+FileChecksum: MD5: ae7efbc3f70be01f9a5446bbb8476c12
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/tests/test_dataset.py
+SPDXID: SPDXRef-item15383360
+FileChecksum: SHA1: 50cb1a8fba640aa53ccc51c11cd2a0705f2dce8d
+FileChecksum: SHA256: 791c13cd5a6b673df028e3a5f990a1efec26afb399c3e5fd38a1b42f0bf2321c
+FileChecksum: MD5: 98ab03afe889ef867bef2433b8678544
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/integration/test_decoder.py
+SPDXID: SPDXRef-item15383420
+FileChecksum: SHA1: 8166878ec41697660dbeaf6b7ed68eb3c67dd558
+FileChecksum: SHA256: 12ef49a7d9c9f0b6265a0ec1a5be0279622573aee2fa8186f1c69942a18472f8
+FileChecksum: MD5: 3d33e7feefdb3684253c678f2584b9d0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/test_dtypes.py
+SPDXID: SPDXRef-item15383402
+FileChecksum: SHA1: 98da78f6af9997ed10404428f9b95ddc38c60a4d
+FileChecksum: SHA256: 27fbd17396cb819e54f1d5b204960e28fbff8c1bc7d5a1e475eac8038bd8b1a1
+FileChecksum: MD5: ccb28be9a947e6a96fe59d25ee529f32
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/converter/test_element_converter.py
+SPDXID: SPDXRef-item15383398
+FileChecksum: SHA1: c6ed4ff1bbd61a83861654882b58f6dacd508bd5
+FileChecksum: SHA256: bdf086a226cb5cb135ae2bd9f1670cff4ce55b632887eeb2dc066b9980fa6a1e
+FileChecksum: MD5: 964782d207ee9da3604c0bf84a3991c1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/tests/test_elements.py
+SPDXID: SPDXRef-item15383274
+FileChecksum: SHA1: 34377d7bb36c47742fa75b0668cec220e6eb3ec9
+FileChecksum: SHA256: 5bb3c907419038cd72b9ae232ae63ca79c899b3017d410ac2cdc8dbcf85c1d7c
+FileChecksum: MD5: 7ba031f45b2c852f580d86064e0095e7
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/tests/test_elements.py
+SPDXID: SPDXRef-item15383291
+FileChecksum: SHA1: 2a91a2401d858367b213c36cbda140116ed854af
+FileChecksum: SHA256: 12ec5a7bcc0762cb6817c560f5910ebf996f01be7af4c835ed4fb252f593add7
+FileChecksum: MD5: e143c6f0b22266378a7db8336e01cb2c
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_encoder.py
+SPDXID: SPDXRef-item15383431
+FileChecksum: SHA1: fcaad23c4cc6237e941f373a872ad7ae593c9e16
+FileChecksum: SHA256: 550b4b1e2366eec19dc8435812d4759d566f7e7437e565f9baea01297a037f98
+FileChecksum: MD5: fc1dae9e17f9df6c4958f2dc77c48f9b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/integration/test_encoder.py
+SPDXID: SPDXRef-item15383422
+FileChecksum: SHA1: 6f16d0de6f49dc054bf1e568a8d85434dcdcba8a
+FileChecksum: SHA256: f210fe7894673aee43b6a0b7c3ee73355807b7c616b3e7e1b0b21c4efa18b69b
+FileChecksum: MD5: 795f4885220a0333a3742bef4da31a6d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_equivariant_decoder.py
+SPDXID: SPDXRef-item15383428
+FileChecksum: SHA1: b9b3031a0cbc180f49fb3a0f4f2121f7c6a613a8
+FileChecksum: SHA256: 37ec4381ac0840bc6269e56036cf822fec7d52cc2adcdddcc50361fcbd431939
+FileChecksum: MD5: 850c35b28b564924cdfa63f0ae77fda8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/test_formatting.py
+SPDXID: SPDXRef-item15383405
+FileChecksum: SHA1: dc3faf8246da13a2a10652e02c37d4c2f0569407
+FileChecksum: SHA256: eee5c8551b2ad9ffe8529e3c1ed730f30c76ee28f0d032508a51e3efba499872
+FileChecksum: MD5: 6469e010722feae6b8124eb547175298
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_gatv2_message_passing.py
+SPDXID: SPDXRef-item15383429
+FileChecksum: SHA1: 2924fb66c64604fe611a7f1a7b54e01ee6d98742
+FileChecksum: SHA256: 3cb8e30e4e3f95cdb31ca330686011fcf789b2e3b952341113d72436b0047df5
+FileChecksum: MD5: c602a58a1e1e676c6df9ab2ed6ac3a74
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/test_graph.py
+SPDXID: SPDXRef-item15383400
+FileChecksum: SHA1: fc11c2a884a5e7df0cf00f4cbb43d71d1773a8ab
+FileChecksum: SHA256: f136e1ceaa48379d8fde9c3aa8d94e9dd2ca5ac631eba4e01074a949c07b00bd
+FileChecksum: MD5: 350acf862da0532f3e62035350a783c1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/test_hyper_edge_set.py
+SPDXID: SPDXRef-item15383407
+FileChecksum: SHA1: ed77182390ffb85a1392c1359e22964a21d4885f
+FileChecksum: SHA256: b3d923615aa4a2d5a609ab6e4345e135583bd59f597118e1c0c1d2c6f691dac4
+FileChecksum: MD5: e742805386d160e04b734d0deaffe94e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_invariant_decoder.py
+SPDXID: SPDXRef-item15383427
+FileChecksum: SHA1: 2dc3ee30a6c4c1b447c7c1a0361e1b912d4f65b5
+FileChecksum: SHA256: bff69ed28c73877bf0d228575fd2e99a93d0d6b8779ed30375f3648e9748323f
+FileChecksum: MD5: 2940f10148433198052745664112fcb5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/problem/test_linear_system.py
+SPDXID: SPDXRef-item15383446
+FileChecksum: SHA1: 327642b670a1e46247fa12851ff2d18a5e941749
+FileChecksum: SHA256: d59b7bfb944a4ddbe4ab8f9cb53c7f8adb03e44918263b54d8c0b1175cad0333
+FileChecksum: MD5: 7cd1b55842c94bb9644407ca3a502574
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/problem/test_loader.py
+SPDXID: SPDXRef-item15383443
+FileChecksum: SHA1: 2621a0eda5f9e999969427686fa871848f528b19
+FileChecksum: SHA256: 10a59a40211a01367424fc60ef1cec1716cc5ad971532086c877b9f6faed5aef
+FileChecksum: MD5: 49659ca1dc1330e5d659da9938002bee
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_message_fonction.py
+SPDXID: SPDXRef-item15383437
+FileChecksum: SHA1: 76e34746d36f26c673679f7f64af0ce54eeb302c
+FileChecksum: SHA256: 9326bde9ad63d38fc4cdf2d17746daedf59ccb93d71ac96d138fca59e14c0dff
+FileChecksum: MD5: 090532596d90af6d9cde5483034594cc
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/tests/test_metadata.py
+SPDXID: SPDXRef-item15383361
+FileChecksum: SHA1: 4f890ec27324c2af1fc8129a86503ef566ffcb8e
+FileChecksum: SHA256: de999a661914a22ea34ce06d0335d994f309b4f82d1952d6af20d77940b51842
+FileChecksum: MD5: 4b03ea7c7deaff0288af48e55ad96f34
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_neural_ode.py
+SPDXID: SPDXRef-item15383426
+FileChecksum: SHA1: 4ac1220bd1a98d9b5dcf68ba5b3af628318f3c8d
+FileChecksum: SHA256: c83d116477c8e4810a726d1d3ac178b1eb556d77d69a3ccb9f2678541cfbe200
+FileChecksum: MD5: 40d02315d62ac1e77e86dde5f5692298
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/integration/test_normalizer.py
+SPDXID: SPDXRef-item15383421
+FileChecksum: SHA1: e961874cb842747c16e07ebd286b7be4cc3f128e
+FileChecksum: SHA256: ac799de346944026f0b3c988ffd0dc7e4bb5edcba7a8aecac37f79808b1043b7
+FileChecksum: MD5: 1b5755065c525adcaa31efc21aae579e
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/problem/test_problem.py
+SPDXID: SPDXRef-item15383444
+FileChecksum: SHA1: 9db56dcb6901210df9765fa74f1ab0f5df7eced1
+FileChecksum: SHA256: 8308729852035554d20848d830b0928dd429494869d1f08c95b23952ac59e599
+FileChecksum: MD5: 792db5c13b2da94e7233d14bf2564782
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/tests/test_ready_to_use.py
+SPDXID: SPDXRef-item15383293
+FileChecksum: SHA1: 5e32cc3fed4a600aacce01fdd10fb6134ae55419
+FileChecksum: SHA256: ab1140019ac00c578cbda5e2e84ae127222f960850727b20ec1b57de735c66e7
+FileChecksum: MD5: b3e48723dfbd6412441c21682c1c9950
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_ready_to_use.py
+SPDXID: SPDXRef-item15383432
+FileChecksum: SHA1: d6f50b9cad38386035afdc215af4c414be6fba01
+FileChecksum: SHA256: 49fabcddfae1a958dde062db21eba526aad47da5f32bce43796b8a42c5e6abbe
+FileChecksum: MD5: 6434a237d6e685822581abcd5dca74f9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/tests/test_ready_to_use.py
+SPDXID: SPDXRef-item15383276
+FileChecksum: SHA1: 0d6c44d3a901e66e19becdd019336a5fa62ff8b8
+FileChecksum: SHA256: 07869f61a675525e2f00a700cfe635ea2d5eb5c2b3dfaf065b37e188981fcff6
+FileChecksum: MD5: 5e00b0659ae3caad30dc82d5120ff901
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com), University of Kassel Department e2n https://www.uni-kassel.de/eecs/en/sections/sustainable-electrical-energy-systems/home.html), and Fraunhofer IEE (https://www.iee.fraunhofer.de/) This Source Code Form is subject to the terms of the Mozil </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_recurrent.py
+SPDXID: SPDXRef-item15383433
+FileChecksum: SHA1: 2e40261c1ec8e599d3e23bd6de4a981d48eb7806
+FileChecksum: SHA256: 8646a05686a69d425d8357be37c2ce8df7eb429ed39eaf2bd5e6a1da89058ee4
+FileChecksum: MD5: a19329244218eb2ca48d6d8e30548c13
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/test_shape.py
+SPDXID: SPDXRef-item15383401
+FileChecksum: SHA1: ce1f4b1336b068897fce05102449601a128a0bb8
+FileChecksum: SHA256: d46a0e0722f31ff3a58494b8efd1fbc0fc99e3ef3005e71672b8d87f5858c1c9
+FileChecksum: MD5: 1a245198fa5baede2ee0dfb8eee62ef0
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_simple_gnn.py
+SPDXID: SPDXRef-item15383435
+FileChecksum: SHA1: ab905af75fc7eb61fdbd283e48479d6eb59c2899
+FileChecksum: SHA256: 23136f9247cac52d582660b9b7ed6cfbc0193870b692cd586ab42c2728bcf0b7
+FileChecksum: MD5: bdd5f4fd468d4fc0e88fbe23c8e1f48b
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/trainer/unit/test_simple_trainer.py
+SPDXID: SPDXRef-item15383416
+FileChecksum: SHA1: ffee06168fc791efec52b7ae3fac1604db65bd31
+FileChecksum: SHA256: 5547d562ab15c18ac0e91e6d38ce2f70899f1b91e458c5ca88bc52fdfb5b78e6
+FileChecksum: MD5: 2c3f05c31d403d1da681e641cc7e4f0a
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/trainer/integration/test_simple_trainer.py
+SPDXID: SPDXRef-item15383412
+FileChecksum: SHA1: 46cf3f0a70c94eeb79bae2b708d8a58d6f5794d9
+FileChecksum: SHA256: 130ae8b6811109417352552fcfb5378266e471635fe36b06672218237ccaf6ac
+FileChecksum: MD5: 2d406e40aabebf3b5fd98f8c3ea980ac
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/test_structure.py
+SPDXID: SPDXRef-item15383406
+FileChecksum: SHA1: 5eb9cbda4d02cba58dc866aa2c2f85a5baefd64b
+FileChecksum: SHA256: 06a5284216346f54c1b1b66876f09d81a91e7c001e436dc7071aca91c02897d7
+FileChecksum: MD5: f2b01dcb61c25dd1777f7a3d0604ad55
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/test_tdigest_normalizer.py
+SPDXID: SPDXRef-item15383436
+FileChecksum: SHA1: 706e9439fa6151b54526ee369e9d3e5cb5bc0fad
+FileChecksum: SHA256: d01940fb4082d36d112362c999f9e93283f7320fc67e5a56387bf1161ff0cacb
+FileChecksum: MD5: 2ce5fc775c66d073134efd12b34b65d5
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/trainer/unit/test_utils.py
+SPDXID: SPDXRef-item15383414
+FileChecksum: SHA1: 11696eaf8121a9304e422c5cc16fe1ec5f2d96c8
+FileChecksum: SHA256: 00734f3b356bec63944a6c24397dde3e84ce3b96d2e6df595e609fc9295e2a81
+FileChecksum: MD5: 03217073dd210064b1b3419cbe212971
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2026, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/tracker/tracker.py
+SPDXID: SPDXRef-item15383572
+FileChecksum: SHA1: 9886a4bb8cae03f7417ca01ed3836b751c33e27e
+FileChecksum: SHA256: 159c65aacb61e6e27557d5b451f3354f208e0a484735ea413070551105ff09eb
+FileChecksum: MD5: 0bf3a6431190074d07a861bdcb278f54
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/trainer/trainer.py
+SPDXID: SPDXRef-item15383531
+FileChecksum: SHA1: 03ec09a5d01d3c83d904df9d81f194cb1fcdf2ea
+FileChecksum: SHA256: dbccef809babda519e25da9c685482bc00b813b36233651c9f785604c4732d95
+FileChecksum: MD5: fcec5e7cf2bd4585fc19dd72338f12c9
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/trainer/utils.py
+SPDXID: SPDXRef-item15383533
+FileChecksum: SHA1: 10206047e317330add35291c662bee71e5bf4866
+FileChecksum: SHA256: 5f353451b46ac77c29b8a3193a5c6180a161280f04c3b2a5e3ae552ecd323f93
+FileChecksum: MD5: e61d7a01689a8efdfc4eb0d8005f88a3
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/utils.py
+SPDXID: SPDXRef-item15383408
+FileChecksum: SHA1: e98c4a81feba94e5831bfc724a6ad9602ed0fbc0
+FileChecksum: SHA256: 59eca4193171ec5c9e8e03e44df4abcfcc1b3b6ace9389a32fac0e3685aeafdb
+FileChecksum: MD5: b8094fe4e0fa2bc9cc07d6356aad0cf8
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/jax/utils.py
+SPDXID: SPDXRef-item15383522
+FileChecksum: SHA1: 2e0b59895bae572487032d8d2727003da15ac77b
+FileChecksum: SHA256: 9c785feccc198091e002ecf1fba883a28a2427b16a3625a7b401610617b3d60e
+FileChecksum: MD5: 4f356918f9fb8a3c03a883256ea0d9a4
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/model/utils.py
+SPDXID: SPDXRef-item15383561
+FileChecksum: SHA1: d12ca4b168ff4c476236f89b010274a07d3cb5b8
+FileChecksum: SHA256: c0803c19d50648e809cb20862176f04cc3b3d8fe38623cfb442ac38109c31db0
+FileChecksum: MD5: 163541c1facd0dada1281b6b1ee19bf6
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/graph/utils.py
+SPDXID: SPDXRef-item15383529
+FileChecksum: SHA1: 123ecda6517ae52a19abe0d3bb291ee92a638da7
+FileChecksum: SHA256: 19e223d1c99552b59db367f7aaf7e6897961a160fd5233db0e5e080bd9e78d01
+FileChecksum: MD5: 48f5686f8a42f79150761d06af78af5d
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. SPDX-License-Identifier: MPL-2.0 </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/utils.py
+SPDXID: SPDXRef-item15383439
+FileChecksum: SHA1: 3e3e07a2fa5253764d5083cdab14aab6494cc3d5
+FileChecksum: SHA256: c09231b9f8b86663af63c7c18373f76ddc473e48b05fb0d8312fef8937ce4014
+FileChecksum: MD5: 5109d7530f23fbc79f08c2cc597c34e1
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/utils.py
+SPDXID: SPDXRef-item15383447
+FileChecksum: SHA1: af11c42c914aeadd32aad679b1c1bc394eff2f02
+FileChecksum: SHA256: 05676485ad1f1a1910bf43cbb8c23c2a0a9404c249650a70c9f4e59997020e44
+FileChecksum: MD5: 119f66fb96c3bb5c5703c937595fe6cd
+LicenseConcluded: MPL-2.0
+LicenseInfoInFile: MPL-2.0
+FileCopyrightText: <text> Copyright (c) 2025, RTE (http://www.rte-france.com) This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/. </text>
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/demos/demo_ac_load_flow_graph_conversion.ipynb
+SPDXID: SPDXRef-item15383272
+FileChecksum: SHA1: f988933436db3f5e5b481eeeea3b6ef1351e6b13
+FileChecksum: SHA256: 93cdbba031e9f1062170e6aec7c2797a566b2f89b35fd12857b306c59101d54f
+FileChecksum: MD5: e5fd844691da19b16139585481161176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/tests/__init__.py
+SPDXID: SPDXRef-item15383277
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/pyproject.toml
+SPDXID: SPDXRef-item15383279
+FileChecksum: SHA1: 67cb2398ed867e342d05f82480d0754085b56cbc
+FileChecksum: SHA256: b834959348451efd4abe0f7d29b623b633b386f20bdfae399fd517e8427e4f3f
+FileChecksum: MD5: 2dbf5a8e6a53ee55cd7fbb283f9de35a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/.gitignore
+SPDXID: SPDXRef-item15383287
+FileChecksum: SHA1: 24601c2a74473b7327b2d054f302802ee294c338
+FileChecksum: SHA256: 906821de30697bd1efe25a4282a29b078d7f36b527a9be05eadc337df71db472
+FileChecksum: MD5: ec5aeebbaa89ca03f4e47dc8fbd0695a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pandapower-to-energnn/README.md
+SPDXID: SPDXRef-item15383288
+FileChecksum: SHA1: 061c083a65a43d3751fee8f55a64f5ec393417e3
+FileChecksum: SHA256: 22d131565084c4ae99f278978e6d3b42ecbc72cc36feb2f8f69b994f80476f1a
+FileChecksum: MD5: b1f434f02591045a4bc504d5b0e4f605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/tests/__init__.py
+SPDXID: SPDXRef-item15383294
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/pyproject.toml
+SPDXID: SPDXRef-item15383296
+FileChecksum: SHA1: 54e7dd67608c685a0c1455f22e8bd1a1d1d02e5f
+FileChecksum: SHA256: 6f5da55c63f77f1262c289a91bfa4b3e394ce7394e7fc6837396fe16b2b6dfac
+FileChecksum: MD5: d669ac8ff40a95db91d4830c0276b8a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/.github/workflows/ci.yml
+SPDXID: SPDXRef-item15383306
+FileChecksum: SHA1: b82b0dbc1ec342879d863fabe8999f5dd396f85c
+FileChecksum: SHA256: 0a9df150998532c784e198a02a16895d3b5ec0efa9d504c7aa0f63d900e211ad
+FileChecksum: MD5: 4cedf55b793cba62b886ec79e3e0ea4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/.gitignore
+SPDXID: SPDXRef-item15383307
+FileChecksum: SHA1: 78350961c439dd3f5ec9688090141e8b99c79cd9
+FileChecksum: SHA256: b7c1bb72d19ae7c2cb472eab1f4abe449b56a80a8f9fb978b45eb2ea226282db
+FileChecksum: MD5: 4e3f36419330dac0a1df5561ef4c76ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/uv.lock
+SPDXID: SPDXRef-item15383308
+FileChecksum: SHA1: e8c7b28331d4ccbe591ccff46725bbf8e9e2facd
+FileChecksum: SHA256: 6c66d29bf7f4450e6c8d979680646dbd020dfc5a41a3721f593fac28fd5daf7c
+FileChecksum: MD5: 6b7849f6ca68c7d1c20fe26d0601df10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/pypowsybl-to-energnn/README.md
+SPDXID: SPDXRef-item15383309
+FileChecksum: SHA1: 548efb62357c57c771fd0527f1bb6369d3d4108a
+FileChecksum: SHA256: 931659c629c17113a6c3a480e3c537b5e14599d69e935ab56388d7a0ddd440c1
+FileChecksum: MD5: 5c52d01a57b90a5d4d7a443467369a49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/package-lock.json
+SPDXID: SPDXRef-item15383312
+FileChecksum: SHA1: c662b2bd1110b7b73dcffcfc876fab9a2c3eda67
+FileChecksum: SHA256: 09054d953f753e329a0ef6b71c0b1fa45b155336b190ce22e90c493cdc057dfa
+FileChecksum: MD5: abfe8831165664eafaed40ed25d7af10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/vite.config.js
+SPDXID: SPDXRef-item15383313
+FileChecksum: SHA1: 19f237249c9a6c08c1b579acb3c629ea9a6e2c74
+FileChecksum: SHA256: 6eaba081f8c3793a857e5c1e1b9ba366021ebd5631a006b982a06b4d35045fc0
+FileChecksum: MD5: 4437e382f0eeba004a27f88c74549f34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/main.js
+SPDXID: SPDXRef-item15383315
+FileChecksum: SHA1: 38ed33050f025e2953bf28ec6665da4ace918863
+FileChecksum: SHA256: e0db14165cd28271652d9875ad08b45a27ad4255e57af6f8259bc46ca4c28f3b
+FileChecksum: MD5: 5ce981ce5794d7f7e4905562ddba084b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/plugins/vuetify.js
+SPDXID: SPDXRef-item15383317
+FileChecksum: SHA1: 6e079b6d8281e2480bb2df9e2c4827e58c02fcca
+FileChecksum: SHA256: 16a1670bec5f30edba1f7dc610f2252a01a5aa1b9cea0af1f0a91293632a47b1
+FileChecksum: MD5: c6fda0325c4dafe0b3cef067bfdb3c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/App.vue
+SPDXID: SPDXRef-item15383318
+FileChecksum: SHA1: bd01f1d062040ceb9d45c8d2cf24f550600db5ca
+FileChecksum: SHA256: bb16f1c2df997ef749b2d666d3a8bdbc91e724605c6be597dd63304f9c73de53
+FileChecksum: MD5: 32039613c7998cba52f4e7f8c3b533f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/utils/formatters.js
+SPDXID: SPDXRef-item15383320
+FileChecksum: SHA1: c4a4eae0dd07e4c34fbd4ac229fcda1e2cbdfe32
+FileChecksum: SHA256: a17510e583cd48541e169c5337771b6a6c0626b87eafa311ed1a61f8865a641d
+FileChecksum: MD5: 2f51c02b411f7da1618fdec25316a602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/style.css
+SPDXID: SPDXRef-item15383321
+FileChecksum: SHA1: 5194ca7a8dfe06545767d7edc32d829b97610ebc
+FileChecksum: SHA256: 98622f3a5fd47ddac4277d3e0bcf32c9b1f0382b11e48ada4a8840ac42b48bc8
+FileChecksum: MD5: c0e565bf6827e026d8eb7093bd4480fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/services/api.js
+SPDXID: SPDXRef-item15383323
+FileChecksum: SHA1: 0e8b1ec7fc2ce7312c656572e2b006d346294528
+FileChecksum: SHA256: 8cd596448267f800f67e758d172db764be4566fc445a91306b284fab97c36818
+FileChecksum: MD5: 848f34c70ac59155a48840bf601e5f21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/ThemeToggle.vue
+SPDXID: SPDXRef-item15383325
+FileChecksum: SHA1: 9f00aeaeafb4bbad4a5b60704e1374f6e52e4aad
+FileChecksum: SHA256: 486fdf0dd3368c52d7651725aa8928585c31830cfd656f8dab184c9ac59abb83
+FileChecksum: MD5: f90b15adfb4fcfa9a020a62a8dc00fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/TagChips.vue
+SPDXID: SPDXRef-item15383326
+FileChecksum: SHA1: 3e862bb72d6a150a544d867e092e1c838666d807
+FileChecksum: SHA256: ad16652aaccfcaa0581acbc3db6184bcce217d1a0bde2c77af4a95ef22bf8c58
+FileChecksum: MD5: 971df227000764e7486c48fd187ec4bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/RowDetailsDialog.vue
+SPDXID: SPDXRef-item15383327
+FileChecksum: SHA1: de9941c32065c394f80777c0a4a6dcaeb5ac50b4
+FileChecksum: SHA256: e06354fc37d51dfc5a37b088631cc9ffb1eb7f1e559a8181c072f6bf2ef43fe6
+FileChecksum: MD5: beb72cf3bdd3a117001b83da84648c20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/DeleteConfirmDialog.vue
+SPDXID: SPDXRef-item15383328
+FileChecksum: SHA1: d7959e839696715d4e7bb4ddd4c5dc466a099116
+FileChecksum: SHA256: 1346c0c06970679c6e854f328201bcf76eeb17c041f6d6561e500e9ca5e6e582
+FileChecksum: MD5: a870eb74cebaf3cc33dd581e2f3137d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/TopNav.vue
+SPDXID: SPDXRef-item15383329
+FileChecksum: SHA1: 6bdeb25091a325d3eca4c19e0202bcfdbace1ecd
+FileChecksum: SHA256: 80f18bc3ae0447156e1f368304b0aa1349c2a46166d51e7485d51b7b51029653
+FileChecksum: MD5: ac48585b82422d515fcdf990fa5c64de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/ProjectSelector.vue
+SPDXID: SPDXRef-item15383330
+FileChecksum: SHA1: bcfbd1eae54032c40edaa775eda8137da2d6d993
+FileChecksum: SHA256: 68cac8afdbe9f0cc38c675258956fc27b53941feb471335e7363a17c17f3dfb3
+FileChecksum: MD5: b68a1554b0a62375d9c3d3b9b6ed3fc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/AdvancedFiltersDialog.vue
+SPDXID: SPDXRef-item15383331
+FileChecksum: SHA1: 3eb2e9d8492797a0327ff49920ec0279c936f0b9
+FileChecksum: SHA256: e439cb1b7e1052db80f4bae756d54015490a9caf18b687fabec3a8bdee56f953
+FileChecksum: MD5: 426a97942b4f7cd31d304511dbe42cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/components/FloatingAlert.vue
+SPDXID: SPDXRef-item15383332
+FileChecksum: SHA1: 399696485d94979b7fce92d7e7e586c0a3cdc8e2
+FileChecksum: SHA256: c4ca801aa0beee9bc8215ad043eb495c5d54290a87afa301b7d0c52cc6186e81
+FileChecksum: MD5: b37803213fc24edac1f12106cacd7de2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/views/RunsView.vue
+SPDXID: SPDXRef-item15383334
+FileChecksum: SHA1: 1ec63315601573b45311acd8c3195a585919c15f
+FileChecksum: SHA256: 0da88d40dfc365cedda51b62deba13af1de025e9940a000eeeaaa4b2f3be769c
+FileChecksum: MD5: 419902fef538de4a6d5e05511b3b68f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/views/InstancesView.vue
+SPDXID: SPDXRef-item15383335
+FileChecksum: SHA1: 51ffa58d0d8614715c38a680bb1eeab4d9dc113c
+FileChecksum: SHA256: 28853c1820e3ce6363bae5ff2919918b6540408effdb89f7e765bc4ea4a3dca8
+FileChecksum: MD5: 0d166fcdae5fee5ccf8457f468f0c221
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/views/DatasetsView.vue
+SPDXID: SPDXRef-item15383336
+FileChecksum: SHA1: d60065855ebb4dd2da4fb42db97f6b2cabece0ef
+FileChecksum: SHA256: c1ef7aa194db6d282f661fdd77cbbbc3e4fc8229de6ba0c170827a533c31dbd7
+FileChecksum: MD5: 09540de6f276b173d100b1643291f226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/views/ConfigsView.vue
+SPDXID: SPDXRef-item15383337
+FileChecksum: SHA1: 4126e9b6e7a0bfeca534eca6259a002f5a0cffb8
+FileChecksum: SHA256: 88279eaa8d54bd74a407820a33a0f0b4853b2e304db5685193404b9f79c180c5
+FileChecksum: MD5: 36f2272867ae99f5c4ffa87ddf11a57c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/styles/global.css
+SPDXID: SPDXRef-item15383339
+FileChecksum: SHA1: 7abb4258cb9a65a5281948d4e6a23c0a5ed5f421
+FileChecksum: SHA256: ee62f7782d24beef27ea692ceec3f620f526626e4d2f4df2265e3dceffe310ad
+FileChecksum: MD5: 4055fddb93cfe2abbad19a984fabb81a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/assets/vue.svg
+SPDXID: SPDXRef-item15383341
+FileChecksum: SHA1: a153b69818c4b7907c8d3f4b52b58c85cdb220c3
+FileChecksum: SHA256: 5532db34f1c52841881bab8aeca6c3e8d092bd21a689a65f4d8f8cf8041eef9d
+FileChecksum: MD5: 081c348d068770af78fcd90980521318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/assets/energnn_logo128_black.png
+SPDXID: SPDXRef-item15383342
+FileChecksum: SHA1: c540a531a295cb4521b433d0460464e67be4d45b
+FileChecksum: SHA256: 15dea18a6aa0af42740c43ec028b55aec431a095593fa7f7f3111381970f7556
+FileChecksum: MD5: 6f137b7e300bc8ecb55c08e8cbc91419
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/store/index.js
+SPDXID: SPDXRef-item15383344
+FileChecksum: SHA1: 58a2086a05b0bec87d500e11be1f7640d1f3187d
+FileChecksum: SHA256: 364ec1137759ff7075c77cf347b1e8feeb9c615c1ba644fcf34be40d6315e7b1
+FileChecksum: MD5: 654a9112d5cf8d44a686e9cf7939a485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/src/router/index.js
+SPDXID: SPDXRef-item15383346
+FileChecksum: SHA1: b08d2aebb8d7d5760571e5cdffd3842b408eb5e7
+FileChecksum: SHA256: a80b83d9f6666d0aa6debe2095d1d4b55f45a4e088cc8a91b301b840fdd5ddb0
+FileChecksum: MD5: be961d173a56ebc8d201396d91478ab5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/.gitignore
+SPDXID: SPDXRef-item15383347
+FileChecksum: SHA1: b749de82cdf4e760aef525084c328c3b1189586c
+FileChecksum: SHA256: 4e7e561ec7bfed32310f02bc6f0938b1ce91bc176695b8807ced36ed3350f604
+FileChecksum: MD5: 53ec70837ddc79b1b939c78c0f380f47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/README.md
+SPDXID: SPDXRef-item15383348
+FileChecksum: SHA1: b524dc45d8580fdad640b1b897b21e8bc5d2ea68
+FileChecksum: SHA256: 59e645b1991f5a73782c3b380aff91b8853a7cdec5b69b1d23dbf5578786a36d
+FileChecksum: MD5: 818facf17fae658e4981d3bb8bb72e03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/package.json
+SPDXID: SPDXRef-item15383349
+FileChecksum: SHA1: 7062a94ad9d48195c35b9ca54befec1ecdee88df
+FileChecksum: SHA256: 9d310298fb71fe0c9e4ff263b224b1178ece2703be58a4e73f64e1be36ed341a
+FileChecksum: MD5: 7066afa6a735673662d1a13e7ef21beb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/frontend/index.html
+SPDXID: SPDXRef-item15383350
+FileChecksum: SHA1: 6ea7711ff60d65d0bb8739938d69bf92ab0f5732
+FileChecksum: SHA256: 031d27b3957858c2ea058d86bb6ad67584b32c1d36fd4451035f92a59d85273a
+FileChecksum: MD5: 4e9b6573d7cd72135d5dede77543d8be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/docs/how_to_run_the_feature_store.md
+SPDXID: SPDXRef-item15383352
+FileChecksum: SHA1: a08dc7758edd886c24acbe2e87d814d1fd6270cb
+FileChecksum: SHA256: fa5f0ce6c750ee32783388f6c6863cfe417f7f0f90877fae7622db21dc74d38f
+FileChecksum: MD5: b95ecfaf2affca75cb94f70cbe034264
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/pyproject.toml
+SPDXID: SPDXRef-item15383353
+FileChecksum: SHA1: 05d4ee9f7abc0079118a218491aa737027b50b46
+FileChecksum: SHA256: b5ea7dace1d24cd4a4e3c1e9d6519a558f88b36d42eb97652b55c83f6d0863a0
+FileChecksum: MD5: c49c256b1ee6b15c8d8e66fe7246149b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/launch_feature_store.sh
+SPDXID: SPDXRef-item15383354
+FileChecksum: SHA1: 7aaf897f245d64535c0ad49f7c73cfddc26cd30a
+FileChecksum: SHA256: fcd828abe443353b594db04eda1597a7a9ffd9153273d16e0b860dde6ec3ed46
+FileChecksum: MD5: 516fb15a01e5c1d0b44c54c3ce065d8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/.github/workflows/client_package.yml
+SPDXID: SPDXRef-item15383357
+FileChecksum: SHA1: 80d327bea765d7fb73863146d1e4901e54f7dde9
+FileChecksum: SHA256: 5833884ff5bc2eca7e3f41244262060b97ccd10ae013246e7e96b704a51744ba
+FileChecksum: MD5: bda4414b658d0cf087975240af623bb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/pyproject.toml
+SPDXID: SPDXRef-item15383363
+FileChecksum: SHA1: 098f95cd9e8466f7b693d9d812b7b723da4d9cd1
+FileChecksum: SHA256: a736ee5631116cc5f958d7423cd10d9d199eb8329e2c67e236b377cbc0e520a6
+FileChecksum: MD5: 7934b8015eb1c6d1268f2d7bac31ea6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/uv.lock
+SPDXID: SPDXRef-item15383373
+FileChecksum: SHA1: dad00b8a8a9c64ba2d477dc6dde27645f6f1ad50
+FileChecksum: SHA256: 86ddf789d3ae4b907328c7806c3943a36b83c1937bdac966a6445cde0310d665
+FileChecksum: MD5: 7b0ee0efea07f89017c005ed1e14cfdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/client/README.md
+SPDXID: SPDXRef-item15383374
+FileChecksum: SHA1: 5c4e2169c2c11c5656ee64cb5df15be7d82e03c7
+FileChecksum: SHA256: 398baf3f4a25761c6880da1118e0c7b402ad82663eb73b3f2117e7d4e46f6710
+FileChecksum: MD5: b465d713e0ddcb931bd33214dc03d476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/docker/Dockerfile.backend
+SPDXID: SPDXRef-item15383376
+FileChecksum: SHA1: be689abff81c9442a3e1f69a5a3e7c969d46c01a
+FileChecksum: SHA256: d004e0b6261e45428d9c387b6d0f2cd9cce5e09640dbd289813befe2eb91cc8b
+FileChecksum: MD5: 5e3cc60a64cbfb82f110c8cee9f257ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/docker/Dockerfile.frontend
+SPDXID: SPDXRef-item15383377
+FileChecksum: SHA1: a7672680945bffe76f080f206b18fe06c109f584
+FileChecksum: SHA256: a0ad3d4e606b3b8e9956dd7f44841df5a75f07611b3d9de4063539ba26eec9bd
+FileChecksum: MD5: 937a963f3dfabaff23846053c88fb20f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/docker/docker-compose.yml
+SPDXID: SPDXRef-item15383378
+FileChecksum: SHA1: dace89af45cec0a29d939977cc5c2f5c299d6afd
+FileChecksum: SHA256: 15a663a34adbc11a851f0ad46a373cdb5ebe7a0913cc7bc034697e4c3db216ef
+FileChecksum: MD5: 9e3ecb18091059f7e4b9eec6e6b553d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/.gitignore
+SPDXID: SPDXRef-item15383379
+FileChecksum: SHA1: 4d926dedb9a23415caff23082aa505e38bf6ea78
+FileChecksum: SHA256: f30f646f4c24eae44157040d01515fd85a64dbabeb53e09de09288176f052a3e
+FileChecksum: MD5: 4a24b68af8f478733333eaef4a5e9321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/uv.lock
+SPDXID: SPDXRef-item15383380
+FileChecksum: SHA1: 494a522e42ff5d8e038976d5570e45bcb1cc1563
+FileChecksum: SHA256: 3ce570fb071052f8233a1674876dac10318f1fd970bfaf6ede8b854851794275
+FileChecksum: MD5: e0b9a3bb59419fa545f2ab051e43f25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/private.conf
+SPDXID: SPDXRef-item15383381
+FileChecksum: SHA1: 8d236bde4759d6f8e855a99f1220bfd5ccea45f3
+FileChecksum: SHA256: 0dc98410a94e332a209e30864b9772d0caeb29e55c041cd7c4b3bd62bdd1d945
+FileChecksum: MD5: 882e8cd92a584e163e75df05dfa70568
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/log_conf.json
+SPDXID: SPDXRef-item15383382
+FileChecksum: SHA1: 8b7181e1aa7bdae2836804c892489283075f96ca
+FileChecksum: SHA256: 0645d8c05e2c56f188574ec1f922cd5431384a09733a87f479302c05508ba701
+FileChecksum: MD5: e64692a10198a97e4a13399209f26891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/README.md
+SPDXID: SPDXRef-item15383383
+FileChecksum: SHA1: a2d0feb932b0d23c3329858f05f7a7ff3aa22e67
+FileChecksum: SHA256: d1b91e06805eb9e852f7fe182c3a65fa05c7a3a25033378fe63f0aba5b797782
+FileChecksum: MD5: 28ea43be2c2adea1448d028d9a7c4db1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/s3.py
+SPDXID: SPDXRef-item15383385
+FileChecksum: SHA1: 7e82f179a518ed8376c44c3c9dd095730c4c7529
+FileChecksum: SHA256: 8d976cfeeed93ff1b203ff02f7336abcf635f3394e76d063bc957ae0890d5b8b
+FileChecksum: MD5: a0874d20fc873d7c3923894c1c41f037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/main.py
+SPDXID: SPDXRef-item15383386
+FileChecksum: SHA1: 147ea19d5dbe443557b745a57b62d82a061fcfc7
+FileChecksum: SHA256: af0cf356ee48e5eda240f3033d7953cbcfee68a78e6abe4827080261adf89706
+FileChecksum: MD5: 3b9d777dcdf58bf7bd3f5bfc0986201a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/database.py
+SPDXID: SPDXRef-item15383387
+FileChecksum: SHA1: 107d40159b48dec647f938332669caf5b6ba073f
+FileChecksum: SHA256: 25ce80c45b73a5cb8538afe7dddfa3847c51efb3a238fa49b7d5a21bf91539b1
+FileChecksum: MD5: 74b01d7702b778b9ac32dfa7a0bfccc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/seed_db.py
+SPDXID: SPDXRef-item15383388
+FileChecksum: SHA1: 355281927c067d6b9b8145c9246b338077b0d0ae
+FileChecksum: SHA256: 5a793ff3cfffdf4ffe048ecbac96a9e4237af35455ccea10c02b486326b606bb
+FileChecksum: MD5: 3d5fd9164018cb19ba7877292b7a8725
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/__init__.py
+SPDXID: SPDXRef-item15383389
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/models.py
+SPDXID: SPDXRef-item15383390
+FileChecksum: SHA1: a3c0f4c5761a910bc976bcea303f0f8a8c9e7874
+FileChecksum: SHA256: deb27d69566b7e62c1df037ca70939320d1e964b80417c69e92d35c0f06c6a50
+FileChecksum: MD5: d07d4a4b257080a2dc928554e3cbb3e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/schemas.py
+SPDXID: SPDXRef-item15383391
+FileChecksum: SHA1: 87d37f547efc4bd9622dec02e2425580df4ba8a2
+FileChecksum: SHA256: b34b75200db6bfb9e6f2e8d1ce176ae117327f5efc84db2f2cb579998c07ee7b
+FileChecksum: MD5: 3e10a382fe5bcba24149ae1a1b716139
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn-feature-store/app/crud.py
+SPDXID: SPDXRef-item15383392
+FileChecksum: SHA1: a6fce1c6df1bdf0d50f7d73fbbbb8eb022507895
+FileChecksum: SHA256: 4ab49a1c6bfdbef669dc84ed35bcf9dce8a13757435b4904c9f343cdced873d3
+FileChecksum: MD5: 7ddd5c510da8a7815b4397341e1dcdba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/graph/__init__.py
+SPDXID: SPDXRef-item15383404
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/trainer/integration/__init__.py
+SPDXID: SPDXRef-item15383411
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/trainer/unit/__init__.py
+SPDXID: SPDXRef-item15383415
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/trainer/__init__.py
+SPDXID: SPDXRef-item15383417
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/integration/__init__.py
+SPDXID: SPDXRef-item15383424
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/unit/__init__.py
+SPDXID: SPDXRef-item15383434
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/model/__init__.py
+SPDXID: SPDXRef-item15383438
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/problem/test_batch.py
+SPDXID: SPDXRef-item15383442
+FileChecksum: SHA1: f55014304d1bd54186548d75df504499433ec2f6
+FileChecksum: SHA256: 1ae4ad646b494af2d27413994d65756aa06d05fa5513576c809852958ea47f04
+FileChecksum: MD5: 83d3d6134584b2963d84480e1a981bf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/tests/problem/__init__.py
+SPDXID: SPDXRef-item15383445
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/Makefile
+SPDXID: SPDXRef-item15383449
+FileChecksum: SHA1: 66f3df4678c9f6be2fcacebc71b8b2bf2a5a038f
+FileChecksum: SHA256: 9834ed72e19bf718fba1f2c621fbd284448f821aab02cd45c1cdbcb0e0538820
+FileChecksum: MD5: 7ddee5cce40e8d3f64c72a13443f2b71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/index.rst
+SPDXID: SPDXRef-item15383450
+FileChecksum: SHA1: 1be66a2a021ee4cdb8ab8231882b4161a8c1d0fe
+FileChecksum: SHA256: a3a644cd58f2a9ba29941724586e38bcf2fb09e48c29e6c3197c2fe91217f1f3
+FileChecksum: MD5: d8dbd7a79f444143e0dfb02edc2c13c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/custom_use_case.rst
+SPDXID: SPDXRef-item15383451
+FileChecksum: SHA1: 1591da87cb9e0ef27cdcf0b10bdf8595ccfe70cd
+FileChecksum: SHA256: dbb89c9e11c213051b218a2e7087b5a6d7b5b70b1d2aa7f239749f733799a746
+FileChecksum: MD5: 68856ba9b0da5c400c594e306f3e2e26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/tutorial_notebook.ipynb
+SPDXID: SPDXRef-item15383452
+FileChecksum: SHA1: ac5998ffe5dc1affae3bca44dc7c11a17436fe18
+FileChecksum: SHA256: 662f6314040ea24bc9b53403ec9d908fce89c3cfdb4ae73ce9c2e897271a03dd
+FileChecksum: MD5: 6d21fdd54ad99255535f63bd511ca60b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/make.bat
+SPDXID: SPDXRef-item15383453
+FileChecksum: SHA1: 660ad07a0ff80ebcb4d2333d50c4425a324e1fb9
+FileChecksum: SHA256: ed525cc4d41b62b8b96d4b62a44ef32d6ccfd9324a379a82d5f71b5fb6d57776
+FileChecksum: MD5: 642a964912e66e816e321e71891b81ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/converter/index.rst
+SPDXID: SPDXRef-item15383456
+FileChecksum: SHA1: 81ce874c8be3e6ae1f7e689c3b5a0b34fb2be03d
+FileChecksum: SHA256: 6c553924cbc8d05e8ebdab4a5cbc7a066bca3ffaa82c7aaca6fba2dc54cf5ab2
+FileChecksum: MD5: dc9c74c26f3b6f9e51554db4ddbe2fbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/index.rst
+SPDXID: SPDXRef-item15383457
+FileChecksum: SHA1: a57fd0c8e0c2c51108899197f4e03afab240cc99
+FileChecksum: SHA256: 4a939d89122e7979bee4692aab292aebda29d2513126fff8c8c22d8549e1180a
+FileChecksum: MD5: 72161b53bde01e95c4029ece716404e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/graph/index.rst
+SPDXID: SPDXRef-item15383459
+FileChecksum: SHA1: d4ffc3f105d3fd7672319a214105f308586620c9
+FileChecksum: SHA256: 13e80e6e2e3b5d84842e9f7b9c4fdfaf7e28f18eb44a377b7a83d125b12240ce
+FileChecksum: MD5: aa233cae86db59e2af6daa4a739c1b17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/trainer/index.rst
+SPDXID: SPDXRef-item15383461
+FileChecksum: SHA1: 7b67e423cdccb24954d690d0b7c90f6250f9d290
+FileChecksum: SHA256: 6d89a4d7faa5fce9fe0283a1830925a158868c5237e34d459862af18e9e71a40
+FileChecksum: MD5: 64d307adc38bfdd4f53d1c001077e4e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/core_gnn/index.rst
+SPDXID: SPDXRef-item15383464
+FileChecksum: SHA1: 562277cdc860b9958c2ff55cb5ad0fe06f036b09
+FileChecksum: SHA256: a471a07bb951dea8851345bb19de1ae39f57d5094d4646750def5406ebcb4c0b
+FileChecksum: MD5: f5611f111e64d2156084ffae4972ee04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/ready_to_use/index.rst
+SPDXID: SPDXRef-item15383466
+FileChecksum: SHA1: 37d2cb8ab4ee960cf5c77e667655670c9ae86af1
+FileChecksum: SHA256: 1776b4082940400c6abdbc90b2f3cc97ef3e499e1ba8411d1ea8866616b31cef
+FileChecksum: MD5: 1c6984b948bf046c93187ef6b10aa4bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/index.rst
+SPDXID: SPDXRef-item15383467
+FileChecksum: SHA1: 5de87720e9be5abe33ccfa66a4ec841e5d509893
+FileChecksum: SHA256: 5ac69a2fab3e2a901ae241a42abcc89f41eef95ccfefa344478625291f124300
+FileChecksum: MD5: bdc5f8c0ea9b12305c8d567fb467b996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/modules/decoder/index.rst
+SPDXID: SPDXRef-item15383470
+FileChecksum: SHA1: 30dad9fd68108a7b9976275ed3b02460ff84651a
+FileChecksum: SHA256: 64f703cbdf2503dcb58d2ee5e128e5d37a013ca97197f6c542aa7dfeac45fb09
+FileChecksum: MD5: 4c3a933155cfdfaa24a70ef0318b8175
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/modules/coupler/index.rst
+SPDXID: SPDXRef-item15383472
+FileChecksum: SHA1: 34e0b734b6a168bc40d5fdc6d9808a31579f0078
+FileChecksum: SHA256: 9899a4b4ff5308c072d1c4c31ce04c54e2949a148b0ebdaf816325784697a1fd
+FileChecksum: MD5: 3c2caa8efbdd2b8816d40e70985d2da4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/modules/index.rst
+SPDXID: SPDXRef-item15383473
+FileChecksum: SHA1: 2390842c0cd5b380b4da3bb5759e2cb126a284c1
+FileChecksum: SHA256: 1e5213e7a3c4bd0d3175c2f5b30fe94887d13eef75f6ec4188f081a8b3f0f524
+FileChecksum: MD5: d39aaaf6bc2b04e90ab8429e3fdfa31a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/modules/normalizer/index.rst
+SPDXID: SPDXRef-item15383475
+FileChecksum: SHA1: cb6dbb0b817c9ece071595704f6ac94d38bc186d
+FileChecksum: SHA256: 32243e2a3c02526ab9d5250c3c5a86d2d141a3a196907ae21e6c97e5dc918c6c
+FileChecksum: MD5: fd2b2e99d3927f1ff6f4195c980d09ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/model/modules/encoder/index.rst
+SPDXID: SPDXRef-item15383477
+FileChecksum: SHA1: 323677d8baec0dee85bd8e9838fe443987b7edaa
+FileChecksum: SHA256: ebb293baa1998ece0ff3987db3f9a4ce1a3f1cd56604f0b5c2b13dd09143587e
+FileChecksum: MD5: e8f8d5b48eae77fcb3d8973b833d1ef9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/reference/problem/index.rst
+SPDXID: SPDXRef-item15383479
+FileChecksum: SHA1: 4d19b0870a3a64b239e541195fb05075b7350d52
+FileChecksum: SHA256: 9364d6c27732ebe678c5b35d9604560c968a9caa716b0015c6a942fa80a0c025
+FileChecksum: MD5: 83c4802900e55d5e7159bf011f9856aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/basics.rst
+SPDXID: SPDXRef-item15383480
+FileChecksum: SHA1: 04d7d2e921000e411606bfdc8db1ac4262a664f0
+FileChecksum: SHA256: d5aae1f2658a2d7117458a148e3f9c36e345fc9426a525920ad924c072c71f0f
+FileChecksum: MD5: a70b5f0e8102bfbde09e1f70d0da08c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_templates/autosummary/module.rst
+SPDXID: SPDXRef-item15383483
+FileChecksum: SHA1: fc6648388c328139b56c300eb32c6594d2bc1204
+FileChecksum: SHA256: 5b036ace8f7c848c1039727b0469453a7c20c4543e654e8cd5e8f7fa21e2fc6c
+FileChecksum: MD5: d3a2da04d15b3011a1f030723348cc0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_templates/autosummary/attribute.rst
+SPDXID: SPDXRef-item15383484
+FileChecksum: SHA1: b41037030b4c02120de5acbf40a04c88ad8ffa28
+FileChecksum: SHA256: 4e871dec81ba0e99c8f22e4a992bbca90562608b0ccf3555d5a227dd103883e2
+FileChecksum: MD5: 8bc68bebcea52d138225e910bd6057f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_templates/autosummary/class.rst
+SPDXID: SPDXRef-item15383485
+FileChecksum: SHA1: dc5b289e3b78791c4baad09462390106d87e0f6e
+FileChecksum: SHA256: 53b831773eaec63350767dab552f31ce9f1c587a02d063c3b22e07a18d77dedc
+FileChecksum: MD5: 3802c344fd9df78862fa7e912e1019f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_templates/autosummary/method.rst
+SPDXID: SPDXRef-item15383486
+FileChecksum: SHA1: a151cd3fbda017a8cacfdbc38ad4c5adcd15b74c
+FileChecksum: SHA256: 565926ac5a07e435f8d8630cd2c9cd939298aada54bb97c309b67ac35518cf5d
+FileChecksum: MD5: 7431539fc77f52dce407ca5fd781e1fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_templates/autosummary/function.rst
+SPDXID: SPDXRef-item15383487
+FileChecksum: SHA1: 730e0ef8961dc8b8f24df4e518b411779defd08f
+FileChecksum: SHA256: b2a739d5d8532dbe263ef40b197d45bfd965e54130cd152f8680a26a7d7ec154
+FileChecksum: MD5: 4e5a588127b18991c7666f7e6fd2b0fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_templates/autosummary/property.rst
+SPDXID: SPDXRef-item15383488
+FileChecksum: SHA1: f27e519d28c178d6985d6e9efc09e4e4d434ac48
+FileChecksum: SHA256: 681b2da5ede9e128657977734b53d2655824df782d7f6e584123fe56ebe20f46
+FileChecksum: MD5: 57fa53ee7d35d1f1b2e792572a3a6caf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/glossary.rst
+SPDXID: SPDXRef-item15383489
+FileChecksum: SHA1: 4ba10be68ec4842993a1724e16e2963cdd13a6e8
+FileChecksum: SHA256: 1bd1ddc4256dc3049146ad31f49939a76c59406ed2eb0d40bb752b325e312e8c
+FileChecksum: MD5: 76e650e92998a30de7afbe7c20b73858
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn-pipeline-white.png
+SPDXID: SPDXRef-item15383491
+FileChecksum: SHA1: cb8522181e7b3f13ef45dfc89cbd52cb7d8dae4a
+FileChecksum: SHA256: fc492eab844503f4c173da6ad9793855dfb4314265034c1f38c9680c13ad1407
+FileChecksum: MD5: 2a6d0297183b012ce4ff76d6a1611fb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_favicon.png
+SPDXID: SPDXRef-item15383492
+FileChecksum: SHA1: 8406a71ed3687a11d76c6da08d20491f3a38a9f0
+FileChecksum: SHA256: d95658a3279413a82d9a868bc88f3d7af607156ba192c053d116c3b29befff0f
+FileChecksum: MD5: 909541617a62748cedf86becf3bc7871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_title_black.png
+SPDXID: SPDXRef-item15383493
+FileChecksum: SHA1: 3ba3e12ee7e42c6f72557c43e9fc6aa86abdfd95
+FileChecksum: SHA256: 0fb292d484215b5f1d367d94cd1c0db5acabb4d081716bde43469fbc7c8ad34e
+FileChecksum: MD5: 664ad613d632fb976192fc7fa0b9a8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn-horizontal-color.png
+SPDXID: SPDXRef-item15383494
+FileChecksum: SHA1: 57942918a46fc96974a49d7e1ac0f3d3e89c7abe
+FileChecksum: SHA256: 784079687e129db03cb8400325c9deb2912492cfa99385d7c6a7543441b4fb51
+FileChecksum: MD5: 9fa4b10c601287e0f06228fd27fb8c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_logo128_white.png
+SPDXID: SPDXRef-item15383495
+FileChecksum: SHA1: b3deef9c201114608f236ae7e720896bfb46d1ad
+FileChecksum: SHA256: 0b2f4f5a9295e7a2aef9e976e21e09bf957052ed6324a45f50012a041cf368e0
+FileChecksum: MD5: fe4fb2a156031b81adeb1e9e7a7da04b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_h2mg_white.png
+SPDXID: SPDXRef-item15383496
+FileChecksum: SHA1: a76a9f7add0a96533e5076c8f5fe632c84e90000
+FileChecksum: SHA256: 2b29bab50aafc386d7e5ee4af7e2e52890c6226424a859276724b96b0b8d63c4
+FileChecksum: MD5: 74a40ca60865f2bca50a0e2df46d5868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_h2mg_black.png
+SPDXID: SPDXRef-item15383497
+FileChecksum: SHA1: 51fe69136d6b930956f13a049116c8c2ac466a1f
+FileChecksum: SHA256: 596756d69bd4a0d912928825646792bac0d82bd6497b4094ae982ee37575bc84
+FileChecksum: MD5: a845be7b21330487d0c2edfea38869ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/rte_white.png
+SPDXID: SPDXRef-item15383498
+FileChecksum: SHA1: e432b2a6397941759a4bcf9aa22cc7ac89ce0cd6
+FileChecksum: SHA256: eec08a2b53bb54d0530fded0838aefa8e9f139dbd8e0b8d072045aeb9b0b78bd
+FileChecksum: MD5: 95e6c7b5062a6fc13f2ab70f0070490a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/ulg_white.png
+SPDXID: SPDXRef-item15383499
+FileChecksum: SHA1: b2a83a088751f136f0d692d6f625552bdf27504a
+FileChecksum: SHA256: 636dbee475f81bf7e1b523e67259c0d030aa04f107bf28a73b0322e943c4997c
+FileChecksum: MD5: 9c57db6e17f44c5ba51432cb31932c5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn-icon-color.png
+SPDXID: SPDXRef-item15383500
+FileChecksum: SHA1: 81d7d0b833492b2bdab8b00a02aa2ce56952fb62
+FileChecksum: SHA256: eaa44a0cf87c7a928dd0497f449684f286887107f9dab64900ada00a0fec72ea
+FileChecksum: MD5: 9abcecad693b4daa6065167a64df5f6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_title_white.png
+SPDXID: SPDXRef-item15383501
+FileChecksum: SHA1: 303eb81844d91d219351c38d94b3bbcf219f2d92
+FileChecksum: SHA256: 70b533a2c242e9ce62a20122d46fa6f5c4bf3ce50c1dc84ceb3682d358ca7ea3
+FileChecksum: MD5: 7445f3928fd5219b051cf38efe876c0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_favicon_white.png
+SPDXID: SPDXRef-item15383502
+FileChecksum: SHA1: 5c371ca69dc46cbf55b96db26e1fea4156fbbb0f
+FileChecksum: SHA256: 03d2bc0efcd61849f9639f86b40fb73f738bf5557fecbea730af9b5efde70fdf
+FileChecksum: MD5: 1da1f629e3c4c9d13348915602131109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/inria_black.png
+SPDXID: SPDXRef-item15383503
+FileChecksum: SHA1: b4b66fe2b7581d9cbd4bb3c642cea843b1fa873f
+FileChecksum: SHA256: 1e2df01d532531d60d85ac7f822ad4c9e6bd29bce4e135a137207e2a215e751e
+FileChecksum: MD5: d6f864ca106f50886c23f36042885ead
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn-pipeline-black.png
+SPDXID: SPDXRef-item15383504
+FileChecksum: SHA1: 8d5a2e2e06df1dadc1cdbf45a6415dabbfff3319
+FileChecksum: SHA256: 7d936b705d8968d3dd8349d9c899dba29c27ed6ee64e91178b7763d6cc94ac98
+FileChecksum: MD5: 623de9867409e158edeff815dc926035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/rte_black.png
+SPDXID: SPDXRef-item15383505
+FileChecksum: SHA1: 319cabca17729a87abc2e8ce9722f421e3df6123
+FileChecksum: SHA256: 6fad3f5cc9495f4016a12f20931a06a711da7b7fc80c8a0a89870bb2d851d427
+FileChecksum: MD5: 006550875fa0c8624392349fece22e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/inria_white.png
+SPDXID: SPDXRef-item15383506
+FileChecksum: SHA1: a6ee62b554cbe4351ac8e88005b916eb754ad8de
+FileChecksum: SHA256: 82834f9cf2255cf1fb3ebfdfd0bc60b6625f2174b843e12e0178a23755f615f5
+FileChecksum: MD5: c601ffdb84ea77b39195a7103b317e44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/energnn_logo128_black.png
+SPDXID: SPDXRef-item15383507
+FileChecksum: SHA1: c540a531a295cb4521b433d0460464e67be4d45b
+FileChecksum: SHA256: 15dea18a6aa0af42740c43ec028b55aec431a095593fa7f7f3111381970f7556
+FileChecksum: MD5: 6f137b7e300bc8ecb55c08e8cbc91419
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/_static/ulg_black.png
+SPDXID: SPDXRef-item15383508
+FileChecksum: SHA1: 640dfeb62dc64969571936f8335519b9c4b50d9c
+FileChecksum: SHA256: fa18a39d1f50b98343165bd75f1350d34c98ddde02cd88f12fce27fd15c28d4a
+FileChecksum: MD5: f6fb4491f41bfa42d8af896835cb7ea8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/docs/conf.py
+SPDXID: SPDXRef-item15383509
+FileChecksum: SHA1: 60c7de291b35c17a4681ca6d4ce4def3c8020054
+FileChecksum: SHA256: d76ad8b6f2364415d7b703e2fa5d15d7cd6089ccb83af64a682cf28d292d04d7
+FileChecksum: MD5: 49dd7ce388b16c453d73607eb20fa35e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/pyproject.toml
+SPDXID: SPDXRef-item15383511
+FileChecksum: SHA1: 8b2a242e3ff3b7ca57f950e25c24553015bbe27c
+FileChecksum: SHA256: e89c02ba989b7707ccc5b0017dee005885daf1eecdf0dffc3279b4452f41b26e
+FileChecksum: MD5: 66f6b5778c94c008f916f7437225f292
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/src/energnn/py.typed
+SPDXID: SPDXRef-item15383534
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/.github/workflows/python-package.yml
+SPDXID: SPDXRef-item15383577
+FileChecksum: SHA1: 5a94da34ae5793366d3d67b678bb454d4c8d93c9
+FileChecksum: SHA256: 7a6b4b24f366cbd9d36a5a2f44c9e242c2f4824e65d876b23c385847188b2f3d
+FileChecksum: MD5: 501d511c1e0bfacf0036cb614fa3e1be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/sonar-project.properties
+SPDXID: SPDXRef-item15383578
+FileChecksum: SHA1: 6c7d7418e24753588a8ef3dc81dbcf0227768176
+FileChecksum: SHA256: 269778475d8853eadedcc39724f9ae65cfecf774926f0d53c767fdd9ead80fc0
+FileChecksum: MD5: 6564ac24a7ae85bd6ecfb803e944ad53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/.gitignore
+SPDXID: SPDXRef-item15383579
+FileChecksum: SHA1: 02cfbe3f4202148ffbefbad5a3f6cb33fa153ffc
+FileChecksum: SHA256: e1db1494fbab33bcfe084fa5f1c4383b3d8ff55fbb1b74b68dca7f6d152136e3
+FileChecksum: MD5: b0cc8c7e3dd7f14867c2345320668d30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/uv.lock
+SPDXID: SPDXRef-item15383580
+FileChecksum: SHA1: f9d93f96429e081b46b7f4cdf3eeaf2bee040d60
+FileChecksum: SHA256: c7cf1c5c6d682665bb2b1673315d059fcf795cc20d25747601b937d59d6792d2
+FileChecksum: MD5: 3bae70223ad15f7454847fd27c91b74f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-RSA-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/.coveragerc
+SPDXID: SPDXRef-item15383581
+FileChecksum: SHA1: 44727f70b2e57c6ef2cf44667767bd1abef3e01d
+FileChecksum: SHA256: 19e5d2136be14bc514f13f9e5a7aeca28d7910b1e59003a36113ba420c23acbc
+FileChecksum: MD5: 9aba828023347452539aa1c7a84ada8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/.readthedocs.yaml
+SPDXID: SPDXRef-item15383582
+FileChecksum: SHA1: 416f6c20c99981e728d7bcd273e58c3617185e7c
+FileChecksum: SHA256: fefbff45dc529dd037f07f8f91acdfeb672a0e45e703cfc7343a1d9ff5a0570e
+FileChecksum: MD5: 9650f0f36a15f9fbd2f0c74c81943038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: energnn-2026-09-29.zip/energnn/README.md
+SPDXID: SPDXRef-item15383583
+FileChecksum: SHA1: bdaa87bd4f2bb67b25813e2f07978f03b6dda527
+FileChecksum: SHA256: cad53f38f9cd347d33b6bebe49932ac49d01fbd6a87adba27b87bb1b00c05a75
+FileChecksum: MD5: 9ef3701c79ea80ad879e332740afba95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-RSA-possibility
+LicenseName: RSA-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
