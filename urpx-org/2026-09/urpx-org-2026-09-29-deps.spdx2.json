@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-10-30T18:17:44Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20251208165814-8d4ed90bb0f9+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpyosgjuh0/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpyosgjuh0/code-c37927aa-6a1f-49ca-8eb9-f21e33c64a8f",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-916226d5904b6748",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND W3C",
+            "licenseDeclared": "Apache-2.0 AND W3C",
+            "name": "lfenergy.urpx-org",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "2026-09"
+        },
+        {
+            "SPDXID": "SPDXRef-lfenergy-urpx-org-urpx-wg",
+            "comment": "This package was added to the Trivy analysis for the urpx-wg by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/urpx-org/urpx-wg/archive/09e2e249c365d4c60b9d5ef1044caeb0f686da5d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/urpx-org/urpx-wg@09e2e249c365d4c60b9d5ef1044caeb0f686da5d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND W3C",
+            "licenseDeclared": "Apache-2.0 AND W3C",
+            "name": "urpx-wg",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project lfenergy",
+            "supplier": "Organization: Linux Foundation Project lfenergy",
+            "versionInfo": "09e2e249c365d4c60b9d5ef1044caeb0f686da5d"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-916226d5904b6748",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-916226d5904b6748",
+            "relatedSpdxElement": "SPDXRef-lfenergy-urpx-org-urpx-wg",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
